@@ -1,0 +1,47 @@
+1. Neurosurgery. 2020 Sep 1;87(3):E383-E389. doi: 10.1093/neuros/nyaa002.
+
+Pure Apraxia of Speech After Resection Based in the Posterior Middle Frontal 
+Gyrus.
+
+Chang EF(1), Kurteff G(1), Andrews JP(1), Briggs RG(2), Conner AK(1), Battiste 
+JD(3), Sughrue ME(4).
+
+Author information:
+(1)Department of Neurological Surgery, University of California, San Francisco, 
+San Francisco, California.
+(2)Department of Neurosurgery, University of Oklahoma Health Sciences Center, 
+Oklahoma City, Oklahoma.
+(3)Department of Neurology, University of Oklahoma Health Sciences Center, 
+Oklahoma City, Oklahoma.
+(4)Prince of Wales Private Hospital, Randwick, Australia.
+
+Comment in
+    Neurosurgery. 2020 Sep 1;87(3):E390-E391. doi: 10.1093/neuros/nyaa036.
+
+BACKGROUND AND IMPORTANCE: Apraxia of speech is a disorder of articulatory 
+coordination and planning in speech sound production. Its diagnosis is based on 
+deficits in articulation, prosody, and fluency. It is often described concurrent 
+with aphasia or dysarthria, while pure apraxia of speech is a rare entity.
+CLINICAL PRESENTATION: A right-handed man underwent focal surgical resection of 
+a recurrent grade III astrocytoma in the left hemisphere dorsal premotor cortex 
+located in the posterior middle frontal gyrus. After the procedure, he 
+experienced significant long-term speech production difficulties. A battery of 
+standard and custom language and articulatory assessments were administered, 
+revealing intact comprehension and naming abilities, and preserved strength in 
+orofacial articulators, but considerable deficits in articulatory coordination, 
+fluency, and prosody-consistent with diagnosis of pure apraxia of speech. 
+Tractography and resection volumes compared with publicly available imaging data 
+from the Human Connectome Project suggest possible overlap with area 55b, an 
+under-recognized language area in the dorsal premotor cortex and has white 
+matter connectivity with the superior longitudinal fasciculus.
+CONCLUSION: The case reported here details a rare clinical entity, pure apraxia 
+of speech resulting from resection of posterior middle frontal gyrus. While not 
+a classical language area, emerging literature supports the role of this area in 
+the production of fluent speech, and has implications for surgical planning and 
+the general neurobiology of language.
+
+Copyright © 2020 by the Congress of Neurological Surgeons.
+
+DOI: 10.1093/neuros/nyaa002
+PMCID: PMC7690655
+PMID: 32097489 [Indexed for MEDLINE]

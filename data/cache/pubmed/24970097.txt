@@ -1,0 +1,61 @@
+1. Brain. 2014 Oct;137(Pt 10):2773-82. doi: 10.1093/brain/awu168. Epub 2014 Jun
+25.
+
+Probabilistic map of critical functional regions of the human cerebral cortex: 
+Broca's area revisited.
+
+Tate MC(1), Herbet G(2), Moritz-Gasser S(3), Tate JE(4), Duffau H(5).
+
+Author information:
+(1)1 Department of Neurosurgery, Northwestern University, Feinberg School of 
+Medicine, Chicago, Illinois 60611, USA 2 Department of Neurosurgery, Gui de 
+Chauliac Hospital, Montpellier University Medical Centre, F-34295Montpellier, 
+France.
+(2)2 Department of Neurosurgery, Gui de Chauliac Hospital, Montpellier 
+University Medical Centre, F-34295Montpellier, France 3 INSERM U1051, Institute 
+for Neuroscience of Montpellier, F-34091 Montpellier, France.
+(3)2 Department of Neurosurgery, Gui de Chauliac Hospital, Montpellier 
+University Medical Centre, F-34295Montpellier, France.
+(4)4 Edward S. Rogers Sr. Department of Electrical and Computer Engineering, 
+University of Toronto, Ontario M5S 3G4, Canada.
+(5)2 Department of Neurosurgery, Gui de Chauliac Hospital, Montpellier 
+University Medical Centre, F-34295Montpellier, France 3 INSERM U1051, Institute 
+for Neuroscience of Montpellier, F-34091 Montpellier, France 
+h-duffau@chu-montpellier.fr.
+
+Comment in
+    Brain. 2015 Mar;138(Pt 3):e337. doi: 10.1093/brain/awu247.
+    Brain. 2015 Mar;138(Pt 3):e338. doi: 10.1093/brain/awu253.
+
+The organization of basic functions of the human brain, particularly in the 
+right hemisphere, remains poorly understood. Recent advances in functional 
+neuroimaging have improved our understanding of cortical organization but do not 
+allow for direct interrogation or determination of essential (versus 
+participatory) cortical regions. Direct cortical stimulation represents a unique 
+opportunity to provide novel insights into the functional distribution of 
+critical epicentres. Direct cortical stimulation (bipolar, 60 Hz, 1-ms pulse) 
+was performed in 165 consecutive patients undergoing awake mapping for resection 
+of low-grade gliomas. Tasks included motor, sensory, counting, and picture 
+naming. Stimulation sites eliciting positive (sensory/motor) or negative (speech 
+arrest, dysarthria, anomia, phonological and semantic paraphasias) findings were 
+recorded and mapped onto a standard Montreal Neurological Institute brain atlas. 
+Montreal Neurological Institute-space functional data were subjected to cluster 
+analysis algorithms (K-means, partition around medioids, hierarchical Ward) to 
+elucidate crucial network epicentres. Sensorimotor function was observed in the 
+pre/post-central gyri as expected. Articulation epicentres were also found 
+within the pre/post-central gyri. However, speech arrest localized to ventral 
+premotor cortex, not the classical Broca's area. Anomia/paraphasia data 
+demonstrated foci not only within classical Wernicke's area but also within the 
+middle and inferior frontal gyri. We report the first bilateral probabilistic 
+map for crucial cortical epicentres of human brain functions in the right and 
+left hemispheres, including sensory, motor, and language (speech, articulation, 
+phonology and semantics). These data challenge classical theories of brain 
+organization (e.g. Broca's area as speech output region) and provide a 
+distributed framework for future studies of neural networks.
+
+© The Author (2014). Published by Oxford University Press on behalf of the 
+Guarantors of Brain. All rights reserved. For Permissions, please email: 
+journals.permissions@oup.com.
+
+DOI: 10.1093/brain/awu168
+PMID: 24970097 [Indexed for MEDLINE]

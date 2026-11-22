@@ -1,0 +1,38 @@
+1. Neuroimage. 2006 Feb 15;29(4):1092-105. doi: 10.1016/j.neuroimage.2005.08.040.
+ Epub 2005 Oct 19.
+
+White matter fiber tracts of the human brain: three-dimensional mapping at 
+microscopic resolution, topography and intersubject variability.
+
+Bürgel U(1), Amunts K, Hoemke L, Mohlberg H, Gilsbach JM, Zilles K.
+
+Author information:
+(1)Department of Neurosurgery, RWTH Aachen University, D-52074 Aachen, Germany.
+
+The position and extent of individual fiber tracts within the white matter of 
+human brains can be identified in vivo using diffusion tensor imaging (DTI) and 
+fiber tracking methods. Previous to this study, however, the lack of 
+three-dimensional (3-D) probability maps precluded comparing the anatomical 
+precision of MRI studies with microscopically defined fiber tracts in human 
+postmortem brains. The present study provides 3-D registered maps of the 
+topography, course and intersubject variability of major fiber tracts, which 
+were identified at microscopic resolution. The analyzed tracts include the 
+corticospinal tract, optic and acoustic radiations, fornix, cingulum, corpus 
+callosum, superior longitudinal, superior and inferior occipito-frontal and 
+uncinate fascicles; sources and targets of fiber tracts include the lateral and 
+medial geniculate nuclei and mamillary bodies. Tracts and nuclei were identified 
+in serial myelin-stained histological sections of ten postmortem brains. The 
+sections were 3-D reconstructed and registered to a standardized stereotaxic 
+space of an in vivo MR reference brain by means of linear and non-linear, 
+elastic transformations. The individual fiber tracts and nuclei were 
+superimposed in the reference space, and probability maps were generated as a 
+quantitative measure of intersubject variability for each voxel of the 
+stereotaxic space. This study presents the first stereotaxic atlas of the 
+course, location and extent of fiber tracts and related nuclei based on 
+microscopically defined localization and topographic data taken at multiple 
+levels on each of the three orthogonal planes. The maps are useful for 
+evaluating and identifying fiber bundles in DTI, for localizing subcortical 
+lesions visible in anatomical MR images and for studying neuronal connectivity.
+
+DOI: 10.1016/j.neuroimage.2005.08.040
+PMID: 16236527 [Indexed for MEDLINE]

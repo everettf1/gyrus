@@ -1,0 +1,39 @@
+1. Cereb Cortex. 2020 Mar 14;30(3):1586-1602. doi: 10.1093/cercor/bhz189.
+
+Morphology and Spatial Probability Maps of the Horizontal Ascending Ramus of the 
+Lateral Fissure.
+
+Sprung-Much T(1)(2), Petrides M(1)(2).
+
+Author information:
+(1)Department of Neurology and Neurosurgery, McGill University, Montreal 
+Neurological Institute, 3801 University Street, Montreal, Quebec, Canada H3A 
+2B4.
+(2)Department of Psychology, McGill University, 2001 McGill College, Montreal, 
+Quebec, Canada H3A 1G1.
+
+The horizontal ascending ramus of the lateral fissure (half) is a characteristic 
+sulcus of the ventrolateral frontal cortex that forms the morphological boundary 
+between the pars triangularis and the pars orbitalis of the inferior frontal 
+gyrus. The present study examined the morphology of this sulcus to provide a 
+means of identifying it accurately with magnetic resonance imaging (MRI). Voxels 
+within the half were labeled in 50 in vivo MRI volumes (1.5 T) that had been 
+linearly registered to the Montreal Neurological Institute stereotaxic space and 
+the morphology of the half was categorized based on relations with neighboring 
+sulci. The spatial variability and extent of the half were then quantified 
+across subjects using volumetric (MINC Toolkit) and surface (FreeSurfer) spatial 
+probability maps. The half could be identified in 95% of hemispheres, and the 
+main morphological patterns were classified into three categories: Types I, II, 
+and III. There were no statistically significant interhemispheric differences in 
+the frequency of the half or its morphological patterns. Understanding the 
+details of the sulcal morphology of this ventrolateral region is critical for an 
+accurate interpretation of the location of activation peaks generated in 
+functional neuroimaging studies investigating language, working memory, and 
+other cognitive processes.
+
+© The Author(s) 2019. Published by Oxford University Press. All rights reserved. 
+For permissions, please e-mail: journals.permission@oup.com.
+
+DOI: 10.1093/cercor/bhz189
+PMCID: PMC7132913
+PMID: 31667522 [Indexed for MEDLINE]

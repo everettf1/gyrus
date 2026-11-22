@@ -1,0 +1,48 @@
+1. Ann Neurol. 2017 Sep;82(3):360-370. doi: 10.1002/ana.25010. Epub 2017 Aug 30.
+
+Gustatory and olfactory responses to stimulation of the human insula.
+
+Mazzola L(1)(2)(3), Royet JP(4)(5), Catenoix H(6), Montavont A(6), Isnard 
+J(2)(6), Mauguière F(2)(5)(6).
+
+Author information:
+(1)Neurology Department, University Hospital, Saint-Étienne.
+(2)Central Integration of Pain Team, Lyon Neuroscience Research Center, National 
+Institute of Health and Medical Research Unit 1028, National Center for 
+Scientific Research Mixed Unit of Research 5292, Lyon.
+(3)Jean Monnet University, Saint-Étienne.
+(4)Olfaction: From Coding to Memory Team, Lyon Neuroscience Research Center, 
+National Institute of Health and Medical Research Unit 1028, National Center for 
+Scientific Research Mixed Unit of Research 5292, University of Lyon, Lyon.
+(5)Claude Bernard University Lyon 1, University of Lyon, Lyon.
+(6)Functional Neurology and Epilepsy Department, Neurological Hospital, Civil 
+Hospices of Lyon, Lyon, France.
+
+OBJECTIVE: Despite numerous studies suggesting the role of insular cortex in the 
+processing of gustatory and olfactory inputs, the exact location of 
+olfactogustatory representation in the insula remains controversial. Here we 
+provide a functional mapping of olfactory-gustatory responses to stimulation of 
+the human insular cortex.
+METHODS: We reviewed 651 electrical stimulations of the insula that were 
+performed in 221 patients, using stereotactically implanted depth electrodes, 
+during the presurgical evaluation of drug-refractory epilepsy.
+RESULTS: Gustatory sensations were evoked in 15 (2.7%) of the 550 stimulations 
+that elicited a clinical response. They were exclusively obtained after 
+stimulation of a relatively delimited zone of insula, located in its mid-dorsal 
+part (posterior short gyrus). Six olfactory sensations (1.1%) could be obtained 
+during stimulations of an insular region that partially overlapped with the 
+gustatory representation.
+INTERPRETATION: Our study provides a functional mapping of gustatory 
+representation in the insular posterior short gyrus and the first detailed 
+description of olfactory sensations obtained by direct stimulation of mid-dorsal 
+insula. Our data also show a spatial overlap between gustatory, olfactory, and 
+oral somatosensory representation in the mid-dorsal insula, and suggest that 
+this part of the insula may be an integrated oral sensory region that plays a 
+key role in flavor perception. It also indicates that dysfunction in this region 
+should be considered during the evaluation of gustatory and olfactory epileptic 
+seizures. Ann Neurol 2017;82:360-370.
+
+© 2017 American Neurological Association.
+
+DOI: 10.1002/ana.25010
+PMID: 28796326 [Indexed for MEDLINE]

@@ -1,0 +1,60 @@
+1. Ann Clin Transl Neurol. 2023 Jan;10(1):5-17. doi: 10.1002/acn3.51694. Epub
+2022  Nov 24.
+
+Visceral and emotional responses to direct electrical stimulations of the 
+cortex.
+
+Soulier H(1), Mauguière F(2)(3), Catenoix H(2)(3), Montavont A(2)(3), Isnard 
+J(2)(3), Hermier M(4), Guenot M(2)(5), Rheims S(2)(3), Mazzola L(1)(2).
+
+Author information:
+(1)Department of Neurology, University Hospital, St Etienne, France.
+(2)Lyon Neurosciences Research Center (CRNL), INSERM U1028, CNRS UMR5292 and 
+Lyon 1 University, Lyon, France.
+(3)Department of Functional Neurology and Epileptogy, Hospices Civils de Lyon 
+and Lyon 1 University, Lyon, France.
+(4)Department of Neuroradiology, East Group Hospital, Hospices Civils de Lyon, 
+Lyon, France.
+(5)Department of Functional Neurosurgery, Hospices Civils de Lyon and Lyon 1 
+University, Lyon, France.
+
+OBJECTIVE: Visceral sensations are bodily symptoms which are component 
+manifestations of emotions frequently reported during epileptic seizures. 
+Nowadays, the underlying mechanism and location of brain areas involved in the 
+processing of these sensations remain unclear. Our objectives were to 
+characterize the type and frequency of visceral and emotional responses evoked 
+by electrical stimulations, to produce a mapping of brain structures involved in 
+their processing, and to assess the link between visceral sensations and 
+emotional feelings.
+METHODS: We reviewed 12,088 bipolar stimulations performed in 203 patients 
+during the presurgical evaluation of drug refractory epilepsy. Responses to 
+stimulation were divided into viscero-sensitive, viscero-vegetative, and 
+emotional sensations. Univariate analysis and conditional logistic regression 
+were used to assess the association between visceral and emotional sensations 
+and localization of the stimulated contacts.
+RESULTS: In total, 543 stimulations evoked visceral and emotional sensations. 
+Stimulations of operculo-insulolimbic structures (amygdala, anterior and 
+posterior insula, anterior and mid-cingulate cortex, hippocampus, 
+parahippocampus, temporal pole, frontal and parietal operculum) were 
+significantly more associated with visceral and emotional sensations than all 
+other cortical regions. Preferential implication of certain brain structures, 
+depending on the type of visceral responses was evidenced: temporo-mesial 
+structures, insula, and frontoparietal operculum for viscero-sensitive 
+sensations; amygdala, insula, anterior and mid-cingulate cortex, and temporal 
+pole for viscero-vegetative sensations; temporo-mesial structures, anterior 
+cingulate cortex, and frontal operculum for emotional sensations.
+INTERPRETATION: Our data can help to guide SEEG explorations when visceral or 
+emotional symptoms are part of the ictal semiology. They also bring some 
+insights into the mechanisms of visceroception and the functional significance 
+of the co-localization of visceral and emotional representations in the human 
+brain.
+
+© 2022 The Authors. Annals of Clinical and Translational Neurology published by 
+Wiley Periodicals LLC on behalf of American Neurological Association.
+
+DOI: 10.1002/acn3.51694
+PMCID: PMC9852394
+PMID: 36424874 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflict of interest to 
+declare.

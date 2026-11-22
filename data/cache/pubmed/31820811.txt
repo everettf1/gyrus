@@ -1,0 +1,35 @@
+1. Soc Cogn Affect Neurosci. 2019 Nov 1;14(11):1167-1177. doi:
+10.1093/scan/nsz095.
+
+A high-resolution fMRI investigation of BNST and centromedial amygdala activity 
+as a function of affective stimulus predictability, anticipation, and duration.
+
+Pedersen WS(1), Muftuler LT(2), Larson CL(1).
+
+Author information:
+(1)University of Wisconsin, Milwaukee, WI 53211, USA.
+(2)Medical College of Wisconsin, Milwaukee, WI 53226, USA.
+
+Relative to the centromedial amygdala (CM), the bed nucleus of the stria 
+terminalis (BNST) may exhibit more sustained activation toward threat, 
+sensitivity to unpredictability and activation during anxious anticipation. 
+These factors are often intertwined. For example, greater BNST (vs CM) 
+activation during a block of aversive stimuli may reflect either more sustained 
+activation to the stimuli or greater activation due to the anticipation of 
+upcoming stimuli. To further investigate these questions, we had participants 
+(19 females, 9 males) complete a task adapted from a study conducted by 
+Somerville, Whalen and Kelly in 2013, during high-resolution 7-Tesla fMRI BOLD 
+acquisition. We found a larger response to negative vs neutral blocks (sustained 
+threat) than to images (transient) in the BNST, but not the CM. However, in an 
+additional analysis, we also found BNST, but not CM, activation to the onset of 
+the anticipation period on negative vs neutral trials, possibly contributing to 
+BNST activation across negative blocks. Predictability did not affect CM or BNST 
+activation. These results suggest a BNST role in anxious anticipation and 
+highlight the need for further research clarifying the temporal response 
+characteristics of these regions.
+
+© The Author(s) 2019. Published by Oxford University Press.
+
+DOI: 10.1093/scan/nsz095
+PMCID: PMC7057282
+PMID: 31820811 [Indexed for MEDLINE]

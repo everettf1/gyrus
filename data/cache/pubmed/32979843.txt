@@ -1,0 +1,63 @@
+1. Neuroimage Clin. 2020;28:102425. doi: 10.1016/j.nicl.2020.102425. Epub 2020
+Sep  15.
+
+The structural basis for interhemispheric functional connectivity: Evidence from 
+individuals with agenesis of the corpus callosum.
+
+Yuan J(1), Song X(2), Kuan E(3), Wang S(4), Zuo L(4), Ongur D(3), Hu W(5), Du 
+F(6).
+
+Author information:
+(1)McLean Imaging Center, McLean Hospital, 02478, United States; Harvard Medical 
+School, Boston, MA 02115, United States; Department of Neurology, Beijing 
+Chaoyang Hospital, Capital Medical University, Beijing 100020, China; National 
+Clinical Research Center for Mental Disorders, Peking University Sixth Hospital, 
+Beijing 100191, China.
+(2)McLean Imaging Center, McLean Hospital, 02478, United States; Psychotic 
+Disorders Division, McLean Hospital, 02478, United States; Harvard Medical 
+School, Boston, MA 02115, United States.
+(3)Psychotic Disorders Division, McLean Hospital, 02478, United States; Harvard 
+Medical School, Boston, MA 02115, United States.
+(4)Department of Radiology, Beijing Chaoyang Hospital, Capital Medical 
+University, Beijing 100020, China.
+(5)Department of Neurology, Beijing Chaoyang Hospital, Capital Medical 
+University, Beijing 100020, China. Electronic address: wenlihu3366@126.com.
+(6)McLean Imaging Center, McLean Hospital, 02478, United States; Psychotic 
+Disorders Division, McLean Hospital, 02478, United States; Harvard Medical 
+School, Boston, MA 02115, United States. Electronic address: 
+fdu@mclean.harvard.edu.
+
+Agenesis of the corpus callosum (AgCC) is a rare congenital malformation 
+characterized by partial or complete absence of the corpus callosum (CC). The 
+effects of AgCC on cerebral structural and functional networks are not clear. We 
+aimed to utilize AgCC as a model to characterize the relationship between brain 
+structure and function. Diffusion tensor imaging and resting-state fMRI data 
+were collected from nine AgCC and ten healthy subjects. The interhemispheric 
+functional connectivity (FC) was quantified using a 
+voxel-mirrored-homotopic-connectivity (VMHC) method, and its correlation with 
+the number (FN) and fractional anisotropy (FA) of the fibers crossing the CC was 
+calculated. Graph-based network analyses of structural and functional topologic 
+properties were performed. AgCC subjects showed markedly reduced VMHC compared 
+to controls. VMHC was significantly correlated with the FN and FA of the fibers 
+crossing the CC. Structural network analyses revealed impaired global 
+properties, but intact local properties in AgCC compared to controls. Functional 
+network analyses showed no significant difference in network properties between 
+the groups. Finally, in both groups, brain areas with more fiber connections 
+were more likely to build a positive FC with each other, while areas with 
+decreased white matter connections were more likely to result in negative FC. 
+Our observations demonstrate that interhemispheric FC is highly dependent on CC 
+structure. Increased alternative intrahemispheric SC might be a compensatory 
+mechanism in AgCC that helps to maintain normal global brain function. Our study 
+provides insights into the underlying neurological pathophysiology of brain 
+malformations, thereby helping to elucidate the structure-function relationship 
+of normal human brain.
+
+Copyright © 2020 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.nicl.2020.102425
+PMCID: PMC7519397
+PMID: 32979843 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

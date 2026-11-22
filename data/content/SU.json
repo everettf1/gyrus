@@ -1,0 +1,1377 @@
+[
+ {
+  "id": "anterior_horizontal_ramus",
+  "aliases": [
+   "horizontal ramus of the lateral sulcus",
+   "horizontal ramus",
+   "anterior horizontal ramus of the sylvian fissure"
+  ],
+  "summary": "The anterior horizontal ramus is a short branch of the lateral sulcus that extends forward into the inferior frontal gyrus on the lateral surface of the frontal lobe. It lies between the pars orbitalis inferiorly and the pars triangularis superiorly. Its banks belong to the inferior frontal gyrus and have no function distinct from that gyrus. The ramus serves as a landmark for dividing the gyrus into its orbital and triangular parts.",
+  "hint": "front sylvian branch running forward under pars triangularis",
+  "where": "The ramus arises from the lateral sulcus and passes rostrally into the inferior frontal gyrus. It is best visualized in a lateral view, immediately anterior to the anterior ascending ramus.",
+  "does": "The ramus has no function of its own. Its banks lie at the border of the ventrolateral prefrontal region and the orbital part of the inferior frontal gyrus. It is used in imaging and surgery to distinguish the pars triangularis from the pars orbitalis.",
+  "connects": "The ramus has no connections of its own. It is lined by the pars triangularis (Brodmann area 45) on its upper bank and the pars orbitalis (area 47) on its lower bank.",
+  "clinical": "The length and branching of the ramus vary between individuals and between hemispheres. It is used as a landmark when mapping the left inferior frontal gyrus before language surgery.",
+  "remember": "The horizontal ramus runs forward beneath the pars triangularis, whereas the ascending ramus rises in front of the pars opercularis.",
+  "facts": [
+   "It is one of the two short anterior branches of the lateral sulcus, the other being the anterior ascending ramus.",
+   "It separates the pars orbitalis from the pars triangularis.",
+   "Together with the ascending ramus it divides the inferior frontal gyrus into its three parts."
+  ],
+  "quiz": [
+   {
+    "q": "Which short forward branch of the sylvian fissure runs into the inferior frontal gyrus and separates the orbital part from the triangular part?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcus is the lower of the two anterior limbs of the sylvian fissure and marks where the pars orbitalis ends?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   3,
+   4
+  ],
+  "see_also": [
+   "anterior_ascending_ramus",
+   "pars_triangularis",
+   "pars_orbitalis",
+   "lateral_sulcus"
+  ]
+ },
+ {
+  "id": "anterior_ascending_ramus",
+  "aliases": [
+   "vertical ramus of the lateral sulcus",
+   "ascending ramus",
+   "anterior vertical ramus"
+  ],
+  "summary": "The anterior ascending ramus is a short branch of the lateral sulcus that ascends into the inferior frontal gyrus on the lateral surface of the frontal lobe. It separates the pars triangularis rostrally from the pars opercularis caudally. As the dividing line between these two parts, it marks the boundary within Broca's area, with Brodmann area 45 anterior and area 44 posterior. It has no function of its own.",
+  "hint": "front sylvian branch rising behind pars triangularis",
+  "where": "The ramus rises from the lateral sulcus into the inferior frontal gyrus and is most readily identified in a lateral view, just posterior to the horizontal ramus.",
+  "does": "The ramus is a landmark. Its anterior bank is the pars triangularis and its posterior bank is the pars opercularis, so it marks the dividing line within Broca's area. Many studies use it to draw the boundary between areas 45 and 44 on a surface model.",
+  "connects": "The ramus has no connections of its own. The cortex lining it is the inferior frontal gyrus, of which the left side belongs to the language network.",
+  "clinical": "The ramus may be doubled or absent, which makes the pars opercularis and pars triangularis difficult to distinguish in some brains. It is a landmark in language mapping and in surgery near the left inferior frontal gyrus.",
+  "remember": "Ascending ramus: the sulcus that rises between the two parts of Broca's area.",
+  "facts": [
+   "It separates pars triangularis (area 45) from pars opercularis (area 44).",
+   "It is also called the vertical ramus of the lateral sulcus.",
+   "The pars triangularis is named for the triangle bounded by this ramus and the horizontal ramus."
+  ],
+  "quiz": [
+   {
+    "q": "Which short branch of the sylvian fissure rises between the two parts of Broca's area?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcus lies between Brodmann areas 45 and 44 on the lateral frontal surface?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   3,
+   4
+  ],
+  "see_also": [
+   "anterior_horizontal_ramus",
+   "pars_opercularis",
+   "pars_triangularis",
+   "brocas_area"
+  ]
+ },
+ {
+  "id": "lateral_sulcus",
+  "aliases": [
+   "sylvian fissure",
+   "lateral fissure",
+   "posterior ramus of the lateral sulcus",
+   "fissure of sylvius",
+   "sylvian sulcus"
+  ],
+  "summary": "The lateral sulcus is the deepest and longest groove on the lateral surface of the cerebral hemisphere. Its posterior ramus, the portion represented here, extends from the insula caudally and slightly upward, separating the temporal lobe inferiorly from the frontal and parietal opercula superiorly. The insula lies buried in its depths. The banks of the sulcus contain perisylvian cortex, including auditory, somatosensory and language areas.",
+  "hint": "deep groove separating temporal lobe from frontal and parietal",
+  "where": "The sulcus is best seen in a lateral view. The lips of the fissure must be retracted to expose the insula at its floor.",
+  "does": "The sulcus is an anatomical boundary. Its banks hold the perisylvian cortex: the frontal operculum, the parietal operculum (secondary somatosensory cortex), and on the lower bank the superior temporal plane with Heschl's gyrus (primary auditory cortex) and the planum temporale. The left perisylvian region forms the core of the language network, including Broca's and Wernicke's areas at its two ends. The sulcus is asymmetrical in most individuals: the left posterior ramus is longer and more horizontal, whereas the right turns upward earlier.",
+  "connects": "The sulcus has no connections of its own. It is lined by auditory, somatosensory and language cortex, and the arcuate fasciculus curves around its posterior end. The middle cerebral artery and its branches run in its depths within the sylvian cistern.",
+  "clinical": "Strokes in the middle cerebral artery territory affect the perisylvian cortex and cause aphasia (left) or neglect (right). The sylvian fissure is the surgical corridor used to reach the insula and middle cerebral artery aneurysms. Perisylvian polymicrogyria is a developmental malformation of the cortex around the fissure.",
+  "remember": "The lateral sulcus conceals the insula and divides the frontoparietal lobes above from the temporal lobe below.",
+  "facts": [
+   "It separates the temporal lobe from the frontal and parietal lobes.",
+   "The insula lies buried at its floor.",
+   "The left posterior ramus is usually longer and more horizontal than the right.",
+   "It is also called the sylvian fissure, and its posterior ramus ends in the inferior parietal lobule near the supramarginal gyrus."
+  ],
+  "quiz": [
+   {
+    "q": "Which deep groove on the side of the brain separates the temporal lobe from the frontal and parietal lobes and hides the insula?",
+    "type": "location"
+   },
+   {
+    "q": "A surgeon splits which fissure to reach a middle cerebral artery aneurysm and the insula?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   3,
+   5
+  ],
+  "see_also": [
+   "insula",
+   "heschls_gyrus",
+   "superior_temporal_gyrus",
+   "anterior_ascending_ramus"
+  ]
+ },
+ {
+  "id": "calcarine_sulcus",
+  "aliases": [
+   "calcarine fissure",
+   "sulcus calcarinus",
+   "calcarine"
+  ],
+  "summary": "The calcarine sulcus is a horizontal groove on the medial surface of the occipital lobe. It extends from the occipital pole rostrally to meet the parieto-occipital sulcus in a Y-shaped junction, and separates the cuneus superiorly from the lingual gyrus inferiorly. Primary visual cortex (V1, Brodmann area 17) lines its banks and floor. It is therefore the site at which visual information first reaches the cerebral cortex.",
+  "hint": "medial occipital groove between cuneus and lingual gyrus",
+  "where": "The sulcus is best seen in a medial view of the hemisphere.",
+  "does": "Primary visual cortex lines the upper and lower banks and the floor of the sulcus. The retinotopic map is arranged along it: the central visual field is represented posteriorly near the occipital pole and the periphery anteriorly. The upper bank receives the lower visual field and the lower bank receives the upper visual field. Area 17 is also called striate cortex because the white stripe of Gennari is visible in its layer 4.",
+  "connects": "V1 receives input from the lateral geniculate nucleus through the optic radiations and projects to V2 and the remaining visual cortex, along the dorsal and ventral streams.",
+  "clinical": "Damage on one side produces a contralateral homonymous hemianopia, often with macular sparing because the occipital pole has a dual blood supply. A lesion limited to the cuneus (upper bank) gives an inferior quadrantanopia, and one limited to the lingual gyrus (lower bank) gives a superior quadrantanopia. Posterior cerebral artery strokes are the usual cause.",
+  "remember": "The cuneus lies above the calcarine sulcus and the lingual gyrus below it; the map is inverted, so the upper bank represents the lower visual field.",
+  "facts": [
+   "V1 (Brodmann area 17) lines its banks.",
+   "It separates the cuneus from the lingual gyrus.",
+   "It joins the parieto-occipital sulcus anteriorly, forming a Y.",
+   "The stripe of Gennari in V1 gives the cortex its name, striate cortex."
+  ],
+  "quiz": [
+   {
+    "q": "Which medial occipital groove, lined by area 17, separates the cuneus from the lingual gyrus?",
+    "type": "location"
+   },
+   {
+    "q": "A posterior cerebral artery stroke affects the banks of which sulcus and produces a homonymous hemianopia with macular sparing?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   3,
+   5
+  ],
+  "see_also": [
+   "primary_visual_cortex",
+   "cuneus",
+   "lingual_gyrus",
+   "parieto_occipital_sulcus"
+  ]
+ },
+ {
+  "id": "central_sulcus",
+  "aliases": [
+   "rolandic fissure",
+   "sulcus of rolando",
+   "fissure of rolando",
+   "central fissure"
+  ],
+  "summary": "The central sulcus separates the frontal lobe from the parietal lobe on the lateral surface of the hemisphere. It runs obliquely from near the superior margin of the hemisphere downward and forward, between the precentral gyrus anteriorly and the postcentral gyrus posteriorly. Primary motor cortex (area 4) lies on its anterior wall and primary somatosensory cortex on its posterior wall. It is the principal landmark for locating motor and sensory cortex.",
+  "hint": "groove behind the motor strip, ahead of the sensory strip",
+  "where": "The sulcus is usually continuous and does not reach the lateral sulcus. Superiorly it passes over the edge of the hemisphere onto the medial surface near the paracentral lobule. In axial MRI its upper part has a hook-like omega shape that marks the hand area.",
+  "does": "The sulcus separates the primary motor cortex (area 4) on its anterior wall from the primary somatosensory cortex on its posterior wall (areas 3a, 3b, 1 and 2). Its depths contain a large share of the motor and sensory body maps: the leg is represented medially at the top and the face and mouth inferiorly, the arrangement depicted by Penfield as the homunculus.",
+  "connects": "The sulcus has no connections of its own. Corticospinal neurons from area 4 on its anterior bank descend to the spinal cord, and thalamic input from the ventral posterolateral nucleus reaches area 3 on its posterior bank.",
+  "clinical": "Surgeons identify the central sulcus to avoid damaging motor cortex and to plan tumor resection near it. Lesions on either side cause contralateral weakness (anterior) or sensory loss (posterior). Seizures that begin in the adjacent cortex can spread across the body as a Jacksonian march.",
+  "remember": "The central sulcus is the continuous groove between the motor and sensory strips, and it rarely reaches the sylvian fissure.",
+  "facts": [
+   "It separates the precentral gyrus (area 4) from the postcentral gyrus.",
+   "It usually does not reach the lateral sulcus.",
+   "It continues onto the medial surface near the paracentral lobule.",
+   "It is also called the fissure of Rolando."
+  ],
+  "quiz": [
+   {
+    "q": "Which long, continuous groove separates the frontal lobe from the parietal lobe and lies between motor and sensory cortex?",
+    "type": "location"
+   },
+   {
+    "q": "Which landmark do neurosurgeons identify first to avoid damaging the motor strip, an omega-shaped hand knob on axial MRI?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   3,
+   5
+  ],
+  "see_also": [
+   "precentral_gyrus",
+   "postcentral_gyrus",
+   "paracentral_lobule",
+   "postcentral_sulcus"
+  ]
+ },
+ {
+  "id": "marginal_sulcus",
+  "aliases": [
+   "marginal ramus",
+   "pars marginalis",
+   "marginal branch of the cingulate sulcus",
+   "marginal ramus of the cingulate sulcus"
+  ],
+  "summary": "The marginal sulcus is the posterior terminal branch of the cingulate sulcus on the medial surface of the hemisphere. It curves upward behind the paracentral lobule and reaches the superior margin of the hemisphere just posterior to the central sulcus. It separates the paracentral lobule anteriorly from the precuneus posteriorly. It is a standard landmark for identifying the central sulcus on axial MRI.",
+  "hint": "rear branch of the cingulate groove, behind paracentral lobule",
+  "where": "At the superior margin of the hemisphere the sulcus appears as a notch in a dorsal view.",
+  "does": "The sulcus is a landmark. The cortex anterior to it is the paracentral lobule (leg motor and sensory areas) and the cortex posterior to it is the precuneus, so it marks the border between them.",
+  "connects": "The sulcus has no connections of its own. It is lined by the paracentral lobule and the precuneus, the latter a default mode network region.",
+  "clinical": "On axial MRI the marginal ramus appears as a bracket shape immediately behind the central sulcus at the top of the brain, which makes it a standard landmark for finding that sulcus. It is useful for planning surgery near the leg motor area.",
+  "remember": "Marginal sulcus: the end of the cingulate sulcus that reaches the superior margin as a bracket behind the leg area.",
+  "facts": [
+   "It is the marginal branch (pars marginalis) of the cingulate sulcus.",
+   "It lies behind the paracentral lobule and in front of the precuneus.",
+   "On axial MRI it forms a bracket behind the central sulcus."
+  ],
+  "quiz": [
+   {
+    "q": "Which branch of the cingulate sulcus curves up to the top edge of the hemisphere and appears as a bracket on axial MRI behind the central sulcus?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcus separates the paracentral lobule from the precuneus on the medial surface?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   3,
+   4
+  ],
+  "see_also": [
+   "paracentral_lobule",
+   "precuneus",
+   "central_sulcus",
+   "subparietal_sulcus"
+  ]
+ },
+ {
+  "id": "anterior_circular_sulcus",
+  "aliases": [
+   "anterior circular sulcus of the insula",
+   "anterior insular sulcus"
+  ],
+  "summary": "The anterior circular sulcus is the anterior segment of the groove that surrounds the insula. It separates the anterior insula from the orbital surface of the frontal lobe and from the frontal operculum at the front of the lateral sulcus. It marks the rostral limit of the insula, where the short insular gyri end. It is a landmark and has no function of its own.",
+  "hint": "front stretch of the groove ringing the buried island cortex",
+  "where": "The sulcus lies deep within the lateral sulcus. The lips of the sylvian fissure must be retracted, or a cut-away model used, to visualize it.",
+  "does": "The sulcus is a landmark. It marks the anterior limit of the insula, where the short insular gyri end and the frontal operculum and orbitofrontal cortex begin.",
+  "connects": "The sulcus has no connections of its own. The cortex it borders is the anterior insula, which links with the anterior cingulate cortex, amygdala and orbitofrontal cortex.",
+  "clinical": "The sulcus serves as a surgical and imaging landmark for the edge of the insula during insular tumor resection. The anterior insula is active in studies of interoception, disgust and salience.",
+  "remember": "The circular sulcus encircles the insula in anterior, superior and inferior segments; this is the anterior segment.",
+  "facts": [
+   "The circular sulcus has anterior, superior and inferior segments.",
+   "The anterior segment lies at the front of the insula.",
+   "It separates the insula from the frontal operculum and orbital surface."
+  ],
+  "quiz": [
+   {
+    "q": "Which part of the groove around the insula marks the front edge of the island cortex?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcus separates the short insular gyri from the frontal operculum at the front of the insula?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   4,
+   3
+  ],
+  "see_also": [
+   "superior_circular_sulcus",
+   "inferior_circular_sulcus",
+   "short_insular_gyri",
+   "insula"
+  ]
+ },
+ {
+  "id": "inferior_circular_sulcus",
+  "aliases": [
+   "inferior circular sulcus of the insula",
+   "inferior insular sulcus"
+  ],
+  "summary": "The inferior circular sulcus is the inferior segment of the groove that surrounds the insula. It separates the insula from the temporal operculum on the upper surface of the superior temporal gyrus. It marks the lower limit of the insula and its boundary with the superior temporal plane. It is a landmark and has no function of its own.",
+  "hint": "lower edge of the island, facing the temporal lobe",
+  "where": "The sulcus lies deep within the lateral sulcus and is seen on a cut-away model or in a coronal slice.",
+  "does": "The sulcus is a landmark. It marks the boundary with the superior temporal plane, where Heschl's gyrus and the planum temporale are located.",
+  "connects": "The sulcus has no connections of its own. The insular cortex above it contains the posterior insula, which receives auditory and somatosensory input, and the cortex below belongs to the temporal operculum.",
+  "clinical": "It is used as a landmark for the edge of the insula in imaging and in surgery through the sylvian fissure.",
+  "remember": "Inferior circular sulcus: the segment of the circular sulcus where the insula meets the temporal lobe.",
+  "facts": [
+   "It is the lower of the three segments of the circular sulcus.",
+   "It separates the insula from the temporal operculum.",
+   "It lies below the long insular gyrus."
+  ],
+  "quiz": [
+   {
+    "q": "Which segment of the groove around the insula separates it from the temporal lobe below?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcus lies between the insula and the temporal operculum deep in the sylvian fissure?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   4,
+   3
+  ],
+  "see_also": [
+   "superior_circular_sulcus",
+   "anterior_circular_sulcus",
+   "long_insular_gyrus",
+   "lateral_sulcus"
+  ]
+ },
+ {
+  "id": "superior_circular_sulcus",
+  "aliases": [
+   "superior circular sulcus of the insula",
+   "superior insular sulcus"
+  ],
+  "summary": "The superior circular sulcus is the superior segment of the groove that surrounds the insula. It separates the insula from the frontal and parietal opercula that cover it from above. It marks the upper limit of the insula and its boundary with the opercular cortex. It is a landmark and has no function of its own.",
+  "hint": "upper edge of the island, under the frontoparietal operculum",
+  "where": "The sulcus lies deep within the lateral sulcus and is best seen on a coronal slice or a cut-away model.",
+  "does": "The sulcus is a landmark. It marks the boundary between the insula and the covering opercular cortex, which includes the subcentral gyrus and parts of the inferior frontal and parietal operculum.",
+  "connects": "The sulcus has no connections of its own. The insula below it has gustatory and visceral inputs in its anterior part and sensory inputs in its posterior part, and the opercular cortex above contains secondary somatosensory areas.",
+  "clinical": "It is used as a landmark for the upper edge of the insula in surgery through the sylvian fissure and in segmenting the insula on MRI.",
+  "remember": "Superior circular sulcus: the segment of the circular sulcus beneath the frontoparietal operculum.",
+  "facts": [
+   "It is the upper of the three segments of the circular sulcus.",
+   "It separates the insula from the frontoparietal operculum.",
+   "The long and short insular gyri lie below it."
+  ],
+  "quiz": [
+   {
+    "q": "Which segment of the groove around the insula runs along its top, beneath the frontal and parietal opercula?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcus separates the insula from the opercular lip that covers it from above?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   4,
+   3
+  ],
+  "see_also": [
+   "inferior_circular_sulcus",
+   "anterior_circular_sulcus",
+   "subcentral_gyrus",
+   "insula"
+  ]
+ },
+ {
+  "id": "anterior_transverse_collateral_sulcus",
+  "aliases": [
+   "anterior transverse collateral",
+   "transverse collateral sulcus anterior"
+  ],
+  "summary": "The anterior transverse collateral sulcus is a small transverse groove on the inferior surface of the anterior temporal lobe, near the anterior end of the collateral sulcus. It lies posterior to the temporal pole and crosses the ventral surface in front of the fusiform and parahippocampal gyri. Its pattern varies between individuals. It marks a transition zone between the temporal pole and the anterior parahippocampal region.",
+  "hint": "small crossing groove near the temporal pole's underside",
+  "where": "The sulcus is best seen in an inferior view.",
+  "does": "The sulcus is a minor landmark. It marks a transition zone at the front of the ventral temporal surface between the temporal pole and the anterior parahippocampal region (entorhinal and perirhinal cortex).",
+  "connects": "The sulcus has no connections of its own. The adjacent cortex is entorhinal and perirhinal cortex, which provide input to the hippocampus.",
+  "clinical": "Because of its variability, it is used mainly as a landmark for the anterior temporal surface in surface-based atlases. It lies in the region resected in anterior temporal lobectomy for epilepsy.",
+  "remember": "Anterior transverse collateral sulcus: a short cross-furrow at the rostral end of the collateral sulcus.",
+  "facts": [
+   "It is a minor, variable sulcus.",
+   "It lies at the front end of the collateral sulcus on the temporal lobe underside.",
+   "The posterior transverse collateral sulcus lies at the opposite end in the occipital lobe."
+  ],
+  "quiz": [
+   {
+    "q": "Which small transverse sulcus on the underside of the temporal lobe lies near the anterior end of the collateral sulcus?",
+    "type": "location"
+   },
+   {
+    "q": "Which minor ventral sulcus lies just behind the temporal pole and varies considerably between people?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   4
+  ],
+  "see_also": [
+   "collateral_sulcus",
+   "posterior_transverse_collateral_sulcus",
+   "temporal_pole",
+   "parahippocampal_gyrus"
+  ]
+ },
+ {
+  "id": "posterior_transverse_collateral_sulcus",
+  "aliases": [
+   "posterior transverse collateral",
+   "transverse collateral sulcus posterior"
+  ],
+  "summary": "The posterior transverse collateral sulcus is a small transverse groove on the inferior surface of the occipital lobe, near the posterior end of the collateral sulcus. It lies between the lingual and fusiform gyri and the occipital pole. Its pattern varies between individuals. It is located in ventral occipital cortex near the early visual areas.",
+  "hint": "small crossing groove on the underside near the occipital pole",
+  "where": "The sulcus is best seen in an inferior view.",
+  "does": "The sulcus is a minor landmark. It lies in ventral occipital cortex, near the early visual areas V2, VP and V4 and the origin of the ventral stream.",
+  "connects": "The sulcus has no connections of its own. The adjacent cortex is part of the ventral visual stream, which conveys object and color information toward the temporal lobe.",
+  "clinical": "It is used as a landmark for the ventral occipital surface in surface-based atlases and in mapping visual areas, but it is not reliable enough to define a region by itself.",
+  "remember": "Posterior transverse collateral sulcus: the occipital counterpart of the anterior transverse collateral sulcus, at the caudal end of the collateral sulcus.",
+  "facts": [
+   "It is a minor, variable sulcus.",
+   "It lies at the back end of the collateral sulcus on the underside of the occipital lobe.",
+   "The anterior transverse collateral sulcus lies at the opposite end in the temporal lobe."
+  ],
+  "quiz": [
+   {
+    "q": "Which small transverse sulcus on the underside of the occipital lobe lies near the posterior end of the collateral sulcus?",
+    "type": "location"
+   },
+   {
+    "q": "Which minor ventral occipital sulcus lies near the occipital pole and varies between people?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   4
+  ],
+  "see_also": [
+   "collateral_sulcus",
+   "anterior_transverse_collateral_sulcus",
+   "lingual_gyrus",
+   "occipital_pole"
+  ]
+ },
+ {
+  "id": "inferior_frontal_sulcus",
+  "aliases": [
+   "ifs"
+  ],
+  "summary": "The inferior frontal sulcus is a horizontal groove on the lateral surface of the frontal lobe. It separates the middle frontal gyrus superiorly from the inferior frontal gyrus inferiorly and extends rostrally from the lower end of the precentral sulcus. It forms the upper border of the pars opercularis and pars triangularis, which constitute Broca's area on the left. The cortex in and around it belongs to the ventrolateral and dorsolateral prefrontal cortex.",
+  "hint": "horizontal groove running above pars opercularis and triangularis",
+  "where": "Posteriorly the sulcus often joins the inferior precentral sulcus, forming a T shape.",
+  "does": "The sulcus is a landmark for the upper edge of the inferior frontal gyrus. Cortex in and around it participates in working memory and cognitive control.",
+  "connects": "The sulcus has no connections of its own. The cortex it contains links with the parietal and temporal lobes through the superior longitudinal fasciculus and the arcuate fasciculus.",
+  "clinical": "It is used as a landmark in language mapping because it forms the upper boundary of Broca's area on the left. Activity around it appears in tests of working memory and response inhibition.",
+  "remember": "Inferior frontal sulcus: the horizontal groove that bounds Broca's area superiorly.",
+  "facts": [
+   "It separates the middle frontal gyrus from the inferior frontal gyrus.",
+   "It often meets the inferior precentral sulcus in a T shape.",
+   "It forms the upper border of pars opercularis and pars triangularis."
+  ],
+  "quiz": [
+   {
+    "q": "Which horizontal groove separates the middle frontal gyrus from the inferior frontal gyrus?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcus forms the upper boundary of the two parts of Broca's area, running forward from the precentral sulcus?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   1,
+   4
+  ],
+  "see_also": [
+   "middle_frontal_gyrus",
+   "pars_triangularis",
+   "inferior_precentral_sulcus",
+   "middle_frontal_sulcus"
+  ]
+ },
+ {
+  "id": "middle_frontal_sulcus",
+  "aliases": [
+   "mfs"
+  ],
+  "summary": "The middle frontal sulcus is a groove that runs lengthwise within the middle frontal gyrus on the lateral surface of the frontal lobe. It lies between the superior frontal sulcus above and the inferior frontal sulcus below. It is frequently interrupted or short, and some atlases do not recognize it as a continuous sulcus. It divides the middle frontal gyrus into upper and lower parts within the dorsolateral prefrontal cortex.",
+  "hint": "variable groove cutting down the center of f2",
+  "where": "The sulcus lies within the middle frontal gyrus, between the superior and inferior frontal sulci.",
+  "does": "The sulcus is a landmark with a variable pattern. The cortex around it belongs to the dorsolateral prefrontal cortex (areas 9, 46 and 9/46), the region associated with working memory and planning.",
+  "connects": "The sulcus has no connections of its own. The surrounding cortex links with the parietal association cortex and the mediodorsal thalamus.",
+  "clinical": "Because its form differs between individuals, it is used only as a rough landmark. Studies of working memory often report activity around it, and the region is a common target for transcranial magnetic stimulation of the dorsolateral prefrontal cortex in depression.",
+  "remember": "Middle frontal sulcus: the often discontinuous groove within the middle frontal gyrus (F2).",
+  "facts": [
+   "It lies within the middle frontal gyrus.",
+   "It is often discontinuous and varies between people.",
+   "The cortex around it is dorsolateral prefrontal cortex."
+  ],
+  "quiz": [
+   {
+    "q": "Which variable groove runs lengthwise inside the middle frontal gyrus, with dorsolateral prefrontal cortex around it?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcus lies between the superior frontal sulcus and the inferior frontal sulcus, often broken into segments?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   1,
+   4
+  ],
+  "see_also": [
+   "middle_frontal_gyrus",
+   "dorsolateral_prefrontal_cortex",
+   "superior_frontal_sulcus",
+   "inferior_frontal_sulcus"
+  ]
+ },
+ {
+  "id": "superior_frontal_sulcus",
+  "aliases": [
+   "sfs"
+  ],
+  "summary": "The superior frontal sulcus is a groove on the dorsolateral surface of the frontal lobe that extends rostrally from the upper end of the precentral sulcus. It separates the superior frontal gyrus above from the middle frontal gyrus below. The superior precentral sulcus meets it posteriorly, and the frontal eye field lies near the junction in the human brain. The cortex along it belongs to the dorsal prefrontal cortex.",
+  "hint": "groove between f1 and f2, meeting the precentral groove",
+  "where": "The sulcus is best seen in a dorsal or lateral view.",
+  "does": "The sulcus is a landmark for the frontal eye field, which controls voluntary saccades. The cortex along it belongs to the dorsal prefrontal cortex and is active in spatial working memory.",
+  "connects": "The sulcus has no connections of its own. The surrounding cortex links with the posterior parietal cortex through the superior longitudinal fasciculus.",
+  "clinical": "It is used as a landmark for the frontal eye field and for the boundary between the superior and middle frontal gyri. Lesions of the frontal eye field impair saccades toward the opposite side.",
+  "remember": "Superior frontal sulcus: the groove between F1 and F2 that runs into the precentral sulcus near the frontal eye field.",
+  "facts": [
+   "It separates the superior frontal gyrus from the middle frontal gyrus.",
+   "It meets the superior precentral sulcus at the back.",
+   "The frontal eye field lies near that junction."
+  ],
+  "quiz": [
+   {
+    "q": "Which groove separates the superior frontal gyrus from the middle frontal gyrus and meets the precentral sulcus near the frontal eye field?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcus lies between F1 and F2 on the dorsolateral frontal surface?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   1,
+   4
+  ],
+  "see_also": [
+   "superior_frontal_gyrus",
+   "middle_frontal_gyrus",
+   "superior_precentral_sulcus",
+   "middle_frontal_sulcus"
+  ]
+ },
+ {
+  "id": "sulcus_of_jensen",
+  "aliases": [
+   "sulcus intermedius primus",
+   "intermediate sulcus",
+   "jensen sulcus",
+   "sulcus of jensen"
+  ],
+  "summary": "The sulcus of Jensen (sulcus intermedius primus) is a small groove in the inferior parietal lobule on the lateral surface. It branches from the intraparietal sulcus and runs inferiorly between the supramarginal gyrus anteriorly and the angular gyrus posteriorly. It is absent in some hemispheres and varies in length. It has no function of its own.",
+  "hint": "small groove between supramarginal and angular gyri",
+  "where": "The sulcus lies in the inferior parietal lobule, arising from the intraparietal sulcus.",
+  "does": "The sulcus is a landmark. It marks the start of the angular gyrus in many brains, but because of its variability it is not a reliable boundary on its own.",
+  "connects": "The sulcus has no connections of its own. The surrounding cortex is inferior parietal cortex, which supports language, number processing and attention.",
+  "clinical": "It is used as a landmark for the supramarginal and angular gyri in surface-based atlases. The angular gyrus on its posterior side is associated with Gerstmann syndrome when damaged on the left.",
+  "remember": "Sulcus of Jensen: the formal name is sulcus intermedius primus, a branch of the intraparietal sulcus that leads toward the angular gyrus.",
+  "facts": [
+   "Its formal name is sulcus intermedius primus.",
+   "It branches from the intraparietal sulcus.",
+   "It lies between the supramarginal and angular gyri, and varies between people."
+  ],
+  "quiz": [
+   {
+    "q": "Which small, variable branch of the intraparietal sulcus lies between the supramarginal gyrus and the angular gyrus?",
+    "type": "location"
+   },
+   {
+    "q": "Which minor parietal sulcus, formally the sulcus intermedius primus, marks where the angular gyrus begins?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   4
+  ],
+  "see_also": [
+   "angular_gyrus",
+   "supramarginal_gyrus",
+   "intraparietal_sulcus"
+  ]
+ },
+ {
+  "id": "intraparietal_sulcus",
+  "aliases": [
+   "ips",
+   "interparietal sulcus",
+   "intraparietal fissure"
+  ],
+  "summary": "The intraparietal sulcus is a long groove on the lateral surface of the parietal lobe. It extends caudally from the postcentral sulcus, often joining it, and arcs toward the occipital lobe. It separates the superior parietal lobule above from the inferior parietal lobule below, which comprises the supramarginal and angular gyri. Its banks contain areas of the dorsal visual stream that support attention, eye movements, grasping, reaching and number processing.",
+  "hint": "long furrow dividing the superior and inferior lobules behind s1",
+  "where": "Several short branches, including the transverse parietal sulci, arise from it.",
+  "does": "The cortex lining its banks contains a set of areas that support attention and action. The lateral intraparietal area (LIP) is associated with eye movements and attention, with a priority map for saccades. The anterior intraparietal area (AIP) is associated with the shape and grasp of objects, and the medial intraparietal region (the parietal reach region) with reaching. The horizontal segment is associated with number, including comparison of magnitudes and estimation of quantity. Evidence for human homologues of the monkey areas is stronger for some than for others.",
+  "connects": "These areas are central to the dorsal visual stream, the pathway for spatial location and action. They link with the frontal eye field, the premotor cortex and the superior colliculus.",
+  "clinical": "Damage to the superior parietal region and the intraparietal sulcus causes optic ataxia, in which a person cannot reach accurately to a seen object. Right parietal damage causes hemispatial neglect, and left parietal damage near the angular gyrus is associated with Gerstmann syndrome, which includes acalculia. Developmental dyscalculia is associated with differences in the intraparietal sulcus.",
+  "remember": "The intraparietal sulcus divides the parietal lobe into superior and inferior lobules, and its walls hold areas for eye, hand and number tasks.",
+  "facts": [
+   "It separates the superior parietal lobule from the inferior parietal lobule.",
+   "LIP is linked to saccades and attention, AIP to grasping, and a medial region to reaching.",
+   "The horizontal segment is tied to number and magnitude.",
+   "It is part of the dorsal visual stream."
+  ],
+  "quiz": [
+   {
+    "q": "Which long parietal groove separates the superior parietal lobule from the supramarginal and angular gyri and holds areas for saccades, grasping and number?",
+    "type": "location"
+   },
+   {
+    "q": "After a parietal lesion a patient cannot reach accurately toward objects that are seen, a deficit called optic ataxia. Which sulcus holds the reach-related areas?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   5,
+   2,
+   3
+  ],
+  "see_also": [
+   "superior_parietal_lobule",
+   "angular_gyrus",
+   "supramarginal_gyrus",
+   "postcentral_sulcus"
+  ]
+ },
+ {
+  "id": "lunate_sulcus",
+  "aliases": [
+   "middle occipital sulcus",
+   "lunatus sulcus",
+   "lateral occipital sulcus",
+   "sulcus lunatus"
+  ],
+  "summary": "In this atlas the label combines the lunate sulcus and the middle occipital sulcus. The middle occipital sulcus runs along the middle occipital gyrus on the lateral surface of the occipital lobe, and the lunate sulcus is a small crescent-shaped groove near the occipital pole. Both vary considerably between individuals. In apes the lunate sulcus marks the anterior border of V1, whereas in humans it is small and often absent.",
+  "hint": "small curved groove on the lateral occipital surface",
+  "where": "The grooves lie on the lateral surface of the occipital lobe, the lunate sulcus near the occipital pole and the middle occipital sulcus along the middle occipital gyrus.",
+  "does": "The sulcus is a landmark of limited reliability. In humans V1 has shifted to the medial surface, so the lunate sulcus no longer marks its border. The cortex around the middle occipital sulcus is lateral occipital cortex, which includes object-selective regions (the lateral occipital complex).",
+  "connects": "The sulcus has no connections of its own. The adjacent cortex belongs to the visual association cortex, in both the ventral and dorsal streams.",
+  "clinical": "It is used only as a rough landmark in surface-based atlases. Its variability between individuals is the reason functional mapping is needed to locate specific visual areas.",
+  "remember": "Lunate means crescent-shaped; in apes the lunate sulcus is the anterior edge of V1.",
+  "facts": [
+   "In apes the lunate sulcus marks the front edge of V1.",
+   "In humans it is small and variable.",
+   "The label here also covers the middle occipital sulcus."
+  ],
+  "quiz": [
+   {
+    "q": "Which crescent-shaped occipital groove marks the front edge of V1 in apes but is small and variable in humans?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcus runs along the middle occipital gyrus and lies near object-selective lateral occipital cortex?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   4
+  ],
+  "see_also": [
+   "middle_occipital_gyrus",
+   "occipital_pole",
+   "transverse_occipital_sulcus",
+   "inferior_occipital_gyrus"
+  ]
+ },
+ {
+  "id": "transverse_occipital_sulcus",
+  "aliases": [
+   "superior occipital sulcus",
+   "tos"
+  ],
+  "summary": "The transverse occipital sulcus is a short transverse groove on the dorsal part of the occipital lobe, near the superior and posterior aspect of the hemisphere. The posterior end of the intraparietal sulcus often meets it, and the superior occipital sulcus runs along the superior occipital gyrus nearby. Its form is variable. The adjacent cortex belongs to the dorsal visual stream and includes a scene-selective region, the occipital place area.",
+  "hint": "groove at the dorsal rear where the parietal furrow ends",
+  "where": "The sulcus is best seen in a dorsal or posterior view.",
+  "does": "The sulcus is a landmark with a variable form. Cortex near it, including the occipital place area, responds strongly to scenes, spatial layout and navigationally relevant structure, and lies close to dorsal visual areas such as V3A.",
+  "connects": "The sulcus has no connections of its own. The surrounding cortex belongs to the dorsal visual stream and links with the intraparietal sulcus and parietal areas.",
+  "clinical": "It is a landmark for dorsal occipital cortex in imaging and in surface-based atlases. Scene-selective activation near it has been reported in functional MRI studies of navigation.",
+  "remember": "Transverse occipital sulcus: the dorsal occipital cross-groove adjacent to the scene-selective occipital place area.",
+  "facts": [
+   "It is a transverse groove on the dorsal occipital lobe.",
+   "The label here also covers the superior occipital sulcus.",
+   "A scene-selective region, the occipital place area, lies near it."
+  ],
+  "quiz": [
+   {
+    "q": "Which groove on the dorsal occipital lobe, often met by the end of the intraparietal sulcus, lies next to a scene-selective region?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcus runs along the superior occipital gyrus near the top and back of the hemisphere?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   4
+  ],
+  "see_also": [
+   "superior_occipital_gyrus",
+   "intraparietal_sulcus",
+   "lunate_sulcus",
+   "parieto_occipital_sulcus"
+  ]
+ },
+ {
+  "id": "anterior_occipital_sulcus",
+  "aliases": [
+   "preoccipital notch",
+   "anterior occipital sulcus and preoccipital notch"
+  ],
+  "summary": "The anterior occipital sulcus is a groove at the anterior end of the occipital lobe on the lateral surface, near the inferior margin of the hemisphere. The preoccipital notch is a small indentation on the inferolateral border, about 4 cm anterior to the occipital pole, and marks where the temporal lobe meets the occipital lobe. On the lateral surface the occipital lobe is bounded by a line from the parieto-occipital sulcus to the preoccipital notch. The sulcus and notch serve as the guide to this otherwise unmarked border.",
+  "hint": "notch on the lower lateral edge marking the temporal border",
+  "where": "The notch lies on the inferolateral border of the hemisphere, anterior to the occipital pole.",
+  "does": "The sulcus is a landmark. Because the lateral border between the temporal and occipital lobes has no clear groove, the notch and sulcus are used as the guide. The adjacent cortex is ventral and lateral occipitotemporal cortex, which includes the human motion area MT+ near the posterior inferior temporal sulcus.",
+  "connects": "The sulcus has no connections of its own. The surrounding cortex links the occipital visual areas to the temporal lobe along the ventral stream.",
+  "clinical": "It is used as a landmark for lobe borders in imaging and neurosurgery. The boundary between the temporal and occipital lobes on the lateral surface is arbitrary and is defined by this notch.",
+  "remember": "The preoccipital notch marks the lateral boundary where the occipital lobe begins.",
+  "facts": [
+   "The preoccipital notch is the indentation on the inferolateral edge.",
+   "A line from the parieto-occipital sulcus to the notch marks the occipital lobe border on the lateral surface.",
+   "It separates the occipital lobe from the temporal lobe on the lateral surface."
+  ],
+  "quiz": [
+   {
+    "q": "Which landmark indentation on the lower lateral edge of the hemisphere marks where the occipital lobe meets the temporal lobe?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcus lies at the front of the occipital lobe, joining a line from the parieto-occipital sulcus to the preoccipital notch?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   1,
+   4
+  ],
+  "see_also": [
+   "parieto_occipital_sulcus",
+   "inferior_occipital_gyrus",
+   "inferior_temporal_sulcus",
+   "occipital_pole"
+  ]
+ },
+ {
+  "id": "occipitotemporal_sulcus",
+  "aliases": [
+   "lateral occipitotemporal sulcus",
+   "occipito-temporal sulcus",
+   "ots"
+  ],
+  "summary": "The occipitotemporal sulcus is a groove on the inferior surface of the temporal lobe that runs anteroposteriorly, lateral to the fusiform gyrus. It separates the fusiform gyrus medially from the inferior temporal gyrus laterally. It lies lateral to the collateral sulcus. The ventral temporal cortex along it contains regions for object, face and word recognition.",
+  "hint": "groove on the underside lateral to the fusiform gyrus",
+  "where": "The sulcus is best seen in an inferior view.",
+  "does": "The sulcus is a landmark for the lateral edge of the fusiform gyrus. The fusiform face area lies on the fusiform gyrus beside it, the visual word form area on the left lies near it, and a lateral occipitotemporal region is associated with body parts and objects. The boundaries of these regions do not coincide exactly with sulci.",
+  "connects": "The sulcus has no connections of its own. The ventral cortex around it forms the ventral visual stream, which links with the hippocampal formation and the anterior temporal lobe.",
+  "clinical": "It is used as a landmark for the fusiform gyrus in imaging. Damage to the adjacent ventral temporal cortex can cause prosopagnosia (loss of face recognition) or, on the left, pure alexia.",
+  "remember": "The collateral sulcus forms the medial wall of the fusiform gyrus and the occipitotemporal sulcus its lateral wall.",
+  "facts": [
+   "It lies lateral to the fusiform gyrus.",
+   "It separates the fusiform gyrus from the inferior temporal gyrus.",
+   "The collateral sulcus is on the opposite, medial side of the fusiform gyrus."
+  ],
+  "quiz": [
+   {
+    "q": "Which groove on the underside of the temporal lobe separates the fusiform gyrus from the inferior temporal gyrus?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcus forms the outer wall of the fusiform gyrus, whose neighboring cortex supports face and word recognition?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   1,
+   3
+  ],
+  "see_also": [
+   "fusiform_gyrus",
+   "collateral_sulcus",
+   "inferior_temporal_gyrus",
+   "inferior_temporal_sulcus"
+  ]
+ },
+ {
+  "id": "collateral_sulcus",
+  "aliases": [
+   "medial occipitotemporal sulcus",
+   "lingual sulcus",
+   "collateral fissure",
+   "medial occipito-temporal sulcus"
+  ],
+  "summary": "The collateral sulcus is a long groove on the inferior surface of the temporal and occipital lobes that runs anteroposteriorly. It separates the fusiform gyrus laterally from the parahippocampal gyrus and the lingual gyrus medially. The label here also covers the lingual sulcus, a groove within the lingual gyrus. Its banks contain the parahippocampal place area, and its anterior part borders the perirhinal and entorhinal cortex.",
+  "hint": "underside groove between fusiform and parahippocampal gyri",
+  "where": "The sulcus is best seen in an inferior or medial view.",
+  "does": "The sulcus is an anatomical boundary with functional significance. Cortex at its banks contains the parahippocampal place area, which responds strongly to scenes and places, and its anterior part borders the perirhinal and entorhinal cortex involved in memory. In the occipital lobe its posterior part lies in ventral visual areas. In the temporal lobe it indents the floor of the ventricle to form the collateral eminence of the temporal horn.",
+  "connects": "The sulcus has no connections of its own. The cortex lining it is part of the ventral visual stream and projects to the entorhinal cortex and hippocampus by way of the parahippocampal gyrus.",
+  "clinical": "Its depth varies between individuals and affects the shape of the cortex near the entorhinal region, so it is measured in studies of memory disorders and epilepsy. Damage to the adjacent parahippocampal region produces topographical disorientation, in which a person cannot recognize places.",
+  "remember": "Collateral sulcus: the ventral groove between the fusiform gyrus and the parahippocampal gyrus.",
+  "facts": [
+   "It separates the fusiform gyrus from the parahippocampal and lingual gyri.",
+   "The parahippocampal place area lies along its banks.",
+   "It indents the floor of the lateral ventricle, forming the collateral eminence.",
+   "The label here includes the lingual sulcus."
+  ],
+  "quiz": [
+   {
+    "q": "Which long ventral groove separates the fusiform gyrus from the parahippocampal gyrus, and is lined by the place area?",
+    "type": "location"
+   },
+   {
+    "q": "A patient cannot find their way around familiar places after damage near which ventral sulcus?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   5,
+   1,
+   3
+  ],
+  "see_also": [
+   "fusiform_gyrus",
+   "parahippocampal_gyrus",
+   "lingual_gyrus",
+   "occipitotemporal_sulcus"
+  ]
+ },
+ {
+  "id": "lateral_orbital_sulcus",
+  "aliases": [
+   "lateral orbital"
+  ],
+  "summary": "The lateral orbital sulcus is a groove on the orbital (inferior) surface of the frontal lobe, along its lateral edge. It forms the lateral limb of the orbital sulcus pattern and lies adjacent to the pars orbitalis of the inferior frontal gyrus. Its form is variable. The cortex around it is orbitofrontal cortex.",
+  "hint": "outer groove on the underside of the frontal lobe, over the eye",
+  "where": "The sulcus is best seen from below.",
+  "does": "The sulcus is a landmark with a variable form. It helps separate the lateral orbital gyrus from the lateral edge of the orbital surface. The surrounding orbitofrontal cortex is associated with value, reward and taste.",
+  "connects": "The sulcus has no connections of its own. The surrounding orbitofrontal cortex links with the amygdala, the mediodorsal thalamus, the insula and the ventral striatum.",
+  "clinical": "It is used as a landmark for the orbitofrontal surface in surface-based atlases. The orbitofrontal cortex is damaged in head injuries that cause disinhibition and poor social judgment.",
+  "remember": "Lateral orbital sulcus: the outer longitudinal limb of the orbital sulci on the floor of the frontal lobe.",
+  "facts": [
+   "It lies on the orbital surface of the frontal lobe.",
+   "It forms the lateral limb of the orbital sulci.",
+   "The cortex around it is orbitofrontal cortex."
+  ],
+  "quiz": [
+   {
+    "q": "Which sulcus lies on the outer edge of the orbital surface of the frontal lobe, next to the pars orbitalis?",
+    "type": "location"
+   },
+   {
+    "q": "Which groove lies lateral to the H-shaped orbital sulci, on the underside of the frontal lobe?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   4
+  ],
+  "see_also": [
+   "orbital_sulci",
+   "olfactory_sulcus",
+   "orbital_gyri",
+   "pars_orbitalis"
+  ]
+ },
+ {
+  "id": "olfactory_sulcus",
+  "aliases": [
+   "medial orbital sulcus",
+   "sulcus olfactorius",
+   "olfactory groove"
+  ],
+  "summary": "The olfactory sulcus is a straight groove on the orbital surface of the frontal lobe that runs anteroposteriorly close to the midline. It separates the gyrus rectus medially from the medial orbital gyrus laterally. The olfactory bulb and olfactory tract lie in it, covered by the meninges. The cortex on either side belongs to the orbitofrontal and ventromedial prefrontal region.",
+  "hint": "underside groove that holds the smell bulb and tract",
+  "where": "The sulcus is best seen from below.",
+  "does": "The sulcus houses the olfactory bulb and tract, which carry olfactory information from the nose to the brain. Its depth on MRI has been studied as a marker of olfactory function and of neurodevelopment, with mixed results.",
+  "connects": "The olfactory tract in its floor carries axons from the olfactory bulb to the piriform cortex, amygdala and entorhinal cortex without a thalamic relay, which makes olfaction unusual among the senses.",
+  "clinical": "Olfactory groove meningiomas arise here and cause loss of smell (anosmia), and may compress the frontal lobe to cause personality change. Foster Kennedy syndrome, with ipsilateral optic atrophy, anosmia and contralateral papilledema, can result from such a tumor. A shallow sulcus on MRI has been associated with anosmia.",
+  "remember": "Olfactory sulcus: the groove that holds the olfactory tract, with the gyrus rectus on its medial side.",
+  "facts": [
+   "The olfactory bulb and tract lie in it.",
+   "It separates the gyrus rectus from the medial orbital gyrus.",
+   "Olfactory groove meningiomas cause anosmia."
+  ],
+  "quiz": [
+   {
+    "q": "Which groove on the underside of the frontal lobe holds the olfactory bulb and tract?",
+    "type": "location"
+   },
+   {
+    "q": "A meningioma in which groove causes anosmia and may produce Foster Kennedy syndrome?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   5,
+   3,
+   1
+  ],
+  "see_also": [
+   "gyrus_rectus",
+   "orbital_gyri",
+   "orbital_sulci",
+   "suborbital_sulcus"
+  ]
+ },
+ {
+  "id": "orbital_sulci",
+  "aliases": [
+   "h-shaped sulcus",
+   "h shaped sulcus",
+   "orbital sulcus",
+   "h-shaped sulci"
+  ],
+  "summary": "The orbital sulci are the set of grooves on the orbital (inferior) surface of the frontal lobe, usually arranged in an H shape. Two longitudinal limbs, the medial and lateral orbital sulci, are joined by a transverse sulcus. Together they divide the surface into the anterior, posterior, medial and lateral orbital gyri. The cortex they divide is orbitofrontal cortex.",
+  "hint": "grooves carving the eye-roof surface into four gyri",
+  "where": "The sulci are best seen from below.",
+  "does": "The sulci are landmarks, and their pattern varies considerably between individuals. Three common arrangements occur, of which the H shape is only one. The orbitofrontal cortex they divide is associated with value, reward and flavor.",
+  "connects": "The sulci have no connections of their own. The orbitofrontal cortex they divide links with the amygdala, the mediodorsal thalamus, the insula and the ventral striatum.",
+  "clinical": "Their pattern is used to define the orbitofrontal gyri in surface-based atlases. Orbitofrontal damage, as in head injury, produces disinhibition and impaired social judgment.",
+  "remember": "Viewed from below, the orbital sulci form an H on the orbital surface.",
+  "facts": [
+   "They are usually H-shaped, but the pattern varies between people.",
+   "They divide the orbital surface into anterior, posterior, medial and lateral orbital gyri.",
+   "The olfactory sulcus lies medial to them."
+  ],
+  "quiz": [
+   {
+    "q": "Which grooves on the underside of the frontal lobe form an H shape and divide the orbital surface into four gyri?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcal pattern, variable between people, is used to map the orbitofrontal gyri from below?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   4
+  ],
+  "see_also": [
+   "orbital_gyri",
+   "olfactory_sulcus",
+   "lateral_orbital_sulcus",
+   "orbitofrontal_cortex"
+  ]
+ },
+ {
+  "id": "parieto_occipital_sulcus",
+  "aliases": [
+   "parietooccipital sulcus",
+   "parieto occipital sulcus",
+   "parieto-occipital fissure",
+   "pos"
+  ],
+  "summary": "The parieto-occipital sulcus is a deep groove on the medial surface of the hemisphere that runs obliquely downward and forward from the superior margin to meet the calcarine sulcus, forming a Y. It separates the precuneus (parietal lobe) anteriorly from the cuneus (occipital lobe) posteriorly and forms the medial border between the parietal and occipital lobes. Only a short part notches the dorsal edge of the hemisphere onto the lateral surface. Its walls contain areas V6 and V6A of the dorsal visual stream.",
+  "hint": "deep medial groove between precuneus and cuneus",
+  "where": "The sulcus is best seen in a medial view of the hemisphere.",
+  "does": "The sulcus is a boundary and a landmark. The cortex in its walls includes areas V6 and V6A of the dorsal visual stream, which are associated with visual control of reaching and with the periphery of the visual field. It lies at the junction between early visual cortex and the precuneus.",
+  "connects": "The sulcus has no connections of its own. The cortex lining it links the visual cortex to the superior parietal lobule and the dorsal premotor cortex.",
+  "clinical": "It is a landmark in imaging for the parietal and occipital border and for the cuneus. Damage near it in the dorsal visual stream can cause optic ataxia.",
+  "remember": "Parieto-occipital sulcus: the deep medial groove that joins the calcarine sulcus in a Y and encloses the cuneus.",
+  "facts": [
+   "It separates the precuneus from the cuneus.",
+   "It joins the calcarine sulcus to form a Y.",
+   "It marks the medial border between the parietal and occipital lobes."
+  ],
+  "quiz": [
+   {
+    "q": "Which deep medial groove separates the precuneus from the cuneus and marks the parietal and occipital border?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcus joins the calcarine sulcus in a Y shape on the medial surface?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   1,
+   4
+  ],
+  "see_also": [
+   "calcarine_sulcus",
+   "precuneus",
+   "cuneus",
+   "subparietal_sulcus"
+  ]
+ },
+ {
+  "id": "callosal_sulcus",
+  "aliases": [
+   "pericallosal sulcus",
+   "sulcus of the corpus callosum",
+   "sulcus corporis callosi"
+  ],
+  "summary": "The callosal sulcus is a groove on the medial surface of the hemisphere that encircles the corpus callosum, between the callosum and the cingulate gyrus. It extends from below the rostrum around the genu, along the body and around the splenium. Posterior to the splenium it continues into the hippocampal sulcus. It defines the ring of limbic lobe cortex that curves around the callosum.",
+  "hint": "groove between the cingulate gyrus and the big white-matter bridge",
+  "where": "The sulcus is best seen in a midsagittal view.",
+  "does": "The sulcus is a boundary. It separates the corpus callosum from the cingulate gyrus and defines the ring of limbic lobe cortex (the great limbic lobe of Broca) that curves around the callosum. The pericallosal arteries run in it.",
+  "connects": "The sulcus has no connections of its own. The cortex lining it is the cingulate gyrus, part of the limbic system, which links to the hippocampus by the cingulum bundle.",
+  "clinical": "It is the landmark for surgery through the interhemispheric fissure to reach the corpus callosum, as in callosotomy for epilepsy. Pericallosal artery aneurysms lie adjacent to it.",
+  "remember": "Callosal sulcus: the groove between the corpus callosum and the cingulate gyrus, also called the pericallosal sulcus.",
+  "facts": [
+   "It separates the corpus callosum from the cingulate gyrus.",
+   "The pericallosal artery runs in it.",
+   "It is also called the pericallosal sulcus."
+  ],
+  "quiz": [
+   {
+    "q": "Which medial groove separates the corpus callosum from the cingulate gyrus?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcus carries the pericallosal artery and is a landmark for callosotomy?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   3,
+   4
+  ],
+  "see_also": [
+   "anterior_cingulate_gyrus",
+   "dorsal_posterior_cingulate_gyrus",
+   "subcallosal_gyrus",
+   "subparietal_sulcus"
+  ]
+ },
+ {
+  "id": "postcentral_sulcus",
+  "aliases": [
+   "postcentral fissure"
+  ],
+  "summary": "The postcentral sulcus is a groove on the lateral surface of the parietal lobe, immediately posterior to the postcentral gyrus and parallel to the central sulcus. It separates the postcentral gyrus from the superior parietal lobule above and the supramarginal gyrus below. It is often interrupted, and it frequently joins the intraparietal sulcus at its middle. Its anterior bank is the posterior part of the primary somatosensory cortex, and the cortex behind it is posterior parietal cortex.",
+  "hint": "groove behind the sensory strip",
+  "where": "The sulcus marks the posterior edge of the postcentral gyrus.",
+  "does": "The sulcus is a landmark. Its anterior bank contains areas 1 and 2 of the primary somatosensory cortex, and the cortex posterior to it is posterior parietal cortex. It marks the back edge of the postcentral gyrus and assists in identifying the central sulcus.",
+  "connects": "The sulcus has no connections of its own. The cortex on its anterior bank receives somatosensory input from the thalamus, and the cortex behind it integrates touch with vision for actions such as reaching and grasping.",
+  "clinical": "It is used with the central and precentral sulci to count sulci when identifying the central sulcus on imaging. Lesions of the adjacent cortex cause cortical sensory loss, such as astereognosis and impaired two-point discrimination.",
+  "remember": "Postcentral sulcus: the groove behind the postcentral gyrus, which often continues into the intraparietal sulcus.",
+  "facts": [
+   "It lies behind the postcentral gyrus.",
+   "It often joins the intraparietal sulcus.",
+   "It is often interrupted."
+  ],
+  "quiz": [
+   {
+    "q": "Which groove marks the back edge of the sensory strip and often connects with the intraparietal sulcus?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcus lies between the postcentral gyrus and the posterior parietal cortex?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   1,
+   3
+  ],
+  "see_also": [
+   "postcentral_gyrus",
+   "central_sulcus",
+   "intraparietal_sulcus",
+   "primary_somatosensory_cortex"
+  ]
+ },
+ {
+  "id": "inferior_precentral_sulcus",
+  "aliases": [
+   "inferior precentral"
+  ],
+  "summary": "The inferior precentral sulcus is the lower segment of the precentral sulcus on the lateral surface of the frontal lobe. It lies anterior to the precentral gyrus and posterior to the inferior frontal gyrus, separating the face and mouth part of the precentral gyrus from the pars opercularis. It often meets the inferior frontal sulcus in a T shape and may be separate from the superior segment. It marks the posterior edge of Broca's area.",
+  "hint": "lower groove ahead of the motor strip, behind pars opercularis",
+  "where": "The sulcus lies on the lateral frontal surface, in front of the precentral gyrus.",
+  "does": "The sulcus is a landmark. The cortex immediately anterior to it is the ventral premotor cortex and the pars opercularis (Brodmann area 44), and the cortex posterior to it is the face and mouth area of the primary motor cortex.",
+  "connects": "The sulcus has no connections of its own. The surrounding cortex links with the ventral parietal lobe, including the anterior intraparietal area, for the control of grasping and speech movement.",
+  "clinical": "It is used as the landmark for the posterior edge of Broca's area and for the face and mouth motor area in language mapping and surgery. Lesions close to it can cause speech apraxia or, on the left, Broca's aphasia.",
+  "remember": "Inferior precentral sulcus: the lower part of the precentral sulcus, lying between the mouth area of the motor strip and Broca's area.",
+  "facts": [
+   "It is the lower part of the precentral sulcus.",
+   "It separates the precentral gyrus from the pars opercularis.",
+   "It often meets the inferior frontal sulcus in a T shape."
+  ],
+  "quiz": [
+   {
+    "q": "Which sulcus, the lower part of a longer groove in front of the motor strip, forms the back edge of the pars opercularis?",
+    "type": "location"
+   },
+   {
+    "q": "Which groove lies between the face and mouth part of the precentral gyrus and the lower frontal gyrus?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   1,
+   4
+  ],
+  "see_also": [
+   "superior_precentral_sulcus",
+   "precentral_gyrus",
+   "pars_opercularis",
+   "inferior_frontal_sulcus"
+  ]
+ },
+ {
+  "id": "superior_precentral_sulcus",
+  "aliases": [
+   "superior precentral"
+  ],
+  "summary": "The superior precentral sulcus is the upper segment of the precentral sulcus on the lateral and dorsal surface of the frontal lobe. It lies anterior to the precentral gyrus and posterior to the superior and middle frontal gyri. It often meets the superior frontal sulcus in a T or cross shape and may be separate from the inferior segment. The frontal eye field lies near this junction.",
+  "hint": "upper groove ahead of the motor strip, near the eye field",
+  "where": "The sulcus is visible in lateral and dorsal views, in front of the precentral gyrus.",
+  "does": "The sulcus is a landmark. The frontal eye field, which drives voluntary saccades, lies near its junction with the superior frontal sulcus, and the dorsal premotor cortex, which contributes to planning reaching, lies in the cortex anterior to it. The primary motor cortex for the arm and leg lies posterior to it.",
+  "connects": "The sulcus has no connections of its own. The surrounding cortex links with the posterior parietal cortex and the intraparietal sulcus for the visual control of eye and hand movements.",
+  "clinical": "It is used as the landmark for the frontal eye field and the dorsal premotor cortex. Lesions of the frontal eye field cause deviation of the eyes toward the side of the lesion and difficulty making saccades to the opposite side.",
+  "remember": "Superior precentral sulcus: the upper part of the precentral sulcus, joined by the superior frontal sulcus near the frontal eye field.",
+  "facts": [
+   "It is the upper part of the precentral sulcus.",
+   "It often meets the superior frontal sulcus.",
+   "The frontal eye field lies near that junction."
+  ],
+  "quiz": [
+   {
+    "q": "Which sulcus is the upper part of the groove in front of the motor strip, and lies next to the frontal eye field?",
+    "type": "location"
+   },
+   {
+    "q": "Which groove forms a T or cross with the superior frontal sulcus on the dorsolateral frontal surface?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   1,
+   3
+  ],
+  "see_also": [
+   "inferior_precentral_sulcus",
+   "superior_frontal_sulcus",
+   "precentral_gyrus",
+   "central_sulcus"
+  ]
+ },
+ {
+  "id": "suborbital_sulcus",
+  "aliases": [
+   "rostral sulcus",
+   "suborbital",
+   "sulcus rostralis"
+  ],
+  "summary": "The suborbital sulcus, also called the rostral sulcus, is a groove on the medial surface of the frontal lobe, below and in front of the genu of the corpus callosum. It lies between the gyrus rectus below and the medial part of the superior frontal gyrus and subcallosal region above. It curves in front of the rostrum of the corpus callosum. The surrounding cortex is ventromedial prefrontal cortex.",
+  "hint": "medial groove in front of and below the callosal genu",
+  "where": "The sulcus is best seen in a midsagittal view.",
+  "does": "The sulcus is a landmark with a variable course. It helps divide the gyrus rectus from the medial prefrontal cortex above. The surrounding ventromedial prefrontal cortex is associated with value, emotion regulation and decision making.",
+  "connects": "The sulcus has no connections of its own. The surrounding ventromedial prefrontal cortex links with the amygdala, the hypothalamus and the nucleus accumbens.",
+  "clinical": "It is used as a landmark for the ventromedial prefrontal cortex and the subgenual region in surface-based atlases. The nearby subgenual cingulate is a target of deep brain stimulation for treatment-resistant depression.",
+  "remember": "Suborbital sulcus: the rostral sulcus, at the front and underside of the medial frontal lobe below the genu.",
+  "facts": [
+   "It is also called the rostral sulcus.",
+   "It separates the gyrus rectus from the medial frontal cortex above.",
+   "It lies in front of and below the genu of the corpus callosum."
+  ],
+  "quiz": [
+   {
+    "q": "Which medial groove lies below the genu of the corpus callosum and separates the gyrus rectus from the medial frontal cortex?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcus, also called the rostral sulcus, lies near the ventromedial prefrontal cortex?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   4
+  ],
+  "see_also": [
+   "gyrus_rectus",
+   "subcallosal_gyrus",
+   "olfactory_sulcus",
+   "superior_frontal_gyrus"
+  ]
+ },
+ {
+  "id": "subparietal_sulcus",
+  "aliases": [
+   "suprasplenial sulcus",
+   "subparietal"
+  ],
+  "summary": "The subparietal sulcus is a groove on the medial surface of the parietal lobe that runs above the posterior part of the cingulate gyrus, behind the marginal ramus. It separates the precuneus above from the posterior cingulate gyrus below and lies near the splenium of the corpus callosum. It marks the border between the precuneus and the posterior cingulate and retrosplenial cortex. These regions are parts of the default mode network.",
+  "hint": "medial groove above the posterior cingulate, below precuneus",
+  "where": "The sulcus is best seen in a midsagittal view.",
+  "does": "The sulcus is a landmark. It marks the border between the precuneus and the posterior cingulate and retrosplenial cortex, two parts of the default mode network that are active during rest and during episodic memory retrieval.",
+  "connects": "The sulcus has no connections of its own. The surrounding cortex links with the hippocampal formation, the medial prefrontal cortex and the lateral parietal cortex within the default mode network.",
+  "clinical": "It is a landmark for the posterior cingulate and precuneus on MRI. Reduced metabolism in the posterior cingulate and precuneus is an early finding in Alzheimer's disease.",
+  "remember": "Subparietal sulcus (suprasplenial sulcus): the border between the precuneus above and the posterior cingulate below.",
+  "facts": [
+   "It separates the precuneus from the posterior cingulate gyrus.",
+   "It is also called the suprasplenial sulcus.",
+   "The cortex around it is part of the default mode network."
+  ],
+  "quiz": [
+   {
+    "q": "Which medial groove separates the precuneus from the posterior cingulate gyrus?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcus, also known as the suprasplenial sulcus, lies near the posterior default mode network?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   4
+  ],
+  "see_also": [
+   "precuneus",
+   "dorsal_posterior_cingulate_gyrus",
+   "marginal_sulcus",
+   "callosal_sulcus"
+  ]
+ },
+ {
+  "id": "inferior_temporal_sulcus",
+  "aliases": [
+   "its"
+  ],
+  "summary": "The inferior temporal sulcus is a groove on the lateral surface of the temporal lobe that runs anteroposteriorly below the superior temporal sulcus. It separates the middle temporal gyrus above from the inferior temporal gyrus below. It is often interrupted into segments and runs posteriorly toward the occipital lobe. The human motion area MT+ (V5) lies near its posterior end.",
+  "hint": "lower lateral groove under mtg, near motion area v5",
+  "where": "The sulcus lies on the lateral temporal surface, inferior to the superior temporal sulcus.",
+  "does": "The sulcus is a landmark. The cortex along it is ventral visual cortex that supports object and face recognition, and MT+ lies near its posterior end, at the junction with the lateral occipital sulcus. Its banks therefore link object recognition with motion perception.",
+  "connects": "The sulcus has no connections of its own. The surrounding cortex forms part of the ventral visual stream and links with the hippocampal formation and the prefrontal cortex.",
+  "clinical": "It is used as the landmark for MT+ in imaging. Bilateral damage near MT+ causes akinetopsia, in which moving objects are perceived as a series of still images.",
+  "remember": "Inferior temporal sulcus: the groove between the middle and inferior temporal gyri, with motion area MT+ near its posterior end.",
+  "facts": [
+   "It separates the middle temporal gyrus from the inferior temporal gyrus.",
+   "It is often interrupted.",
+   "The motion area MT+ lies near its posterior end."
+  ],
+  "quiz": [
+   {
+    "q": "Which lateral temporal groove separates the middle temporal gyrus from the inferior temporal gyrus?",
+    "type": "location"
+   },
+   {
+    "q": "Akinetopsia follows damage near the end of which temporal sulcus, where human motion area V5 lies?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   5,
+   1,
+   3
+  ],
+  "see_also": [
+   "inferior_temporal_gyrus",
+   "middle_temporal_gyrus",
+   "occipitotemporal_sulcus",
+   "superior_temporal_sulcus"
+  ]
+ },
+ {
+  "id": "superior_temporal_sulcus",
+  "aliases": [
+   "sts",
+   "parallel sulcus",
+   "superior temporal fissure"
+  ],
+  "summary": "The superior temporal sulcus is a long groove on the lateral surface of the temporal lobe that runs anteroposteriorly, parallel to the lateral sulcus. It separates the superior temporal gyrus above from the middle temporal gyrus below, and posteriorly it curves up into the inferior parietal lobule near the angular gyrus. Its walls are deep, so a large amount of cortex lies hidden within it. The cortex in its banks is a hub for social and multisensory perception.",
+  "hint": "long groove between stg and mtg that tracks faces and voices",
+  "where": "The sulcus lies on the lateral temporal surface, below the superior temporal gyrus.",
+  "does": "The posterior part responds to biological motion (the movement of a walking body, even when shown as point lights), to the direction of another person's gaze, and to audiovisual speech. The upper bank contains temporal voice areas that respond more to voices than to other sounds, and the face-selective area in the posterior sulcus is part of the face network. The left sulcus also supports speech and language comprehension. Which of these roles are separate and which are shared among neighboring areas remains debated.",
+  "connects": "The cortex in the sulcus receives input from both the auditory and the visual streams and forms part of the third visual pathway for social perception. It links with the amygdala and the prefrontal cortex and connects to the temporoparietal junction.",
+  "clinical": "Lesions or disruption here affect voice, face and gaze processing, and left-sided damage adds language comprehension deficits. Reduced activity to social stimuli in this region has been reported in autism spectrum disorder, although findings are mixed.",
+  "remember": "Superior temporal sulcus: the long groove beneath the superior temporal gyrus, associated with faces, voices, gaze and biological motion.",
+  "facts": [
+   "It separates the superior temporal gyrus from the middle temporal gyrus.",
+   "It responds to biological motion, gaze, faces and voices.",
+   "Temporal voice areas lie along its upper bank.",
+   "Its posterior end curves up toward the angular gyrus."
+  ],
+  "quiz": [
+   {
+    "q": "Which long temporal groove, between the superior and middle temporal gyri, responds to biological motion, voices and faces?",
+    "type": "function"
+   },
+   {
+    "q": "Which sulcus is the hub for gaze direction and audiovisual speech, and is the site of reduced social activity in some studies of autism?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   5,
+   2,
+   1
+  ],
+  "see_also": [
+   "superior_temporal_gyrus",
+   "middle_temporal_gyrus",
+   "inferior_temporal_sulcus",
+   "angular_gyrus"
+  ]
+ },
+ {
+  "id": "transverse_temporal_sulcus",
+  "aliases": [
+   "heschl's sulcus",
+   "heschls sulcus",
+   "sulcus of heschl"
+  ],
+  "summary": "The transverse temporal sulcus is a short groove on the upper surface of the superior temporal gyrus, deep within the lateral sulcus. It runs obliquely behind Heschl's gyrus (the transverse temporal gyrus) and separates it from the planum temporale. It marks the posterior edge of primary auditory cortex and the anterior edge of the planum temporale. Duplicated Heschl's gyri, with a sulcus between them, are sometimes present.",
+  "hint": "short groove behind the primary auditory gyrus, before the planum",
+  "where": "The sulcus is hidden within the sylvian fissure, so a cut-away or a view with the lips of the fissure retracted is required.",
+  "does": "The sulcus is a landmark. It marks the back edge of primary auditory cortex on Heschl's gyrus (areas 41 and 42) and the front edge of the planum temporale, which contains auditory association cortex and, on the left, a language region often linked to Wernicke's area.",
+  "connects": "The sulcus has no connections of its own. The cortex anterior to it receives auditory input from the medial geniculate nucleus, and the cortex posterior to it is auditory association cortex.",
+  "clinical": "It is used as the landmark for the border between primary auditory cortex and the planum temporale in imaging studies of language lateralization. Duplicated Heschl's gyri have been reported more often in some groups, such as people with language impairment, although findings are mixed.",
+  "remember": "Heschl's sulcus: the groove that closes the posterior border of Heschl's gyrus and opens the planum temporale.",
+  "facts": [
+   "It separates Heschl's gyrus from the planum temporale.",
+   "It lies in the floor of the lateral sulcus.",
+   "It is also called Heschl's sulcus."
+  ],
+  "quiz": [
+   {
+    "q": "Which groove hidden in the sylvian fissure separates primary auditory cortex on Heschl's gyrus from the planum temporale?",
+    "type": "location"
+   },
+   {
+    "q": "Which sulcus marks the back edge of the first transverse gyrus on the superior temporal plane?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   5,
+   1,
+   4
+  ],
+  "see_also": [
+   "heschls_gyrus",
+   "planum_temporale",
+   "primary_auditory_cortex",
+   "lateral_sulcus"
+  ]
+ }
+]

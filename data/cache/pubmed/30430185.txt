@@ -1,0 +1,33 @@
+1. Surg Radiol Anat. 2019 Feb;41(2):181-186. doi: 10.1007/s00276-018-2118-x. Epub
+ 2018 Nov 14.
+
+Main anatomical features of the calcarine sulcus: a 3D magnetic resonance 
+imaging at 3T study.
+
+El Mohamad AR(1), Tatu L(2)(3), Moulin T(3), Fadoul S(4), Vuillier F(2)(3).
+
+Author information:
+(1)Department of Neurosurgery, New Mazloum Hospital, Tripoli, Lebanon. 
+elmohamadrachid@yahoo.fr.
+(2)Department of Anatomy, UFR Sante, Besancon, France.
+(3)Department of Neurology, CHU, Besancon, France.
+(4)Department of Radiology, Doctors Center, Beirut, Lebanon.
+
+OBJECTIVE: The purpose of our study was to determine the main anatomical 
+features of the calcarine sulcus using a 3-T MRI.
+METHODS: Fifty human brains have been explored using an MRI 3-T in Doctors 
+Center in Beirut (Lebanon).
+RESULTS: The calcarine sulcus was identified in 100% of cases. In most cases, it 
+had a continuous aspect with several peaks. In all our specimens, the calcarine 
+sulcus crosses the parieto-occipital fissure. The majority of their collateral 
+branches and their connections with other sulci were located at the level of the 
+calcarine sulcus properly. In the majority of specimens, the deepest part of the 
+anterior calcarine sulcus forms a protrusion in the occipital horn of the 
+lateral ventricle called calcar avis.
+CONCLUSION: Our study emphasizes the fact that the course patterns of the 
+calcarine sulcus are highly variable. The description of the main anatomical 
+features of the calcarine sulcus obtained from our study can be used as a 
+reference for fMRI exploration and is useful for brain surgery.
+
+DOI: 10.1007/s00276-018-2118-x
+PMID: 30430185 [Indexed for MEDLINE]

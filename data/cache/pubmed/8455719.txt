@@ -1,0 +1,29 @@
+1. Nature. 1993 Mar 25;362(6418):342-5. doi: 10.1038/362342a0.
+
+The neural correlates of the verbal component of working memory.
+
+Paulesu E(1), Frith CD, Frackowiak RS.
+
+Author information:
+(1)MRC Cyclotron Unit, Hammersmith Hospital, London, UK.
+
+Comment in
+    Nature. 1993 Jun 17;363(6430):583-4. doi: 10.1038/363583a0.
+
+By repeating words 'in our head', verbal material (such as telephone numbers) 
+can be kept in working memory almost indefinitely. This 'articulatory loop' 
+includes a subvocal rehearsal system and a phonological store. Little is known 
+about neural correlates of this model of verbal short-term memory. We therefore 
+measured regional cerebral blood flow, an index of neuronal activity, in 
+volunteers performing a task engaging both components of the articulatory loop 
+(short-term memory for letters) and a task which engages only the subvocal 
+rehearsal system (rhyming judgement for letters). Stimuli were presented 
+visually and the subjects did not speak. We report here that comparisons of 
+distribution of cerebral blood flow in these conditions localized the 
+phonological store to the left supramarginal gyrus whereas the subvocal 
+rehearsal system was associated with Broca's area. This is, to our knowledge, 
+the first demonstration of the normal anatomy of the components of the 
+'articulatory loop'.
+
+DOI: 10.1038/362342a0
+PMID: 8455719 [Indexed for MEDLINE]

@@ -1,0 +1,37 @@
+1. Hum Brain Mapp. 2001 Jun;13(2):55-73. doi: 10.1002/hbm.1025.
+
+Sensorimotor mapping of the human cerebellum: fMRI evidence of somatotopic 
+organization.
+
+Grodd W(1), Hülsmann E, Lotze M, Wildgruber D, Erb M.
+
+Author information:
+(1)Section Experimental Magnetic Resonance of CNS, Department of Neuroradiology, 
+University of Tübingen, Germany. wolfgang.grodd@med.uni-tuebingen.de
+
+Functional magnetic resonance imaging (fMRI) was employed to determine areas of 
+activation in the cerebellar cortex in 46 human subjects during a series of 
+motor tasks. To reduce the variance due to differences in individual anatomy, a 
+specific transformational procedure for the cerebellum was introduced. The 
+activation areas for movements of lips, tongue, hands, and feet were determined 
+and found to be sharply confined to lobules and sublobules and their sagittal 
+zones in the rostral and caudal spino-cerebellar cortex. There was a clear 
+symmetry mirroring at the midline. The activation mapped as two distinct 
+homunculoid representations. One, a more extended representation, was located 
+upside down in the superior cerebellum, and a second one, doubled and smaller, 
+in the inferior cerebellum. The two representations were remarkably similar to 
+those proposed by Snider and Eldred [1951] five decades ago. In the upper 
+representation, an intralimb somatotopy for the right elbow, wrist, and fingers 
+was revealed. The maps seem to confirm earlier electrophysiological findings of 
+sagittal zones in animals. They differ, however, from micromapping reports on 
+fractured somatotopic maps in the cerebellar cortex of mammals. We assume that 
+the representations that we observed are not solely the result of spatial 
+integration of hemodynamic events underlying the fMRI method and may reflect 
+integration of afferent peripheral and central information in the cerebellar 
+cortex.
+
+Copyright 2001 Wiley-Liss, Inc.
+
+DOI: 10.1002/hbm.1025
+PMCID: PMC6871814
+PMID: 11346886 [Indexed for MEDLINE]

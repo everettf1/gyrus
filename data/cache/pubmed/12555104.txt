@@ -1,0 +1,21 @@
+1. Nat Neurosci. 2003 Feb;6(2):119-26. doi: 10.1038/nn0203-119.
+
+A framework for consciousness.
+
+Crick F(1), Koch C.
+
+Author information:
+(1)Francis Crick is at the Salk Institute for Biological Studies, 10010 N. 
+Torrey Pines Road, La Jolla, California 92037, USA.
+
+Here we summarize our present approach to the problem of consciousness. After an 
+introduction outlining our general strategy, we describe what is meant by the 
+term 'framework' and set it out under ten headings. This framework offers a 
+coherent scheme for explaining the neural correlates of (visual) consciousness 
+in terms of competing cellular assemblies. Most of the ideas we favor have been 
+suggested before, but their combination is original. We also outline some 
+general experimental approaches to the problem and, finally, acknowledge some 
+relevant aspects of the brain that have been left out of the proposed framework.
+
+DOI: 10.1038/nn0203-119
+PMID: 12555104 [Indexed for MEDLINE]

@@ -1,0 +1,24 @@
+1. Brain. 2003 Aug;126(Pt 8):1830-7. doi: 10.1093/brain/awg180. Epub 2003 Jun 23.
+
+Ventromedial frontal cortex mediates affective shifting in humans: evidence from 
+a reversal learning paradigm.
+
+Fellows LK(1), Farah MJ.
+
+Author information:
+(1)Center for Cognitive Neuroscience, University of Pennsylvania, 3815 Walnut 
+St, Philadelphia, PA 19104-6196, USA. lesleyf@psych.upenn.edu
+
+How do the frontal lobes support behavioural flexibility? One key element is the 
+ability to adjust responses when the reinforcement value of stimuli change. In 
+monkeys, this ability--a form of affective shifting known as reversal 
+learning--depends on orbitofrontal cortex. The present study examines the 
+anatomical bases of reversal learning in humans. Subjects with lesions of the 
+ventromedial prefrontal cortex were compared with a group with dorsolateral 
+frontal lobe damage, as well as with normal controls on a simple reversal 
+learning task. Neither form of frontal damage affected initial 
+stimulus-reinforcement learning; ventromedial frontal damage selectively 
+impaired reversal learning.
+
+DOI: 10.1093/brain/awg180
+PMID: 12821528 [Indexed for MEDLINE]

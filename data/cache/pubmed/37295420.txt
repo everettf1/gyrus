@@ -1,0 +1,56 @@
+1. Neuron. 2023 Aug 16;111(16):2502-2512.e4. doi: 10.1016/j.neuron.2023.05.013. 
+Epub 2023 Jun 8.
+
+Causal evidence for the processing of bodily self in the anterior precuneus.
+
+Lyu D(1), Stieger JR(2), Xin C(2), Ma E(2), Lusk Z(2), Aparicio MK(3), Werbaneth 
+K(2), Perry CM(2), Deisseroth K(4), Buch V(5), Parvizi J(6).
+
+Author information:
+(1)Laboratory of Behavioral and Cognitive Neuroscience, Stanford University 
+School of Medicine, Stanford, CA, USA; Human Intracranial Cognitive 
+Electrophysiology Program, Stanford University School of Medicine, Stanford, CA, 
+USA; Departments of Neurology and Neurological Sciences, Stanford University 
+School of Medicine, Stanford, CA, USA. Electronic address: dl577@stanford.edu.
+(2)Laboratory of Behavioral and Cognitive Neuroscience, Stanford University 
+School of Medicine, Stanford, CA, USA; Human Intracranial Cognitive 
+Electrophysiology Program, Stanford University School of Medicine, Stanford, CA, 
+USA; Departments of Neurology and Neurological Sciences, Stanford University 
+School of Medicine, Stanford, CA, USA.
+(3)Laboratory of Behavioral and Cognitive Neuroscience, Stanford University 
+School of Medicine, Stanford, CA, USA.
+(4)Departments of Psychiatry, Stanford University School of Medicine, Stanford, 
+CA, USA; Howard Hughes Medical Institute, Stanford University School of 
+Medicine, Stanford, CA, USA.
+(5)Human Intracranial Cognitive Electrophysiology Program, Stanford University 
+School of Medicine, Stanford, CA, USA; Departments of Neurosurgery, Stanford 
+University School of Medicine, Stanford, CA, USA.
+(6)Laboratory of Behavioral and Cognitive Neuroscience, Stanford University 
+School of Medicine, Stanford, CA, USA; Human Intracranial Cognitive 
+Electrophysiology Program, Stanford University School of Medicine, Stanford, CA, 
+USA; Departments of Neurology and Neurological Sciences, Stanford University 
+School of Medicine, Stanford, CA, USA; Departments of Neurosurgery, Stanford 
+University School of Medicine, Stanford, CA, USA. Electronic address: 
+jparvizi@stanford.edu.
+
+To probe the causal importance of the human posteromedial cortex (PMC) in 
+processing the sense of self, we studied a rare cohort of nine patients with 
+electrodes implanted bilaterally in the precuneus, posterior cingulate, and 
+retrosplenial regions with a combination of neuroimaging, intracranial 
+recordings, and direct cortical stimulations. In all participants, the 
+stimulation of specific sites within the anterior precuneus (aPCu) caused 
+dissociative changes in physical and spatial domains. Using single-pulse 
+electrical stimulations and neuroimaging, we present effective and resting-state 
+connectivity of aPCu hot zone with the rest of the brain and show that they are 
+located outside the boundaries of the default mode network (DMN) but connected 
+reciprocally with it. We propose that the function of this subregion of the PMC 
+is integral to a range of cognitive processes that require the self's physical 
+point of reference, given its location within a spatial environment.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2023.05.013
+PMID: 37295420 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no 
+competing interests.

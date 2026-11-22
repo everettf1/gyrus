@@ -1,0 +1,47 @@
+1. Proc Natl Acad Sci U S A. 2021 Jul 20;118(29):e2100522118. doi: 
+10.1073/pnas.2100522118.
+
+Altered sense of self during seizures in the posteromedial cortex.
+
+Parvizi J(1)(2), Braga RM(3)(2), Kucyi A(3)(2), Veit MJ(3)(2), Pinheiro-Chagas 
+P(3)(2), Perry C(3)(2), Sava-Segal C(3)(2), Zeineh M(4), van Staalduinen EK(4), 
+Henderson JM(5), Markert M(3)(2).
+
+Author information:
+(1)Stanford Human Intracranial Cognitive Electrophysiology Program, Stanford 
+University, Stanford, CA 94305; jparvizi@stanford.edu.
+(2)Department of Neurology and Neurological Science, Stanford University, 
+Stanford, CA 94305.
+(3)Stanford Human Intracranial Cognitive Electrophysiology Program, Stanford 
+University, Stanford, CA 94305.
+(4)Department of Radiology, Stanford University, Stanford, CA 94305.
+(5)Department of Neurosurgery, Stanford University, Stanford, CA 94305.
+
+The posteromedial cortex (PMC) is known to be a core node of the default mode 
+network. Given its anatomical location and blood supply pattern, the effects of 
+targeted disruption of this part of the brain are largely unknown. Here, we 
+report a rare case of a patient (S19_137) with confirmed seizures originating 
+within the PMC. Intracranial recordings confirmed the onset of seizures in the 
+right dorsal posterior cingulate cortex, adjacent to the marginal sulcus, likely 
+corresponding to Brodmann area 31. Upon the onset of seizures, the patient 
+reported a reproducible sense of self-dissociation-a condition he described as a 
+distorted awareness of the position of his body in space and feeling as if he 
+had temporarily become an outside observer to his own thoughts, his "me" having 
+become a separate entity that was listening to different parts of his brain 
+speak to each other. Importantly, 50-Hz electrical stimulation of the seizure 
+zone and a homotopical region within the contralateral PMC induced a 
+subjectively similar state, reproducibly. We supplement our clinical findings 
+with the definition of the patient's network anatomy at sites of interest using 
+cortico-cortical-evoked potentials, experimental and resting-state 
+electrophysiological connectivity, and individual-level functional imaging. This 
+rare case of patient S19_137 highlights the potential causal importance of the 
+PMC for integrating self-referential information and provides clues for future 
+mechanistic studies of self-dissociation in neuropsychiatric populations.
+
+Copyright © 2021 the Author(s). Published by PNAS.
+
+DOI: 10.1073/pnas.2100522118
+PMCID: PMC8307613
+PMID: 34272280 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interest.

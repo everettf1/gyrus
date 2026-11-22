@@ -1,0 +1,64 @@
+1. Neuroimage. 2022 Sep;258:119352. doi: 10.1016/j.neuroimage.2022.119352. Epub 
+2022 Jun 2.
+
+The human language effective connectome.
+
+Rolls ET(1), Deco G(2), Huang CC(3), Feng J(4).
+
+Author information:
+(1)Oxford Centre for Computational Neuroscience, Oxford, UK; Department of 
+Computer Science, University of Warwick, Coventry CV4 7AL, UK; Institute of 
+Science and Technology for Brain Inspired Intelligence, Fudan University, 
+Shanghai 200403, China. Electronic address: Edmund.Rolls@oxcns.org.
+(2)Department of Information and Communication Technologies, Center for Brain 
+and Cognition, Computational Neuroscience Group, Universitat Pompeu Fabra, Roc 
+Boronat 138, Barcelona 08018, Spain; Brain and Cognition, Pompeu Fabra 
+University, Barcelona 08018, Spain; Institució Catalana de la Recerca i Estudis 
+Avançats (ICREA), Universitat Pompeu Fabra, Passeig Lluís Companys 23, Barcelona 
+08010, Spain.
+(3)Shanghai Key Laboratory of Brain Functional Genomics (Ministry of Education), 
+School of Psychology and Cognitive Science, East China Normal University, 
+Shanghai 200602, China.
+(4)Department of Computer Science, University of Warwick, Coventry CV4 7AL, UK; 
+Institute of Science and Technology for Brain Inspired Intelligence, Fudan 
+University, Shanghai 200403, China.
+
+To advance understanding of brain networks involved in language, the effective 
+connectivity between 26 cortical regions implicated in language by a community 
+analysis and 360 cortical regions was measured in 171 humans from the Human 
+Connectome Project, and complemented with functional connectivity and diffusion 
+tractography, all using the HCP multimodal parcellation atlas. A (semantic) 
+network (Group 1) involving inferior cortical regions of the superior temporal 
+sulcus cortex (STS) with the adjacent inferior temporal visual cortex TE1a and 
+temporal pole TG, and the connected parietal PGi region, has effective 
+connectivity with inferior temporal visual cortex (TE) regions; with parietal 
+PFm which also has visual connectivity; with posterior cingulate cortex 
+memory-related regions; with the frontal pole, orbitofrontal cortex, and medial 
+prefrontal cortex; with the dorsolateral prefrontal cortex; and with 44 and 45 
+for output regions. It is proposed that this system can build in its temporal 
+lobe (STS and TG) and parietal parts (PGi and PGs) semantic representations of 
+objects incorporating especially their visual and reward properties. Another 
+(semantic) network (Group 3) involving superior regions of the superior temporal 
+sulcus cortex and more superior temporal lobe regions including STGa, auditory 
+A5, TPOJ1, the STV and the Peri-Sylvian Language area (PSL) has effective 
+connectivity with auditory areas (A1, A4, A5, Pbelt); with relatively early 
+visual areas involved in motion, e.g., MT and MST, and faces/words (FFC); with 
+somatosensory regions (frontal opercular FOP, insula and parietal PF); with 
+other TPOJ regions; and with the inferior frontal gyrus regions (IFJa and IFSp). 
+It is proposed that this system builds semantic representations specialising in 
+auditory and related facial motion information useful in theory of mind and 
+somatosensory / body image information, with outputs directed not only to 
+regions 44 and 45, but also to premotor 55b and midcingulate premotor cortex. 
+Both semantic networks (Groups 1 and 3) have access to the hippocampal episodic 
+memory system via parahippocampal TF. A third largely frontal network (Group 2) 
+(44, 45, 47l; 55b; the Superior Frontal Language region SFL; and including 
+temporal pole TGv) receives effective connectivity from the two semantic 
+systems, and is implicated in syntax and speech output.
+
+Copyright © 2022 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2022.119352
+PMID: 35659999 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+have no competing interests to declare.

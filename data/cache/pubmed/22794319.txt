@@ -1,0 +1,44 @@
+1. J Neurosurg. 2012 Sep;117(3):466-73. doi: 10.3171/2012.6.JNS111981. Epub 2012 
+Jul 13.
+
+Intraoperative subcortical electrical mapping of optic radiations in awake 
+surgery for glioma involving visual pathways.
+
+Gras-Combe G(1), Moritz-Gasser S, Herbet G, Duffau H.
+
+Author information:
+(1)Department of Neurosurgery, Hôpital Gui de Chauliac, Montpellier University 
+Medical Center, Montpellier, France.
+
+Comment in
+    J Neurosurg. 2012 Sep;117(3):463-4; discussion 464-5. doi: 
+10.3171/2012.2.JNS12157.
+
+OBJECT: Preservation of the visual field in glioma surgery, especially avoidance 
+of hemianopia, is crucial for patients' quality of life, particularly for 
+driving. Recent studies used tractography or cortical occipital stimulation to 
+try to avoid visual deficit. However, optic radiations have not been directly 
+mapped intraoperatively. The authors present, for the first time to their 
+knowledge, a consecutive series of awake surgeries for cerebral glioma with 
+intrasurgical identification and preservation of visual pathways using 
+subcortical electrical mapping.
+METHODS: Fourteen patients underwent awake resection of a glioma (1 WHO Grade I, 
+11 WHO Grade II, 2 WHO Grade III) involving the optic radiations. The patients 
+had no presurgical visual field deficit. Intraoperatively, a picture-naming task 
+was used, with presentation of 2 objects situated diagonally on a screen divided 
+into 4 quadrants. An image was presented in the quadrant to be saved and another 
+image was presented in the opposite quadrant. Direct subcortical 
+electrostimulation was repeatedly performed without the patient's knowledge, 
+until optic radiations were identified (transient visual disturbances). All 
+patients underwent an objective visual field assessment 3 months after surgery.
+RESULTS: All patients experienced visual symptoms during stimulation. These 
+disturbances led the authors to stop the tumor resection at that level. 
+Postoperatively, only 1 patient had a permanent hemianopia, despite an expected 
+quadrantanopia in 12 cases. The mean extent of resection was 93.6% (range 
+85%-100%).
+CONCLUSIONS: Online identification of optic radiations by direct subcortical 
+electrostimulation is a reliable and effective method to avoid permanent 
+hemianopia in surgery for gliomas involving visual pathways.
+
+DOI: 10.3171/2012.6.JNS111981
+PMID: 22794319 [Indexed for MEDLINE]

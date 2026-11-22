@@ -1,0 +1,41 @@
+1. Neurology. 2017 Feb 14;88(7):685-691. doi: 10.1212/WNL.0000000000003607. Epub 
+2017 Jan 18.
+
+Direct cortical stimulation of human posteromedial cortex.
+
+Foster BL(1), Parvizi J(1).
+
+Author information:
+(1)From the Laboratory of Behavioral and Cognitive Neuroscience (B.L.F., J.P.), 
+Stanford Human Intracranial Cognitive Electrophysiology Program, Stanford 
+University, CA; and Departments of Neurosurgery and Neuroscience (B.L.F.), 
+Baylor College of Medicine, Houston, TX. bfoster@bcm.edu parvizi@stanford.edu.
+
+BACKGROUND: The posteromedial cortex (PMC) is a collective term for an 
+anatomically heterogeneous area of the brain constituting a core node of the 
+human default mode network (DMN), which is engaged during internally focused 
+subjective cognition such as autobiographical memory.
+METHODS: We explored the effects of causal perturbations of PMC with direct 
+electric brain stimulation (EBS) during presurgical epilepsy monitoring with 
+intracranial EEG electrodes.
+RESULTS: Data were collected from 885 stimulations in 25 patients implanted with 
+intracranial electrodes across the PMC. While EBS of regions immediately dorsal 
+or ventral to the PMC reliably produced somatomotor or visual effects, 
+respectively, we found no observable behavioral or subjectively reported effects 
+when sites within the boundaries of PMC were electrically perturbed. In each 
+patient, null effects of PMC stimulation were observed for sites in which 
+intracranial recordings had clearly demonstrated electrophysiologic responses 
+during autobiographical recall.
+CONCLUSIONS: Direct electric modulation of the human PMC produced null effects 
+when standard functional mapping methods were used. More sophisticated 
+stimulation paradigms (e.g., EBS during experimental cognitive tests) will be 
+required for testing the causal contribution of PMC to human cognition and 
+subjective experience. Nonetheless, our findings suggest that some extant 
+theories of PMC and DMN contribution to human awareness and subjective conscious 
+states require cautious re-examination.
+
+© 2017 American Academy of Neurology.
+
+DOI: 10.1212/WNL.0000000000003607
+PMCID: PMC5317378
+PMID: 28100728 [Indexed for MEDLINE]

@@ -1,0 +1,29 @@
+1. Curr Biol. 2005 Jan 26;15(2):122-8. doi: 10.1016/j.cub.2005.01.006.
+
+Volition and conflict in human medial frontal cortex.
+
+Nachev P(1), Rees G, Parton A, Kennard C, Husain M.
+
+Author information:
+(1)Department of Visual Neuroscience, Imperial College London, St Dunstan's 
+Road, London W6 8RP, United Kingdom.
+
+Controversy surrounds the role of human medial frontal cortex in controlling 
+actions. Although damage to this area leads to severe difficulties in 
+spontaneously initiating actions, the precise mechanisms underlying such 
+"volitional" deficits remain to be established. Previous studies have implicated 
+the medial frontal cortex in conflict monitoring and the control of voluntary 
+action, suggesting that these key processes are functionally related or share 
+neural substrates. Here, we combine a novel behavioral paradigm with functional 
+imaging of the oculomotor system to reveal, for the first time, a functional 
+subdivision of the pre-supplementary motor area (pre-SMA) into anatomically 
+distinct areas that respond exclusively to either volition or conflict. We also 
+demonstrate that activity in the supplementary eye field (SEF) distinguishes 
+between success and failure in changing voluntary action plans during conflict, 
+suggesting a role for the SEF in implementing the resolution of conflicting 
+actions. We propose a functional architecture of human medial frontal cortex 
+that incorporates the generation of action plans and the resolution of conflict.
+
+DOI: 10.1016/j.cub.2005.01.006
+PMCID: PMC2648721
+PMID: 15668167 [Indexed for MEDLINE]

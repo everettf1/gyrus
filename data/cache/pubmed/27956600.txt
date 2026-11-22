@@ -1,0 +1,47 @@
+1. Proc Natl Acad Sci U S A. 2016 Dec 27;113(52):15108-15113. doi: 
+10.1073/pnas.1614038114. Epub 2016 Dec 12.
+
+Revealing the dual streams of speech processing.
+
+Fridriksson J(1)(2), Yourganov G(3), Bonilha L(4), Basilakos A(5), Den Ouden 
+DB(5), Rorden C(2)(3).
+
+Author information:
+(1)Department of Communication Science & Disorders, University of South 
+Carolina, Columbia, SC 29208; jfridrik@sc.edu.
+(2)McCausland Center for Brain Imaging, University of South Carolina, Columbia, 
+SC 29203.
+(3)Department of Psychology, University of South Carolina, Columbia, SC 29208.
+(4)Department of Neurology, Medical University of South Carolina, Charleston, SC 
+29425.
+(5)Department of Communication Science & Disorders, University of South 
+Carolina, Columbia, SC 29208.
+
+Several dual route models of human speech processing have been proposed 
+suggesting a large-scale anatomical division between cortical regions that 
+support motor-phonological aspects vs. lexical-semantic aspects of speech 
+processing. However, to date, there is no complete agreement on what areas 
+subserve each route or the nature of interactions across these routes that 
+enables human speech processing. Relying on an extensive behavioral and 
+neuroimaging assessment of a large sample of stroke survivors, we used a 
+data-driven approach using principal components analysis of lesion-symptom 
+mapping to identify brain regions crucial for performance on clusters of 
+behavioral tasks without a priori separation into task types. Distinct 
+anatomical boundaries were revealed between a dorsal frontoparietal stream and a 
+ventral temporal-frontal stream associated with separate components. Collapsing 
+over the tasks primarily supported by these streams, we characterize the dorsal 
+stream as a form-to-articulation pathway and the ventral stream as a 
+form-to-meaning pathway. This characterization of the division in the data 
+reflects both the overlap between tasks supported by the two streams as well as 
+the observation that there is a bias for phonological production tasks supported 
+by the dorsal stream and lexical-semantic comprehension tasks supported by the 
+ventral stream. As such, our findings show a division between two processing 
+routes that underlie human speech processing and provide an empirical foundation 
+for studying potential computational differences that distinguish between the 
+two routes.
+
+DOI: 10.1073/pnas.1614038114
+PMCID: PMC5206517
+PMID: 27956600 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

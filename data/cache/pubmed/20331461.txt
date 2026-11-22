@@ -1,0 +1,61 @@
+1. Epilepsia. 2010 May;51(5):899-908. doi: 10.1111/j.1528-1167.2010.02536.x. Epub
+ 2010 Mar 17.
+
+Electrical stimulation of the anterior nucleus of thalamus for treatment of 
+refractory epilepsy.
+
+Fisher R(1), Salanova V, Witt T, Worth R, Henry T, Gross R, Oommen K, Osorio I, 
+Nazzaro J, Labar D, Kaplitt M, Sperling M, Sandok E, Neal J, Handforth A, Stern 
+J, DeSalles A, Chung S, Shetter A, Bergen D, Bakay R, Henderson J, French J, 
+Baltuch G, Rosenfeld W, Youkilis A, Marks W, Garcia P, Barbaro N, Fountain N, 
+Bazil C, Goodman R, McKhann G, Babu Krishnamurthy K, Papavassiliou S, Epstein C, 
+Pollard J, Tonder L, Grebin J, Coffey R, Graves N; SANTE Study Group.
+
+Collaborators: Bazil C, Dichter M, Elias W, Francel P, Frysinger R, Graber K, 
+Grant J, Heit G, Herman S, King JA, Kobylarz E, Lapp K, LaRoche S, Lippmann S, 
+Maganti R, Mapstone T, Sabau D, Schrader L, Sharan A, Smith M, Treiman D, 
+Wilkinson S, Wong S, Zangaladze A, Adderley S, Bridges B, Callanan M, Cordero D, 
+Fields C, Johnson M, Kavalir M, Kretschmar P, Macpherson C, Mancl K, Manley M, 
+Marsh S, Montgomery J, Mundt P, Nekkalapu PP, Nikolov B, Palmer B, Perdue L, 
+Randall A, Smith D, Smith L, Strybing K, Stott L, Taylor R, Thompson S, Timenova 
+Z, Vogelsong B, Van Amburg C, Burdelle M, Clements S, Cox R, Dolin R, Fulk M, 
+Kaur HR, Hirsch L, Hoeppner T, Hurt A, Komosa M, Krahl S, Ponticello L, Quigg M, 
+Quinn H, Rossi M, Schaefer P, Skidmore C, Sundstrom D, Trudeau P, Volz M, Wang 
+N, Will L, Young C.
+
+Author information:
+(1)Department of Neurology, Stanford University, Stanford, California 
+94305-5235, USA. robert.fisher@stanford.edu
+
+Comment in
+    Clin Neurophysiol. 2015 May;126(5):1054-6. doi: 
+10.1016/j.clinph.2014.08.008.
+
+PURPOSE: We report a multicenter, double-blind, randomized trial of bilateral 
+stimulation of the anterior nuclei of the thalamus for localization-related 
+epilepsy.
+METHODS: Participants were adults with medically refractory partial seizures, 
+including secondarily generalized seizures. Half received stimulation and half 
+no stimulation during a 3-month blinded phase; then all received unblinded 
+stimulation.
+RESULTS: One hundred ten participants were randomized. Baseline monthly median 
+seizure frequency was 19.5. In the last month of the blinded phase the 
+stimulated group had a 29% greater reduction in seizures compared with the 
+control group, as estimated by a generalized estimating equations (GEE) model (p 
+= 0.002). Unadjusted median declines at the end of the blinded phase were 14.5% 
+in the control group and 40.4% in the stimulated group. Complex partial and 
+"most severe" seizures were significantly reduced by stimulation. By 2 years, 
+there was a 56% median percent reduction in seizure frequency; 54% of patients 
+had a seizure reduction of at least 50%, and 14 patients were seizure-free for 
+at least 6 months. Five deaths occurred and none were from implantation or 
+stimulation. No participant had symptomatic hemorrhage or brain infection. Two 
+participants had acute, transient stimulation-associated seizures. Cognition and 
+mood showed no group differences, but participants in the stimulated group were 
+more likely to report depression or memory problems as adverse events.
+DISCUSSION: Bilateral stimulation of the anterior nuclei of the thalamus reduces 
+seizures. Benefit persisted for 2 years of study. Complication rates were 
+modest. Deep brain stimulation of the anterior thalamus is useful for some 
+people with medically refractory partial and secondarily generalized seizures.
+
+DOI: 10.1111/j.1528-1167.2010.02536.x
+PMID: 20331461 [Indexed for MEDLINE]

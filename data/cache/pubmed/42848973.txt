@@ -1,0 +1,60 @@
+1. Neurology. 2026 Nov 10;107(9):e218624. doi: 10.1212/WNL.0000000000218624. Epub
+ 2026 Oct 8.
+
+Acute Imbalance Syndrome vs Acute Vestibular Syndrome: Clinical and 
+Topographical Differentiation.
+
+Möhwald K(1)(2), Hadzhikolev H(1)(2), Eberle L(1)(2), Jaufenthaler P(1)(2), 
+Strupp M(1)(2), Jahn K(1)(3), Conrad J(4), Zwergal A(1)(2).
+
+Author information:
+(1)German Center for Vertigo and Balance Disorders, DSGZ, LMU University 
+Hospital, LMU Medizin, LMU Munich, Germany.
+(2)Department of Neurology, LMU University Hospital, LMU Medizin, LMU Munich, 
+Germany.
+(3)Department of Neurology, Schön Klinik Bad Aibling, Germany; and.
+(4)Division for Neurodegenerative Diseases, Department of Neurology, University 
+Medicine Mannheim, Germany.
+
+BACKGROUND AND OBJECTIVES: Stroke is a major differential diagnosis in patients 
+with acute vertigo/dizziness or imbalance. Current diagnostic algorithms such as 
+head impulse test, gaze-evoked nystagmus, and test of skew are optimized for 
+presentations with spontaneous nystagmus (SPN), traditionally called acute 
+vestibular syndrome (AVS). However, in recent studies, a relevant proportion of 
+patients with stroke-related vertigo/dizziness had no SPN, but rather postural 
+or gait imbalance, a phenotype lately termed acute imbalance syndrome (AIS). We 
+aimed to outline the pathoanatomical differences of stroke-related AIS vs AVS 
+and its clinical implications.
+METHODS: Patients with MRI-proven stroke-related acute vertigo/dizziness or 
+imbalance were included in this emergency department (ED) cohort study at LMU 
+Hospital prospectively. Vestibular, ocular motor, and postural signs were 
+documented (including SPN presence/intensity by video oculography, postural 
+imbalance by posturography). Patients were classified as suffering from AIS or 
+AVS based on the presence of SPN. Stroke lesion distribution was depicted in 
+Montreal Neurological Institute space and supplemented by structural 
+disconnectome mapping from the lesion cores. Multivariate lesion symptom-mapping 
+based on support-vector regression and disconnectome mapping was applied for SPN 
+intensity and sway path as surrogate markers for AVS and AIS.
+RESULTS: Of 75 patients (age: 65.7 ± 13.3 years, 40% female), 58.7% were 
+diagnosed with AIS, 38.7% with AVS, and 2.7% with central positional vertigo. In 
+AIS, the lesion core was located in the anterior cerebellar lobe and deep 
+cerebellar nuclei (superior cerebellar artery/posterior inferior cerebellar 
+artery territory) connecting to the bilateral pontomesencephalic tegmentum 
+through the superior cerebellar peduncle. AVS stroke lesions were mostly located 
+in the posterior cerebellar/flocculonodular lobe (posterior inferior cerebellar 
+artery/anterior inferior cerebellar artery territory) and connected to the 
+ipsilesional vestibular nucleus (VN) and bilateral medial longitudinal fascicle 
+(MLF) through the inferior cerebellar peduncle. SPN intensity correlated with 
+voxels in the cerebellar lobules VI-IX connecting to VN and MLF. Postural sway 
+was associated with a small local cluster in the cerebellar Crus I.
+DISCUSSION: AIS accounts for more than half of patients with stroke-related 
+vertigo/dizziness or imbalance. AIS lesions were located in the anterior 
+cerebellar lobe, disturbing cerebellar-pontomesencephalic networks for posture 
+and gait control. AVS lesions affected the posterior cerebellar/flocculonodular 
+lobe and associated vestibulo-ocular reflex networks. Recognition of both 
+clinical phenotypes is essential to identify all strokes among patients with 
+vertigo/dizziness in the emergency setting.
+TRIAL REGISTRATION INFORMATION: DRKS00008992; U1111-1172-8719.
+
+DOI: 10.1212/WNL.0000000000218624
+PMID: 42848973 [Indexed for MEDLINE]

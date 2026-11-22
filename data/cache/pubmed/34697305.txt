@@ -1,0 +1,43 @@
+1. Nat Commun. 2021 Oct 25;12(1):6164. doi: 10.1038/s41467-021-26327-3.
+
+Concept neurons in the human medial temporal lobe flexibly represent abstract 
+relations between concepts.
+
+Bausch M(1), Niediek J(2), Reber TP(2)(3), Mackay S(2), Boström J(4), Elger 
+CE(2), Mormann F(5).
+
+Author information:
+(1)Department of Epileptology, University of Bonn Medical Center, Bonn, 53127, 
+Germany. marcel.bausch.ukb@gmail.com.
+(2)Department of Epileptology, University of Bonn Medical Center, Bonn, 53127, 
+Germany.
+(3)Faculty of Psychology, UniDistance Suisse, Brig, Switzerland.
+(4)Department of Neurosurgery, University of Bonn Medical Center, Bonn, 53127, 
+Germany.
+(5)Department of Epileptology, University of Bonn Medical Center, Bonn, 53127, 
+Germany. florian.mormann@ukbonn.de.
+
+Concept neurons in the medial temporal lobe respond to semantic features of 
+presented stimuli. Analyzing 61 concept neurons recorded from twelve patients 
+who underwent surgery to treat epilepsy, we show that firing patterns of concept 
+neurons encode relations between concepts during a picture comparison task. 
+Thirty-three of these responded to non-preferred stimuli with a delayed but 
+well-defined onset whenever the task required a comparison to a 
+response-eliciting concept, but not otherwise. Supporting recent theories of 
+working memory, concept neurons increased firing whenever attention was directed 
+towards this concept and could be reactivated after complete activity silence. 
+Population cross-correlations of pairs of concept neurons exhibited 
+order-dependent asymmetric peaks specifically when their response-eliciting 
+concepts were to be compared. Our data are consistent with synaptic mechanisms 
+that support reinstatement of concepts and their relations after activity 
+silence, flexibly induced through task-specific sequential activation. This way 
+arbitrary contents of experience could become interconnected in both working and 
+long-term memory.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41467-021-26327-3
+PMCID: PMC8545952
+PMID: 34697305 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

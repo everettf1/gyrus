@@ -1,0 +1,36 @@
+1. Proc Natl Acad Sci U S A. 2012 Sep 4;109(36):14681-6. doi: 
+10.1073/pnas.1206608109. Epub 2012 Aug 20.
+
+Lesion mapping of cognitive control and value-based decision making in the 
+prefrontal cortex.
+
+Gläscher J(1), Adolphs R, Damasio H, Bechara A, Rudrauf D, Calamia M, Paul LK, 
+Tranel D.
+
+Author information:
+(1)Division of Humanities and Social Sciences and Biology, California Institute 
+of Technology, Pasadena, CA 91125, USA. glaescher@uke.uni-hamburg.de
+
+A considerable body of previous research on the prefrontal cortex (PFC) has 
+helped characterize the regional specificity of various cognitive functions, 
+such as cognitive control and decision making. Here we provide definitive 
+findings on this topic, using a neuropsychological approach that takes advantage 
+of a unique dataset accrued over several decades. We applied voxel-based 
+lesion-symptom mapping in 344 individuals with focal lesions (165 involving the 
+PFC) who had been tested on a comprehensive battery of neuropsychological tasks. 
+Two distinct functional-anatomical networks were revealed within the PFC: one 
+associated with cognitive control (response inhibition, conflict monitoring, and 
+switching), which included the dorsolateral prefrontal cortex and anterior 
+cingulate cortex and a second associated with value-based decision-making, which 
+included the orbitofrontal, ventromedial, and frontopolar cortex. Furthermore, 
+cognitive control tasks shared a common performance factor related to set 
+shifting that was linked to the rostral anterior cingulate cortex. By contrast, 
+regions in the ventral PFC were required for decision-making. These findings 
+provide detailed causal evidence for a remarkable functional-anatomical 
+specificity in the human PFC.
+
+DOI: 10.1073/pnas.1206608109
+PMCID: PMC3437894
+PMID: 22908286 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

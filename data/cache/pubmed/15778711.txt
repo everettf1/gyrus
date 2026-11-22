@@ -1,0 +1,32 @@
+1. Nat Neurosci. 2005 Apr;8(4):505-11. doi: 10.1038/nn1430. Epub 2005 Mar 20.
+
+Virtual lesions of the anterior intraparietal area disrupt goal-dependent 
+on-line adjustments of grasp.
+
+Tunik E(1), Frey SH, Grafton ST.
+
+Author information:
+(1)HB 6162 Moore Hall, Department of Psychological and Brain Sciences, Center 
+for Cognitive Neuroscience, Dartmouth College, Hanover, New Hampshire 03755, 
+USA.
+
+Adaptive motor behavior requires efficient error detection and correction. The 
+posterior parietal cortex is critical for on-line control of reach-to-grasp 
+movements. Here we show a causal relationship between disruption of cortical 
+activity within the anterior intraparietal sulcus (aIPS) by transcranial 
+magnetic stimulation (TMS) and disruption of goal-directed prehensile actions 
+(either grip size or forearm rotation, depending on the task goal, with reaching 
+preserved in either case). Deficits were elicited by applying TMS within 65 ms 
+after object perturbation, which attributes a rapid control process on the basis 
+of visual feedback to aIPS. No aperture deficits were produced when TMS was 
+applied to a more caudal region within the intraparietal sulcus, to the 
+parieto-occipital complex (putative V6, V6A) or to the hand area of primary 
+motor cortex. We contend that aIPS is critical for dynamic error detection 
+during goal-dependent reach-to-grasp action that is visually guided.
+
+DOI: 10.1038/nn1430
+PMCID: PMC10719865
+PMID: 15778711 [Indexed for MEDLINE]
+
+Conflict of interest statement: COMPETING INTERESTS STATEMENT The authors 
+declare that they have no competing financial interests.

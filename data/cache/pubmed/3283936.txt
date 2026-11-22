@@ -1,0 +1,32 @@
+1. Science. 1988 May 6;240(4853):740-9. doi: 10.1126/science.3283936.
+
+Segregation of form, color, movement, and depth: anatomy, physiology, and 
+perception.
+
+Livingstone M(1), Hubel D.
+
+Author information:
+(1)Department of Neurobiology, Harvard Medical School, Boston, MA 02115.
+
+Anatomical and physiological observations in monkeys indicate that the primate 
+visual system consists of several separate and independent subdivisions that 
+analyze different aspects of the same retinal image: cells in cortical visual 
+areas 1 and 2 and higher visual areas are segregated into three interdigitating 
+subdivisions that differ in their selectivity for color, stereopsis, movement, 
+and orientation. The pathways selective for form and color seem to be derived 
+mainly from the parvocellular geniculate subdivisions, the depth- and 
+movement-selective components from the magnocellular. At lower levels, in the 
+retina and in the geniculate, cells in these two subdivisions differ in their 
+color selectivity, contrast sensitivity, temporal properties, and spatial 
+resolution. These major differences in the properties of cells at lower levels 
+in each of the subdivisions led to the prediction that different visual 
+functions, such as color, depth, movement, and form perception, should exhibit 
+corresponding differences. Human perceptual experiments are remarkably 
+consistent with these predictions. Moreover, perceptual experiments can be 
+designed to ask which subdivisions of the system are responsible for particular 
+visual abilities, such as figure/ground discrimination or perception of depth 
+from perspective or relative movement--functions that might be difficult to 
+deduce from single-cell response properties.
+
+DOI: 10.1126/science.3283936
+PMID: 3283936 [Indexed for MEDLINE]

@@ -1,0 +1,45 @@
+1. Neuroimage. 2016 Jun;133:98-110. doi: 10.1016/j.neuroimage.2016.02.056. Epub 
+2016 Feb 27.
+
+Amygdala subnuclei response and connectivity during emotional processing.
+
+Hrybouski S(1), Aghamohammadi-Sereshki A(1), Madan CR(2), Shafer AT(3), Baron 
+CA(4), Seres P(4), Beaulieu C(4), Olsen F(5), Malykhin NV(6).
+
+Author information:
+(1)Neuroscience and Mental Health Institute, University of Alberta, Edmonton, AB 
+T6G 2E1, Canada.
+(2)Department of Psychology, University of Alberta, Edmonton, AB T6G 2E9, 
+Canada; Department of Psychology, Boston College, Chestnut Hill, MA 02467, USA.
+(3)Neuroscience and Mental Health Institute, University of Alberta, Edmonton, AB 
+T6G 2E1, Canada; Institute of Gerontology, Wayne State University, Detroit, MI 
+48202, USA.
+(4)Department of Biomedical Engineering, University of Alberta, Edmonton, AB T6G 
+2V2, Canada.
+(5)Neuroscience and Mental Health Institute, University of Alberta, Edmonton, AB 
+T6G 2E1, Canada; Department of Biomedical Engineering, University of Alberta, 
+Edmonton, AB T6G 2V2, Canada.
+(6)Neuroscience and Mental Health Institute, University of Alberta, Edmonton, AB 
+T6G 2E1, Canada; Department of Biomedical Engineering, University of Alberta, 
+Edmonton, AB T6G 2V2, Canada; Department of Psychiatry, University of Alberta, 
+Edmonton, AB T6G 2B7, Canada. Electronic address: nikolai@ualberta.ca.
+
+The involvement of the human amygdala in emotion-related processing has been 
+studied using functional magnetic resonance imaging (fMRI) for many years. 
+However, despite the amygdala being comprised of several subnuclei, most studies 
+investigated the role of the entire amygdala in processing of emotions. Here we 
+combined a novel anatomical tracing protocol with event-related high-resolution 
+fMRI acquisition to study the responsiveness of the amygdala subnuclei to 
+negative emotional stimuli and to examine intra-amygdala functional 
+connectivity. The greatest sensitivity to the negative emotional stimuli was 
+observed in the centromedial amygdala, where the hemodynamic response amplitude 
+elicited by the negative emotional stimuli was greater and peaked later than for 
+neutral stimuli. Connectivity patterns converge with extant findings in animals, 
+such that the centromedial amygdala was more connected with the nuclei of the 
+basal amygdala than with the lateral amygdala. Current findings provide evidence 
+of functional specialization within the human amygdala.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2016.02.056
+PMID: 26926791 [Indexed for MEDLINE]

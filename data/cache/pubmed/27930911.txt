@@ -1,0 +1,52 @@
+1. Neuron. 2016 Dec 7;92(5):983-990. doi: 10.1016/j.neuron.2016.10.062.
+
+Direct Electrical Stimulation of the Human Entorhinal Region and Hippocampus 
+Impairs Memory.
+
+Jacobs J(1), Miller J(2), Lee SA(3), Coffey T(4), Watrous AJ(2), Sperling MR(5), 
+Sharan A(5), Worrell G(6), Berry B(6), Lega B(7), Jobst BC(8), Davis K(9), Gross 
+RE(10), Sheth SA(11), Ezzyat Y(12), Das SR(9), Stein J(9), Gorniak R(5), Kahana 
+MJ(12), Rizzuto DS(12).
+
+Author information:
+(1)Department of Biomedical Engineering, Columbia University, New York, NY 
+10027, USA. Electronic address: joshua.jacobs@columbia.edu.
+(2)Department of Biomedical Engineering, Columbia University, New York, NY 
+10027, USA.
+(3)Department of Biomedical Engineering, Columbia University, New York, NY 
+10027, USA; Center for Mind/Brain Sciences, University of Trento, 38068 
+Rovereto, Italy.
+(4)Department of Biomedical Engineering, Drexel University, Philadephia, PA 
+19104, USA.
+(5)Thomas Jefferson University, Philadelphia, PA 19107, USA.
+(6)Mayo Clinic, Rochester, MN 55905, USA.
+(7)University of Texas, Southwestern, Dallas, TX 75390, USA.
+(8)Geisel School of Medicine at Dartmouth, Hanover, NH 03755, USA.
+(9)Hospital of the University of Pennsylvania, Philadelphia, PA 19104, USA.
+(10)Department of Neurosurgery, Emory University, Atlanta, GA 30322, USA.
+(11)Department of Neurosurgery, Columbia University Medical Center, New York, NY 
+10032, USA.
+(12)Department of Psychology, University of Pennsylvania, Philadelphia, PA 
+19104, USA.
+
+Comment in
+    Nature. 2017 Feb 9;542(7640):173-174. doi: 10.1038/nature21497.
+
+Deep brain stimulation (DBS) has shown promise for treating a range of brain 
+disorders and neurological conditions. One recent study showed that DBS in the 
+entorhinal region improved the accuracy of human spatial memory. Based on this 
+line of work, we performed a series of experiments to more fully characterize 
+the effects of DBS in the medial temporal lobe on human memory. Neurosurgical 
+patients with implanted electrodes performed spatial and verbal-episodic memory 
+tasks. During the encoding periods of both tasks, subjects received electrical 
+stimulation at 50 Hz. In contrast to earlier work, electrical stimulation 
+impaired memory performance significantly in both spatial and verbal tasks. 
+Stimulation in both the entorhinal region and hippocampus caused decreased 
+memory performance. These findings indicate that the entorhinal region and 
+hippocampus are causally involved in human memory and suggest that refined 
+methods are needed to use DBS in these regions to improve memory.
+
+Copyright Â© 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2016.10.062
+PMID: 27930911 [Indexed for MEDLINE]

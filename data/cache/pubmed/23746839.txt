@@ -1,0 +1,47 @@
+1. Cell. 2013 Jun 6;153(6):1219-1227. doi: 10.1016/j.cell.2013.05.002.
+
+Dynamics of hippocampal neurogenesis in adult humans.
+
+Spalding KL(#)(1), Bergmann O(#)(1), Alkass K(1)(2), Bernard S(3), Salehpour 
+M(4), Huttner HB(1)(5), Boström E(1), Westerlund I(1), Vial C(3), Buchholz 
+BA(6), Possnert G(4), Mash DC(7), Druid H(2), Frisén J(1).
+
+Author information:
+(1)Department of Cell and Molecular Biology, Karolinska Institute, Stockholm, 
+Sweden.
+(2)Department of Oncology-Pathology, Karolinska Institute, Stockholm, Sweden.
+(3)Institut Camille Jordan, CNRS UMR 5208, University of Lyon, Villeurbanne, 
+France.
+(4)Department of Physics and Astronomy, Ion Physics, Uppsala University, SE-751 
+20, Sweden.
+(5)Department of Neurology, University of Erlangen-Nuremberg, Schwabachanlage 6, 
+91054 Erlangen, Germany.
+(6)Center for Accelerator Mass Spectrometry, Lawrence Livermore National 
+Laboratory, 7000 East Ave., L-397, Livermore, CA, USA.
+(7)Department of Neurology, Miller School of Medicine, University of Miami, 
+Miami, FL, USA.
+(#)Contributed equally
+
+Comment in
+    Cell. 2013 Jun 6;153(6):1183-4. doi: 10.1016/j.cell.2013.05.033.
+    Nat Rev Neurosci. 2013 Aug;14(8):522. doi: 10.1038/nrn3548.
+
+Adult-born hippocampal neurons are important for cognitive plasticity in 
+rodents. There is evidence for hippocampal neurogenesis in adult humans, 
+although whether its extent is sufficient to have functional significance has 
+been questioned. We have assessed the generation of hippocampal cells in humans 
+by measuring the concentration of nuclear-bomb-test-derived ¹⁴C in genomic DNA, 
+and we present an integrated model of the cell turnover dynamics. We found that 
+a large subpopulation of hippocampal neurons constituting one-third of the 
+neurons is subject to exchange. In adult humans, 700 new neurons are added in 
+each hippocampus per day, corresponding to an annual turnover of 1.75% of the 
+neurons within the renewing fraction, with a modest decline during aging. We 
+conclude that neurons are generated throughout adulthood and that the rates are 
+comparable in middle-aged humans and mice, suggesting that adult hippocampal 
+neurogenesis may contribute to human brain function.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2013.05.002
+PMCID: PMC4394608
+PMID: 23746839 [Indexed for MEDLINE]

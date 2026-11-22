@@ -1,0 +1,52 @@
+1. Brain. 2010 Jan;133(Pt 1):286-99. doi: 10.1093/brain/awp233. Epub 2009 Sep 16.
+
+Language networks in semantic dementia.
+
+Agosta F(1), Henry RG, Migliaccio R, Neuhaus J, Miller BL, Dronkers NF, Brambati 
+SM, Filippi M, Ogar JM, Wilson SM, Gorno-Tempini ML.
+
+Author information:
+(1)Memory and Aging Center, Department of Neurology, University of California, 
+San Francisco, 350 Parnassus Avenue, Suite 905, San Francisco, CA 94143-1207, 
+USA.
+
+Cognitive deficits in semantic dementia have been attributed to anterior 
+temporal lobe grey matter damage; however, key aspects of the syndrome could be 
+due to altered anatomical connectivity between language pathways involving the 
+temporal lobe. The aim of this study was to investigate the left 
+language-related cerebral pathways in semantic dementia using diffusion tensor 
+imaging-based tractography and to combine the findings with cortical anatomical 
+and functional magnetic resonance imaging data obtained during a reading 
+activation task. The left inferior longitudinal fasciculus, arcuate fasciculus 
+and fronto-parietal superior longitudinal fasciculus were tracked in five 
+semantic dementia patients and eight healthy controls. The left uncinate 
+fasciculus and the genu and splenium of the corpus callosum were also obtained 
+for comparison with previous studies. From each tract, mean diffusivity, 
+fractional anisotropy, as well as parallel and transverse diffusivities were 
+obtained. Diffusion tensor imaging results were related to grey and white matter 
+atrophy volume assessed by voxel-based morphometry and functional magnetic 
+resonance imaging activations during a reading task. Semantic dementia patients 
+had significantly higher mean diffusivity, parallel and transverse in the 
+inferior longitudinal fasciculus. The arcuate and uncinate fasciculi 
+demonstrated significantly higher mean diffusivity, parallel and transverse and 
+significantly lower fractional anisotropy. The fronto-parietal superior 
+longitudinal fasciculus was relatively spared, with a significant difference 
+observed for transverse diffusivity and fractional anisotropy, only. In the 
+corpus callosum, the genu showed lower fractional anisotropy compared with 
+controls, while no difference was found in the splenium. The left parietal 
+cortex did not show significant volume changes on voxel-based morphometry and 
+demonstrated normal functional magnetic resonance imaging activation in response 
+to reading items that stress sublexical phonological processing. This study 
+shows that semantic dementia is associated with anatomical damage to the major 
+superior and inferior temporal white matter connections of the left hemisphere 
+likely involved in semantic and lexical processes, with relative sparing of the 
+fronto-parietal superior longitudinal fasciculus. Fronto-parietal regions 
+connected by this tract were activated normally in the same patients during 
+sublexical reading. These findings contribute to our understanding of the 
+anatomical changes that occur in semantic dementia, and may further help to 
+explain the dissociation between marked single-word and object knowledge 
+deficits, but sparing of phonology and fluency in semantic dementia.
+
+DOI: 10.1093/brain/awp233
+PMCID: PMC2801321
+PMID: 19759202 [Indexed for MEDLINE]

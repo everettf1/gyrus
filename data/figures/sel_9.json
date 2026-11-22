@@ -1,0 +1,32 @@
+[
+ {
+  "region": "fusiform_face_area",
+  "pmid": "9151747",
+  "from": "Figure 1",
+  "caption": "One subject's brain slice. Top: the voxels outlined in green, in the right fusiform gyrus, responded more to faces than to objects, and their signal is plotted over the scan. Bottom: a different, more medial set of voxels showed the opposite preference.",
+  "notice": "The top trace rises in every face block (F) and falls in every object block (O). That tracks faces, which is a correlation; it does not by itself show the area is needed to recognise faces.",
+  "short": "Kanwisher et al. 1997, J Neurosci",
+  "license": "",
+  "file": "fusiform_face_area_9151747.webp"
+ },
+ {
+  "region": "fusiform_gyrus",
+  "pmid": "9151747",
+  "from": "Figure 1",
+  "caption": "Kanwisher's first look at the fusiform face area: voxels in the right fusiform gyrus (outlined in green) whose signal rose for faces and fell for objects, with the opposite pattern in a more medial region below.",
+  "notice": "The signal follows the face blocks (F) up and down; imaging like this shows a correlation with faces.",
+  "short": "Kanwisher et al. 1997, J Neurosci",
+  "license": "",
+  "file": "fusiform_gyrus_9151747.webp"
+ },
+ {
+  "region": "temporal_lobe",
+  "pmid": "9151747",
+  "from": "Figure 1",
+  "caption": "On the underside of the temporal lobe, part of the right fusiform gyrus (outlined in green) responded more to faces than to objects in this subject, and a more medial region did the reverse.",
+  "notice": "The trace climbs in each face block (F): the ventral temporal lobe holds category-selective regions, shown here by correlation.",
+  "short": "Kanwisher et al. 1997, J Neurosci",
+  "license": "",
+  "file": "temporal_lobe_9151747.webp"
+ }
+]

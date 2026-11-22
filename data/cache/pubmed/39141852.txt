@@ -1,0 +1,86 @@
+1. N Engl J Med. 2024 Aug 15;391(7):598-608. doi: 10.1056/NEJMoa2400645.
+
+Cognitive Motor Dissociation in Disorders of Consciousness.
+
+Bodien YG(1), Allanson J(1), Cardone P(1), Bonhomme A(1), Carmona J(1), Chatelle 
+C(1), Chennu S(1), Conte M(1), Dehaene S(1), Finoia P(1), Heinonen G(1), Hersh 
+JE(1), Kamau E(1), Lawrence PK(1), Lupson VC(1), Meydan A(1), Rohaut B(1), 
+Sanders WR(1), Sitt JD(1), Soddu A(1), Valente M(1), Velazquez A(1), Voss HU(1), 
+Vrosgou A(1), Claassen J(1), Edlow BL(1), Fins JJ(1), Gosseries O(1), Laureys 
+S(1), Menon D(1), Naccache L(1), Owen AM(1), Pickard J(1), Stamatakis EA(1), 
+Thibaut A(1), Victor JD(1), Giacino JT(1), Bagiella E(1), Schiff ND(1).
+
+Author information:
+(1)From the Department of Physical Medicine and Rehabilitation, Spaulding 
+Rehabilitation Hospital (Y.G.B., J.T.G.), and the Athinoula A. Martinos Center 
+for Biomedical Imaging, Massachusetts General Hospital (B.L.E.), Charlestown, 
+and the Center for Neurotechnology and Neurorecovery, Massachusetts General 
+Hospital (Y.G.B., C.C., P.K.L., A.M., W.R.S., B.L.E.), the Department of 
+Physical Medicine and Rehabilitation, Harvard Medical School (Y.G.B., J.T.G.), 
+and the Department of Neurology, Massachusetts General Hospital and Harvard 
+Medical School (Y.G.B., C.C., B.L.E.), Boston - all in Massachusetts; the 
+Department of Neurosciences, Addenbrookes Hospital (J.A.), and the Department of 
+Clinical Neurosciences (J.A., S.C., E.K., V.C.L., J.P., E.A.S.), the Division of 
+Neurosurgery, School of Clinical Medicine (S.C., P.F., E.K., J.P.), the Wolfson 
+Brain Imaging Centre (V.C.L., D.M., J.P.), and the Division of Anaesthesia, 
+Department of Medicine (D.M., E.A.S.), University of Cambridge, Cambridge, and 
+the School of Computing, University of Kent, Canterbury (S.C.) - all in the 
+United Kingdom; the Coma Science Group, GIGA Consciousness, University of Liege 
+(P.C., A.B., C.C., O.G., S.L., A.T.), and Centre du Cerveau, University Hospital 
+of Liege (P.C., A.B., C.C., O.G., A.T.), Liege, and the European Research 
+Council Executive Agency, Brussels (C.C.) - all in Belgium; the Department of 
+Neurology, Columbia University Irving Medical Center, New York-Presbyterian 
+Hospital (J. Carmona, G.H., A. Velazquez, A. Vrosgou, J. Claassen), the Feil 
+Family Brain and Mind Research Institute (M.C., J.E.H., J.D.V., N.D.S.), the 
+Division of Medical Ethics (J.E.H., J.J.F.), and the Departments of Neurology 
+(J.D.V., N.D.S.) and Radiology (H.U.V.), Weill Cornell Medicine, Rockefeller 
+University Hospital (J.J.F., J.D.V., N.D.S.), and the Department of Population 
+Health Science and Policy, Center for Biostatistics, Icahn School of Medicine at 
+Mount Sinai (E.B.) - all in New York; Collège de France, Université Paris 
+Sciences et Lettres (S.D.), Sorbonne Université, Paris Brain Institute-Institut 
+du Cerveau et de la Moelle Épinière, INSERM, Centre National de la Recherche 
+Scientifique (B.R., J.D.S., M.V., L.N.), and Assistance Publique-Hopitaux de 
+Paris, Hôpital Pitié-Salpêtrière, Département Médico-Universitaire Neurosciences 
+(B.R., M.V., L.N.) - all in Paris; the Departments of Physics and Astronomy 
+(A.S.), Physiology and Pharmacology (A.M.O.), and Psychology (A.M.O.), and the 
+Western Institute for Neuroscience (A.S., A.M.O.), University of Western 
+Ontario, London, ON, and the CERVO Brain Research Centre, Quebec, QC (S.L.) - 
+all in Canada; Yale Law School, New Haven, CT (J.J.F.); and the Consciousness 
+Science Institute, Hangzhou Normal University, Hangzhou, China (S.L.).
+
+BACKGROUND: Patients with brain injury who are unresponsive to commands may 
+perform cognitive tasks that are detected on functional magnetic resonance 
+imaging (fMRI) and electroencephalography (EEG). This phenomenon, known as 
+cognitive motor dissociation, has not been systematically studied in a large 
+cohort of persons with disorders of consciousness.
+METHODS: In this prospective cohort study conducted at six international 
+centers, we collected clinical, behavioral, and task-based fMRI and EEG data 
+from a convenience sample of 353 adults with disorders of consciousness. We 
+assessed the response to commands on task-based fMRI or EEG in participants 
+without an observable response to verbal commands (i.e., those with a behavioral 
+diagnosis of coma, vegetative state, or minimally conscious state-minus) and in 
+participants with an observable response to verbal commands. The presence or 
+absence of an observable response to commands was assessed with the use of the 
+Coma Recovery Scale-Revised (CRS-R).
+RESULTS: Data from fMRI only or EEG only were available for 65% of the 
+participants, and data from both fMRI and EEG were available for 35%. The median 
+age of the participants was 37.9 years, the median time between brain injury and 
+assessment with the CRS-R was 7.9 months (25% of the participants were assessed 
+with the CRS-R within 28 days after injury), and brain trauma was an etiologic 
+factor in 50%. We detected cognitive motor dissociation in 60 of the 241 
+participants (25%) without an observable response to commands, of whom 11 had 
+been assessed with the use of fMRI only, 13 with the use of EEG only, and 36 
+with the use of both techniques. Cognitive motor dissociation was associated 
+with younger age, longer time since injury, and brain trauma as an etiologic 
+factor. In contrast, responses on task-based fMRI or EEG occurred in 43 of 112 
+participants (38%) with an observable response to verbal commands.
+CONCLUSIONS: Approximately one in four participants without an observable 
+response to commands performed a cognitive task on fMRI or EEG as compared with 
+one in three participants with an observable response to commands. (Funded by 
+the James S. McDonnell Foundation and others.).
+
+Copyright © 2024 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa2400645
+PMCID: PMC7617195
+PMID: 39141852 [Indexed for MEDLINE]

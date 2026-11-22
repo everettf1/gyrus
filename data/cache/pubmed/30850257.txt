@@ -1,0 +1,44 @@
+1. Neuron. 2019 Apr 17;102(2):477-492.e5. doi: 10.1016/j.neuron.2019.02.010. Epub
+ 2019 Mar 5.
+
+Higher-Order Thalamic Circuits Channel Parallel Streams of Visual Information in 
+Mice.
+
+Bennett C(1), Gale SD(2), Garrett ME(3), Newton ML(4), Callaway EM(4), Murphy 
+GJ(1), Olsen SR(1).
+
+Author information:
+(1)Allen Institute for Brain Science, 615 Westlake Avenue, Seattle, WA 98109, 
+USA.
+(2)Allen Institute for Brain Science, 615 Westlake Avenue, Seattle, WA 98109, 
+USA. Electronic address: samg@alleninstitute.org.
+(3)Allen Institute for Brain Science, 615 Westlake Avenue, Seattle, WA 98109, 
+USA; Systems Neurobiology Laboratories, The Salk Institute for Biological 
+Studies, 10010 North Torrey Pines Road, La Jolla, CA 92037, USA.
+(4)Systems Neurobiology Laboratories, The Salk Institute for Biological Studies, 
+10010 North Torrey Pines Road, La Jolla, CA 92037, USA.
+
+Higher-order thalamic nuclei, such as the visual pulvinar, play essential roles 
+in cortical function by connecting functionally related cortical and subcortical 
+brain regions. A coherent framework describing pulvinar function remains elusive 
+because of its anatomical complexity and involvement in diverse cognitive 
+processes. We combined large-scale anatomical circuit mapping with high-density 
+electrophysiological recordings to dissect a homolog of the pulvinar in mice, 
+the lateral posterior thalamic nucleus (LP). We define three broad LP subregions 
+based on correspondence between connectivity and functional properties. These 
+subregions form corticothalamic loops biased toward ventral or dorsal stream 
+cortical areas and contain separate representations of visual space. Silencing 
+the visual cortex or superior colliculus revealed that they drive visual tuning 
+properties in separate LP subregions. Thus, by specifying the driving input 
+sources, functional properties, and downstream targets of LP circuits, our data 
+provide a roadmap for understanding the mechanisms of higher-order thalamic 
+function in vision.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2019.02.010
+PMCID: PMC8638696
+PMID: 30850257 [Indexed for MEDLINE]
+
+Conflict of interest statement: DECLARATION OF INTERESTS The authors declare no 
+competing interests.

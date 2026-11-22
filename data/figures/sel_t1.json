@@ -1,0 +1,132 @@
+[
+ {
+  "region": "t_consciousness_2",
+  "pmid": "7753166",
+  "from": "Fig. 1",
+  "caption": "A very simplified wiring diagram from the eye up to movement. Arrows run between neighbouring stages, but the crossed-out dashed line shows no direct link from V1 to the prefrontal and premotor areas.",
+  "notice": "This is a diagram of a hypothesis, not data: if V1 does not talk directly to the frontal areas, its activity may not be what we are aware of.",
+  "short": "Crick et al. 1995, Nature",
+  "license": "",
+  "file": "t_consciousness_2_7753166.webp"
+ },
+ {
+  "region": "t_consciousness_3",
+  "pmid": "12805123",
+  "from": "Fig. 5",
+  "caption": "Brainstem slices from midbrain (top) to lower pons (bottom) with each patient's lesion drawn on and overlapped. Warmer colors mean more patients had damage at that spot, with dark red where eight lesions overlapped.",
+  "notice": "The hottest overlap sits in the upper pons, near the back (tegmentum): lesions here cause coma, so this is evidence for cause.",
+  "short": "Parvizi et al. 2003, Brain",
+  "license": "",
+  "file": "t_consciousness_3_12805123.webp"
+ },
+ {
+  "region": "t_consciousness_3",
+  "pmid": "27815400",
+  "from": "Figure 1",
+  "caption": "A: where 12 coma-causing brain stem lesions overlap. B: where 24 lesions that did not cause coma overlap. C and D: subtracting one from the other leaves a small site in the upper pontine tegmentum. E: the nuclei around that site.",
+  "notice": "Look at how small the patch in D is: damage to this one site, not to the brain stem in general, separated coma from no coma. Lesions show cause.",
+  "short": "Fischer et al. 2016, Neurology",
+  "license": "",
+  "file": "t_consciousness_3_27815400.webp"
+ },
+ {
+  "region": "t_consciousness_4",
+  "pmid": "32053769",
+  "from": "Figure 1A and 1B",
+  "caption": "In an anesthetized monkey, brain and eye recordings during three rounds of stimulation of the central lateral thalamus (pink bands), and the average arousal score before, during and after stimulation across both monkeys.",
+  "notice": "The arousal score rises during stimulation and drops again afterward, which points to cause: turning the stimulation on changed the level of consciousness.",
+  "short": "Redinbaugh et al. 2020, Neuron",
+  "license": "",
+  "file": "t_consciousness_4_32053769.webp"
+ },
+ {
+  "region": "t_consciousness_4",
+  "pmid": "40179184",
+  "from": "Fig. 6A and 6B",
+  "caption": "Left: the share of recording sites whose activity was related to seeing the faint stimulus, 36 of 51 in the intralaminar and medial thalamus (imTha) and 17 of 99 in lateral prefrontal cortex (LPFC). Right: the time at which that activity began at each site.",
+  "notice": "A larger share of thalamic sites carried this activity, and it began earlier there than in prefrontal cortex. These are recordings, so this shows order in time and a correlation, not cause.",
+  "short": "Fang et al. 2025, Science",
+  "license": "",
+  "file": "t_consciousness_4_40179184.webp"
+ },
+ {
+  "region": "t_consciousness_4",
+  "pmid": "42086322",
+  "from": "Figure 3",
+  "caption": "Word clouds of what patients said during stimulation of the mid-thalamus, grouped as visceral, somatosensory and emotional, and a bar chart counting responses as positive, neutral or negative.",
+  "notice": "Most reports were bodily or emotional feelings, and negative ones outnumber positive ones; stimulation caused these experiences.",
+  "short": "Pantis et al. 2026, J Neurosci",
+  "license": "",
+  "file": "t_consciousness_4_42086322.webp"
+ },
+ {
+  "region": "t_consciousness_5",
+  "pmid": "19226510",
+  "from": "Figure 3",
+  "caption": "Three stacked bars show how the human brain splits into cerebral cortex (Cx), cerebellum (Cb) and the rest of the brain (RoB), by mass, by neurons and by non-neuron cells.",
+  "notice": "Compare the first two bars: the cortex is most of the mass but only 19.0 percent of the neurons, while the cerebellum holds 80.2 percent of them.",
+  "short": "Azevedo et al. 2009, J Comp Neurol",
+  "license": "",
+  "file": "t_consciousness_5_19226510.webp"
+ },
+ {
+  "region": "t_consciousness_5",
+  "pmid": "30031016",
+  "from": "Fig. 1D",
+  "caption": "Over seven training sessions, the controls learned to blink to a cue that predicted an air puff, while the woman born without a cerebellum hardly did. Bars on the right give the overall average.",
+  "notice": "She lacks this kind of motor learning, yet she is awake, follows a week of testing and has only mild to moderate motor deficits. The absent cerebellum is the cause of the learning deficit.",
+  "short": "Wu et al. 2018, Neuropsychologia",
+  "license": "",
+  "file": "t_consciousness_5_30031016.webp"
+ },
+ {
+  "region": "t_consciousness_6",
+  "pmid": "9126063",
+  "from": "Fig. 14",
+  "caption": "Percentage of correct forced-choice guesses about the direction of motion in three patients who are cortically blind in both visual fields.",
+  "notice": "These patients report seeing nothing, yet guess motion direction well above chance, so visual processing can survive without V1-based conscious sight.",
+  "short": "Stoerig et al. 1997, Brain",
+  "license": "",
+  "file": "t_consciousness_6_9126063.webp"
+ },
+ {
+  "region": "t_consciousness_6",
+  "pmid": "9096407",
+  "from": "FIG. 5B",
+  "caption": "Average response of the recorded temporal-cortex neurons over time in three conditions: a single image shown alone, rival images where the monkey reported the neuron's preferred image or the other one, and a flash suppression test.",
+  "notice": "In the rivalry panel the solid line is higher when the monkey reported the neuron's preferred image, so these neurons follow what is perceived; it is a recording, so a correlation.",
+  "short": "Sheinberg et al. 1997, Proc Natl Acad Sci U S A",
+  "license": "",
+  "file": "t_consciousness_6_9096407.webp"
+ },
+ {
+  "region": "t_consciousness_7",
+  "pmid": "9808462",
+  "from": "Figure 4",
+  "caption": "fMRI signal in the face area (FFA, blue) and the place area (PPA, red) of one subject. Top: around the moment the subject reported that the percept switched during binocular rivalry, while the pictures stayed the same. Bottom: when the pictures were physically swapped.",
+  "notice": "The top and bottom look alike: face area activity rises and place area activity falls when the face is seen, whether the picture changed or only the percept did. This is a correlation.",
+  "short": "Tong et al. 1998, Neuron",
+  "license": "",
+  "file": "t_consciousness_7_9808462.webp"
+ },
+ {
+  "region": "t_consciousness_7",
+  "pmid": "23100414",
+  "from": "Figure 1",
+  "caption": "Where the stimulated electrodes (numbered 1 and 2) sit on the patient's fusiform gyrus, overlapping sites that responded most to faces in both electrode recordings (ECoG) and fMRI.",
+  "notice": "The two stimulated sites lie on face-selective cortex; stimulating them distorted faces, which is the causal part of the card.",
+  "short": "Parvizi et al. 2012, J Neurosci",
+  "license": "",
+  "file": "t_consciousness_7_23100414.webp"
+ },
+ {
+  "region": "t_consciousness_8",
+  "pmid": "28394322",
+  "from": "Figure 1A",
+  "caption": "Brain maps comparing non-REM awakenings with a dream report to awakenings with no experience. Blue and green areas, mostly at the back of the cortex, had less slow (1 to 4 Hz) activity when the person was dreaming.",
+  "notice": "The drop in slow activity clusters over posterior cortex when dreaming was reported; this is a correlation from EEG.",
+  "short": "Siclari et al. 2017, Nat Neurosci",
+  "license": "",
+  "file": "t_consciousness_8_28394322.webp"
+ }
+]

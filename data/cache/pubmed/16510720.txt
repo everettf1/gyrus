@@ -1,0 +1,38 @@
+1. J Neurosci. 2006 Mar 1;26(9):2424-33. doi: 10.1523/JNEUROSCI.4682-05.2006.
+
+Cortical and subcortical contributions to Stop signal response inhibition: role 
+of the subthalamic nucleus.
+
+Aron AR(1), Poldrack RA.
+
+Author information:
+(1)Department of Psychology, Brain Research Institute, University of California, 
+Los Angeles, California 90095, USA. adamaron@ucla.edu
+
+Suppressing an already initiated manual response depends critically on the right 
+inferior frontal cortex (IFC), yet it is unclear how this inhibitory function is 
+implemented in the motor system. It has been suggested that the subthalamic 
+nucleus (STN), which is a part of the basal ganglia, may play a role because it 
+is well placed to suppress the "direct" fronto-striatal pathway that is 
+activated by response initiation. In two experiments, we investigated this 
+hypothesis with functional magnetic resonance imaging and a Stop-signal task. 
+Subjects responded to Go signals and attempted to inhibit the initiated response 
+to occasional Stop signals. In experiment 1, Going significantly activated 
+frontal, striatal, pallidal, and motor cortical regions, consistent with the 
+direct pathway, whereas Stopping significantly activated right IFC and STN. In 
+addition, Stopping-related activation was significantly greater for fast 
+inhibitors than slow ones in both IFC and STN, and activity in these regions was 
+correlated across subjects. In experiment 2, high-resolution functional and 
+structural imaging confirmed the location of Stopping activation within the 
+vicinity of the STN. We propose that the role of the STN is to suppress 
+thalamocortical output, thereby blocking Go response execution. These results 
+provide convergent data for a role for the STN in Stop-signal response 
+inhibition. They also suggest that the speed of Go and Stop processes could 
+relate to the relative activation of different neural pathways. Future research 
+is required to establish whether Stop-signal inhibition could be implemented via 
+a direct functional neuroanatomic projection between IFC and STN (a 
+"hyperdirect" pathway).
+
+DOI: 10.1523/JNEUROSCI.4682-05.2006
+PMCID: PMC6793670
+PMID: 16510720 [Indexed for MEDLINE]

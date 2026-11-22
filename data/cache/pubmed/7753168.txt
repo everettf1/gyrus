@@ -1,0 +1,33 @@
+1. Nature. 1995 May 11;375(6527):139-41. doi: 10.1038/375139a0.
+
+Visual motion aftereffect in human cortical area MT revealed by functional 
+magnetic resonance imaging.
+
+Tootell RB(1), Reppas JB, Dale AM, Look RB, Sereno MI, Malach R, Brady TJ, Rosen 
+BR.
+
+Author information:
+(1)Massachusetts General Hospital Nuclear Magnetic Resonance Center, Charlestown 
+02129, USA.
+
+Comment in
+    Nature. 1995 May 11;375(6527):106-7. doi: 10.1038/375106a0.
+
+Functional magnetic resonance imaging (fMRI) was used to measure local 
+haemodynamic changes (reflecting electrical activity) in human visual cortex 
+during production of the visual motion aftereffect, also known as the waterfall 
+illusion. As in previous studies, human cortical area MT (V5) responded much 
+better to moving than to stationary visual stimuli. Here we demonstrate a clear 
+increase in activity in MT when subjects viewed a stationary stimulus undergoing 
+illusory motion, following adaptation to stimuli moving in a single local 
+direction. Control stimuli moving in reversing, opposed directions produced 
+neither a perceptual motion aftereffect nor elevated fMRI levels postadaptation. 
+The time course of the motion aftereffect (measured in parallel psychophysical 
+tests) was essentially identical to the time course of the fMRI motion 
+aftereffect. Because the motion aftereffect is direction specific, this 
+indicates that cells in human area MT are also direction specific. In five other 
+retinotopically defined cortical areas, similar motion-specific aftereffects 
+were smaller than those in MT or absent.
+
+DOI: 10.1038/375139a0
+PMID: 7753168 [Indexed for MEDLINE]

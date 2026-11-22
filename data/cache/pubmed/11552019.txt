@@ -1,0 +1,32 @@
+1. Neurology. 2001 Sep 11;57(5):871-8. doi: 10.1212/wnl.57.5.871.
+
+Role of the supplementary motor area in motor deficit following medial frontal 
+lobe surgery.
+
+Krainik A(1), Lehéricy S, Duffau H, Vlaicu M, Poupon F, Capelle L, Cornu P, 
+Clemenceau S, Sahel M, Valery CA, Boch AL, Mangin JF, Bihan DL, Marsault C.
+
+Author information:
+(1)Department of Neuroradiology, Hôpital de la Salpêtrière, Paris, France.
+
+OBJECTIVE: Patients undergoing surgical resection of medial frontal lesions may 
+present a transient postoperative deficit that remains largely unpredictable. 
+The authors studied the role of the supplementary motor area (SMA) in the 
+occurrence of this deficit using fMRI.
+METHODS: Twenty-three patients underwent a preoperative fMRI before resection of 
+medial frontal lesions. Tasks included self-paced flexion/extension of the left 
+and right hand, successively. Preoperative fMRI data were compared with 
+postoperative MRI data and with neurologic outcome.
+RESULTS: Following surgery, 11 patients had a motor deficit from which all 
+patients recovered within a few weeks or months. The deficit was similar across 
+patients, consisting of a global reduction in spontaneous movements 
+contralateral to the operated side with variable severity. SMA activation was 
+observed in all patients. The deficit was observed when the area activated in 
+the posterior part of the SMA (SMA proper) was resected.
+CONCLUSIONS: fMRI is able to identify the area at risk in the SMA proper whose 
+resection is highly related to the occurrence of the motor deficit. The clinical 
+characteristics of this deficit support the role of the SMA proper in the 
+initiation and execution of the movement.
+
+DOI: 10.1212/wnl.57.5.871
+PMID: 11552019 [Indexed for MEDLINE]

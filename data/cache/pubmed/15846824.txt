@@ -1,0 +1,35 @@
+1. Hum Brain Mapp. 2005 May;25(1):22-34. doi: 10.1002/hbm.20127.
+
+Involvement of the inferior frontal junction in cognitive control: meta-analyses 
+of switching and Stroop studies.
+
+Derrfuss J(1), Brass M, Neumann J, von Cramon DY.
+
+Author information:
+(1)Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, 
+Germany. j.derrfuss@fz-juelich.de
+
+There is growing evidence that a specific region in the posterior frontolateral 
+cortex is involved intimately in cognitive control processes. This region, 
+located in the vicinity of the junction of the inferior frontal sulcus and the 
+inferior precentral sulcus, was termed the inferior frontal junction (IFJ). The 
+IFJ was shown to be involved in the updating of task representations and to be 
+activated commonly in a within-subject investigation of a task-switching 
+paradigm, the Stroop task, and a verbal n-back task. Here, we investigate the 
+involvement of the IFJ in cognitive control by employing a meta-analytic 
+approach. Two quantitative meta-analyses of functional magnetic resonance 
+imaging (fMRI) studies were conducted. One meta-analysis included frontal 
+activations from task-switching, set-shifting, and stimulus-response (S-R) 
+reversal studies, the other included frontal activations from color-word Stroop 
+studies. Results showed highly significant clustering of activations in the IFJ 
+in both analyses. These results provide strong evidence for the consistent 
+involvement of the IFJ in both switching and Stroop paradigms. Furthermore, they 
+support our concept of areal specialization in the frontolateral cortex, which 
+posits that it is not only the middorsolateral part that plays an important role 
+in cognitive control, but also the IFJ. Finally, our results demonstrate how 
+quantitative meta-analyses can be used to test hypotheses about the involvement 
+of specific brain regions in cognitive control.
+
+DOI: 10.1002/hbm.20127
+PMCID: PMC6871679
+PMID: 15846824 [Indexed for MEDLINE]

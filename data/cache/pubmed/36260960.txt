@@ -1,0 +1,44 @@
+1. Brain Lang. 2022 Dec;235:105189. doi: 10.1016/j.bandl.2022.105189. Epub 2022
+Oct  17.
+
+The relationship between reading abilities and the left occipitotemporal sulcus: 
+A dual perspective study.
+
+Del Mauro G(1), Del Maschio N(2), Abutalebi J(3).
+
+Author information:
+(1)Centre for Neurolinguistics and Psycholinguistics (CNPL), Faculty of 
+Psychology, Vita-Salute San Raffaele University, Milan, Italy.
+(2)Centre for Neurolinguistics and Psycholinguistics (CNPL), Faculty of 
+Psychology, Vita-Salute San Raffaele University, Milan, Italy; Facultyof 
+Psychology, Vita-Salute San Raffaele University, Milan, Italy.
+(3)Centre for Neurolinguistics and Psycholinguistics (CNPL), Faculty of 
+Psychology, Vita-Salute San Raffaele University, Milan, Italy; Facultyof 
+Psychology, Vita-Salute San Raffaele University, Milan, Italy; TheArctic 
+University of Norway, Tromsø, Norway. Electronic address: 
+abutalebi.jubin@unisr.it.
+
+Reading activates a region within the left lateral occipitotemporal sulcus (OTS) 
+known as the 'visual word form area' (VWFA). While several studies have 
+investigated the impact of reading on brain structure through neuroplastic 
+mechanisms, it has been recently suggested that individual differences in the 
+pattern of the posterior OTS may predict reading skills in adults. In the 
+present study, we first examined whether the structure and morphology and the 
+anatomical connectivity of the left OTS are associated to reading ability. 
+Second, we explored whether reading skills are predicted by the pattern of the 
+left OTS. We found that reading skills were positively associated with increased 
+connectivity between the left OTS and a network of reading-related regions in 
+the left hemisphere. On the other hand, we did not observe an association 
+between the pattern of the left OTS and reading skills. Finally, we found 
+evidence that the morphology and the connectivity of the left OTS are correlated 
+to its sulcal pattern.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bandl.2022.105189
+PMID: 36260960 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.

@@ -1,0 +1,24 @@
+1. Neuron. 2002 Nov 14;36(4):767-76. doi: 10.1016/s0896-6273(02)01060-7.
+
+The processing of temporal pitch and melody information in auditory cortex.
+
+Patterson RD(1), Uppenkamp S, Johnsrude IS, Griffiths TD.
+
+Author information:
+(1)Centre for the Neural Basis of Hearing, Physiology Department, University of 
+Cambridge, Downing Street, Cambridge, United Kingdom. 
+roy.patterson@mrc-cbu.cam.ac.uk
+
+An fMRI experiment was performed to identify the main stages of melody 
+processing in the auditory pathway. Spectrally matched sounds that produce no 
+pitch, fixed pitch, or melody were all found to activate Heschl's gyrus (HG) and 
+planum temporale (PT). Within this region, sounds with pitch produced more 
+activation than those without pitch only in the lateral half of HG. When the 
+pitch was varied to produce a melody, there was activation in regions beyond HG 
+and PT, specifically in the superior temporal gyrus (STG) and planum polare 
+(PP). The results support the view that there is hierarchy of pitch processing 
+in which the center of activity moves anterolaterally away from primary auditory 
+cortex as the processing of melodic sounds proceeds.
+
+DOI: 10.1016/s0896-6273(02)01060-7
+PMID: 12441063 [Indexed for MEDLINE]

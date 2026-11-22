@@ -1,0 +1,40 @@
+1. Am J Psychiatry. 2011 May;168(5):502-10. doi: 10.1176/appi.ajp.2010.10081187. 
+Epub 2011 Feb 1.
+
+Deep brain stimulation for treatment-resistant depression: follow-up after 3 to 
+6 years.
+
+Kennedy SH(1), Giacobbe P, Rizvi SJ, Placenza FM, Nishikawa Y, Mayberg HS, 
+Lozano AM.
+
+Author information:
+(1)Department of Psychiatry, Division of Neurosurgery, University Health 
+Network, Toronto, Canada. sidney.kennedy@uhn.on.ca
+
+Comment in
+    Am J Psychiatry. 2011 May;168(5):455-6. doi: 10.1176/appi.ajp.2011.11020231.
+
+OBJECTIVE: A prevalence of at least 30% for treatment-resistant depression has 
+prompted the investigation of alternative treatment strategies. Deep brain 
+stimulation (DBS) is a promising targeted approach involving the bilateral 
+placement of electrodes at specific neuroanatomical sites. Given the invasive 
+and experimental nature of DBS for treatment-resistant depression, it is 
+important to obtain both short-term and long-term effectiveness and safety data. 
+This report represents an extended follow-up of 20 patients with 
+treatment-resistant depression who received DBS to the subcallosal cingulate 
+gyrus (Brodmann's area 25).
+METHOD: After an initial 12-month study of DBS, patients were seen annually and 
+at a last follow-up visit to assess depression severity, functional outcomes, 
+and adverse events.
+RESULTS: The average response rates 1, 2, and 3 years after DBS implantation 
+were 62.5%, 46.2%, and 75%, respectively. At the last follow-up visit (range=3-6 
+years), the average response rate was 64.3%. Functional impairment in the areas 
+of physical health and social functioning progressively improved up to the last 
+follow-up visit. No significant adverse events were reported during this 
+follow-up, although two patients died by suicide during depressive relapses.
+CONCLUSIONS: These data suggest that in the long term, DBS remains a safe and 
+effective treatment for treatment-resistant depression. Additional trials with 
+larger samples are needed to confirm these findings.
+
+DOI: 10.1176/appi.ajp.2010.10081187
+PMID: 21285143 [Indexed for MEDLINE]

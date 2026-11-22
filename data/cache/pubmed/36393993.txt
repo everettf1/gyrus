@@ -1,0 +1,41 @@
+1. Front Hum Neurosci. 2022 Oct 26;16:909159. doi: 10.3389/fnhum.2022.909159. 
+eCollection 2022.
+
+Neuromagnetic representation of melodic contour processing in human auditory 
+cortex.
+
+Taddeo S(1), Schulz M(2), Andermann M(2), Rupp A(2).
+
+Author information:
+(1)Department of Otolaryngology, Head and Neck Surgery, University Medical 
+Center of Tübingen, Tübingen, Germany.
+(2)Section of Biomagnetism, Department of Neurology, Heidelberg University 
+Hospital, Heidelberg, Germany.
+
+The pattern of ups and downs in a sequence with varying pitch can be heard as a 
+melodic contour. Contrary to single pitch, the neural representation of melodic 
+contour information in the auditory cortex is rarely investigated, and it is not 
+clear whether the processing entails a hemispheric asymmetry. The present 
+magnetoencephalography study assessed the neuromagnetic responses of N = 18 
+normal-hearing adults to four-note sequences with fixed vs. varying pitch that 
+were presented either monaurally or diotically; data were analyzed using 
+minimum-norm reconstructions. The first note of the sequences elicited prominent 
+transient activity in posterior auditory regions (Planum temporale), especially 
+contralateral to the ear of entry. In contrast, the response to the subsequent 
+notes originated from more anterior areas (Planum polare) and was larger for 
+melodic contours than for fixed pitch sequences, independent from the ear of 
+entry and without hemispheric asymmetry. Together, the results point to a 
+gradient in the early cortical processing of melodic contours, both in spatial 
+and functional terms, where posterior auditory activity reflects the onset of a 
+pitch sequence and anterior activity reflects its subsequent notes, including 
+the difference between sequences with fixed pitch and melodic contours.
+
+Copyright © 2022 Taddeo, Schulz, Andermann and Rupp.
+
+DOI: 10.3389/fnhum.2022.909159
+PMCID: PMC9644163
+PMID: 36393993
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

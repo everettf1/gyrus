@@ -1,0 +1,52 @@
+1. J Cogn Neurosci. 2017 Dec;29(12):2090-2102. doi: 10.1162/jocn_a_01176. Epub
+2017  Aug 4.
+
+Causal Evidence from Humans for the Role of Mediodorsal Nucleus of the Thalamus 
+in Working Memory.
+
+Peräkylä J(1)(2), Sun L(1), Lehtimäki K(1), Peltola J(1), Öhman J(1)(2), 
+Möttönen T(1), Ogawa KH(3), Hartikainen KM(1)(2).
+
+Author information:
+(1)Tampere University Hospital.
+(2)University of Tampere.
+(3)Saint Mary's College of California.
+
+The mediodorsal nucleus of the thalamus (MD), with its extensive connections to 
+the lateral pFC, has been implicated in human working memory and executive 
+functions. However, this understanding is based solely on indirect evidence from 
+human lesion and imaging studies and animal studies. Direct, causal evidence 
+from humans is missing. To obtain direct evidence for MD's role in humans, we 
+studied patients treated with deep brain stimulation (DBS) for refractory 
+epilepsy. This treatment is thought to prevent the generalization of a seizure 
+by disrupting the functioning of the patient's anterior nuclei of the thalamus 
+(ANT) with high-frequency electric stimulation. This structure is located 
+superior and anterior to MD, and when the DBS lead is implanted in ANT, tip 
+contacts of the lead typically penetrate through ANT into the adjoining MD. To 
+study the role of MD in human executive functions and working memory, we 
+periodically disrupted and recovered MD's function with high-frequency electric 
+stimulation using DBS contacts reaching MD while participants performed a 
+cognitive task engaging several aspects of executive functions. We hypothesized 
+that the efficacy of executive functions, specifically working memory, is 
+impaired when the functioning of MD is perturbed by high-frequency stimulation. 
+Eight participants treated with ANT-DBS for refractory epilepsy performed a 
+computer-based test of executive functions while DBS was repeatedly switched ON 
+and OFF at MD and at the control location (ANT). In comparison to stimulation of 
+the control location, when MD was stimulated, participants committed 2.26 times 
+more errors in general (total errors; OR = 2.26, 95% CI [1.69, 3.01]) and 2.86 
+times more working memory-related errors specifically (incorrect button presses; 
+OR = 2.88, CI [1.95, 4.24]). Similarly, participants committed 1.81 more errors 
+in general ( OR = 1.81, CI [1.45, 2.24]) and 2.08 times more working 
+memory-related errors ( OR = 2.08, CI [1.57, 2.75]) in comparison to no 
+stimulation condition. "Total errors" is a composite score consisting of basic 
+error types and was mostly driven by working memory-related errors. The facts 
+that MD and a control location, ANT, are only few millimeters away from each 
+other and that their stimulation produces very different results highlight the 
+location-specific effect of DBS rather than regionally unspecific general 
+effect. In conclusion, disrupting and recovering MD's function with 
+high-frequency electric stimulation modulated participants' online working 
+memory performance providing causal, in vivo evidence from humans for the role 
+of MD in human working memory.
+
+DOI: 10.1162/jocn_a_01176
+PMID: 28777058 [Indexed for MEDLINE]

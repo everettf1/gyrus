@@ -1,0 +1,28 @@
+1. Science. 2004 May 21;304(5674):1167-70. doi: 10.1126/science.1094550.
+
+The involvement of the orbitofrontal cortex in the experience of regret.
+
+Camille N(1), Coricelli G, Sallet J, Pradat-Diehl P, Duhamel JR, Sirigu A.
+
+Author information:
+(1)Institut des Sciences Cognitives, CNRS, 67, Boulevard Pinel 69675 Bron, 
+France.
+
+Comment in
+    Science. 2005 May 27;308(5726):1260; author reply 1260. doi: 
+10.1126/science.1108099.
+
+Facing the consequence of a decision we made can trigger emotions like 
+satisfaction, relief, or regret, which reflect our assessment of what was gained 
+as compared to what would have been gained by making a different decision. These 
+emotions are mediated by a cognitive process known as counterfactual thinking. 
+By manipulating a simple gambling task, we characterized a subject's choices in 
+terms of their anticipated and actual emotional impact. Normal subjects reported 
+emotional responses consistent with counterfactual thinking; they chose to 
+minimize future regret and learned from their emotional experience. Patients 
+with orbitofrontal cortical lesions, however, did not report regret or 
+anticipate negative consequences of their choices. The orbitofrontal cortex has 
+a fundamental role in mediating the experience of regret.
+
+DOI: 10.1126/science.1094550
+PMID: 15155951 [Indexed for MEDLINE]

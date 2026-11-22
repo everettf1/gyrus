@@ -1,0 +1,34 @@
+1. Science. 2025 Apr 4;388(6742):eadr3675. doi: 10.1126/science.adr3675. Epub
+2025  Apr 4.
+
+Human high-order thalamic nuclei gate conscious perception through the 
+thalamofrontal loop.
+
+Fang Z(#)(1), Dang Y(#)(2), Ping A(#)(1), Wang C(1), Zhao Q(3), Zhao H(2), Li 
+X(1)(4), Zhang M(1).
+
+Author information:
+(1)State Key Laboratory of Cognitive Neuroscience and Learning and IDG/McGovern 
+Institute for Brain Research, Division of Psychology, Beijing Normal University, 
+Beijing, China.
+(2)Department of Neurosurgery, Chinese PLA General Hospital, Beijing, China.
+(3)Center for Intelligent and Networked Systems, Department of Automation, 
+TNLIST, Tsinghua University, Beijing, China.
+(4)Pazhou Laboratory, Guangzhou, China.
+(#)Contributed equally
+
+Human high-order thalamic nuclei activity is known to closely correlate with 
+conscious states. However, it is not clear how those thalamic nuclei and 
+thalamocortical interactions directly contribute to the transient process of 
+human conscious perception. We simultaneously recorded 
+stereoelectroencephalography data from the thalamic nuclei and prefrontal cortex 
+(PFC), while patients with implanted electrodes performed a visual consciousness 
+task. Compared with the ventral nuclei and PFC, the intralaminar and medial 
+nuclei presented earlier and stronger consciousness-related activity. Transient 
+thalamofrontal neural synchrony and cross-frequency coupling were both driven by 
+the θ phase of the intralaminar and medial nuclei during conscious perception. 
+The intralaminar and medial thalamic nuclei thus play a gate role to drive the 
+activity of the PFC during the emergence of conscious perception.
+
+DOI: 10.1126/science.adr3675
+PMID: 40179184 [Indexed for MEDLINE]

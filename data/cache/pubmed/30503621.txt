@@ -1,0 +1,61 @@
+1. Curr Biol. 2018 Dec 17;28(24):3893-3902.e4. doi: 10.1016/j.cub.2018.10.026.
+Epub  2018 Nov 29.
+
+Direct Electrical Stimulation of Lateral Orbitofrontal Cortex Acutely Improves 
+Mood in Individuals with Symptoms of Depression.
+
+Rao VR(1), Sellers KK(2), Wallace DL(2), Lee MB(2), Bijanzadeh M(2), Sani OG(3), 
+Yang Y(3), Shanechi MM(3), Dawes HE(4), Chang EF(5).
+
+Author information:
+(1)Department of Neurology, University of California, San Francisco, 400 
+Parnassus Ave, San Francisco, CA 94143, USA; Weill Institute for Neurosciences, 
+University of California, San Francisco, 675 Nelson Rising Ln, San Francisco, CA 
+94158, USA.
+(2)Department of Neurological Surgery, University of California, San Francisco, 
+400 Parnassus Ave, San Francisco, CA 94143, USA.
+(3)Ming Hsieh Department of Electrical Engineering, Viterbi School of 
+Engineering, University of Southern California, 3740 McClintock Avenue, EEB 102, 
+Los Angeles, CA 90089, USA.
+(4)Weill Institute for Neurosciences, University of California, San Francisco, 
+675 Nelson Rising Ln, San Francisco, CA 94158, USA; Department of Neurological 
+Surgery, University of California, San Francisco, 400 Parnassus Ave, San 
+Francisco, CA 94143, USA.
+(5)Weill Institute for Neurosciences, University of California, San Francisco, 
+675 Nelson Rising Ln, San Francisco, CA 94158, USA; Department of Neurological 
+Surgery, University of California, San Francisco, 400 Parnassus Ave, San 
+Francisco, CA 94143, USA. Electronic address: Edward.Chang@ucsf.edu.
+
+Comment in
+    Curr Biol. 2019 Jan 21;29(2):R59-R62. doi: 10.1016/j.cub.2018.11.057.
+
+Mood disorders cause significant morbidity and mortality, and existing therapies 
+fail 20%-30% of patients. Deep brain stimulation (DBS) is an emerging treatment 
+for refractory mood disorders, but its success depends critically on target 
+selection. DBS focused on known targets within mood-related frontostriatal and 
+limbic circuits has been variably efficacious. Here, we examine the effects of 
+stimulation in orbitofrontal cortex (OFC), a key hub for mood-related circuitry 
+that has not been well characterized as a stimulation target. We studied 25 
+subjects with epilepsy who were implanted with intracranial electrodes for 
+seizure localization. Baseline depression traits ranged from mild to severe. We 
+serially assayed mood state over several days using a validated questionnaire. 
+Continuous electrocorticography enabled investigation of neurophysiological 
+correlates of mood-state changes. We used implanted electrodes to stimulate OFC 
+and other brain regions while collecting verbal mood reports and questionnaire 
+scores. We found that unilateral stimulation of the lateral OFC produced acute, 
+dose-dependent mood-state improvement in subjects with moderate-to-severe 
+baseline depression. Stimulation suppressed low-frequency power in OFC, 
+mirroring neurophysiological features that were associated with positive mood 
+states during natural mood fluctuation. Stimulation potentiated 
+single-pulse-evoked responses in OFC and modulated activity within distributed 
+structures implicated in mood regulation. Behavioral responses to stimulation 
+did not include hypomania and indicated an acute restoration to non-depressed 
+mood state. Together, these findings indicate that lateral OFC stimulation 
+broadly modulates mood-related circuitry to improve mood state in depressed 
+patients, revealing lateral OFC as a promising new target for therapeutic brain 
+stimulation in mood disorders.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.cub.2018.10.026
+PMID: 30503621 [Indexed for MEDLINE]

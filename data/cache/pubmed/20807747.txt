@@ -1,0 +1,38 @@
+1. Proc Natl Acad Sci U S A. 2010 Sep 21;107(38):16494-9. doi: 
+10.1073/pnas.1008121107. Epub 2010 Aug 31.
+
+Phonological decisions require both the left and right supramarginal gyri.
+
+Hartwigsen G(1), Baumgaertner A, Price CJ, Koehnke M, Ulmer S, Siebner HR.
+
+Author information:
+(1)Department of Neurology, Christian-Albrechts-University Kiel, 24105 Kiel, 
+Germany. Gesa.Hartwigsen@gmx.de
+
+Recent functional imaging studies demonstrated that both the left and right 
+supramarginal gyri (SMG) are activated when healthy right-handed subjects make 
+phonological word decisions. However, lesion studies typically report 
+difficulties with phonological processing after left rather than right 
+hemisphere damage. Here, we used a unique dual-site transcranial magnetic 
+stimulation (TMS) approach to test whether the SMG in the right hemisphere 
+contributes to modality-independent (i.e., auditory and visual) phonological 
+decisions. To test task-specificity, we compared the effect of real or sham TMS 
+during phonological, semantic, and perceptual decisions. To test laterality and 
+anatomical specificity, we compared the effect of TMS over the left, right, or 
+bilateral SMG and angular gyri. The accuracy and reaction times of phonological 
+decisions were selectively disrupted relative to semantic and perceptual 
+decisions when real TMS was applied over the left, right, or bilateral SMG. 
+These effects were not observed for TMS over the angular gyri. A follow-up 
+experiment indicated that the threshold-intensity for inducing a disruptive 
+effect on phonological decisions was identical for unilateral TMS over the right 
+or left SMG. Taken together, these findings provide converging evidence that the 
+right SMG contributes to accurate and efficient phonological decisions in the 
+healthy brain, with no evidence that the left and right SMG can compensate for 
+one another during TMS. Our findings motivate detailed studies of phonological 
+processing in patients with acute or long-term damage of the right SMG.
+
+DOI: 10.1073/pnas.1008121107
+PMCID: PMC2944751
+PMID: 20807747 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

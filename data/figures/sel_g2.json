@@ -1,0 +1,112 @@
+[
+ {
+  "region": "primary_auditory_cortex",
+  "pmid": "14622588",
+  "from": "Figure 3A",
+  "caption": "A map of the human auditory cortex colored by the sound frequency each spot prefers, with the letters a to f marking points along a line across it. High frequencies are blue and low frequencies are orange.",
+  "notice": "Follow the dotted line from a to f: the preferred frequency goes from high, to low in the middle, and back to high, a mirror-image pattern. This is imaging, so it is a correlation between place and frequency.",
+  "short": "Formisano et al. 2003, Neuron",
+  "license": "",
+  "file": "primary_auditory_cortex_14622588.webp"
+ },
+ {
+  "region": "area_v4",
+  "pmid": "2002358",
+  "from": "Figure 2 (Colour vs. Grey)",
+  "caption": "PET scans comparing a colored display with a gray one. The bright spot on the right-hand projections marks where blood flow rose when people looked at color.",
+  "notice": "The single bright spot sits low and toward the back of the brain, where V4 is said to be. It is a correlation between color viewing and blood flow.",
+  "short": "Zeki et al. 1991, J Neurosci",
+  "license": "",
+  "file": "area_v4_2002358.webp"
+ },
+ {
+  "region": "lateral_ventricle",
+  "pmid": "22896675",
+  "from": "Figure 6A to D",
+  "caption": "In mice, a waste protein (amyloid beta) injected into the brain was cleared over time, and fluorescent amyloid collected along blood vessels such as a vein and a capillary.",
+  "notice": "In the graph the normal mice (blue) clear the protein faster than the mice missing the water channel Aqp4 (purple), and the green glow lines up with vessels, which fits the idea that fluid flow along vessels clears waste.",
+  "short": "Iliff et al. 2012, Sci Transl Med",
+  "license": "",
+  "file": "lateral_ventricle_22896675.webp"
+ },
+ {
+  "region": "ventral_pallidum",
+  "pmid": "17301168",
+  "from": "Figure 4 (VP column)",
+  "caption": "A map of injection sites in the rat ventral pallidum. Red sites are where a drug that activates opioid receptors (DAMGO) boosted the rat's liking reactions to sweetness, like the happy face shown in the photos.",
+  "notice": "The red hexagons clustered in one part of the pallidum show a hotspot. The drug was placed there, so this shows cause, not just correlation.",
+  "short": "Smith et al. 2007, J Neurosci",
+  "license": "",
+  "file": "ventral_pallidum_17301168.webp"
+ },
+ {
+  "region": "anterior_midcingulate_gyrus",
+  "pmid": "24316296",
+  "from": "Figure 1",
+  "caption": "Brain scans of two patients showing where the stimulation electrode sat (yellow ring) in the anterior midcingulate cortex, with the brain-wave traces recorded during stimulation underneath.",
+  "notice": "The electrode sits in the cingulate gyrus on the brain's midline, which is the spot whose stimulation produced the reported effects. Stimulation gives evidence of cause.",
+  "short": "Parvizi et al. 2013, Neuron",
+  "license": "",
+  "file": "anterior_midcingulate_gyrus_24316296.webp"
+ },
+ {
+  "region": "subcallosal_gyrus",
+  "pmid": "18639234",
+  "from": "Figure 2",
+  "caption": "The percent of patients with treatment-resistant depression who responded (red) or reached remission (yellow) in each month after deep brain stimulation of the subcallosal cingulate began.",
+  "notice": "The red line (responders) rises in the first months and stays high through the year. This was an open-label series with no sham group, so it does not by itself prove cause. The legend's spelling slip is in the original figure.",
+  "short": "Lozano et al. 2008, Biol Psychiatry",
+  "license": "",
+  "file": "subcallosal_gyrus_18639234.webp"
+ },
+ {
+  "region": "lateral_sulcus",
+  "pmid": "2375980",
+  "from": "Figure 5",
+  "caption": "Drawings of the four ways the sulci of the parietal operculum, the region around the back end of the lateral sulcus, can be arranged.",
+  "notice": "Compare the four circles: the lines near the bottom (PHR, PAR, PDR) end and branch differently in each type, which shows how variable this region is between brains.",
+  "short": "Steinmetz et al. 1990, Brain Lang",
+  "license": "",
+  "file": "lateral_sulcus_2375980.webp"
+ },
+ {
+  "region": "posterior_transverse_collateral_sulcus",
+  "pmid": "29966775",
+  "from": "Figure 2A to F",
+  "caption": "Photos of the underside of six real brains with the collateral sulcus painted red, the rhinal sulcus yellow and the occipitotemporal sulcus green.",
+  "notice": "The red line is a long landmark on the underside of the temporal lobe, but its shape and connections change from brain to brain.",
+  "short": "Ovalioglu et al. 2018, World Neurosurg",
+  "license": "",
+  "file": "posterior_transverse_collateral_sulcus_29966775.webp"
+ },
+ {
+  "region": "anterior_occipital_sulcus",
+  "pmid": "38163584",
+  "from": "Figure 3A to D",
+  "caption": "The underside of four brains with the main sulci painted in color: the rhinal, collateral and occipitotemporal sulci, and the preoccipital notch (PON). Each panel shows a different combination of patterns.",
+  "notice": "The grooves connect differently in every brain. The preoccipital notch, the usual marker for the border between the temporal and occipital lobes, joins a sulcus in some brains and stands alone in others, so the border is a convention.",
+  "short": "Gökalp et al. 2024, World Neurosurg",
+  "license": "",
+  "file": "anterior_occipital_sulcus_38163584.webp"
+ },
+ {
+  "region": "orbital_sulci",
+  "pmid": "35597228",
+  "from": "Figure 1",
+  "caption": "Brain models seen from below, with the orbital sulci colored, for four pattern types (I to IV) of the orbitofrontal cortex, two examples each.",
+  "notice": "The same colored grooves join up in some types and break apart in others, so the pattern differs from person to person.",
+  "short": "Troiani et al. 2022, Psychiatry Res Neuroimaging",
+  "license": "",
+  "file": "orbital_sulci_35597228.webp"
+ },
+ {
+  "region": "suborbital_sulcus",
+  "pmid": "30833514",
+  "from": "Figure 2A",
+  "caption": "Inner-surface views of the front of the brain showing the common patterns of sulci in the ventromedial prefrontal cortex, each in a different color, in hemispheres without (top) and with (bottom) an extra groove called the PCGS.",
+  "notice": "The circled area where the sulci meet looks different in each pattern, which is why these sulci are used as landmarks for locating the region.",
+  "short": "Lopez-Persem et al. 2019, J Neurosci",
+  "license": "",
+  "file": "suborbital_sulcus_30833514.webp"
+ }
+]

@@ -1,0 +1,70 @@
+1. Neurology. 2016 Dec 6;87(23):2427-2434. doi: 10.1212/WNL.0000000000003404.
+Epub  2016 Nov 4.
+
+A human brain network derived from coma-causing brainstem lesions.
+
+Fischer DB(1), Boes AD(2), Demertzi A(2), Evrard HC(2), Laureys S(2), Edlow 
+BL(2), Liu H(2), Saper CB(2), Pascual-Leone A(2), Fox MD(1), Geerling JC(2).
+
+Author information:
+(1)From the Berenson-Allen Center for Noninvasive Brain Stimulation, Division of 
+Cognitive Neurology, Department of Neurology (D.B.F., A.D.B., A.P.-L., M.D.F.), 
+and Department of Neurology (C.B.S., A.P.-L., M.D.F., J.C.G.), Harvard Medical 
+School and Beth Israel Deaconess Medical Center, Boston; Harvard Medical School 
+(D.B.F.), Boston; Departments of Pediatric Neurology (A.D.B.) and Neurology 
+(B.L.E.), Harvard Medical School and Massachusetts General Hospital, Boston, MA; 
+Brain and Spine Institute (Institut du Cerveau et de la Moelle épinière-ICM) 
+(A.D.), Hôpital Pitié-Salpêtrière, Paris, France; Coma Science Group (A.D., 
+S.L.), GIGA-Research & Cyclotron Research Centre, University and University 
+Hospital of Liège, Belgium; Functional and Comparative Neuroanatomy Lab 
+(H.C.E.), Centre for Integrative Neuroscience, Tübingen; Max Planck Institute 
+for Biological Cybernetics (H.C.E.), Tübingen, Germany; Athinoula A. Martinos 
+Center for Biomedical Imaging (B.L.E., H.L., M.D.F.), Massachusetts General 
+Hospital, Charlestown, MA. d.b.fisch@gmail.com foxmdphd@gmail.com.
+(2)From the Berenson-Allen Center for Noninvasive Brain Stimulation, Division of 
+Cognitive Neurology, Department of Neurology (D.B.F., A.D.B., A.P.-L., M.D.F.), 
+and Department of Neurology (C.B.S., A.P.-L., M.D.F., J.C.G.), Harvard Medical 
+School and Beth Israel Deaconess Medical Center, Boston; Harvard Medical School 
+(D.B.F.), Boston; Departments of Pediatric Neurology (A.D.B.) and Neurology 
+(B.L.E.), Harvard Medical School and Massachusetts General Hospital, Boston, MA; 
+Brain and Spine Institute (Institut du Cerveau et de la Moelle épinière-ICM) 
+(A.D.), Hôpital Pitié-Salpêtrière, Paris, France; Coma Science Group (A.D., 
+S.L.), GIGA-Research & Cyclotron Research Centre, University and University 
+Hospital of Liège, Belgium; Functional and Comparative Neuroanatomy Lab 
+(H.C.E.), Centre for Integrative Neuroscience, Tübingen; Max Planck Institute 
+for Biological Cybernetics (H.C.E.), Tübingen, Germany; Athinoula A. Martinos 
+Center for Biomedical Imaging (B.L.E., H.L., M.D.F.), Massachusetts General 
+Hospital, Charlestown, MA.
+
+Comment in
+    Neurology. 2016 Dec 6;87(23):2433. doi: 10.1212/WNL.0000000000003417.
+
+OBJECTIVE: To characterize a brainstem location specific to coma-causing 
+lesions, and its functional connectivity network.
+METHODS: We compared 12 coma-causing brainstem lesions to 24 control brainstem 
+lesions using voxel-based lesion-symptom mapping in a case-control design to 
+identify a site significantly associated with coma. We next used resting-state 
+functional connectivity from a healthy cohort to identify a network of regions 
+functionally connected to this brainstem site. We further investigated the 
+cortical regions of this network by comparing their spatial topography to that 
+of known networks and by evaluating their functional connectivity in patients 
+with disorders of consciousness.
+RESULTS: A small region in the rostral dorsolateral pontine tegmentum was 
+significantly associated with coma-causing lesions. In healthy adults, this 
+brainstem site was functionally connected to the ventral anterior insula (AI) 
+and pregenual anterior cingulate cortex (pACC). These cortical areas aligned 
+poorly with previously defined resting-state networks, better matching the 
+distribution of von Economo neurons. Finally, connectivity between the AI and 
+pACC was disrupted in patients with disorders of consciousness, and to a greater 
+degree than other brain networks.
+CONCLUSIONS: Injury to a small region in the pontine tegmentum is significantly 
+associated with coma. This brainstem site is functionally connected to 2 
+cortical regions, the AI and pACC, which become disconnected in disorders of 
+consciousness. This network of brain regions may have a role in the maintenance 
+of human consciousness.
+
+© 2016 American Academy of Neurology.
+
+DOI: 10.1212/WNL.0000000000003404
+PMCID: PMC5177681
+PMID: 27815400 [Indexed for MEDLINE]

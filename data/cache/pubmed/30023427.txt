@@ -1,0 +1,46 @@
+1. eNeuro. 2018 Jul 4;5(3):ENEURO.0060-18.2018. doi: 10.1523/ENEURO.0060-18.2018.
+ eCollection 2018 May-Jun.
+
+Human Motor Thalamus Reconstructed in 3D from Continuous Sagittal Sections with 
+Identified Subcortical Afferent Territories.
+
+Ilinsky I(1)(2), Horn A(3), Paul-Gilloteaux P(4), Gressens P(1), Verney C(1), 
+Kultas-Ilinsky K(1)(2).
+
+Author information:
+(1)Unité 1141 Institut National de la Santé et de la Recherche Médicale, UMRS 
+1141, Hôpital Robert Debré, Paris, Université Paris Diderot, Sorbonne Paris 
+Cité, Paris France.
+(2)The University of Iowa, Iowa City, IA 52242.
+(3)Movement Disorders and Neuromodulation Unit, Charité-University Medicine, 
+Berlin 10967, Germany.
+(4)Unité Mixte de Recherche 144, PICT IBISA Institute Curie, Centre National de 
+la Recherche Scientifique, Paris 75005, France.
+
+Classification and delineation of the motor-related nuclei in the human thalamus 
+have been the focus of numerous discussions for a long time. Difficulties in 
+finding consensus have for the most part been caused by paucity of direct 
+experimental data on connections of individual nuclear entities. Kultas-Ilinsky 
+et al. (2011) showed that distribution of glutamic acid decarboxylase isoform 65 
+(GAD65), the enzyme that synthesizes inhibitory neurotransmitter γ-aminobutyric 
+acid, is a reliable marker that allows to delineate connectionally distinct 
+nuclei in the human motor thalamus, namely the territories innervated by nigral, 
+pallidal, and cerebellar afferents. We compared those immunocytochemical 
+staining patterns with underlying cytoarchitecture and used the latter to 
+outline the three afferent territories in a continuous series of sagittal 
+Nissl-stained sections of the human thalamus. The 3D volume reconstructed from 
+the outlines was placed in the Talairach stereotactic coordinate system relative 
+to the intercommissural line and sectioned in three stereotactic planes to 
+produce color-coded nuclear maps. This 3D coordinate-based atlas was 
+coregistered to the Montreal Neurological Institute (MNI-152) space. The current 
+report proposes a simplified nomenclature of the motor-related thalamic nuclei, 
+presents images of selected histological sections and stereotactic maps 
+illustrating topographic relationships of these nuclei as well as their 
+relationship with adjacent somatosensory afferent region. The data are useful in 
+different applications such as functional MRI and diffusion tractography. The 3D 
+dataset is publicly available under an open license and can also be applicable 
+in clinical interventions in the thalamus.
+
+DOI: 10.1523/ENEURO.0060-18.2018
+PMCID: PMC6049607
+PMID: 30023427 [Indexed for MEDLINE]

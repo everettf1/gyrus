@@ -1,0 +1,30 @@
+1. Science. 2005 Sep 30;309(5744):2228-32. doi: 10.1126/science.1117256.
+
+Breakdown of cortical effective connectivity during sleep.
+
+Massimini M(1), Ferrarelli F, Huber R, Esser SK, Singh H, Tononi G.
+
+Author information:
+(1)Department of Psychiatry, University of Wisconsin, Madison, 6001 Research 
+Park Boulevard, Madison, WI 53719, USA.
+
+Comment in
+    Science. 2005 Sep 30;309(5744):2148-9. doi: 10.1126/science.309.5744.2148a.
+    Science. 2005 Dec 16;310(5755):1768-9; author reply 1768-9. doi: 
+10.1126/science.310.5755.1768b.
+
+When we fall asleep, consciousness fades yet the brain remains active. Why is 
+this so? To investigate whether changes in cortical information transmission 
+play a role, we used transcranial magnetic stimulation together with 
+high-density electroencephalography and asked how the activation of one cortical 
+area (the premotor area) is transmitted to the rest of the brain. During quiet 
+wakefulness, an initial response (approximately 15 milliseconds) at the 
+stimulation site was followed by a sequence of waves that moved to connected 
+cortical areas several centimeters away. During non-rapid eye movement sleep, 
+the initial response was stronger but was rapidly extinguished and did not 
+propagate beyond the stimulation site. Thus, the fading of consciousness during 
+certain stages of sleep may be related to a breakdown in cortical effective 
+connectivity.
+
+DOI: 10.1126/science.1117256
+PMID: 16195466 [Indexed for MEDLINE]

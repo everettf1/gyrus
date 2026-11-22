@@ -1,0 +1,56 @@
+1. Hear Res. 2026 Mar;472:109551. doi: 10.1016/j.heares.2026.109551. Epub 2026
+Jan  30.
+
+Auditory radiations: Evidence for dorsal and ventral branches.
+
+Poliva O(1), Liu Y(2), Rafal RD(2).
+
+Author information:
+(1)Auditory Research Lab, VA Loma Linda Healthcare System, Loma Linda, CA, USA; 
+Department of Neurology, Loma Linda University Medical Center, Loma Linda, CA, 
+USA; Center for Language Sciences, University of California - Irvine, Irvine, 
+CA, USA. Electronic address: opoliva@uci.edu.
+(2)Department of Psychological and Brain Science, University of Delaware, USA.
+
+BACKGROUND: The acoustic radiations connect the medial geniculate nucleus (MGN) 
+of the thalamus with the auditory cortex in Heschl's gyrus (HG). Classic 
+histological dissections described a trajectory that courses through the optic 
+radiations and beneath the posterior insula en route to HG. More recent 
+histological work, however, along with probabilistic tractography, has reported 
+a curved pathway composed of a genu, stem, and fan that is inconsistent with the 
+classically described topography. Thus, the precise course of the acoustic 
+radiations is not settled, motivating renewed anatomical characterization.
+METHODS: In nineteen healthy adults, we used probabilistic diffusion 
+tractography to visualize streamlines connecting the medial geniculate nucleus 
+(MGN) with the supramarginal gyrus (SMG) bordering the ascending ramus of the 
+lateral fissure. We compared these streamlines with the acoustic and optic 
+radiations as defined in the XTRACT white matter atlas. We then qualitatively 
+re-evaluated published neuroimaging figures from eight patients with severe 
+auditory agnosia or cortical deafness caused by bilateral subcortical white 
+matter lesions and overlaid the reported lesion locations onto the 
+tractography-derived pathways.
+RESULTS: In contrast to a ventral acoustic radiation (vAR) that courses through 
+the optic radiations and beneath the insula, our tractography analysis revealed 
+a dorsal bundle that we term the dorsal acoustic radiations (dAR). The dAR 
+comprises two components that initially travel together: an ansa acoustica (AA) 
+projecting from ventral MGN to Heschl's gyrus (HG), and a projection from 
+magnocellular MGN to the supramarginal gyrus (SMG). Both components arch 
+dorsally over the optic radiations before diverging. In all eight historical 
+cases, bilateral lesions overlapped one or both components of the dAR while 
+visual fields were preserved, suggesting relative sparing of the optic 
+radiations and the vAR.
+CONCLUSIONS: These findings support a model in which the human acoustic 
+radiations comprise at least two neuroanatomically distinct components: an 
+earlier-developing ventral branch (vAR) arising from ventral MGN that courses 
+beneath the insula, and a later-developing dorsal branch (dAR) that includes the 
+AA traveling from ventral MGN to Heschl's gyrus (HG) as well as a second pathway 
+traveling from magnocellular MGN to the supramarginal gyrus (SMG) and 
+neighboring auditory-responsive cortices.
+
+Copyright © 2026. Published by Elsevier B.V.
+
+DOI: 10.1016/j.heares.2026.109551
+PMID: 41655453 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest All authors 
+declare no conflicts of interest.

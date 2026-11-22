@@ -1,0 +1,32 @@
+1. Ann Neurol. 2003 Apr;53(4):480-8. doi: 10.1002/ana.10474.
+
+Pallidal neuronal activity: implications for models of dystonia.
+
+Hutchison WD(1), Lang AE, Dostrovsky JO, Lozano AM.
+
+Author information:
+(1)Department of Surgery, Division of Neurosurgery and Toronto Western Research 
+Institute, Toronto Western Hospital and Faculty of Medicine, University of 
+Toronto, Ontario, Canada. whutch@uhnres.utoronto.ca
+
+Dystonia is a neurological syndrome involving sustained contractions of opposing 
+muscles leading to abnormal movements and postures. Recent studies report 
+abnormally low pallidal neuronal activity in patients with generalized dystonia, 
+suggesting hyperkinetic disorders result from underactive basal ganglia output. 
+We examined this hypothesis in 11 patients with segmental and generalized 
+dystonia undergoing microelectrode exploration of the internal globus pallidus 
+(GPi) before pallidotomy or deep brain stimulation (DBS) implantation. The mean 
+firing rates and firing patterns were compared with those in six patients with 
+Parkinson's disease (PD). In seven patients who underwent surgery under local 
+anesthesia, the mean GPi firing rate was 77 Hz, similar to the 74 Hz observed in 
+the PD patients. However, in three dystonic patients under propofol anesthesia, 
+GPi mean firing rate was much reduced (31 Hz), and the firing pattern was 
+distinguished by long pauses in activity, as reported by others. Low-dose 
+propofol in one other dystonia patient also seemed to suppress GPi firing. These 
+results indicate that an abnormally low basal ganglia output is not the sine qua 
+non of dystonia. The widely accepted pathophysiological models of dystonia that 
+propose global decreases in basal ganglia output need to be viewed with caution 
+in light of these findings.
+
+DOI: 10.1002/ana.10474
+PMID: 12666115 [Indexed for MEDLINE]

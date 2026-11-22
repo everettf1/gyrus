@@ -1,0 +1,35 @@
+1. Proc Natl Acad Sci U S A. 2005 Aug 30;102(35):12566-71. doi: 
+10.1073/pnas.0502762102. Epub 2005 Aug 17.
+
+Distinct basal ganglia territories are engaged in early and advanced motor 
+sequence learning.
+
+Lehéricy S(1), Benali H, Van de Moortele PF, Pélégrini-Issac M, Waechter T, 
+Ugurbil K, Doyon J.
+
+Author information:
+(1)Center for Magnetic Resonance Research/Department of Radiology, University of 
+Minnesota, Minneapolis, MN 55455, USA. lehericy@cmrr.umn.edu
+
+In this study, we used functional MRI (fMRI) at high field (3T) to track the 
+time course of activation in the entire basal ganglia circuitry, as well as 
+other motor-related structures, during the explicit learning of a sequence of 
+finger movements over a month of training. Fourteen right-handed healthy 
+volunteers had to practice 15 min daily a sequence of eight moves using the left 
+hand. MRI sessions were performed on days 1, 14 and 28. In both putamen, 
+activation decreased with practice in rostrodorsal (associative) regions. In 
+contrast, there was a significant signal increase in more caudoventral 
+(sensorimotor) regions of the putamen. Subsequent correlation analyses between 
+signal variations and behavioral variables showed that the error rate (movement 
+accuracy) was positively correlated with signal changes in areas activated 
+during early learning, whereas reaction time (movement speed) was negatively 
+correlated with signal changes in areas activated during advanced learning 
+stages, including the sensorimotor putamen and globus pallidus. These results 
+suggest the possibility that motor representations shift from the associative to 
+the sensorimotor territories of the striato-pallidal complex during the explicit 
+learning of motor sequences, suggesting that motor skills are stored in the 
+sensorimotor territory of the basal ganglia that supports a speedy performance.
+
+DOI: 10.1073/pnas.0502762102
+PMCID: PMC1194910
+PMID: 16107540 [Indexed for MEDLINE]

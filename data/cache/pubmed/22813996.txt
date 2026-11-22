@@ -1,0 +1,30 @@
+1. Neuroscience. 2012 Oct 11;222:281-8. doi: 10.1016/j.neuroscience.2012.07.021. 
+Epub 2012 Jul 17.
+
+Focal electrical intracerebral stimulation of a face-sensitive area causes 
+transient prosopagnosia.
+
+Jonas J(1), Descoins M, Koessler L, Colnat-Coulbois S, Sauvée M, Guye M, Vignal 
+JP, Vespignani H, Rossion B, Maillard L.
+
+Author information:
+(1)Service de Neurologie, Centre Hospitalier Universitaire de Nancy, 29 Avenue 
+du Maréchal de Lattre de Tasssigny, 54000 Nancy, France. j.jonas@chu-nancy.fr
+
+Face perception is subtended by a large set of areas in the human ventral 
+occipito-temporal cortex. However, the role of these areas and their importance 
+for face recognition remain largely unclear. Here we report a case of transient 
+selective impairment in face recognition (prosopagnosia) induced by focal 
+electrical intracerebral stimulation of the right inferior occipital gyrus. This 
+area presents with typical face-sensitivity as evidenced by functional 
+neuroimaging right occipital face area (OFA). A face-sensitive intracerebral 
+N170 was also recorded in this area, supporting its contribution as a source of 
+the well-known N170 component typically recorded on the scalp. Altogether, these 
+observations indicate that face recognition can be selectively impaired by local 
+disruption of a single face-sensitive area of the network subtending this 
+function, the right OFA.
+
+Copyright © 2012 IBRO. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuroscience.2012.07.021
+PMID: 22813996 [Indexed for MEDLINE]

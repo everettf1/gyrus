@@ -1,0 +1,2750 @@
+[
+ {
+  "id": "frontomarginal_gyrus",
+  "name": "frontomarginal gyrus",
+  "full": "Fronto-marginal gyrus and sulcus",
+  "aliases": [
+   "frontomarginal sulcus",
+   "fronto-marginal gyrus"
+  ],
+  "deck": "gyri",
+  "lobe": "frontal",
+  "cortex": [
+   "G_and_S_frontomargin"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "inferior_occipital_gyrus",
+  "name": "inferior occipital gyrus",
+  "full": "Inferior occipital gyrus and sulcus",
+  "aliases": [
+   "inferior occipital sulcus"
+  ],
+  "deck": "gyri",
+  "lobe": "occipital",
+  "cortex": [
+   "G_and_S_occipital_inf"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "paracentral_lobule",
+  "name": "paracentral lobule",
+  "full": "Paracentral lobule and sulcus",
+  "aliases": [
+   "paracentral sulcus"
+  ],
+  "deck": "gyri",
+  "lobe": "frontal",
+  "cortex": [
+   "G_and_S_paracentral"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "subcentral_gyrus",
+  "name": "subcentral gyrus",
+  "full": "Subcentral gyrus (central operculum) and sulci",
+  "aliases": [
+   "central operculum",
+   "rolandic operculum"
+  ],
+  "deck": "gyri",
+  "lobe": "frontal",
+  "cortex": [
+   "G_and_S_subcentral"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "transverse_frontopolar_gyri",
+  "name": "transverse frontopolar gyri",
+  "full": "Transverse frontopolar gyri and sulci",
+  "aliases": [
+   "frontopolar gyri"
+  ],
+  "deck": "gyri",
+  "lobe": "frontal",
+  "cortex": [
+   "G_and_S_transv_frontopol"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "anterior_cingulate_gyrus",
+  "name": "anterior cingulate gyrus",
+  "full": "Anterior part of the cingulate gyrus and sulcus",
+  "aliases": [
+   "anterior cingulate"
+  ],
+  "deck": "gyri",
+  "lobe": "limbic",
+  "cortex": [
+   "G_and_S_cingul-Ant"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "anterior_midcingulate_gyrus",
+  "name": "anterior midcingulate gyrus",
+  "full": "Middle-anterior part of the cingulate gyrus and sulcus",
+  "aliases": [
+   "anterior midcingulate",
+   "amcc"
+  ],
+  "deck": "gyri",
+  "lobe": "limbic",
+  "cortex": [
+   "G_and_S_cingul-Mid-Ant"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "posterior_midcingulate_gyrus",
+  "name": "posterior midcingulate gyrus",
+  "full": "Middle-posterior part of the cingulate gyrus and sulcus",
+  "aliases": [
+   "posterior midcingulate",
+   "pmcc"
+  ],
+  "deck": "gyri",
+  "lobe": "limbic",
+  "cortex": [
+   "G_and_S_cingul-Mid-Post"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "dorsal_posterior_cingulate_gyrus",
+  "name": "dorsal posterior cingulate gyrus",
+  "full": "Posterior-dorsal part of the cingulate gyrus",
+  "aliases": [
+   "dorsal posterior cingulate",
+   "dpcc"
+  ],
+  "deck": "gyri",
+  "lobe": "limbic",
+  "cortex": [
+   "G_cingul-Post-dorsal"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "ventral_posterior_cingulate_gyrus",
+  "name": "ventral posterior cingulate gyrus",
+  "full": "Posterior-ventral part of the cingulate gyrus (isthmus)",
+  "aliases": [
+   "isthmus of cingulate gyrus",
+   "cingulate isthmus",
+   "vpcc"
+  ],
+  "deck": "gyri",
+  "lobe": "limbic",
+  "cortex": [
+   "G_cingul-Post-ventral"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "cuneus",
+  "name": "cuneus",
+  "full": "Cuneus",
+  "aliases": [],
+  "deck": "gyri",
+  "lobe": "occipital",
+  "cortex": [
+   "G_cuneus"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "pars_opercularis",
+  "name": "pars opercularis",
+  "full": "Opercular part of the inferior frontal gyrus",
+  "aliases": [
+   "opercular part of the inferior frontal gyrus"
+  ],
+  "deck": "gyri",
+  "lobe": "frontal",
+  "cortex": [
+   "G_front_inf-Opercular"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "pars_orbitalis",
+  "name": "pars orbitalis",
+  "full": "Orbital part of the inferior frontal gyrus",
+  "aliases": [
+   "orbital part of the inferior frontal gyrus"
+  ],
+  "deck": "gyri",
+  "lobe": "frontal",
+  "cortex": [
+   "G_front_inf-Orbital"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "pars_triangularis",
+  "name": "pars triangularis",
+  "full": "Triangular part of the inferior frontal gyrus",
+  "aliases": [
+   "triangular part of the inferior frontal gyrus"
+  ],
+  "deck": "gyri",
+  "lobe": "frontal",
+  "cortex": [
+   "G_front_inf-Triangul"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "middle_frontal_gyrus",
+  "name": "middle frontal gyrus",
+  "full": "Middle frontal gyrus",
+  "aliases": [
+   "f2"
+  ],
+  "deck": "gyri",
+  "lobe": "frontal",
+  "cortex": [
+   "G_front_middle"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "superior_frontal_gyrus",
+  "name": "superior frontal gyrus",
+  "full": "Superior frontal gyrus",
+  "aliases": [
+   "f1"
+  ],
+  "deck": "gyri",
+  "lobe": "frontal",
+  "cortex": [
+   "G_front_sup"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "long_insular_gyrus",
+  "name": "long insular gyrus",
+  "full": "Long insular gyrus and central sulcus of the insula",
+  "aliases": [
+   "long gyrus of the insula"
+  ],
+  "deck": "gyri",
+  "lobe": "insula",
+  "cortex": [
+   "G_Ins_lg_and_S_cent_ins"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "short_insular_gyri",
+  "name": "short insular gyri",
+  "full": "Short insular gyri",
+  "aliases": [
+   "short gyri of the insula"
+  ],
+  "deck": "gyri",
+  "lobe": "insula",
+  "cortex": [
+   "G_insular_short"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "middle_occipital_gyrus",
+  "name": "middle occipital gyrus",
+  "full": "Middle occipital gyrus",
+  "aliases": [
+   "lateral occipital gyrus"
+  ],
+  "deck": "gyri",
+  "lobe": "occipital",
+  "cortex": [
+   "G_occipital_middle"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "superior_occipital_gyrus",
+  "name": "superior occipital gyrus",
+  "full": "Superior occipital gyrus",
+  "aliases": [],
+  "deck": "gyri",
+  "lobe": "occipital",
+  "cortex": [
+   "G_occipital_sup"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "fusiform_gyrus",
+  "name": "fusiform gyrus",
+  "full": "Lateral occipito-temporal gyrus (fusiform gyrus)",
+  "aliases": [
+   "lateral occipitotemporal gyrus"
+  ],
+  "deck": "gyri",
+  "lobe": "temporal",
+  "cortex": [
+   "G_oc-temp_lat-fusifor"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "lingual_gyrus",
+  "name": "lingual gyrus",
+  "full": "Lingual gyrus",
+  "aliases": [
+   "medial occipitotemporal gyrus"
+  ],
+  "deck": "gyri",
+  "lobe": "occipital",
+  "cortex": [
+   "G_oc-temp_med-Lingual"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "parahippocampal_gyrus",
+  "name": "parahippocampal gyrus",
+  "full": "Parahippocampal gyrus",
+  "aliases": [],
+  "deck": "gyri",
+  "lobe": "limbic",
+  "cortex": [
+   "G_oc-temp_med-Parahip"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "orbital_gyri",
+  "name": "orbital gyri",
+  "full": "Orbital gyri",
+  "aliases": [
+   "orbital gyrus"
+  ],
+  "deck": "gyri",
+  "lobe": "frontal",
+  "cortex": [
+   "G_orbital"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "angular_gyrus",
+  "name": "angular gyrus",
+  "full": "Angular gyrus",
+  "aliases": [],
+  "deck": "gyri",
+  "lobe": "parietal",
+  "cortex": [
+   "G_pariet_inf-Angular"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "supramarginal_gyrus",
+  "name": "supramarginal gyrus",
+  "full": "Supramarginal gyrus",
+  "aliases": [],
+  "deck": "gyri",
+  "lobe": "parietal",
+  "cortex": [
+   "G_pariet_inf-Supramar"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "superior_parietal_lobule",
+  "name": "superior parietal lobule",
+  "full": "Superior parietal lobule",
+  "aliases": [],
+  "deck": "gyri",
+  "lobe": "parietal",
+  "cortex": [
+   "G_parietal_sup"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "postcentral_gyrus",
+  "name": "postcentral gyrus",
+  "full": "Postcentral gyrus",
+  "aliases": [],
+  "deck": "gyri",
+  "lobe": "parietal",
+  "cortex": [
+   "G_postcentral"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "precentral_gyrus",
+  "name": "precentral gyrus",
+  "full": "Precentral gyrus",
+  "aliases": [],
+  "deck": "gyri",
+  "lobe": "frontal",
+  "cortex": [
+   "G_precentral"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "precuneus",
+  "name": "precuneus",
+  "full": "Precuneus",
+  "aliases": [],
+  "deck": "gyri",
+  "lobe": "parietal",
+  "cortex": [
+   "G_precuneus"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "gyrus_rectus",
+  "name": "gyrus rectus",
+  "full": "Straight gyrus (gyrus rectus)",
+  "aliases": [
+   "straight gyrus"
+  ],
+  "deck": "gyri",
+  "lobe": "frontal",
+  "cortex": [
+   "G_rectus"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "subcallosal_gyrus",
+  "name": "subcallosal gyrus",
+  "full": "Subcallosal area",
+  "aliases": [
+   "subcallosal area"
+  ],
+  "deck": "gyri",
+  "lobe": "limbic",
+  "cortex": [
+   "G_subcallosal"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "heschls_gyrus",
+  "name": "heschl's gyrus",
+  "full": "Anterior transverse temporal gyrus (of Heschl)",
+  "aliases": [
+   "heschls gyrus",
+   "transverse temporal gyrus",
+   "heschl gyrus"
+  ],
+  "deck": "gyri",
+  "lobe": "temporal",
+  "cortex": [
+   "G_temp_sup-G_T_transv"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "superior_temporal_gyrus",
+  "name": "superior temporal gyrus",
+  "full": "Lateral aspect of the superior temporal gyrus",
+  "aliases": [
+   "stg"
+  ],
+  "deck": "gyri",
+  "lobe": "temporal",
+  "cortex": [
+   "G_temp_sup-Lateral"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "planum_polare",
+  "name": "planum polare",
+  "full": "Planum polare of the superior temporal gyrus",
+  "aliases": [],
+  "deck": "gyri",
+  "lobe": "temporal",
+  "cortex": [
+   "G_temp_sup-Plan_polar"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "planum_temporale",
+  "name": "planum temporale",
+  "full": "Planum temporale of the superior temporal gyrus",
+  "aliases": [
+   "temporal plane"
+  ],
+  "deck": "gyri",
+  "lobe": "temporal",
+  "cortex": [
+   "G_temp_sup-Plan_tempo"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "inferior_temporal_gyrus",
+  "name": "inferior temporal gyrus",
+  "full": "Inferior temporal gyrus",
+  "aliases": [
+   "itg"
+  ],
+  "deck": "gyri",
+  "lobe": "temporal",
+  "cortex": [
+   "G_temporal_inf"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "middle_temporal_gyrus",
+  "name": "middle temporal gyrus",
+  "full": "Middle temporal gyrus",
+  "aliases": [
+   "mtg"
+  ],
+  "deck": "gyri",
+  "lobe": "temporal",
+  "cortex": [
+   "G_temporal_middle"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "anterior_horizontal_ramus",
+  "name": "anterior horizontal ramus",
+  "full": "Horizontal ramus of the anterior segment of the lateral sulcus",
+  "aliases": [
+   "horizontal ramus of the lateral sulcus"
+  ],
+  "deck": "sulci",
+  "lobe": "frontal",
+  "cortex": [
+   "Lat_Fis-ant-Horizont"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "anterior_ascending_ramus",
+  "name": "anterior ascending ramus",
+  "full": "Vertical ramus of the anterior segment of the lateral sulcus",
+  "aliases": [
+   "vertical ramus of the lateral sulcus",
+   "ascending ramus"
+  ],
+  "deck": "sulci",
+  "lobe": "frontal",
+  "cortex": [
+   "Lat_Fis-ant-Vertical"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "lateral_sulcus",
+  "name": "lateral sulcus",
+  "full": "Posterior ramus of the lateral sulcus (sylvian fissure)",
+  "aliases": [
+   "sylvian fissure",
+   "lateral fissure",
+   "posterior ramus of the lateral sulcus"
+  ],
+  "deck": "sulci",
+  "lobe": "temporal",
+  "cortex": [
+   "Lat_Fis-post"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "occipital_pole",
+  "name": "occipital pole",
+  "full": "Occipital pole",
+  "aliases": [],
+  "deck": "gyri",
+  "lobe": "occipital",
+  "cortex": [
+   "Pole_occipital"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "temporal_pole",
+  "name": "temporal pole",
+  "full": "Temporal pole",
+  "aliases": [],
+  "deck": "gyri",
+  "lobe": "temporal",
+  "cortex": [
+   "Pole_temporal"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "calcarine_sulcus",
+  "name": "calcarine sulcus",
+  "full": "Calcarine sulcus",
+  "aliases": [
+   "calcarine fissure"
+  ],
+  "deck": "sulci",
+  "lobe": "occipital",
+  "cortex": [
+   "S_calcarine"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "central_sulcus",
+  "name": "central sulcus",
+  "full": "Central sulcus (of Rolando)",
+  "aliases": [
+   "rolandic fissure",
+   "sulcus of rolando"
+  ],
+  "deck": "sulci",
+  "lobe": "frontal",
+  "cortex": [
+   "S_central"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "marginal_sulcus",
+  "name": "marginal sulcus",
+  "full": "Marginal branch of the cingulate sulcus",
+  "aliases": [
+   "marginal ramus",
+   "pars marginalis"
+  ],
+  "deck": "sulci",
+  "lobe": "parietal",
+  "cortex": [
+   "S_cingul-Marginalis"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "anterior_circular_sulcus",
+  "name": "anterior circular sulcus",
+  "full": "Anterior segment of the circular sulcus of the insula",
+  "aliases": [],
+  "deck": "sulci",
+  "lobe": "insula",
+  "cortex": [
+   "S_circular_insula_ant"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "inferior_circular_sulcus",
+  "name": "inferior circular sulcus",
+  "full": "Inferior segment of the circular sulcus of the insula",
+  "aliases": [],
+  "deck": "sulci",
+  "lobe": "insula",
+  "cortex": [
+   "S_circular_insula_inf"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "superior_circular_sulcus",
+  "name": "superior circular sulcus",
+  "full": "Superior segment of the circular sulcus of the insula",
+  "aliases": [],
+  "deck": "sulci",
+  "lobe": "insula",
+  "cortex": [
+   "S_circular_insula_sup"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "anterior_transverse_collateral_sulcus",
+  "name": "anterior transverse collateral sulcus",
+  "full": "Anterior transverse collateral sulcus",
+  "aliases": [],
+  "deck": "sulci",
+  "lobe": "temporal",
+  "cortex": [
+   "S_collat_transv_ant"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "posterior_transverse_collateral_sulcus",
+  "name": "posterior transverse collateral sulcus",
+  "full": "Posterior transverse collateral sulcus",
+  "aliases": [],
+  "deck": "sulci",
+  "lobe": "occipital",
+  "cortex": [
+   "S_collat_transv_post"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "inferior_frontal_sulcus",
+  "name": "inferior frontal sulcus",
+  "full": "Inferior frontal sulcus",
+  "aliases": [],
+  "deck": "sulci",
+  "lobe": "frontal",
+  "cortex": [
+   "S_front_inf"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "middle_frontal_sulcus",
+  "name": "middle frontal sulcus",
+  "full": "Middle frontal sulcus",
+  "aliases": [],
+  "deck": "sulci",
+  "lobe": "frontal",
+  "cortex": [
+   "S_front_middle"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "superior_frontal_sulcus",
+  "name": "superior frontal sulcus",
+  "full": "Superior frontal sulcus",
+  "aliases": [],
+  "deck": "sulci",
+  "lobe": "frontal",
+  "cortex": [
+   "S_front_sup"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "sulcus_of_jensen",
+  "name": "sulcus of jensen",
+  "full": "Sulcus intermedius primus (of Jensen)",
+  "aliases": [
+   "intermediate sulcus",
+   "jensen sulcus"
+  ],
+  "deck": "sulci",
+  "lobe": "parietal",
+  "cortex": [
+   "S_interm_prim-Jensen"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "intraparietal_sulcus",
+  "name": "intraparietal sulcus",
+  "full": "Intraparietal sulcus and transverse parietal sulci",
+  "aliases": [
+   "ips",
+   "interparietal sulcus"
+  ],
+  "deck": "sulci",
+  "lobe": "parietal",
+  "cortex": [
+   "S_intrapariet_and_P_trans"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "lunate_sulcus",
+  "name": "lunate sulcus",
+  "full": "Middle occipital sulcus and lunatus sulcus",
+  "aliases": [
+   "middle occipital sulcus",
+   "lunatus sulcus"
+  ],
+  "deck": "sulci",
+  "lobe": "occipital",
+  "cortex": [
+   "S_oc_middle_and_Lunatus"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "transverse_occipital_sulcus",
+  "name": "transverse occipital sulcus",
+  "full": "Superior occipital sulcus and transverse occipital sulcus",
+  "aliases": [
+   "superior occipital sulcus"
+  ],
+  "deck": "sulci",
+  "lobe": "occipital",
+  "cortex": [
+   "S_oc_sup_and_transversal"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "anterior_occipital_sulcus",
+  "name": "anterior occipital sulcus",
+  "full": "Anterior occipital sulcus and preoccipital notch",
+  "aliases": [
+   "preoccipital notch"
+  ],
+  "deck": "sulci",
+  "lobe": "occipital",
+  "cortex": [
+   "S_occipital_ant"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "occipitotemporal_sulcus",
+  "name": "occipitotemporal sulcus",
+  "full": "Lateral occipito-temporal sulcus",
+  "aliases": [
+   "lateral occipitotemporal sulcus"
+  ],
+  "deck": "sulci",
+  "lobe": "temporal",
+  "cortex": [
+   "S_oc-temp_lat"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "collateral_sulcus",
+  "name": "collateral sulcus",
+  "full": "Medial occipito-temporal (collateral) sulcus and lingual sulcus",
+  "aliases": [
+   "medial occipitotemporal sulcus",
+   "lingual sulcus"
+  ],
+  "deck": "sulci",
+  "lobe": "occipital",
+  "cortex": [
+   "S_oc-temp_med_and_Lingual"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "lateral_orbital_sulcus",
+  "name": "lateral orbital sulcus",
+  "full": "Lateral orbital sulcus",
+  "aliases": [],
+  "deck": "sulci",
+  "lobe": "frontal",
+  "cortex": [
+   "S_orbital_lateral"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "olfactory_sulcus",
+  "name": "olfactory sulcus",
+  "full": "Medial orbital sulcus (olfactory sulcus)",
+  "aliases": [
+   "medial orbital sulcus"
+  ],
+  "deck": "sulci",
+  "lobe": "frontal",
+  "cortex": [
+   "S_orbital_med-olfact"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "orbital_sulci",
+  "name": "orbital sulci",
+  "full": "Orbital sulci (H-shaped sulci)",
+  "aliases": [
+   "h-shaped sulcus",
+   "h shaped sulcus"
+  ],
+  "deck": "sulci",
+  "lobe": "frontal",
+  "cortex": [
+   "S_orbital-H_Shaped"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "parieto_occipital_sulcus",
+  "name": "parieto-occipital sulcus",
+  "full": "Parieto-occipital sulcus",
+  "aliases": [
+   "parietooccipital sulcus",
+   "parieto occipital sulcus"
+  ],
+  "deck": "sulci",
+  "lobe": "occipital",
+  "cortex": [
+   "S_parieto_occipital"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "callosal_sulcus",
+  "name": "callosal sulcus",
+  "full": "Pericallosal sulcus (sulcus of the corpus callosum)",
+  "aliases": [
+   "pericallosal sulcus"
+  ],
+  "deck": "sulci",
+  "lobe": "limbic",
+  "cortex": [
+   "S_pericallosal"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "postcentral_sulcus",
+  "name": "postcentral sulcus",
+  "full": "Postcentral sulcus",
+  "aliases": [],
+  "deck": "sulci",
+  "lobe": "parietal",
+  "cortex": [
+   "S_postcentral"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "inferior_precentral_sulcus",
+  "name": "inferior precentral sulcus",
+  "full": "Inferior part of the precentral sulcus",
+  "aliases": [],
+  "deck": "sulci",
+  "lobe": "frontal",
+  "cortex": [
+   "S_precentral-inf-part"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "superior_precentral_sulcus",
+  "name": "superior precentral sulcus",
+  "full": "Superior part of the precentral sulcus",
+  "aliases": [],
+  "deck": "sulci",
+  "lobe": "frontal",
+  "cortex": [
+   "S_precentral-sup-part"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "suborbital_sulcus",
+  "name": "suborbital sulcus",
+  "full": "Suborbital sulcus (rostral sulcus)",
+  "aliases": [
+   "rostral sulcus"
+  ],
+  "deck": "sulci",
+  "lobe": "frontal",
+  "cortex": [
+   "S_suborbital"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "subparietal_sulcus",
+  "name": "subparietal sulcus",
+  "full": "Subparietal sulcus",
+  "aliases": [
+   "suprasplenial sulcus"
+  ],
+  "deck": "sulci",
+  "lobe": "parietal",
+  "cortex": [
+   "S_subparietal"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "inferior_temporal_sulcus",
+  "name": "inferior temporal sulcus",
+  "full": "Inferior temporal sulcus",
+  "aliases": [],
+  "deck": "sulci",
+  "lobe": "temporal",
+  "cortex": [
+   "S_temporal_inf"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "superior_temporal_sulcus",
+  "name": "superior temporal sulcus",
+  "full": "Superior temporal sulcus",
+  "aliases": [
+   "sts",
+   "parallel sulcus"
+  ],
+  "deck": "sulci",
+  "lobe": "temporal",
+  "cortex": [
+   "S_temporal_sup"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "transverse_temporal_sulcus",
+  "name": "transverse temporal sulcus",
+  "full": "Transverse temporal sulcus",
+  "aliases": [],
+  "deck": "sulci",
+  "lobe": "temporal",
+  "cortex": [
+   "S_temporal_transverse"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "frontal_lobe",
+  "name": "frontal lobe",
+  "full": "Frontal lobe",
+  "aliases": [],
+  "deck": "lobes",
+  "lobe": "frontal",
+  "cortex": [
+   "G_and_S_frontomargin",
+   "G_and_S_paracentral",
+   "G_and_S_subcentral",
+   "G_and_S_transv_frontopol",
+   "G_front_inf-Opercular",
+   "G_front_inf-Orbital",
+   "G_front_inf-Triangul",
+   "G_front_middle",
+   "G_front_sup",
+   "G_orbital",
+   "G_precentral",
+   "G_rectus",
+   "Lat_Fis-ant-Horizont",
+   "Lat_Fis-ant-Vertical",
+   "S_central",
+   "S_front_inf",
+   "S_front_middle",
+   "S_front_sup",
+   "S_orbital_lateral",
+   "S_orbital_med-olfact",
+   "S_orbital-H_Shaped",
+   "S_precentral-inf-part",
+   "S_precentral-sup-part",
+   "S_suborbital"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "parietal_lobe",
+  "name": "parietal lobe",
+  "full": "Parietal lobe",
+  "aliases": [],
+  "deck": "lobes",
+  "lobe": "parietal",
+  "cortex": [
+   "G_pariet_inf-Angular",
+   "G_pariet_inf-Supramar",
+   "G_parietal_sup",
+   "G_postcentral",
+   "G_precuneus",
+   "S_cingul-Marginalis",
+   "S_interm_prim-Jensen",
+   "S_intrapariet_and_P_trans",
+   "S_postcentral",
+   "S_subparietal"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "temporal_lobe",
+  "name": "temporal lobe",
+  "full": "Temporal lobe",
+  "aliases": [],
+  "deck": "lobes",
+  "lobe": "temporal",
+  "cortex": [
+   "G_oc-temp_lat-fusifor",
+   "G_temp_sup-G_T_transv",
+   "G_temp_sup-Lateral",
+   "G_temp_sup-Plan_polar",
+   "G_temp_sup-Plan_tempo",
+   "G_temporal_inf",
+   "G_temporal_middle",
+   "Lat_Fis-post",
+   "Pole_temporal",
+   "S_collat_transv_ant",
+   "S_oc-temp_lat",
+   "S_temporal_inf",
+   "S_temporal_sup",
+   "S_temporal_transverse"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "occipital_lobe",
+  "name": "occipital lobe",
+  "full": "Occipital lobe",
+  "aliases": [],
+  "deck": "lobes",
+  "lobe": "occipital",
+  "cortex": [
+   "G_and_S_occipital_inf",
+   "G_cuneus",
+   "G_occipital_middle",
+   "G_occipital_sup",
+   "G_oc-temp_med-Lingual",
+   "Pole_occipital",
+   "S_calcarine",
+   "S_collat_transv_post",
+   "S_oc_middle_and_Lunatus",
+   "S_oc_sup_and_transversal",
+   "S_occipital_ant",
+   "S_oc-temp_med_and_Lingual",
+   "S_parieto_occipital"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "insula",
+  "name": "insula",
+  "full": "Insula",
+  "aliases": [
+   "insular cortex",
+   "insular lobe",
+   "island of reil"
+  ],
+  "deck": "lobes",
+  "lobe": "insula",
+  "cortex": [
+   "G_Ins_lg_and_S_cent_ins",
+   "G_insular_short",
+   "S_circular_insula_ant",
+   "S_circular_insula_inf",
+   "S_circular_insula_sup"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "limbic_lobe",
+  "name": "limbic lobe",
+  "full": "Limbic lobe",
+  "aliases": [],
+  "deck": "lobes",
+  "lobe": "limbic",
+  "cortex": [
+   "G_and_S_cingul-Ant",
+   "G_and_S_cingul-Mid-Ant",
+   "G_and_S_cingul-Mid-Post",
+   "G_cingul-Post-dorsal",
+   "G_cingul-Post-ventral",
+   "G_oc-temp_med-Parahip",
+   "G_subcallosal",
+   "S_pericallosal"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "prefrontal_cortex",
+  "name": "prefrontal cortex",
+  "full": "Prefrontal cortex",
+  "aliases": [
+   "pfc"
+  ],
+  "deck": "areas",
+  "cortex": [
+   "G_front_sup",
+   "G_front_middle",
+   "G_front_inf-Opercular",
+   "G_front_inf-Triangul",
+   "G_front_inf-Orbital",
+   "G_and_S_frontomargin",
+   "G_and_S_transv_frontopol",
+   "G_orbital",
+   "G_rectus",
+   "S_front_sup",
+   "S_front_middle",
+   "S_front_inf",
+   "S_orbital_lateral",
+   "S_orbital_med-olfact",
+   "S_orbital-H_Shaped",
+   "S_suborbital"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "dorsolateral_prefrontal_cortex",
+  "name": "dorsolateral prefrontal cortex",
+  "full": "Dorsolateral prefrontal cortex",
+  "aliases": [
+   "dlpfc"
+  ],
+  "deck": "areas",
+  "cortex": [
+   "G_front_middle",
+   "S_front_middle",
+   "S_front_inf"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "orbitofrontal_cortex",
+  "name": "orbitofrontal cortex",
+  "full": "Orbitofrontal cortex",
+  "aliases": [
+   "ofc"
+  ],
+  "deck": "areas",
+  "cortex": [
+   "G_orbital",
+   "G_rectus",
+   "G_front_inf-Orbital",
+   "S_orbital_lateral",
+   "S_orbital_med-olfact",
+   "S_orbital-H_Shaped"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "brocas_area",
+  "name": "broca's area",
+  "full": "Broca's area",
+  "aliases": [
+   "brocas area",
+   "broca area",
+   "broca"
+  ],
+  "deck": "areas",
+  "level": "core",
+  "hcp": [
+   "44",
+   "45"
+  ],
+  "side": "left"
+ },
+ {
+  "id": "primary_motor_cortex",
+  "name": "primary motor cortex",
+  "full": "Primary motor cortex",
+  "aliases": [
+   "m1",
+   "motor cortex"
+  ],
+  "deck": "areas",
+  "level": "core",
+  "hcp": [
+   "4"
+  ]
+ },
+ {
+  "id": "primary_somatosensory_cortex",
+  "name": "primary somatosensory cortex",
+  "full": "Primary somatosensory cortex",
+  "aliases": [
+   "s1",
+   "somatosensory cortex"
+  ],
+  "deck": "areas",
+  "level": "core",
+  "hcp": [
+   "3a",
+   "3b",
+   "1",
+   "2"
+  ]
+ },
+ {
+  "id": "primary_auditory_cortex",
+  "name": "primary auditory cortex",
+  "full": "Primary auditory cortex",
+  "aliases": [
+   "a1",
+   "auditory cortex"
+  ],
+  "deck": "areas",
+  "level": "core",
+  "hcp": [
+   "A1"
+  ]
+ },
+ {
+  "id": "wernickes_area",
+  "name": "wernicke's area",
+  "full": "Wernicke's area",
+  "aliases": [
+   "wernickes area",
+   "wernicke area",
+   "wernicke"
+  ],
+  "deck": "areas",
+  "cortex": [
+   "G_temp_sup-Plan_tempo"
+  ],
+  "level": "core",
+  "side": "left",
+  "approx": true
+ },
+ {
+  "id": "primary_visual_cortex",
+  "name": "primary visual cortex",
+  "full": "Primary visual cortex",
+  "aliases": [
+   "v1",
+   "visual cortex",
+   "striate cortex"
+  ],
+  "deck": "areas",
+  "level": "core",
+  "hcp": [
+   "V1"
+  ]
+ },
+ {
+  "id": "anterior_cingulate_cortex",
+  "name": "anterior cingulate cortex",
+  "full": "Anterior cingulate cortex",
+  "aliases": [
+   "acc"
+  ],
+  "deck": "areas",
+  "cortex": [
+   "G_and_S_cingul-Ant",
+   "G_and_S_cingul-Mid-Ant"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "posterior_cingulate_cortex",
+  "name": "posterior cingulate cortex",
+  "full": "Posterior cingulate cortex",
+  "aliases": [
+   "pcc"
+  ],
+  "deck": "areas",
+  "cortex": [
+   "G_cingul-Post-dorsal",
+   "G_cingul-Post-ventral"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "thalamus",
+  "name": "thalamus",
+  "full": "Thalamus",
+  "aliases": [],
+  "deck": "deep",
+  "deep": [
+   "thalamus"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "caudate_nucleus",
+  "name": "caudate nucleus",
+  "full": "Caudate nucleus",
+  "aliases": [
+   "caudate"
+  ],
+  "deck": "deep",
+  "deep": [
+   "caudate"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "putamen",
+  "name": "putamen",
+  "full": "Putamen",
+  "aliases": [],
+  "deck": "deep",
+  "deep": [
+   "putamen"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "globus_pallidus",
+  "name": "globus pallidus",
+  "full": "Globus pallidus",
+  "aliases": [
+   "pallidum"
+  ],
+  "deck": "deep",
+  "deep": [
+   "globus_pallidus"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "nucleus_accumbens",
+  "name": "nucleus accumbens",
+  "full": "Nucleus accumbens",
+  "aliases": [
+   "accumbens",
+   "ventral striatum"
+  ],
+  "deck": "deep",
+  "deep": [
+   "nucleus_accumbens"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "hippocampus",
+  "name": "hippocampus",
+  "full": "Hippocampus",
+  "aliases": [],
+  "deck": "deep",
+  "deep": [
+   "hippocampus"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "amygdala",
+  "name": "amygdala",
+  "full": "Amygdala",
+  "aliases": [],
+  "deck": "deep",
+  "deep": [
+   "amygdala"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "lateral_ventricle",
+  "name": "lateral ventricle",
+  "full": "Lateral ventricle",
+  "aliases": [
+   "lateral ventricles"
+  ],
+  "deck": "deep",
+  "deep": [
+   "lateral_ventricle"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "striatum",
+  "name": "striatum",
+  "full": "Striatum",
+  "aliases": [
+   "corpus striatum"
+  ],
+  "deck": "deep",
+  "deep": [
+   "caudate",
+   "putamen",
+   "nucleus_accumbens"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "basal_ganglia",
+  "name": "basal ganglia",
+  "full": "Basal ganglia",
+  "aliases": [
+   "basal nuclei"
+  ],
+  "deck": "deep",
+  "deep": [
+   "caudate",
+   "putamen",
+   "globus_pallidus",
+   "nucleus_accumbens",
+   "substantia_nigra"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "substantia_nigra",
+  "name": "substantia nigra",
+  "full": "Substantia nigra",
+  "aliases": [],
+  "deck": "brainstem",
+  "deep": [
+   "substantia_nigra"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "ventral_tegmental_area",
+  "name": "ventral tegmental area",
+  "full": "Ventral tegmental area",
+  "aliases": [
+   "vta"
+  ],
+  "deck": "brainstem",
+  "deep": [
+   "vta"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "red_nucleus",
+  "name": "red nucleus",
+  "full": "Red nucleus",
+  "aliases": [],
+  "deck": "brainstem",
+  "deep": [
+   "red_nucleus"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "locus_coeruleus",
+  "name": "locus coeruleus",
+  "full": "Locus coeruleus",
+  "aliases": [
+   "locus ceruleus"
+  ],
+  "deck": "brainstem",
+  "deep": [
+   "locus_coeruleus"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "raphe_nuclei",
+  "name": "raphe nuclei",
+  "full": "Raphe nuclei",
+  "aliases": [
+   "raphe"
+  ],
+  "deck": "brainstem",
+  "deep": [
+   "raphe_nuclei"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "midbrain",
+  "name": "midbrain",
+  "full": "Midbrain",
+  "aliases": [
+   "mesencephalon"
+  ],
+  "deck": "brainstem",
+  "deep": [
+   "midbrain"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "pons",
+  "name": "pons",
+  "full": "Pons",
+  "aliases": [],
+  "deck": "brainstem",
+  "deep": [
+   "pons"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "medulla_oblongata",
+  "name": "medulla oblongata",
+  "full": "Medulla oblongata",
+  "aliases": [
+   "medulla"
+  ],
+  "deck": "brainstem",
+  "deep": [
+   "medulla"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "cerebellum",
+  "name": "cerebellum",
+  "full": "Cerebellum",
+  "aliases": [],
+  "deck": "brainstem",
+  "deep": [
+   "cerebellum_anterior",
+   "cerebellum_posterior",
+   "flocculonodular",
+   "vermis"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "anterior_lobe_of_cerebellum",
+  "name": "anterior lobe of the cerebellum",
+  "full": "Anterior lobe of the cerebellum",
+  "aliases": [
+   "anterior lobe",
+   "cerebellar anterior lobe"
+  ],
+  "deck": "brainstem",
+  "deep": [
+   "cerebellum_anterior"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "posterior_lobe_of_cerebellum",
+  "name": "posterior lobe of the cerebellum",
+  "full": "Posterior lobe of the cerebellum",
+  "aliases": [
+   "posterior lobe",
+   "cerebellar posterior lobe"
+  ],
+  "deck": "brainstem",
+  "deep": [
+   "cerebellum_posterior"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "flocculonodular_lobe",
+  "name": "flocculonodular lobe",
+  "full": "Flocculonodular lobe",
+  "aliases": [
+   "flocculus",
+   "vestibulocerebellum"
+  ],
+  "deck": "brainstem",
+  "deep": [
+   "flocculonodular"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "vermis",
+  "name": "vermis",
+  "full": "Vermis",
+  "aliases": [
+   "cerebellar vermis"
+  ],
+  "deck": "brainstem",
+  "deep": [
+   "vermis"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "anterior_nucleus_of_thalamus",
+  "name": "anterior nucleus",
+  "full": "Anterior nucleus",
+  "aliases": [
+   "anterior nucleus of the thalamus",
+   "anterior thalamic nucleus"
+  ],
+  "deck": "thalamus",
+  "deep": [
+   "thal_anterior"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "mediodorsal_nucleus",
+  "name": "mediodorsal nucleus",
+  "full": "Mediodorsal nucleus",
+  "aliases": [
+   "dorsomedial nucleus",
+   "md nucleus"
+  ],
+  "deck": "thalamus",
+  "deep": [
+   "thal_mediodorsal"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "ventral_anterior_nucleus",
+  "name": "ventral anterior nucleus",
+  "full": "Ventral anterior nucleus",
+  "aliases": [
+   "va nucleus"
+  ],
+  "deck": "thalamus",
+  "deep": [
+   "thal_ventral_anterior"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "ventral_lateral_nucleus",
+  "name": "ventral lateral nucleus",
+  "full": "Ventral lateral nucleus",
+  "aliases": [
+   "vl nucleus"
+  ],
+  "deck": "thalamus",
+  "deep": [
+   "thal_ventral_lateral"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "ventral_posterolateral_nucleus",
+  "name": "ventral posterolateral nucleus",
+  "full": "Ventral posterolateral nucleus",
+  "aliases": [
+   "vpl",
+   "vpl nucleus"
+  ],
+  "deck": "thalamus",
+  "deep": [
+   "thal_vpl"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "pulvinar",
+  "name": "pulvinar",
+  "full": "Pulvinar",
+  "aliases": [
+   "pulvinar nucleus"
+  ],
+  "deck": "thalamus",
+  "deep": [
+   "thal_pulvinar"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "lateral_geniculate_nucleus",
+  "name": "lateral geniculate nucleus",
+  "full": "Lateral geniculate nucleus",
+  "aliases": [
+   "lgn"
+  ],
+  "deck": "thalamus",
+  "deep": [
+   "thal_lgn"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "medial_geniculate_nucleus",
+  "name": "medial geniculate nucleus",
+  "full": "Medial geniculate nucleus",
+  "aliases": [
+   "mgn"
+  ],
+  "deck": "thalamus",
+  "deep": [
+   "thal_mgn"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "premotor_cortex",
+  "name": "premotor cortex",
+  "full": "Premotor cortex",
+  "aliases": [
+   "pmc",
+   "premotor area",
+   "lateral premotor cortex",
+   "area 6"
+  ],
+  "deck": "areas",
+  "lobe": "frontal",
+  "hcp": [
+   "6a",
+   "6d",
+   "6v",
+   "6r"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "supplementary_motor_area",
+  "name": "supplementary motor area",
+  "full": "Supplementary motor area",
+  "aliases": [
+   "sma",
+   "sma proper"
+  ],
+  "deck": "areas",
+  "lobe": "frontal",
+  "hcp": [
+   "6mp"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "pre_supplementary_motor_area",
+  "name": "pre-supplementary motor area",
+  "full": "Pre-supplementary motor area",
+  "aliases": [
+   "pre sma",
+   "presma",
+   "pre-sma"
+  ],
+  "deck": "areas",
+  "lobe": "frontal",
+  "hcp": [
+   "6ma"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "frontal_eye_field",
+  "name": "frontal eye field",
+  "full": "Frontal eye field",
+  "aliases": [
+   "fef",
+   "frontal eye fields"
+  ],
+  "deck": "areas",
+  "lobe": "frontal",
+  "hcp": [
+   "FEF"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "area_55b",
+  "name": "area 55b",
+  "full": "Area 55b",
+  "aliases": [
+   "55b"
+  ],
+  "deck": "areas",
+  "lobe": "frontal",
+  "hcp": [
+   "55b"
+  ],
+  "level": "core",
+  "title": "Area 55b"
+ },
+ {
+  "id": "inferior_frontal_junction",
+  "name": "inferior frontal junction",
+  "full": "Inferior frontal junction",
+  "aliases": [
+   "ifj"
+  ],
+  "deck": "areas",
+  "lobe": "frontal",
+  "hcp": [
+   "IFJa",
+   "IFJp"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "frontopolar_cortex",
+  "name": "frontopolar cortex",
+  "full": "Frontopolar cortex",
+  "aliases": [
+   "frontal pole",
+   "fpc",
+   "area 10",
+   "rostral prefrontal cortex"
+  ],
+  "deck": "areas",
+  "lobe": "frontal",
+  "hcp": [
+   "10pp",
+   "a10p",
+   "p10p",
+   "10d"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "dorsomedial_prefrontal_cortex",
+  "name": "dorsomedial prefrontal cortex",
+  "full": "Dorsomedial prefrontal cortex",
+  "aliases": [
+   "dmpfc"
+  ],
+  "deck": "areas",
+  "lobe": "frontal",
+  "hcp": [
+   "8BM",
+   "9m",
+   "8BL"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "ventromedial_prefrontal_cortex",
+  "name": "ventromedial prefrontal cortex",
+  "full": "Ventromedial prefrontal cortex",
+  "aliases": [
+   "vmpfc"
+  ],
+  "deck": "areas",
+  "lobe": "frontal",
+  "hcp": [
+   "10r",
+   "10v",
+   "p32",
+   "s32"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "subgenual_cingulate_cortex",
+  "name": "subgenual cingulate cortex",
+  "full": "Subgenual cingulate cortex",
+  "aliases": [
+   "sgacc",
+   "subgenual anterior cingulate cortex",
+   "area 25",
+   "cg25"
+  ],
+  "deck": "areas",
+  "lobe": "limbic",
+  "hcp": [
+   "25"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "anterior_insula",
+  "name": "anterior insula",
+  "full": "Anterior insula",
+  "aliases": [
+   "anterior insular cortex",
+   "ai"
+  ],
+  "deck": "areas",
+  "lobe": "insula",
+  "hcp": [
+   "AAIC",
+   "AVI"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "posterior_insula",
+  "name": "posterior insula",
+  "full": "Posterior insula",
+  "aliases": [
+   "posterior insular cortex"
+  ],
+  "deck": "areas",
+  "lobe": "insula",
+  "hcp": [
+   "Ig",
+   "PoI1",
+   "PoI2"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "piriform_cortex",
+  "name": "piriform cortex",
+  "full": "Piriform cortex",
+  "aliases": [
+   "primary olfactory cortex",
+   "pir"
+  ],
+  "deck": "areas",
+  "lobe": "frontal",
+  "hcp": [
+   "Pir"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "secondary_somatosensory_cortex",
+  "name": "secondary somatosensory cortex",
+  "full": "Secondary somatosensory cortex",
+  "aliases": [
+   "s2",
+   "sii",
+   "parietal operculum"
+  ],
+  "deck": "areas",
+  "lobe": "parietal",
+  "hcp": [
+   "OP1",
+   "OP2-3",
+   "OP4"
+  ],
+  "level": "core",
+  "approx": true,
+  "title": "Secondary somatosensory cortex (S2)"
+ },
+ {
+  "id": "lateral_intraparietal_area",
+  "name": "lateral intraparietal area",
+  "full": "Lateral intraparietal area",
+  "aliases": [
+   "lip"
+  ],
+  "deck": "areas",
+  "lobe": "parietal",
+  "hcp": [
+   "LIPv",
+   "LIPd"
+  ],
+  "level": "core",
+  "title": "Lateral intraparietal area (LIP)"
+ },
+ {
+  "id": "anterior_intraparietal_area",
+  "name": "anterior intraparietal area",
+  "full": "Anterior intraparietal area",
+  "aliases": [
+   "aip"
+  ],
+  "deck": "areas",
+  "lobe": "parietal",
+  "hcp": [
+   "AIP"
+  ],
+  "level": "core",
+  "title": "Anterior intraparietal area (AIP)"
+ },
+ {
+  "id": "temporoparietal_junction",
+  "name": "temporoparietal junction",
+  "full": "Temporoparietal junction",
+  "aliases": [
+   "tpj"
+  ],
+  "deck": "areas",
+  "lobe": "parietal",
+  "hcp": [
+   "TPOJ1",
+   "TPOJ2",
+   "TPOJ3",
+   "STV",
+   "PSL"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "auditory_belt",
+  "name": "auditory belt",
+  "full": "Auditory belt",
+  "aliases": [
+   "belt",
+   "belt areas",
+   "auditory belt areas"
+  ],
+  "deck": "areas",
+  "lobe": "temporal",
+  "hcp": [
+   "MBelt",
+   "LBelt",
+   "PBelt"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "inferior_temporal_cortex",
+  "name": "inferior temporal cortex",
+  "full": "Inferior temporal cortex",
+  "aliases": [
+   "it cortex",
+   "area te"
+  ],
+  "deck": "areas",
+  "lobe": "temporal",
+  "hcp": [
+   "TE1a",
+   "TE1m",
+   "TE1p",
+   "TE2a",
+   "TE2p"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "entorhinal_cortex",
+  "name": "entorhinal cortex",
+  "full": "Entorhinal cortex",
+  "aliases": [
+   "ec",
+   "area 28"
+  ],
+  "deck": "areas",
+  "lobe": "limbic",
+  "hcp": [
+   "EC"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "perirhinal_cortex",
+  "name": "perirhinal cortex",
+  "full": "Perirhinal cortex",
+  "aliases": [
+   "prc",
+   "areas 35 and 36"
+  ],
+  "deck": "areas",
+  "lobe": "limbic",
+  "hcp": [
+   "PeEc"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "parahippocampal_place_area",
+  "name": "parahippocampal place area",
+  "full": "Parahippocampal place area",
+  "aliases": [
+   "ppa"
+  ],
+  "deck": "areas",
+  "lobe": "limbic",
+  "hcp": [
+   "PHA1",
+   "PHA2",
+   "PHA3"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "retrosplenial_cortex",
+  "name": "retrosplenial cortex",
+  "full": "Retrosplenial cortex",
+  "aliases": [
+   "rsc",
+   "retrosplenial complex"
+  ],
+  "deck": "areas",
+  "lobe": "limbic",
+  "hcp": [
+   "RSC"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "fusiform_face_area",
+  "name": "fusiform face area",
+  "full": "Fusiform face area",
+  "aliases": [
+   "ffa",
+   "fusiform face complex",
+   "ffc"
+  ],
+  "deck": "areas",
+  "lobe": "temporal",
+  "hcp": [
+   "FFC"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "secondary_visual_cortex",
+  "name": "secondary visual cortex",
+  "full": "Secondary visual cortex",
+  "aliases": [
+   "v2",
+   "area 18",
+   "prestriate cortex"
+  ],
+  "deck": "areas",
+  "lobe": "occipital",
+  "hcp": [
+   "V2"
+  ],
+  "level": "core",
+  "title": "Secondary visual cortex (V2)"
+ },
+ {
+  "id": "area_v3",
+  "name": "area v3",
+  "full": "Area v3",
+  "aliases": [
+   "v3",
+   "visual area 3",
+   "third visual area"
+  ],
+  "deck": "areas",
+  "lobe": "occipital",
+  "hcp": [
+   "V3"
+  ],
+  "level": "core",
+  "title": "Area V3"
+ },
+ {
+  "id": "area_v4",
+  "name": "area v4",
+  "full": "Area v4",
+  "aliases": [
+   "v4",
+   "visual area 4"
+  ],
+  "deck": "areas",
+  "lobe": "occipital",
+  "hcp": [
+   "V4"
+  ],
+  "level": "core",
+  "title": "Area V4"
+ },
+ {
+  "id": "area_mt",
+  "name": "area mt",
+  "full": "Area mt",
+  "aliases": [
+   "mt",
+   "v5",
+   "area v5",
+   "middle temporal area",
+   "mt v5"
+  ],
+  "deck": "areas",
+  "lobe": "occipital",
+  "hcp": [
+   "MT"
+  ],
+  "level": "core",
+  "title": "Area MT (V5)"
+ },
+ {
+  "id": "lateral_occipital_complex",
+  "name": "lateral occipital complex",
+  "full": "Lateral occipital complex",
+  "aliases": [
+   "loc",
+   "lo"
+  ],
+  "deck": "areas",
+  "lobe": "occipital",
+  "hcp": [
+   "LO1",
+   "LO2",
+   "LO3"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "visual_network",
+  "name": "visual network",
+  "full": "Visual network",
+  "aliases": [
+   "vis network",
+   "visual resting state network"
+  ],
+  "deck": "networks",
+  "net": [
+   "Vis"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "somatomotor_network",
+  "name": "somatomotor network",
+  "full": "Somatomotor network",
+  "aliases": [
+   "sensorimotor network",
+   "smn",
+   "somatomotor"
+  ],
+  "deck": "networks",
+  "net": [
+   "SomMot"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "dorsal_attention_network",
+  "name": "dorsal attention network",
+  "full": "Dorsal attention network",
+  "aliases": [
+   "dan",
+   "dorsal attention"
+  ],
+  "deck": "networks",
+  "net": [
+   "DorsAttn"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "salience_network",
+  "name": "salience network",
+  "full": "Salience network",
+  "aliases": [
+   "ventral attention network",
+   "van",
+   "salience ventral attention network",
+   "cingulo-opercular network"
+  ],
+  "deck": "networks",
+  "net": [
+   "SalVentAttn"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "limbic_network",
+  "name": "limbic network",
+  "full": "Limbic network",
+  "aliases": [],
+  "deck": "networks",
+  "net": [
+   "Limbic"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "frontoparietal_control_network",
+  "name": "frontoparietal control network",
+  "full": "Frontoparietal control network",
+  "aliases": [
+   "frontoparietal network",
+   "fpn",
+   "control network",
+   "central executive network",
+   "fpcn"
+  ],
+  "deck": "networks",
+  "net": [
+   "Cont"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "default_mode_network",
+  "name": "default mode network",
+  "full": "Default mode network",
+  "aliases": [
+   "dmn",
+   "default network",
+   "default mode"
+  ],
+  "deck": "networks",
+  "net": [
+   "Default"
+  ],
+  "level": "core"
+ },
+ {
+  "id": "corpus_callosum",
+  "name": "corpus callosum",
+  "full": "Corpus callosum",
+  "aliases": [
+   "callosum",
+   "callosal body"
+  ],
+  "deck": "tracts",
+  "deep": [
+   "tract_callosal"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "corticospinal_tract",
+  "name": "corticospinal tract",
+  "full": "Corticospinal tract",
+  "aliases": [
+   "cst",
+   "pyramidal tract"
+  ],
+  "deck": "tracts",
+  "deep": [
+   "tract_cst"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "optic_radiation",
+  "name": "optic radiation",
+  "full": "Optic radiation",
+  "aliases": [
+   "optic radiations",
+   "geniculocalcarine tract"
+  ],
+  "deck": "tracts",
+  "deep": [
+   "tract_optic"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "acoustic_radiation",
+  "name": "acoustic radiation",
+  "full": "Acoustic radiation",
+  "aliases": [
+   "auditory radiation",
+   "geniculotemporal radiation"
+  ],
+  "deck": "tracts",
+  "deep": [
+   "tract_acoustic"
+  ],
+  "level": "detail",
+  "approx": true
+ },
+ {
+  "id": "cingulum",
+  "name": "cingulum",
+  "full": "Cingulum",
+  "aliases": [
+   "cingulum bundle"
+  ],
+  "deck": "tracts",
+  "deep": [
+   "tract_cingulum"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "superior_longitudinal_fasciculus",
+  "name": "superior longitudinal fasciculus",
+  "full": "Superior longitudinal fasciculus",
+  "aliases": [
+   "slf",
+   "superior longitudinal fascicle"
+  ],
+  "deck": "tracts",
+  "deep": [
+   "tract_slf"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "inferior_fronto_occipital_fasciculus",
+  "name": "inferior fronto-occipital fasciculus",
+  "full": "Inferior fronto-occipital fasciculus",
+  "aliases": [
+   "ifof",
+   "inferior occipitofrontal fasciculus",
+   "inferior fronto occipital fasciculus"
+  ],
+  "deck": "tracts",
+  "deep": [
+   "tract_ifof"
+  ],
+  "level": "detail",
+  "approx": true
+ },
+ {
+  "id": "superior_fronto_occipital_fasciculus",
+  "name": "superior fronto-occipital fasciculus",
+  "full": "Superior fronto-occipital fasciculus",
+  "aliases": [
+   "sfof",
+   "superior occipitofrontal fasciculus"
+  ],
+  "deck": "tracts",
+  "deep": [
+   "tract_sfof"
+  ],
+  "level": "detail",
+  "approx": true
+ },
+ {
+  "id": "uncinate_fasciculus",
+  "name": "uncinate fasciculus",
+  "full": "Uncinate fasciculus",
+  "aliases": [
+   "uf",
+   "uncinate fascicle"
+  ],
+  "deck": "tracts",
+  "deep": [
+   "tract_uncinate"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "fornix",
+  "name": "fornix",
+  "full": "Fornix",
+  "aliases": [],
+  "deck": "tracts",
+  "deep": [
+   "tract_fornix"
+  ],
+  "level": "core",
+  "approx": true
+ },
+ {
+  "id": "hypothalamus",
+  "name": "hypothalamus",
+  "full": "Hypothalamus",
+  "aliases": [],
+  "deck": "deep",
+  "deep": [
+   "hypothalamus"
+  ],
+  "level": "core",
+  "cat": "Diencephalon"
+ },
+ {
+  "id": "subthalamic_nucleus",
+  "name": "subthalamic nucleus",
+  "full": "Subthalamic nucleus",
+  "aliases": [
+   "stn",
+   "corpus luysii",
+   "nucleus of luys"
+  ],
+  "deck": "deep",
+  "deep": [
+   "subthalamic_nucleus"
+  ],
+  "level": "core",
+  "cat": "Diencephalon"
+ },
+ {
+  "id": "habenula",
+  "name": "habenula",
+  "full": "Habenula",
+  "aliases": [
+   "habenular nuclei",
+   "habenular nucleus"
+  ],
+  "deck": "deep",
+  "deep": [
+   "habenula"
+  ],
+  "level": "detail",
+  "cat": "Diencephalon"
+ },
+ {
+  "id": "mammillary_bodies",
+  "name": "mammillary bodies",
+  "full": "Mammillary bodies",
+  "aliases": [
+   "mammillary body",
+   "mamillary bodies",
+   "corpora mammillaria"
+  ],
+  "deck": "deep",
+  "deep": [
+   "mammillary_body"
+  ],
+  "level": "core",
+  "cat": "Diencephalon"
+ },
+ {
+  "id": "ventral_pallidum",
+  "name": "ventral pallidum",
+  "full": "Ventral pallidum",
+  "aliases": [
+   "vp"
+  ],
+  "deck": "deep",
+  "deep": [
+   "ventral_pallidum"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "extended_amygdala",
+  "name": "extended amygdala",
+  "full": "Extended amygdala",
+  "aliases": [
+   "bed nucleus of the stria terminalis",
+   "bnst"
+  ],
+  "deck": "deep",
+  "deep": [
+   "extended_amygdala"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "globus_pallidus_externus",
+  "name": "globus pallidus externus",
+  "full": "Globus pallidus externus",
+  "aliases": [
+   "gpe",
+   "external globus pallidus",
+   "external segment of the globus pallidus"
+  ],
+  "deck": "deep",
+  "deep": [
+   "gpe"
+  ],
+  "level": "detail",
+  "sub": true
+ },
+ {
+  "id": "globus_pallidus_internus",
+  "name": "globus pallidus internus",
+  "full": "Globus pallidus internus",
+  "aliases": [
+   "gpi",
+   "internal globus pallidus",
+   "internal segment of the globus pallidus"
+  ],
+  "deck": "deep",
+  "deep": [
+   "gpi"
+  ],
+  "level": "detail",
+  "sub": true
+ },
+ {
+  "id": "cornu_ammonis",
+  "name": "cornu ammonis",
+  "full": "Cornu ammonis",
+  "aliases": [
+   "ca fields",
+   "ammons horn",
+   "ca1",
+   "ca3"
+  ],
+  "deck": "deep",
+  "deep": [
+   "hipp_ca"
+  ],
+  "level": "detail",
+  "sub": true
+ },
+ {
+  "id": "dentate_gyrus",
+  "name": "dentate gyrus",
+  "full": "Dentate gyrus",
+  "aliases": [
+   "dg",
+   "fascia dentata"
+  ],
+  "deck": "deep",
+  "deep": [
+   "dentate_gyrus"
+  ],
+  "level": "detail",
+  "sub": true
+ },
+ {
+  "id": "subiculum",
+  "name": "subiculum",
+  "full": "Subiculum",
+  "aliases": [],
+  "deck": "deep",
+  "deep": [
+   "subiculum"
+  ],
+  "level": "detail",
+  "sub": true
+ },
+ {
+  "id": "basolateral_amygdala",
+  "name": "basolateral amygdala",
+  "full": "Basolateral amygdala",
+  "aliases": [
+   "laterobasal amygdala",
+   "bla",
+   "laterobasal group"
+  ],
+  "deck": "deep",
+  "deep": [
+   "amyg_lb"
+  ],
+  "level": "detail",
+  "sub": true
+ },
+ {
+  "id": "centromedial_amygdala",
+  "name": "centromedial amygdala",
+  "full": "Centromedial amygdala",
+  "aliases": [
+   "central amygdala",
+   "centromedial group",
+   "cea"
+  ],
+  "deck": "deep",
+  "deep": [
+   "amyg_cm"
+  ],
+  "level": "detail",
+  "sub": true
+ },
+ {
+  "id": "superficial_amygdala",
+  "name": "superficial amygdala",
+  "full": "Superficial amygdala",
+  "aliases": [
+   "cortical amygdala",
+   "superficial group"
+  ],
+  "deck": "deep",
+  "deep": [
+   "amyg_sf"
+  ],
+  "level": "detail",
+  "sub": true
+ },
+ {
+  "id": "substantia_nigra_pars_compacta",
+  "name": "substantia nigra pars compacta",
+  "full": "Substantia nigra pars compacta",
+  "aliases": [
+   "snc",
+   "pars compacta"
+  ],
+  "deck": "brainstem",
+  "deep": [
+   "snc"
+  ],
+  "level": "core",
+  "sub": true
+ },
+ {
+  "id": "substantia_nigra_pars_reticulata",
+  "name": "substantia nigra pars reticulata",
+  "full": "Substantia nigra pars reticulata",
+  "aliases": [
+   "snr",
+   "pars reticulata"
+  ],
+  "deck": "brainstem",
+  "deep": [
+   "snr"
+  ],
+  "level": "detail",
+  "sub": true
+ },
+ {
+  "id": "lateral_posterior_nucleus",
+  "name": "lateral posterior nucleus",
+  "full": "Lateral posterior nucleus",
+  "aliases": [
+   "lp nucleus",
+   "lp"
+  ],
+  "deck": "thalamus",
+  "deep": [
+   "thal_lp"
+  ],
+  "level": "detail"
+ },
+ {
+  "id": "intralaminar_nuclei",
+  "name": "intralaminar nuclei",
+  "full": "Intralaminar nuclei",
+  "aliases": [
+   "intralaminar nucleus",
+   "centromedian nucleus",
+   "cm nucleus"
+  ],
+  "deck": "thalamus",
+  "deep": [
+   "thal_il"
+  ],
+  "level": "detail"
+ }
+]

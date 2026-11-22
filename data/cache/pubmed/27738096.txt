@@ -1,0 +1,49 @@
+1. Sci Transl Med. 2016 Oct 19;8(361):361ra141. doi:
+10.1126/scitranslmed.aaf8083.  Epub 2016 Oct 13.
+
+Intracortical microstimulation of human somatosensory cortex.
+
+Flesher SN(1)(1), Collinger JL(1)(2)(3)(4), Foldes ST(2)(3)(4), Weiss JM(1)(3), 
+Downey JE(1)(2), Tyler-Kabara EC(1)(3)(5)(6), Bensmaia SJ(7), Schwartz 
+AB(1)(2)(6)(8)(9), Boninger ML(1)(3)(4)(6), Gaunt RA(10)(2)(3).
+
+Author information:
+(1)Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA 15213, 
+USA.
+(2)Center for the Neural Basis of Cognition, Pittsburgh, PA 15213, USA.
+(3)Department of Physical Medicine and Rehabilitation, University of Pittsburgh, 
+Pittsburgh, PA 15213, USA.
+(4)Department of Veterans Affairs Medical Center, Pittsburgh, PA 15206, USA.
+(5)Department of Neurological Surgery, University of Pittsburgh, Pittsburgh, PA 
+15213, USA.
+(6)McGowan Institute for Regenerative Medicine, University of Pittsburgh, 
+Pittsburgh, PA 15219, USA.
+(7)Department of Organismal Biology and Anatomy, University of Chicago, Chicago, 
+IL 60637, USA.
+(8)Department of Neurobiology, University of Pittsburgh, Pittsburgh, PA 15213, 
+USA.
+(9)Systems Neuroscience Institute, University of Pittsburgh, Pittsburgh, PA 
+15213, USA.
+(10)Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA 
+15213, USA. rag53@pitt.edu.
+
+Intracortical microstimulation of the somatosensory cortex offers the potential 
+for creating a sensory neuroprosthesis to restore tactile sensation. Whereas 
+animal studies have suggested that both cutaneous and proprioceptive percepts 
+can be evoked using this approach, the perceptual quality of the stimuli cannot 
+be measured in these experiments. We show that microstimulation within the hand 
+area of the somatosensory cortex of a person with long-term spinal cord injury 
+evokes tactile sensations perceived as originating from locations on the hand 
+and that cortical stimulation sites are organized according to expected 
+somatotopic principles. Many of these percepts exhibit naturalistic 
+characteristics (including feelings of pressure), can be evoked at low 
+stimulation amplitudes, and remain stable for months. Further, modulating the 
+stimulus amplitude grades the perceptual intensity of the stimuli, suggesting 
+that intracortical microstimulation could be used to convey information about 
+the contact location and pressure necessary to perform dexterous hand movements 
+associated with object manipulation.
+
+Copyright © 2016, American Association for the Advancement of Science.
+
+DOI: 10.1126/scitranslmed.aaf8083
+PMID: 27738096 [Indexed for MEDLINE]

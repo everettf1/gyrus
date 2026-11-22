@@ -1,0 +1,64 @@
+1. J Neurosci. 2026 Jun 3;46(22):e2100252026. doi:
+10.1523/JNEUROSCI.2100-25.2026.
+
+Electrophysiological Brain Connectivity and Subjective States Evoked by 
+Electrical Stimulation of the Human Mid-thalamus.
+
+Pantis S(1), Togo M(1), Lyu D(1), Huang W(1), Quabs J(1)(2)(3)(4)(5), Jung H(1), 
+van Staalduinen E(6), Yang LL(6), Chan A(1), Fedor M(1), Fisher R(2), Buch V(7), 
+Parvizi J(8)(2)(7)(9).
+
+Author information:
+(1)Laboratory of Behavioral and Cognitive Neuroscience, Department of Neurology 
+and Neurological Sciences, Stanford School of Medicine, Palo Alto, California 
+94304.
+(2)Department of Neurology and Neurological Sciences, Stanford School of 
+Medicine, Palo Alto, California 94304.
+(3)Department of Pathology, Stanford University, Stanford, California 94305.
+(4)Institute for Anatomy I, Medical Faculty and University Hospital, Heinrich 
+Heine University of Düsseldorf, Düsseldorf, North Rhine-Westphalia 40204, 
+Germany.
+(5)Institute of Neuroscience and Medicine (INM-1), Research Centre Jülich, 
+Jülich, North Rhine-Westphalia 40204, Germany.
+(6)Department of Radiology/Neuroimaging and Neurointervention, Stanford School 
+of Medicine, Palo Alto, California 94304.
+(7)Department of Neurosurgery, Stanford School of Medicine, Palo Alto, 
+California 94304.
+(8)Laboratory of Behavioral and Cognitive Neuroscience, Department of Neurology 
+and Neurological Sciences, Stanford School of Medicine, Palo Alto, California 
+94304 jparvizi@stanford.edu.
+(9)Wu Tsai Neurosciences Institute, Stanford University, Stanford, California 
+94305.
+
+Update of
+    bioRxiv. 2025 Nov 13:2025.11.12.688132. doi: 10.1101/2025.11.12.688132.
+
+Recent developments in intracranial EEG allow direct recordings from the human 
+thalamus, offering new insight into thalamocortical relationships in the human 
+brain. In this study, we applied direct intracranial electrical stimulation 
+(iES) to the mid-thalamus, within or close to the mediodorsal nucleus, to 
+examine its impact on conscious experience and causal brain connectivity in 30 
+patients with focal epilepsy (10 females, 128 sites; 4 ± 1 sites per patient). 
+Applying 50 Hz stimulations (iESHF) in the mid-thalamus region elicited changes 
+in conscious experience in 11 of 12 patients (39 sites; 83 stimulations across 
+27 unique pairs), predominantly in the visceral, emotional, or somatosensory 
+domains and often described as unpleasant without any seemingly obvious 
+lateralization effect. Our connectivity analyses based on single-pulse 0.5 Hz 
+stimulations (iESLF), at the individual brain level, revealed strong 
+electrophysiological connectivity between the mid-thalamus and the insula, 
+anterior and midcingulate, and the other prefrontal cortices and medial temporal 
+lobe structures. Notably, inflow signals from some of the sites to the 
+mid-thalamus were significantly stronger than those in the reverse direction, 
+indicating clear asymmetry in connectivity. These findings demonstrate that 
+stimulation of the human thalamus modulates conscious experience and reveal an 
+asymmetric electrophysiological relationship between the thalamus and human 
+cerebral cortex.
+
+Copyright © 2026 the authors.
+
+DOI: 10.1523/JNEUROSCI.2100-25.2026
+PMCID: PMC13233911
+PMID: 42086322 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interests.

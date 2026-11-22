@@ -1,0 +1,25 @@
+1. Nat Neurosci. 2013 Sep;16(9):1188-90. doi: 10.1038/nn.3466. Epub 2013 Aug 4.
+
+Direct recordings of grid-like neuronal activity in human spatial navigation.
+
+Jacobs J(1), Weidemann CT, Miller JF, Solway A, Burke JF, Wei XX, Suthana N, 
+Sperling MR, Sharan AD, Fried I, Kahana MJ.
+
+Author information:
+(1)School of Biomedical Engineering, Science and Health Systems, Drexel 
+University, Philadelphia, Pennsylvania, USA. joshua.jacobs@drexel.edu
+
+Comment in
+    Nat Rev Neurosci. 2013 Oct;14(10):667. doi: 10.1038/nrn3588.
+
+Grid cells in the entorhinal cortex appear to represent spatial location via a 
+triangular coordinate system. Such cells, which have been identified in rats, 
+bats and monkeys, are believed to support a wide range of spatial behaviors. 
+Recording neuronal activity from neurosurgical patients performing a 
+virtual-navigation task, we identified cells exhibiting grid-like spiking 
+patterns in the human brain, suggesting that humans and simpler animals rely on 
+homologous spatial-coding schemes.
+
+DOI: 10.1038/nn.3466
+PMCID: PMC3767317
+PMID: 23912946 [Indexed for MEDLINE]

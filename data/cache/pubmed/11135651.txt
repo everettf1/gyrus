@@ -1,0 +1,29 @@
+1. Nat Neurosci. 2001 Jan;4(1):95-102. doi: 10.1038/82959.
+
+Abstract reward and punishment representations in the human orbitofrontal 
+cortex.
+
+O'Doherty J(1), Kringelbach ML, Rolls ET, Hornak J, Andrews C.
+
+Author information:
+(1)Department of Experimental Psychology, University of Oxford, South Parks 
+Road, Oxford OX1 3UD, UK.
+
+Comment in
+    Nat Neurosci. 2001 Jan;4(1):12. doi: 10.1038/82844.
+
+The orbitofrontal cortex (OFC) is implicated in emotion and emotion-related 
+learning. Using event-related functional magnetic resonance imaging (fMRI), we 
+measured brain activation in human subjects doing an emotion-related visual 
+reversal-learning task in which choice of the correct stimulus led to a 
+probabilistically determined 'monetary' reward and choice of the incorrect 
+stimulus led to a monetary loss. Distinct areas of the OFC were activated by 
+monetary rewards and punishments. Moreover, in these areas, we found a 
+correlation between the magnitude of the brain activation and the magnitude of 
+the rewards and punishments received. These findings indicate that one emotional 
+involvement of the human orbitofrontal cortex is its representation of the 
+magnitudes of abstract rewards and punishments, such as receiving or losing 
+money.
+
+DOI: 10.1038/82959
+PMID: 11135651 [Indexed for MEDLINE]

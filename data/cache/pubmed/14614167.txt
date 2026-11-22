@@ -1,0 +1,49 @@
+1. N Engl J Med. 2003 Nov 13;349(20):1925-34. doi: 10.1056/NEJMoa035275.
+
+Five-year follow-up of bilateral stimulation of the subthalamic nucleus in 
+advanced Parkinson's disease.
+
+Krack P(1), Batir A, Van Blercom N, Chabardes S, Fraix V, Ardouin C, Koudsie A, 
+Limousin PD, Benazzouz A, LeBas JF, Benabid AL, Pollak P.
+
+Author information:
+(1)Department of Clinical and Biological Neurosciences, Joseph Fourier 
+University, Grenoble, France. paul.krack@ujf-grenoble.fr
+
+Comment in
+    N Engl J Med. 2003 Nov 13;349(20):1888-91. doi: 10.1056/NEJMp038160.
+
+BACKGROUND: Although the short-term benefits of bilateral stimulation of the 
+subthalamic nucleus in patients with advanced Parkinson's disease have been well 
+documented, the long-term outcomes of the procedure are unknown.
+METHODS: We conducted a five-year prospective study of the first 49 consecutive 
+patients whom we treated with bilateral stimulation of the subthalamic nucleus. 
+Patients were assessed at one, three, and five years with levodopa (on 
+medication) and without levodopa (off medication), with use of the Unified 
+Parkinson's Disease Rating Scale. Seven patients did not complete the study: 
+three died, and four were lost to follow-up.
+RESULTS: As compared with base line, the patients' scores at five years for 
+motor function while off medication improved by 54 percent (P<0.001) and those 
+for activities of daily living improved by 49 percent (P<0.001). Speech was the 
+only motor function for which off-medication scores did not improve. The scores 
+for motor function on medication did not improve one year after surgery, except 
+for the dyskinesia scores. On-medication akinesia, speech, postural stability, 
+and freezing of gait worsened between year 1 and year 5 (P<0.001 for all 
+comparisons). At five years, the dose of dopaminergic treatment and the duration 
+and severity of levodopa-induced dyskinesia were reduced, as compared with base 
+line (P<0.001 for each comparison). The average scores for cognitive performance 
+remained unchanged, but dementia developed in three patients after three years. 
+Mean depression scores remained unchanged. Severe adverse events included a 
+large intracerebral hemorrhage in one patient. One patient committed suicide.
+CONCLUSIONS: Patients with advanced Parkinson's disease who were treated with 
+bilateral stimulation of the subthalamic nucleus had marked improvements over 
+five years in motor function while off medication and in dyskinesia while on 
+medication. There was no control group, but worsening of akinesia, speech, 
+postural stability, freezing of gait, and cognitive function between the first 
+and the fifth year is consistent with the natural history of Parkinson's 
+disease.
+
+Copyright 2003 Massachusetts Medical Society
+
+DOI: 10.1056/NEJMoa035275
+PMID: 14614167 [Indexed for MEDLINE]

@@ -1,0 +1,22 @@
+[
+ {
+  "region": "planum_temporale",
+  "pmid": "16537567",
+  "from": "Fig. 6B",
+  "caption": "Planum temporale volume in the left hemisphere (LH, black) and the right hemisphere (RH, white), for healthy controls (NC) and for epilepsy patients whose speech was in the left hemisphere (LSG), the right hemisphere (RSG) or both (BSG).",
+  "notice": "The left bar is taller than the right bar in every group, including the patients whose speech is on the right, so the usual leftward asymmetry does not tell you which side carries speech. Only the difference in controls is marked as significant.",
+  "short": "Dorsaint-Pierre et al. 2006, Brain",
+  "license": "",
+  "file": "planum_temporale_16537567.webp"
+ },
+ {
+  "region": "calcarine_sulcus",
+  "pmid": "18055222",
+  "from": "Fig. 4",
+  "caption": "Inflated left and right hemispheres seen from the inner side (top) and from behind (bottom). Color shows how likely each point is to be primary visual cortex (V1) across the brains studied, from red (low) to yellow (high).",
+  "notice": "The yellow strip follows the calcarine sulcus on the inner surface of the occipital lobe in both hemispheres. This is anatomy: V1 was identified in the tissue by its stripe of Gennari and then mapped onto the folds.",
+  "short": "Hinds et al. 2008, Neuroimage",
+  "license": "",
+  "file": "calcarine_sulcus_18055222.webp"
+ }
+]

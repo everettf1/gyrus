@@ -1,0 +1,35 @@
+1. Eur J Neurosci. 2005 Sep;22(6):1521-8. doi: 10.1111/j.1460-9568.2005.04315.x.
+
+Hemispheric asymmetry for spectral and temporal processing in the human 
+antero-lateral auditory belt cortex.
+
+Schönwiesner M(1), Rübsamen R, von Cramon DY.
+
+Author information:
+(1)Faculty of Biosciences, University of Leipzig, Germany.
+
+The present study investigates the acoustic basis of the hemispheric asymmetry 
+for the processing of speech and music. Experiments on this question ideally 
+involve stimuli that are perceptually unrelated to speech and music, but contain 
+acoustic characteristics of both. Stimuli in previous studies were derived from 
+speech samples or tonal sequences. Here we introduce a new class of noise-like 
+sound stimuli with no resemblance of speech or music that permit independent 
+parametric variation of spectral and temporal acoustic complexity. Using these 
+stimuli in a functional MRI experiment, we test the hypothesis of a hemispheric 
+asymmetry for the processing of spectral and temporal sound structure by seeking 
+cortical areas in which the blood oxygen level dependent (BOLD) signal covaries 
+with the number of simultaneous spectral components (spectral complexity) or the 
+temporal modulation rate (temporal complexity) of the stimuli. BOLD-responses 
+from the left and right Heschl's gyrus (HG) and part of the right superior 
+temporal gyrus covaried with the spectral parameter, whereas covariation 
+analysis for the temporal parameter highlighted an area on the left superior 
+temporal gyrus. The portion of superior temporal gyrus in which asymmetrical 
+responses are apparent corresponds to the antero-lateral auditory belt cortex, 
+which has been implicated with spectral integration in animal studies. Our 
+results support a similar function of the anterior auditory belt in humans. The 
+findings indicate that asymmetrical processing of complex sounds in the cerebral 
+hemispheres does not depend on semantic, but rather on acoustic stimulus 
+characteristics.
+
+DOI: 10.1111/j.1460-9568.2005.04315.x
+PMID: 16190905 [Indexed for MEDLINE]

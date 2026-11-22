@@ -1,0 +1,34 @@
+1. Neuropsychologia. 2000;38(6):848-63. doi: 10.1016/s0028-3932(99)00134-7.
+
+The cognitive and neuroanatomical correlates of multitasking.
+
+Burgess PW(1), Veitch E, de Lacy Costello A, Shallice T.
+
+Author information:
+(1)Institute of Cognitive Neuroscience, UCL, UK. p.burgess@psychol.ucl.ac.uk
+
+Patients who show the "strategy application disorder" can show deficits 
+restricted to situations requiring multitasking, but the precise neuroanatomical 
+and cognitive correlates of this problem have been rarely investigated. In this 
+study, 60 people with circumscribed cerebral lesions and 60 age- and IQ-matched 
+controls were given a multitasking procedure which allowed consideration of the 
+relative contributions of task learning and remembering, planning, 
+plan-following and remembering one's actions to multitasking performance. 
+Lesions to the left posterior cingulate and forceps major regions gave deficits 
+on all measures except planning. Remembering task contingencies after a delay 
+was also affected by lesions in the region of the left anterior cingulate, and 
+rule-breaking and failures of task switching were additionally found in people 
+with lesions affecting the medial and more polar aspects of Brodmann's areas 8, 
+9 and especially 10. Planning deficits were associated with lesions to the right 
+dorsolateral prefrontal cortex (RDLPFC). A theory of the relationships between 
+the cognitive constructs underpinning multitasking was tested using structural 
+equation modelling. The results suggest that there are three primary constructs 
+that support multitasking: retrospective memory, prospective memory, and 
+planning, with the second two drawing upon the products of the first. It is 
+tentatively suggested that the left anterior and posterior cingulates together 
+play some part in the retrospective memory demands, while the prospective memory 
+and planning components make demands on processes supported by the left areas 8, 
+9 and 10 and the RDLPFC respectively.
+
+DOI: 10.1016/s0028-3932(99)00134-7
+PMID: 10689059 [Indexed for MEDLINE]

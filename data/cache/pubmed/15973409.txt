@@ -1,0 +1,29 @@
+1. Nature. 2005 Jun 23;435(7045):1102-7. doi: 10.1038/nature03687.
+
+Invariant visual representation by single neurons in the human brain.
+
+Quiroga RQ(1), Reddy L, Kreiman G, Koch C, Fried I.
+
+Author information:
+(1)Computation and Neural Systems, California Institute of Technology, Pasadena, 
+California 91125, USA.
+
+Comment in
+    Nature. 2005 Jun 23;435(7045):1036-7. doi: 10.1038/4351036a.
+
+It takes a fraction of a second to recognize a person or an object even when 
+seen under strikingly different conditions. How such a robust, high-level 
+representation is achieved by neurons in the human brain is still unclear. In 
+monkeys, neurons in the upper stages of the ventral visual pathway respond to 
+complex images such as faces and objects and show some degree of invariance to 
+metric properties such as the stimulus size, position and viewing angle. We have 
+previously shown that neurons in the human medial temporal lobe (MTL) fire 
+selectively to images of faces, animals, objects or scenes. Here we report on a 
+remarkable subset of MTL neurons that are selectively activated by strikingly 
+different pictures of given individuals, landmarks or objects and in some cases 
+even by letter strings with their names. These results suggest an invariant, 
+sparse and explicit code, which might be important in the transformation of 
+complex visual percepts into long-term and more abstract memories.
+
+DOI: 10.1038/nature03687
+PMID: 15973409 [Indexed for MEDLINE]

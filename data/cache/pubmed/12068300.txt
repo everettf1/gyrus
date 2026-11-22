@@ -1,0 +1,24 @@
+1. Nat Neurosci. 2002 Jul;5(7):688-94. doi: 10.1038/nn871.
+
+Morphology of Heschl's gyrus reflects enhanced activation in the auditory cortex 
+of musicians.
+
+Schneider P(1), Scherg M, Dosch HG, Specht HJ, Gutschalk A, Rupp A.
+
+Author information:
+(1)Department of Physics, University of Heidelberg, Philosophenweg 12, D-69120 
+Heidelberg, Germany. Peter_Schneider@med.uni-heidelberg.de
+
+Using magnetoencephalography (MEG), we compared the processing of sinusoidal 
+tones in the auditory cortex of 12 non-musicians, 12 professional musicians and 
+13 amateur musicians. We found neurophysiological and anatomical differences 
+between groups. In professional musicians as compared to non-musicians, the 
+activity evoked in primary auditory cortex 19-30 ms after stimulus onset was 
+102% larger, and the gray matter volume of the anteromedial portion of Heschl's 
+gyrus was 130% larger. Both quantities were highly correlated with musical 
+aptitude, as measured by psychometric evaluation. These results indicate that 
+both the morphology and neurophysiology of Heschl's gyrus have an essential 
+impact on musical aptitude.
+
+DOI: 10.1038/nn871
+PMID: 12068300 [Indexed for MEDLINE]

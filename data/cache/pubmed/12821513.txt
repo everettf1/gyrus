@@ -1,0 +1,35 @@
+1. Brain. 2003 Oct;126(Pt 10):2139-52. doi: 10.1093/brain/awg216. Epub 2003 Jun
+23.
+
+Human cingulate cortex and autonomic control: converging neuroimaging and 
+clinical evidence.
+
+Critchley HD(1), Mathias CJ, Josephs O, O'Doherty J, Zanini S, Dewar BK, 
+Cipolotti L, Shallice T, Dolan RJ.
+
+Author information:
+(1)Wellcome Department of Imaging Neuroscience, Institute of Neurology, 
+University College London, London WC1N 3BG, UK. h.critchley@fil.ion.ucl.ac.uk
+
+Comment in
+    Brain. 2003 Oct;126(Pt 10):2119-20. doi: 10.1093/brain/awg257.
+
+Human anterior cingulate function has been explained primarily within a 
+cognitive framework. We used functional MRI experiments with simultaneous 
+electrocardiography to examine regional brain activity associated with autonomic 
+cardiovascular control during performance of cognitive and motor tasks. Using 
+indices of heart rate variability, and high- and low-frequency power in the 
+cardiac rhythm, we observed activity in the dorsal anterior cingulate cortex 
+(ACC) related to sympathetic modulation of heart rate that was dissociable from 
+cognitive and motor-related activity. The findings predict that during effortful 
+cognitive and motor behaviour the dorsal ACC supports the generation of 
+associated autonomic states of cardiovascular arousal. We subsequently tested 
+this prediction by studying three patients with focal damage involving the ACC 
+while they performed effortful cognitive and motor tests. Each showed 
+abnormalities in autonomic cardiovascular responses with blunted autonomic 
+arousal to mental stress when compared with 147 normal subjects tested in 
+identical fashion. Thus, converging neuroimaging and clinical findings suggest 
+that ACC function mediates context-driven modulation of bodily arousal states.
+
+DOI: 10.1093/brain/awg216
+PMID: 12821513 [Indexed for MEDLINE]

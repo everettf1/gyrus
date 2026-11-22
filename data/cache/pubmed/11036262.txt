@@ -1,0 +1,21 @@
+1. Nat Neurosci. 2000 Nov;3(11):1077-8. doi: 10.1038/80586.
+
+Impaired recognition and experience of disgust following brain injury.
+
+Calder AJ(1), Keane J, Manes F, Antoun N, Young AW.
+
+Author information:
+(1)MRC Cognition and Brain Sciences Unit, 15 Chaucer Road, Cambridge CB2 2EF, 
+UK. andy.calder@mrc-cbu.cam.ac.uk
+
+Huntington's disease can particularly affect people's recognition of disgust 
+from facial expressions, and functional neuroimaging research has demonstrated 
+that facial expressions of disgust consistently engage different brain areas 
+(insula and putamen) than other facial expressions. However, it is not known 
+whether these particular brain areas process only facial signals of disgust or 
+disgust signals from multiple modalities. Here we describe evidence, from a 
+patient with insula and putamen damage, for a neural system for recognizing 
+social signals of disgust from multiple modalities.
+
+DOI: 10.1038/80586
+PMID: 11036262 [Indexed for MEDLINE]

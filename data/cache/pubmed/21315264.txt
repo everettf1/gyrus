@@ -1,0 +1,34 @@
+1. Neuron. 2011 Feb 10;69(3):548-62. doi: 10.1016/j.neuron.2010.11.045.
+
+Internally generated preactivation of single neurons in human medial frontal 
+cortex predicts volition.
+
+Fried I(1), Mukamel R, Kreiman G.
+
+Author information:
+(1)Department of Neurosurgery, David Geffen School of Medicine and Semel 
+Institute for Neuroscience and Human Behavior, University of California, Los 
+Angeles, Los Angeles, CA 90095, USA. ifried@mednet.ucla.edu
+
+Comment in
+    Neuron. 2011 Feb 10;69(3):404-6. doi: 10.1016/j.neuron.2011.01.028.
+
+Understanding how self-initiated behavior is encoded by neuronal circuits in the 
+human brain remains elusive. We recorded the activity of 1019 neurons while 
+twelve subjects performed self-initiated finger movement. We report progressive 
+neuronal recruitment over ∼1500 ms before subjects report making the decision to 
+move. We observed progressive increase or decrease in neuronal firing rate, 
+particularly in the supplementary motor area (SMA), as the reported time of 
+decision was approached. A population of 256 SMA neurons is sufficient to 
+predict in single trials the impending decision to move with accuracy greater 
+than 80% already 700 ms prior to subjects' awareness. Furthermore, we predict, 
+with a precision of a few hundred ms, the actual time point of this voluntary 
+decision to move. We implement a computational model whereby volition emerges 
+once a change in internally generated firing rate of neuronal assemblies crosses 
+a threshold.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2010.11.045
+PMCID: PMC3052770
+PMID: 21315264 [Indexed for MEDLINE]

@@ -1,0 +1,29 @@
+1. J Neurosci. 2007 Feb 14;27(7):1594-605. doi: 10.1523/JNEUROSCI.4205-06.2007.
+
+Opioid limbic circuit for reward: interaction between hedonic hotspots of 
+nucleus accumbens and ventral pallidum.
+
+Smith KS(1), Berridge KC.
+
+Author information:
+(1)Department of Psychology, University of Michigan, Ann Arbor, Michigan 48109, 
+USA. kyless@umich.edu
+
+Mu-opioid stimulation of cubic millimeter hedonic hotspots in either the nucleus 
+accumbens shell (NAc) or the ventral pallidum (VP) amplifies hedonic "liking" 
+reactions to sweetness and appetitive "wanting" for food reward. How do these 
+two NAc-VP hotspots interact? To probe their interaction and limbic circuit 
+properties, we assessed whether opioid activation of one hotspot recruited the 
+other hotspot (neurobiologically) and whether opioid hedonic and incentive 
+motivational amplification by either opioid hotspot required permissive opioid 
+coactivation in the other (behaviorally). We found that NAc and VP hotspots 
+reciprocally modulated Fos expression in each other and that the two hotspots 
+were needed together to enhance sucrose "liking" reactions, essentially 
+cooperating within a single hedonic NAc-VP circuit. In contrast, the NAc hotspot 
+dominated for opioid stimulation of eating and food intake ("wanting"), 
+independent of VP activation. This pattern reveals differences between limbic 
+opioid circuits that control reward "liking" and "wanting" functions.
+
+DOI: 10.1523/JNEUROSCI.4205-06.2007
+PMCID: PMC6673729
+PMID: 17301168 [Indexed for MEDLINE]

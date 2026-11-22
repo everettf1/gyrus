@@ -1,0 +1,32 @@
+1. Neurosci Biobehav Rev. 2012 Feb;36(2):737-46. doi: 
+10.1016/j.neubiorev.2011.12.003. Epub 2011 Dec 17.
+
+Distilling the neural correlates of consciousness.
+
+Aru J(1), Bachmann T, Singer W, Melloni L.
+
+Author information:
+(1)Max-Planck Institute for Brain Research, Deutschordnerstrasse 46, Frankfurt 
+am Main, Germany. jaan.aru@gmail.com
+
+Solving the problem of consciousness remains one of the biggest challenges in 
+modern science. One key step towards understanding consciousness is to 
+empirically narrow down neural processes associated with the subjective 
+experience of a particular content. To unravel these neural correlates of 
+consciousness (NCC) a common scientific strategy is to compare perceptual 
+conditions in which consciousness of a particular content is present with those 
+in which it is absent, and to determine differences in measures of brain 
+activity (the so called "contrastive analysis"). However, this comparison 
+appears not to reveal exclusively the NCC, as the NCC proper can be confounded 
+with prerequisites for and consequences of conscious processing of the 
+particular content. This implies that previous results cannot be unequivocally 
+interpreted as reflecting the neural correlates of conscious experience. Here we 
+review evidence supporting this conjecture and suggest experimental strategies 
+to untangle the NCC from the prerequisites and consequences of conscious 
+experience in order to further develop the otherwise valid and valuable 
+contrastive methodology.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neubiorev.2011.12.003
+PMID: 22192881 [Indexed for MEDLINE]

@@ -1,0 +1,20 @@
+1. Epileptic Disord. 2015 Jun;17(2):184-7. doi: 10.1684/epd.2015.0750.
+
+Anomia produced by direct cortical stimulation of the pre-supplementary motor 
+area in a patient undergoing preoperative language mapping.
+
+Rozanski VE(1), Peraud A, Noachtar S.
+
+Author information:
+(1)Department of Neurology, Germany.
+
+There is sparse data on the analysis of supplementary motor area in language 
+function using direct cortical stimulation of the supplementary motor area. 
+Here, we report a patient who experienced isolated anomia during stimulation of 
+the anterior supplementary motor area and discuss the role of the supplementary 
+motor area in speech production. The role of the pre-supplementary motor· area 
+in word selection, observed in fMRI studies, can be confirmed by direct cortical 
+stimulation.
+
+DOI: 10.1684/epd.2015.0750
+PMID: 26030473 [Indexed for MEDLINE]

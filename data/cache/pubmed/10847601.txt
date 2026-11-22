@@ -1,0 +1,34 @@
+1. Cereb Cortex. 2000 May;10(5):512-28. doi: 10.1093/cercor/10.5.512.
+
+Human temporal lobe activation by speech and nonspeech sounds.
+
+Binder JR(1), Frost JA, Hammeke TA, Bellgowan PS, Springer JA, Kaufman JN, 
+Possing ET.
+
+Author information:
+(1)Department of Neurology, Medical College of Wisconsin, Milwaukee, USA. 
+jbinder@mcw.edu
+
+Functional organization of the lateral temporal cortex in humans is not well 
+understood. We recorded blood oxygenation signals from the temporal lobes of 
+normal volunteers using functional magnetic resonance imaging during stimulation 
+with unstructured noise, frequency-modulated (FM) tones, reversed speech, 
+pseudowords and words. For all conditions, subjects performed a 
+material-nonspecific detection response when a train of stimuli began or ceased. 
+Dorsal areas surrounding Heschl's gyrus bilaterally, particularly the planum 
+temporale and dorsolateral superior temporal gyrus, were more strongly activated 
+by FM tones than by noise, suggesting a role in processing simple temporally 
+encoded auditory information. Distinct from these dorsolateral areas, regions 
+centered in the superior temporal sulcus bilaterally were more activated by 
+speech stimuli than by FM tones. Identical results were obtained in this region 
+using words, pseudowords and reversed speech, suggesting that the speech-tones 
+activation difference is due to acoustic rather than linguistic factors. In 
+contrast, previous comparisons between word and nonword speech sounds showed 
+left-lateralized activation differences in more ventral temporal and 
+temporoparietal regions that are likely involved in processing lexical-semantic 
+or syntactic information associated with words. The results indicate functional 
+subdivision of the human lateral temporal cortex and provide a preliminary 
+framework for understanding the cortical processing of speech sounds.
+
+DOI: 10.1093/cercor/10.5.512
+PMID: 10847601 [Indexed for MEDLINE]

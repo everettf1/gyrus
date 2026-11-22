@@ -1,0 +1,35 @@
+1. Brain. 2013 Jun;136(Pt 6):1692-707. doi: 10.1093/brain/awt094. Epub 2013 May
+6.
+
+Dissecting the uncinate fasciculus: disorders, controversies and a hypothesis.
+
+Von Der Heide RJ(1), Skipper LM, Klobusicky E, Olson IR.
+
+Author information:
+(1)Department of Psychology, Temple University, Philadelphia, PA 19122, USA.
+
+The uncinate fasciculus is a bidirectional, long-range white matter tract that 
+connects lateral orbitofrontal cortex and Brodmann area 10 with the anterior 
+temporal lobes. Although abnormalities in the uncinate fasciculus have been 
+associated with several psychiatric disorders and previous studies suggest it 
+plays a putative role in episodic memory, language and social emotional 
+processing, its exact function is not well understood. In this review we 
+summarize what is currently known about the anatomy of the uncinate, we review 
+its role in psychiatric and neurological illnesses, and we evaluate evidence 
+related to its putative functions. We propose that an overarching role of the 
+uncinate fasciculus is to allow temporal lobe-based mnemonic associations (e.g. 
+an individual's name + face + voice) to modify behaviour through interactions 
+with the lateral orbitofrontal cortex, which provides valence-based biasing of 
+decisions. The bidirectionality of the uncinate fasciculus information flow 
+allows orbital frontal cortex-based reward and punishment history to rapidly 
+modulate temporal lobe-based mnemonic representations. According to this view, 
+disruption of the uncinate may cause problems in the expression of memory to 
+guide decisions and in the acquisition of certain types of learning and memory. 
+Moreover, uncinate perturbation should cause problems that extend beyond memory 
+to include social-emotional problems owing to people and objects being stripped 
+of personal value and emotional history and lacking in higher-level motivational 
+value.
+
+DOI: 10.1093/brain/awt094
+PMCID: PMC3673595
+PMID: 23649697 [Indexed for MEDLINE]

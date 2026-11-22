@@ -1,0 +1,52 @@
+1. Neuron. 2023 Apr 5;111(7):1152-1164.e6. doi: 10.1016/j.neuron.2022.12.030.
+Epub  2023 Jan 20.
+
+Causal role of a neural system for separating and selecting multidimensional 
+social cognitive information.
+
+Mahmoodi A(1), Nili H(2), Harbison C(3), Hamilton S(3), Trudel N(4), Bang D(5), 
+Rushworth MFS(3).
+
+Author information:
+(1)Wellcome Centre for Integrative Neuroimaging, Department of Experimental 
+Psychology, University of Oxford, Oxford, UK. Electronic address: 
+ali.mahmoodi1367@gmail.com.
+(2)Wellcome Centre for Integrative Neuroimaging, Department of Experimental 
+Psychology, University of Oxford, Oxford, UK; Department of Excellence for 
+Neural Information Processing, Center for Molecular Neurobiology (ZMNH), 
+University Medical Center Hamburg-Eppendorf (UKE), Hamburg, Germany.
+(3)Wellcome Centre for Integrative Neuroimaging, Department of Experimental 
+Psychology, University of Oxford, Oxford, UK.
+(4)Wellcome Centre for Integrative Neuroimaging, Department of Experimental 
+Psychology, University of Oxford, Oxford, UK; Max Planck UCL Centre for 
+Computational Psychiatry and Ageing Research, London, UK; Wellcome Centre for 
+Human Neuroimaging, University College London, Oxford, UK.
+(5)Wellcome Centre for Human Neuroimaging, University College London, Oxford, 
+UK; Department of Experimental Psychology, University of Oxford, Oxford, UK; 
+Center of Functionally Integrative Neuroscience, Aarhus University, Aarhus, 
+Denmark.
+
+People are multi-faceted, typically good at some things but bad at others, and a 
+critical aspect of social judgement is the ability to focus on those traits 
+relevant for the task at hand. However, it remains unknown how the brain 
+supports such context-dependent social judgement. Here, we examine how people 
+represent multidimensional individuals, and how the brain extracts relevant 
+information and filters out irrelevant information when comparing individuals 
+within a specific dimension. Using human fMRI, we identify distinct neural 
+representations in dorsomedial prefrontal cortex (dmPFC) and anterior insula 
+(AI) supporting separation and selection of information for context-dependent 
+social judgement. Causal evaluation using non-invasive brain stimulation shows 
+that AI disruption alters the impact of relevant information on social 
+comparison, whereas dmPFC disruption only affects the impact of irrelevant 
+information. This neural circuit is distinct from the one supporting integration 
+across, as opposed to separation of, different features of a multidimensional 
+cognitive space.
+
+Copyright © 2022 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2022.12.030
+PMCID: PMC10914676
+PMID: 36681075 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no 
+competing interests.

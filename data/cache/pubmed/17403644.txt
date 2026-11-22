@@ -1,0 +1,39 @@
+1. Philos Trans R Soc Lond B Biol Sci. 2007 May 29;362(1481):887-99. doi: 
+10.1098/rstb.2007.2095.
+
+Function and localization within rostral prefrontal cortex (area 10).
+
+Burgess PW(1), Gilbert SJ, Dumontheil I.
+
+Author information:
+(1)UCL Institute of Cognitive Neuroscience and Psychology Department, University 
+College London, 17 Queen Square, London WC1E 6BT, UK. 
+p.burgess@psychol.ucl.ac.uk
+
+We propose that rostral prefrontal cortex (PFC; approximating area 10) supports 
+a cognitive system that facilitates either stimulus-oriented (SO) or 
+stimulus-independent (SI) attending. SO attending is the behaviour required to 
+concentrate on current sensory input, whereas SI attending is the mental 
+processing that accompanies self-generated or self-maintained thought. Regions 
+of medial area 10 support processes related to the former, whilst areas of 
+lateral area 10 support processes that enable the latter. Three lines of 
+evidence for this 'gateway hypothesis' are presented. First, we demonstrate the 
+predicted patterns of activation in area 10 during the performance of new tests 
+designed to stress the hypothetical function. Second, we demonstrate area 10 
+activations during the performance of established functions (prospective memory, 
+context memory), which should hypothetically involve the proposed attentional 
+system. Third, we examine predictions about behaviour-activation patterns within 
+rostral PFC that follow from the hypothesis. We show with meta-analysis of 
+neuroimaging investigations that these predictions are supported across a wide 
+variety of tasks, thus establishing a general principle for functional imaging 
+studies of this large brain region. We then show that while the gateway 
+hypothesis accommodates a large range of findings relating to the functional 
+organization of area 10 along a medial-lateral dimension, there are further 
+principles relating to other dimensions and functions. In particular, there is a 
+functional dissociation between the anterior medial area 10, which supports 
+processes required for SO attending, and the caudal medial area 10, which 
+supports processes relating to mentalizing.
+
+DOI: 10.1098/rstb.2007.2095
+PMCID: PMC2430004
+PMID: 17403644 [Indexed for MEDLINE]

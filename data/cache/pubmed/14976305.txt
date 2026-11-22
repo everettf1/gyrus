@@ -1,0 +1,32 @@
+1. Science. 2004 Feb 20;303(5661):1157-62. doi: 10.1126/science.1093535.
+
+Empathy for pain involves the affective but not sensory components of pain.
+
+Singer T(1), Seymour B, O'Doherty J, Kaube H, Dolan RJ, Frith CD.
+
+Author information:
+(1)Wellcome Department of Imaging Neuroscience, Institute of Neurology, 
+University College of London, 12 Queen Square, WC1N 3AR London, UK. 
+t.singer@fil.ion.ucl.ac.uk
+
+Comment in
+    Science. 2004 Feb 20;303(5661):1121. doi: 10.1126/science.303.5661.1121a.
+
+Our ability to have an experience of another's pain is characteristic of 
+empathy. Using functional imaging, we assessed brain activity while volunteers 
+experienced a painful stimulus and compared it to that elicited when they 
+observed a signal indicating that their loved one--present in the same room--was 
+receiving a similar pain stimulus. Bilateral anterior insula (AI), rostral 
+anterior cingulate cortex (ACC), brainstem, and cerebellum were activated when 
+subjects received pain and also by a signal that a loved one experienced pain. 
+AI and ACC activation correlated with individual empathy scores. Activity in the 
+posterior insula/secondary somatosensory cortex, the sensorimotor cortex 
+(SI/MI), and the caudal ACC was specific to receiving pain. Thus, a neural 
+response in AI and rostral ACC, activated in common for "self" and "other" 
+conditions, suggests that the neural substrate for empathic experience does not 
+involve the entire "pain matrix." We conclude that only that part of the pain 
+network associated with its affective qualities, but not its sensory qualities, 
+mediates empathy.
+
+DOI: 10.1126/science.1093535
+PMID: 14976305 [Indexed for MEDLINE]

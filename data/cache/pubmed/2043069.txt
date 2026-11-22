@@ -1,0 +1,23 @@
+1. Arch Ophthalmol. 1991 Jun;109(6):816-24. doi: 
+10.1001/archopht.1991.01080060080030.
+
+The representation of the visual field in human striate cortex. A revision of 
+the classic Holmes map.
+
+Horton JC(1), Hoyt WF.
+
+Author information:
+(1)Department of Opthalmology, University of California, San Francisco 
+94143-0350.
+
+We have tested the accuracy of Gordon Holmes' retinotopic map of human striate 
+cortex by correlating magnetic resonance scans with homonymous field defects in 
+patients with clearly defined occipital lobe lesions. Our findings indicate that 
+Holmes underestimated the cortical magnification of central vision. In a revised 
+map of the human striate cortex, we expand the area subserving central vision 
+and reduce the area devoted to peripheral vision. These changes bring the map of 
+human striate cortex into agreement with data reported for closely related 
+nonhuman primate species.
+
+DOI: 10.1001/archopht.1991.01080060080030
+PMID: 2043069 [Indexed for MEDLINE]

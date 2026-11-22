@@ -1,0 +1,39 @@
+1. Cereb Cortex. 1999 Jul-Aug;9(5):484-96. doi: 10.1093/cercor/9.5.484.
+
+Specialization of left auditory cortex for speech perception in man depends on 
+temporal coding.
+
+Liégeois-Chauvel C(1), de Graaf JB, Laguitton V, Chauvel P.
+
+Author information:
+(1)INSERM CJF 9706. Laboratoire de Neurophysiologie et Neuropsycologie, 
+Marseille, France. liegeois@arles.timone.univ-mrs.fr
+
+Speech perception requires cortical mechanisms capable of analysing and encoding 
+successive spectral (frequency) changes in the acoustic signal. To study 
+temporal speech processing in the human auditory cortex, we recorded 
+intracerebral evoked potentials to syllables in right and left human auditory 
+cortices including Heschl's gyrus (HG), planum temporale (PT) and the posterior 
+part of superior temporal gyrus (area 22). Natural voiced /ba/, /da/, /ga/) and 
+voiceless (/pa/, /ta/, /ka/) syllables, spoken by a native French speaker, were 
+used to study the processing of a specific temporally based acoustico-phonetic 
+feature, the voice onset time (VOT). This acoustic feature is present in nearly 
+all languages, and it is the VOT that provides the basis for the perceptual 
+distinction between voiced and voiceless consonants. The present results show a 
+lateralized processing of acoustic elements of syllables. First, processing of 
+voiced and voiceless syllables is distinct in the left, but not in the right HG 
+and PT. Second, only the evoked potentials in the left HG, and to a lesser 
+extent in PT, reflect a sequential processing of the different components of the 
+syllables. Third, we show that this acoustic temporal processing is not limited 
+to speech sounds but applies also to non-verbal sounds mimicking the temporal 
+structure of the syllable. Fourth, there was no difference between responses to 
+voiced and voiceless syllables in either left or right areas 22. Our data 
+suggest that a single mechanism in the auditory cortex, involved in general (not 
+only speech-specific) temporal processing, may underlie the further processing 
+of verbal (and non-verbal) stimuli. This coding, bilaterally localized in 
+auditory cortex in animals, takes place specifically in the left HG in man. A 
+defect of this mechanism could account for hearing discrimination impairments 
+associated with language disorders.
+
+DOI: 10.1093/cercor/9.5.484
+PMID: 10450893 [Indexed for MEDLINE]

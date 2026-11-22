@@ -1,0 +1,32 @@
+1. Sci Rep. 2015 Nov 24;5:17048. doi: 10.1038/srep17048.
+
+Processing of frequency and location in human subcortical auditory structures.
+
+Moerel M(1), De Martino F(1)(2)(3), Uğurbil K(1), Yacoub E(1), Formisano 
+E(2)(3).
+
+Author information:
+(1)Center for Magnetic Resonance Research, Department of Radiology, University 
+of Minnesota, Minneapolis, USA.
+(2)Department of Cognitive Neuroscience, Faculty of Psychology and Neuroscience, 
+Maastricht University, Maastricht, the Netherlands.
+(3)Maastricht Brain Imaging Center (MBIC), Maastricht, the Netherlands.
+
+To date it remains largely unknown how fundamental aspects of natural sounds, 
+such as their spectral content and location in space, are processed in human 
+subcortical structures. Here we exploited the high sensitivity and specificity 
+of high field fMRI (7 Tesla) to examine the human inferior colliculus (IC) and 
+medial geniculate body (MGB). Subcortical responses to natural sounds were well 
+explained by an encoding model of sound processing that represented frequency 
+and location jointly. Frequency tuning was organized in one tonotopic gradient 
+in the IC, whereas two tonotopic maps characterized the MGB reflecting two MGB 
+subdivisions. In contrast, no topographic pattern of preferred location was 
+detected, beyond an overall preference for peripheral (as opposed to central) 
+and contralateral locations. Our findings suggest the functional organization of 
+frequency and location processing in human subcortical auditory structures, and 
+pave the way for studying the subcortical to cortical interaction required to 
+create coherent auditory percepts.
+
+DOI: 10.1038/srep17048
+PMCID: PMC4657019
+PMID: 26597173 [Indexed for MEDLINE]

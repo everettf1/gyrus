@@ -1,0 +1,44 @@
+1. Neuron. 2020 Mar 4;105(5):776-798. doi: 10.1016/j.neuron.2020.01.026.
+
+Conscious Processing and the Global Neuronal Workspace Hypothesis.
+
+Mashour GA(1), Roelfsema P(2), Changeux JP(3), Dehaene S(4).
+
+Author information:
+(1)Center for Consciousness Science, Neuroscience Graduate Program, and 
+Department of Anesthesiology, University of Michigan, Ann Arbor, MI, USA.
+(2)Department of Vision & Cognition, Netherlands Institute for Neuroscience, 
+Meibergdreef 47, 1105 BA, Amsterdam, the Netherlands; Department of Integrative 
+Neurophysiology, Center for Neurogenomics and Cognitive Research, VU University, 
+Amsterdam, the Netherlands; Department of Psychiatry, Academic Medical Center, 
+Amsterdam, the Netherlands.
+(3)CNRS UMR 3571, Institut Pasteur, 75724 Paris, France; Collège de France, 11 
+Place Marcelin Berthelot, 75005 Paris, France; Kavli Institute for Brain & Mind, 
+University of California, San Diego, La Jolla, CA, USA. Electronic address: 
+changeux@noos.fr.
+(4)Collège de France, 11 Place Marcelin Berthelot, 75005 Paris, France; 
+Cognitive Neuroimaging Unit, CEA, INSERM, Université Paris-Sud, Université 
+Paris-Saclay, NeuroSpin Center, 91191 Gif/Yvette, France. Electronic address: 
+stanislas.dehaene@gmail.com.
+
+We review the central tenets and neuroanatomical basis of the global neuronal 
+workspace (GNW) hypothesis, which attempts to account for the main scientific 
+observations regarding the elementary mechanisms of conscious processing in the 
+human brain. The GNW hypothesis proposes that, in the conscious state, a 
+non-linear network ignition associated with recurrent processing amplifies and 
+sustains a neural representation, allowing the corresponding information to be 
+globally accessed by local processors. We examine this hypothesis in light of 
+recent data that contrast brain activity evoked by either conscious or 
+non-conscious contents, as well as during conscious or non-conscious states, 
+particularly general anesthesia. We also discuss the relationship between the 
+intertwined concepts of conscious processing, attention, and working memory.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2020.01.026
+PMCID: PMC8770991
+PMID: 32135090 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests S.D. is a co-author on 
+European patent EP 2 983 586 B1 “Methods to monitor consciousness.” Other 
+authors declare no competing interests.

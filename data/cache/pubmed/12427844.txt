@@ -1,0 +1,34 @@
+1. J Neurosci. 2002 Nov 15;22(22):9877-84. doi:
+10.1523/JNEUROSCI.22-22-09877.2002.
+
+Saccadic target selection deficits after lateral intraparietal area inactivation 
+in monkeys.
+
+Wardak C(1), Olivier E, Duhamel JR.
+
+Author information:
+(1)Institut des Sciences Cognitives, Unité Mixte de Recherche 5015 Centre 
+National de la Recherche Scientifique-Université Claude Bernard Lyon 1, 69675 
+Bron Cedex, France.
+
+We investigated the contribution of the lateral intraparietal area (LIP) to the 
+selection of saccadic eye movement targets and to saccade execution using 
+muscimol-induced reversible inactivation and compared those effects with 
+inactivation of the adjacent ventral intraparietal area (VIP) and with sham 
+injections of saline into LIP. Three types of tasks were used: saccades to 
+single visual or memorized targets, saccades to synchronous and asynchronous 
+bilateral targets, and visual search of a target among distractors. LIP 
+inactivation failed to produce deficits in the latency or accuracy of saccades 
+to single targets, but it dramatically reduced the frequency of contralateral 
+saccades in the presence of bilateral targets, and it increased search time for 
+a contralateral target during serial visual search. In the latter task, the 
+observed deficits might reflect either an ispilateral bias in saccadic search 
+strategy or an attentional impairment in locating a target among flanking 
+distractors within the contralateral field. No effects were observed on any of 
+these tasks after VIP inactivation. These results suggest that one important 
+contribution of LIP to oculomotor behavior is the selection of targets for 
+saccades in the context of competing visual stimuli.
+
+DOI: 10.1523/JNEUROSCI.22-22-09877.2002
+PMCID: PMC6757813
+PMID: 12427844 [Indexed for MEDLINE]

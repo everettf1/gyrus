@@ -1,0 +1,32 @@
+1. Proc Natl Acad Sci U S A. 2010 Apr 13;107(15):6753-8. doi: 
+10.1073/pnas.0914826107. Epub 2010 Mar 29.
+
+Disruption of the right temporoparietal junction with transcranial magnetic 
+stimulation reduces the role of beliefs in moral judgments.
+
+Young L(1), Camprodon JA, Hauser M, Pascual-Leone A, Saxe R.
+
+Author information:
+(1)Department of Brain and Cognitive Sciences, Massachusetts Institute of 
+Technology, Cambridge, MA 02139, USA. lyoung@mit.edu
+
+When we judge an action as morally right or wrong, we rely on our capacity to 
+infer the actor's mental states (e.g., beliefs, intentions). Here, we test the 
+hypothesis that the right temporoparietal junction (RTPJ), an area involved in 
+mental state reasoning, is necessary for making moral judgments. In two 
+experiments, we used transcranial magnetic stimulation (TMS) to disrupt neural 
+activity in the RTPJ transiently before moral judgment (experiment 1, offline 
+stimulation) and during moral judgment (experiment 2, online stimulation). In 
+both experiments, TMS to the RTPJ led participants to rely less on the actor's 
+mental states. A particularly striking effect occurred for attempted harms 
+(e.g., actors who intended but failed to do harm): Relative to TMS to a control 
+site, TMS to the RTPJ caused participants to judge attempted harms as less 
+morally forbidden and more morally permissible. Thus, interfering with activity 
+in the RTPJ disrupts the capacity to use mental states in moral judgment, 
+especially in the case of attempted harms.
+
+DOI: 10.1073/pnas.0914826107
+PMCID: PMC2872442
+PMID: 20351278 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

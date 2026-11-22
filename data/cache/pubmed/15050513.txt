@@ -1,0 +1,26 @@
+1. Trends Cogn Sci. 2004 Apr;8(4):170-7. doi: 10.1016/j.tics.2004.02.010.
+
+Inhibition and the right inferior frontal cortex.
+
+Aron AR(1), Robbins TW, Poldrack RA.
+
+Author information:
+(1)Department of Experimental Psychology, Downing Street, University of 
+Cambridge, Cambridge CB2 3EB, UK. adamaron@psych.ucla.edu 
+<adamaron@psych.ucla.edu>
+
+It is controversial whether different cognitive functions can be mapped to 
+discrete regions of the prefrontal cortex (PFC). The localisationist tradition 
+has associated one cognitive function - inhibition - by turns with dorsolateral 
+prefrontal cortex (DLPFC), inferior frontal cortex (IFC), or orbital frontal 
+cortex (OFC). Inhibition is postulated to be a mechanism by which PFC exerts its 
+effects on subcortical and posterior-cortical regions to implement executive 
+control. We review evidence concerning inhibition of responses and task-sets. 
+Whereas neuroimaging implicates diverse PFC foci, advances in human 
+lesion-mapping support the functional localization of such inhibition to right 
+IFC alone. Future research should investigate the generality of this proposed 
+inhibitory function to other task domains, and its interaction within a wider 
+network.
+
+DOI: 10.1016/j.tics.2004.02.010
+PMID: 15050513 [Indexed for MEDLINE]

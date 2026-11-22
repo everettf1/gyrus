@@ -1,0 +1,38 @@
+1. J Neurophysiol. 2008 Dec;100(6):3328-42. doi: 10.1152/jn.90355.2008. Epub 2008
+ Sep 17.
+
+Evidence for a frontoparietal control system revealed by intrinsic functional 
+connectivity.
+
+Vincent JL(1), Kahn I, Snyder AZ, Raichle ME, Buckner RL.
+
+Author information:
+(1)Mallinckrodt Institute of Radiology, Washington University School of 
+Medicine, St. Louis, Missouri, USA. vincent@nmr.mgh.harvard.edu
+
+Erratum in
+    J Neurophysiol. 2011 Mar;105(3):1427.
+
+Two functionally distinct, and potentially competing, brain networks have been 
+recently identified that can be broadly distinguished by their contrasting roles 
+in attention to the external world versus internally directed mentation 
+involving long-term memory. At the core of these two networks are the dorsal 
+attention system and the hippocampal-cortical memory system, a component of the 
+brain's default network. Here spontaneous blood-oxygenation-level-dependent 
+(BOLD) signal correlations were used in three separate functional magnetic 
+resonance imaging data sets (n = 105) to define a third system, the 
+frontoparietal control system, which is spatially interposed between these two 
+previously defined systems. The frontoparietal control system includes many 
+regions identified as supporting cognitive control and decision-making processes 
+including lateral prefrontal cortex, anterior cingulate cortex, and inferior 
+parietal lobule. Detailed analysis of frontal and parietal cortex, including use 
+of high-resolution data, revealed clear evidence for contiguous but distinct 
+regions: in general, the regions associated with the frontoparietal control 
+system are situated between components of the dorsal attention and 
+hippocampal-cortical memory systems. The frontoparietal control system is 
+therefore anatomically positioned to integrate information from these two 
+opposing brain systems.
+
+DOI: 10.1152/jn.90355.2008
+PMCID: PMC2604839
+PMID: 18799601 [Indexed for MEDLINE]

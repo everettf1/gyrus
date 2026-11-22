@@ -1,0 +1,37 @@
+1. Psychiatry Res Neuroimaging. 2022 Aug;324:111492. doi: 
+10.1016/j.pscychresns.2022.111492. Epub 2022 May 14.
+
+Variability and concordance of sulcal patterns in the orbitofrontal cortex: A 
+twin study.
+
+Troiani V(1), Snyder W(2), Kozick S(2), Patti MA(2), Beiler D(2).
+
+Author information:
+(1)Geisinger Autism and Developmental Medicine Institute, 120 Hamm Drive, Suite 
+2A, Lewisburg, PA 17837, United States. Electronic address: 
+vtroiani@geisinger.edu.
+(2)Geisinger Autism and Developmental Medicine Institute, 120 Hamm Drive, Suite 
+2A, Lewisburg, PA 17837, United States.
+
+Sulcogyral patterns have been identified in the orbitofrontal cortex (OFC) based 
+on the continuity of the medial and lateral orbital sulci. Pattern types are 
+named according to their frequency in the population, with Type I present in 
+∼60%, Type II in ∼25%, Type III in ∼10%, and Type IV in ∼5%. Previous work has 
+demonstrated that psychiatric conditions with high estimated heritability (e.g. 
+schizophrenia, bipolar disorder) are associated with reduced frequency of Type I 
+patterns, but the general heritability of the OFC sulcogyral patterns is 
+unknown. We examined concordance of OFC patterns in 304 monozygotic (MZ) twins 
+relative to 172 dizygotic (DZ) twins using structural magnetic resonance imaging 
+data. We find that the frequency of pattern types within MZ and DZ twins are 
+similar and bilateral concordance rates across all pattern types in DZ twins 
+were 14% and 21% for MZ twins. Results from follow-up analyses confirm that 
+continuity in the rostral-caudal direction is an important source of variability 
+within the OFC, and subtype analyses indicate that variability is present in 
+other sulci that are not represented by overall OFC pattern type. Overall, these 
+results suggest that OFC sulcogyral patterns may reflect important variance that 
+is not genetic in origin.
+
+Copyright © 2022. Published by Elsevier B.V.
+
+DOI: 10.1016/j.pscychresns.2022.111492
+PMID: 35597228 [Indexed for MEDLINE]

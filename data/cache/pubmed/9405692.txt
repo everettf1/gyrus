@@ -1,0 +1,30 @@
+1. Proc Natl Acad Sci U S A. 1997 Dec 23;94(26):14792-7. doi: 
+10.1073/pnas.94.26.14792.
+
+Role of left inferior prefrontal cortex in retrieval of semantic knowledge: a 
+reevaluation.
+
+Thompson-Schill SL(1), D'Esposito M, Aguirre GK, Farah MJ.
+
+Author information:
+(1)Department of Psychology, University of Pennsylvania, Philadelphia, PA 19104, 
+USA. sschill@psych.upenn.edu
+
+A number of neuroimaging findings have been interpreted as evidence that the 
+left inferior frontal gyrus (IFG) subserves retrieval of semantic knowledge. We 
+provide a fundamentally different interpretation, that it is not retrieval of 
+semantic knowledge per se that is associated with left IFG activity but rather 
+selection of information among competing alternatives from semantic memory. 
+Selection demands were varied across three semantic tasks in a single group of 
+subjects. Functional magnetic resonance imaging signal in overlapping regions of 
+left IFG was dependent on selection demands in all three tasks. In addition, the 
+degree of semantic processing was varied independently of selection demands in 
+one of the tasks. The absence of left IFG activity for this comparison counters 
+the argument that the effects of selection can be attributed solely to 
+variations in degree of semantic retrieval. Our findings suggest that it is 
+selection, not retrieval, of semantic knowledge that drives activity in the left 
+IFG.
+
+DOI: 10.1073/pnas.94.26.14792
+PMCID: PMC25116
+PMID: 9405692 [Indexed for MEDLINE]

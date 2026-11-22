@@ -1,0 +1,57 @@
+1. J Neurosci. 2014 Sep 17;34(38):12828-36. doi: 10.1523/JNEUROSCI.0527-14.2014.
+
+Electrical stimulation of the left and right human fusiform gyrus causes 
+different effects in conscious face perception.
+
+Rangarajan V(1), Hermes D(2), Foster BL(1), Weiner KS(3), Jacques C(4), 
+Grill-Spector K(5), Parvizi J(6).
+
+Author information:
+(1)Laboratory of Behavioral and Cognitive Neurology, Department of Neurology and 
+Neurological Sciences, Stanford Human Intracranial Cognitive Electrophysiology 
+Program.
+(2)Stanford Human Intracranial Cognitive Electrophysiology Program.
+(3)Stanford Human Intracranial Cognitive Electrophysiology Program, Vision and 
+Perception Neuroscience Laboratory, Department of Psychology, Stanford, 
+California 94305.
+(4)Stanford Human Intracranial Cognitive Electrophysiology Program, Vision and 
+Perception Neuroscience Laboratory, Department of Psychology, Stanford, 
+California 94305, Psychological Sciences Research Institute, Université 
+Catholique de Louvain, B-1348 Louvain-la-Neuve, Belgium, and.
+(5)Stanford Human Intracranial Cognitive Electrophysiology Program, Vision and 
+Perception Neuroscience Laboratory, Department of Psychology, Stanford, 
+California 94305, Stanford Neuroscience Institute, Stanford University, 
+Stanford, California 94305.
+(6)Laboratory of Behavioral and Cognitive Neurology, Department of Neurology and 
+Neurological Sciences, Stanford Human Intracranial Cognitive Electrophysiology 
+Program, Stanford Neuroscience Institute, Stanford University, Stanford, 
+California 94305 jparvizi@stanford.edu.
+
+Neuroimaging and electrophysiological studies across species have confirmed 
+bilateral face-selective responses in the ventral temporal cortex (VTC) and 
+prosopagnosia is reported in patients with lesions in the VTC including the 
+fusiform gyrus (FG). As imaging and electrophysiological studies provide 
+correlative evidence, and brain lesions often comprise both white and gray 
+matter structures beyond the FG, we designed the current study to explore the 
+link between face-related electrophysiological responses in the FG and the 
+causal effects of electrical stimulation of the left or right FG in face 
+perception. We used a combination of electrocorticography (ECoG) and electrical 
+brain stimulation (EBS) in 10 human subjects implanted with intracranial 
+electrodes in either the left (5 participants, 30 FG sites) or right (5 
+participants, 26 FG sites) hemispheres. We identified FG sites with 
+face-selective ECoG responses, and recorded perceptual reports during EBS of 
+these sites. In line with existing literature, face-selective ECoG responses 
+were present in both left and right FG sites. However, when the same sites were 
+stimulated, we observed a striking difference between hemispheres. Only EBS of 
+the right FG caused changes in the conscious perception of faces, whereas EBS of 
+strongly face-selective regions in the left FG produced non-face-related visual 
+changes, such as phosphenes. This study examines the relationship between 
+correlative versus causal nature of ECoG and EBS, respectively, and provides 
+important insight into the differential roles of the right versus left FG in 
+conscious face perception.
+
+Copyright © 2014 the authors 0270-6474/14/3412828-09$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.0527-14.2014
+PMCID: PMC4166163
+PMID: 25232118 [Indexed for MEDLINE]

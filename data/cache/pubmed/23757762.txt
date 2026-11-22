@@ -1,0 +1,46 @@
+1. Brain. 2013 Jul;136(Pt 7):2098-108. doi: 10.1093/brain/awt122. Epub 2013 Jun
+11.
+
+Nigral stimulation for resistant axial motor impairment in Parkinson's disease? 
+A randomized controlled trial.
+
+Weiss D(1), Walach M, Meisner C, Fritz M, Scholten M, Breit S, Plewnia C, Bender 
+B, Gharabaghi A, Wächter T, Krüger R.
+
+Author information:
+(1)German Centre for Neurodegenerative Diseases (DZNE), Tübingen, Germany. 
+daniel.weiss@uni-tuebingen.de
+
+Gait and balance disturbances typically emerge in advanced Parkinson's disease 
+with generally limited response to dopaminergic medication and subthalamic 
+nucleus deep brain stimulation. Therefore, advanced programming with interleaved 
+pulses was put forward to introduce concomittant nigral stimulation on caudal 
+contacts of a subthalamic lead. Here, we hypothesized that the combined 
+stimulation of subthalamic nucleus and substantia nigra pars reticulata improves 
+axial symptoms compared with standard subthalamic nucleus stimulation. Twelve 
+patients were enrolled in this 2 × 2 cross-over double-blind randomized 
+controlled clinical trial and both the safety and efficacy of combined 
+subthalamic nucleus and substantia nigra pars reticulata stimulation were 
+evaluated compared with standard subthalamic nucleus stimulation. The primary 
+outcome measure was the change of a broad-scaled cumulative axial Unified 
+Parkinson's Disease Rating Scale score (Scale II items 13-15, Scale III items 
+27-31) at '3-week follow-up'. Secondary outcome measures specifically addressed 
+freezing of gait, balance, quality of life, non-motor symptoms and 
+neuropsychiatric symptoms. For the primary outcome measure no statistically 
+significant improvement was observed for combined subthalamic nucleus and 
+substantia nigra pars reticulata stimulation at the '3-week follow-up'. The 
+secondary endpoints, however, revealed that the combined stimulation of 
+subthalamic nucleus and substantia nigra pars reticulata might specifically 
+improve freezing of gait, whereas balance impairment remained unchanged. The 
+combined stimulation of subthalamic nucleus and substantia nigra pars reticulata 
+was safe, and of note, no clinically relevant neuropsychiatric adverse effect 
+was observed. Patients treated with subthalamic nucleus and substantia nigra 
+pars reticulata stimulation revealed no 'global' effect on axial motor domains. 
+However, this study opens the perspective that concomittant stimulation of the 
+substantia nigra pars reticulata possibly improves otherwise resistant freezing 
+of gait and, therefore, highly warrants a subsequent phase III randomized 
+controlled trial.
+
+DOI: 10.1093/brain/awt122
+PMCID: PMC3692032
+PMID: 23757762 [Indexed for MEDLINE]

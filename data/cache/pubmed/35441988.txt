@@ -1,0 +1,53 @@
+1. Brain Struct Funct. 2022 Jul;227(6):1949-1961. doi:
+10.1007/s00429-022-02482-1.  Epub 2022 Apr 20.
+
+Morphological and hemispheric and sex differences of the anterior ascending 
+ramus and the horizontal ascending ramus of the lateral sulcus.
+
+Wang Y(1)(2), Xu F(1)(2), Zhou W(1)(2), Hou L(1)(2), Tang Y(1)(2), Liu S(3)(4).
+
+Author information:
+(1)Department of Anatomy and Neurobiology, Research Center for Sectional and 
+Imaging Anatomy, Shandong Provincial Key Laboratory of Mental Disorder, Shandong 
+Key Laboratory of Digital Human and Clinical Anatomy, School of Basic Medical 
+Sciences, Cheeloo College of Medicine, Shandong University, Jinan, 250012, 
+Shandong, China.
+(2)Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, 
+250012, Shandong, China.
+(3)Department of Anatomy and Neurobiology, Research Center for Sectional and 
+Imaging Anatomy, Shandong Provincial Key Laboratory of Mental Disorder, Shandong 
+Key Laboratory of Digital Human and Clinical Anatomy, School of Basic Medical 
+Sciences, Cheeloo College of Medicine, Shandong University, Jinan, 250012, 
+Shandong, China. liusw@sdu.edu.cn.
+(4)Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, 
+250012, Shandong, China. liusw@sdu.edu.cn.
+
+Broca's area is composed of the pars opercularis (PO) and the pars triangularis 
+(PTR) of the inferior frontal gyrus; the anterior ascending ramus of the lateral 
+sulcus (aals) separates the PO from the PTR, and the horizontal ascending ramus 
+of the lateral sulcus (hals) separates the PTR from the pars orbitalis. The 
+morphometry of these two sulci maybe has potential effects on the various 
+functions of Broca's area. Exploring the morphological variations, hemispheric 
+differences and sex differences of these two sulci contributed to a better 
+localization of Broca's area. BrainVISA was used to reconstruct and parameterize 
+these two sulci based on data from 3D MR images of 90 healthy right-handed 
+subjects. The 3D anatomic morphologies of these two sulci were investigated 
+using 4 sulcal parameters: average depth (AD), average width (AW), outer length 
+(OL) and inner length (IL). The aals and hals could be identified in 98.89% and 
+98.33%, respectively, of the hemispheres evaluated. The morphological patterns 
+of these two sulci were categorized into four typical types. There were no 
+statistically significant interhemispheric or sex differences in the frequency 
+of the morphological patterns. There was statistically significant 
+interhemispheric difference in the IL of the aals. Significant sex differences 
+were found in the AD and the IL of the aals and OL of the hals. Our results not 
+only provide a structural basis for functional studies related to Broca's area 
+but also are helpful in determining the precise position of Broca's area in 
+neurosurgery.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s00429-022-02482-1
+PMCID: PMC9232435
+PMID: 35441988 [Indexed for MEDLINE]
+
+Conflict of interest statement: We declare that we have no conflict of interest.

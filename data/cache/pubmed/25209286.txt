@@ -1,0 +1,40 @@
+1. J Neurosci. 2014 Sep 10;34(37):12481-9. doi: 10.1523/JNEUROSCI.4931-13.2014.
+
+Transcranial magnetic stimulation dissociates prefrontal and parietal 
+contributions to task preparation.
+
+Muhle-Karbe PS(1), Andres M(2), Brass M(3).
+
+Author information:
+(1)Department of Experimental Psychology, Ghent University, 9000 Ghent, Belgium, 
+and paulsimon.muhlekarbe@ugent.be.
+(2)Department of Experimental Psychology, Ghent University, 9000 Ghent, Belgium, 
+and Psychological Sciences Research Institute, Université catholique de Louvain, 
+1348 Louvain-la-Neuve, Belgium.
+(3)Department of Experimental Psychology, Ghent University, 9000 Ghent, Belgium, 
+and.
+
+Cognitive control is thought to rely upon a set of distributed brain regions 
+within frontoparietal cortex, but the functional contributions of these regions 
+remain elusive. Here, we investigated the disruptive effects of transcranial 
+magnetic stimulation (TMS) over the human prefrontal and parietal cortices in 
+task preparation at different abstraction levels. While participants completed a 
+task-switching paradigm that assessed the reconfiguration of task goals and 
+response sets independently, TMS was applied over the left inferior frontal 
+junction (IFJ) and over the left intraparietal sulcus (IPS) during task 
+preparation. In Experiment 1, TMS over the IFJ caused interference with the 
+updating of task goals, while leaving the updating of response sets unaffected. 
+In Experiment 2, TMS over the IPS created the opposite pattern of results, 
+perturbing only the ability to update response sets, but not task goals. 
+Experiment 3 furthermore revealed that TMS over the IPS interfered with task 
+goal updating when the pulses are delivered at a later point in time during 
+preparation. This dissociation of abstract and action-related components not 
+only reveals distinct cognitive control processes during task preparation, but 
+also sheds new light on how prefrontal and parietal areas might work in concert 
+to support flexible and goal-oriented control of behavior.
+
+Copyright © 2014 the authors 0270-6474/14/3412481-09$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.4931-13.2014
+PMCID: PMC6615496
+PMID: 25209286 [Indexed for MEDLINE]

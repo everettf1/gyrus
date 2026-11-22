@@ -1,0 +1,55 @@
+1. World Neurosurg. 2022 Sep;165:160-171.e2. doi: 10.1016/j.wneu.2022.06.080.
+Epub  2022 Jun 22.
+
+Supplementary Motor Area Syndrome After Brain Tumor Surgery: A Systematic 
+Review.
+
+Palmisciano P(1), Haider AS(2), Balasubramanian K(3), Dadario NB(4), Robertson 
+FC(5), Silverstein JW(6), D'Amico RS(4).
+
+Author information:
+(1)Department of Neurosurgery, University of Cincinnati College of Medicine, 
+Cincinnati, Ohio, USA. Electronic address: paolo.palmisciano94@gmail.com.
+(2)Department of Neurosurgery, The University of Texas M.D. Anderson Cancer 
+Center, Houston, Texas, USA.
+(3)Texas A&M University College of Medicine, Houston, Texas, USA.
+(4)Department of Neurological Surgery, Northwell Health, Lenox Hill 
+Hospital/Donald and Barbara Zucker School of Medicine at Hofstra, New York, New 
+York, USA.
+(5)Department of Neurological Surgery, Massachusetts General Hospital, Boston, 
+Massachusetts, USA.
+(6)Department of Neurology, Northwell Health, Lenox Hill Hospital/Donald and 
+Barbara Zucker School of Medicine at Hofstra, New York, New York, USA; Neuro 
+Protective Solutions, New York, New York, USA.
+
+BACKGROUND: Supplementary motor area syndrome (SMAS) may occur after frontal 
+tumor surgery, with variable presentation and outcomes. We reviewed the 
+literature on postoperative SMAS after brain tumor resection.
+METHODS: PubMed, Web of Science, Scopus, and Cochrane were searched following 
+the PRISMA guidelines to include studies reporting SMAS after brain tumor 
+resection.
+RESULTS: We included 31 studies encompassing 236 patients. Most tumors were 
+gliomas (94.5%), frequently of low grade (61.4%). Most lesions were located on 
+the left hemisphere (64.4%), involving the supplementary motor area (61.4%) and 
+the cingulate gyrus (20.8%). Tractography and functional magnetic resonance 
+imaging evaluation were completed in 45 (19.1%) and 26 (11%) patients. Gross 
+total resection was achieved in 46.3% patients and complete SMA resection in 
+69.4%. A total of 215 procedures (91.1%) used intraoperative neuromonitoring 
+mostly consisting of direct cortical/subcortical stimulation (56.4%), motor 
+(33.9%), and somatosensory (25.4%) evoked potentials. Postoperative SMAS 
+symptoms occurred within 24 hours after surgery, characterized by motor deficits 
+(97%), including paresis (68.6%) and hemiplegia (16.1%), and speech disorders 
+(53%), including hesitancy (24.2%) and mutism (22%). Average SMAS duration was 
+45 days (range, 1-365 days), with total resolution occurring in 188 patients 
+(79.7%) and partial improvement in 46 (19.5%). Forty-eight patients (20.3%) had 
+persisting symptoms, mostly speech hesitancy (60.4%) and fine motor disorders 
+(45.8%).
+CONCLUSIONS: Postoperative SMAS may occur within the first 24 hours after mesial 
+frontal tumor surgery. Preoperative mapping and intraoperative neuromonitoring 
+may assist resection and predict outcomes. Neuroplasticity and interhemispheric 
+connectivity play a major role in resolution.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.wneu.2022.06.080
+PMID: 35752423 [Indexed for MEDLINE]

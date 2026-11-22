@@ -1,0 +1,1685 @@
+[
+ {
+  "id": "frontal_lobe",
+  "how_we_know": "Lesion cases, from Phineas Gage to modern patients, show what frontal damage does, and direct stimulation during awake surgery (begun by Penfield in the 1930s and 1950s) shows which sites are needed for movement and speech. Imaging shows which frontal areas are engaged by many different tasks, but not that they are required. The prefrontal part is the hardest to map because its functions overlap.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Prefrontal injury can change personality and decision making, as in Phineas Gage",
+    "finding": "The authors measured Gage's skull and used modern neuroimaging to reconstruct the accident and place the lesion. The damage involved both the left and right prefrontal cortices. This is the same pattern that causes poor decisions and abnormal emotion in modern patients. The lesion is inferred from the skull, since no autopsy was done.",
+    "quote": "The damage involved both left and right prefrontal cortices in a pattern that, as confirmed by Gage's modern counterparts, causes a defect in rational decision making and the processing of emotion.",
+    "pmid": "8178168",
+    "doi": "10.1126/science.8178168",
+    "cite": "Damasio H, Grabowski T, Frank R, Galaburda AM, Damasio AR. The return of Phineas Gage: clues about the brain from the skull of a famous patient. Science. 1994;264(5162):1102-5.",
+    "year": 1994
+   },
+   {
+    "kind": "lesion",
+    "claim": "Prefrontal damage impairs planning and multi-step tasks despite normal intelligence",
+    "finding": "Three patients with traumatic injuries involving prefrontal structures were given open-ended tasks that had to be run over 15 to 30 minutes. All three struggled badly, yet they scored well on tests of perception, language and intelligence. The authors argued that they could not reactivate earlier intentions after a delay.",
+    "quote": "A quantitative investigation of the ability to carry out a variety of cognitive tasks was performed in 3 patients who had sustained traumatic injuries which involved prefrontal structures. All 3 had severe difficulties in 2 tests which required them to carry out a number of fairly simple but open-ended tasks over a 15-30 min period.",
+    "pmid": "2043945",
+    "doi": "10.1093/brain/114.2.727",
+    "cite": "Shallice T, Burgess PW. Deficits in strategy application following frontal lobe damage in man. Brain. 1991;114(Pt 2):727-41.",
+    "year": 1991
+   },
+   {
+    "kind": "imaging",
+    "claim": "The prefrontal part supports working memory, attentional control and flexible rule use",
+    "finding": "This review compared frontal activation patterns across many kinds of cognitive demand, including working memory, response selection and problem solving. The same mid-dorsolateral, mid-ventrolateral and dorsal anterior cingulate regions were recruited again and again. This is correlational: it shows these regions are engaged, not that they are required.",
+    "quote": "The results show a striking regularity: for many demands, there is a similar recruitment of mid-dorsolateral, mid-ventrolateral and dorsal anterior cingulate cortex.",
+    "pmid": "11006464",
+    "doi": "10.1016/s0166-2236(00)01633-7",
+    "cite": "Duncan J, Owen AM. Common regions of the human frontal lobe recruited by diverse cognitive demands. Trends Neurosci. 2000;23(10):475-83.",
+    "year": 2000
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Premotor and precentral frontal cortex produce speech articulation and movement",
+    "finding": "Direct cortical stimulation was done in 165 patients undergoing awake mapping before low-grade glioma surgery. Stimulation of the pre- and post-central gyri produced sensorimotor effects and articulation errors. Speech arrest mapped to ventral premotor cortex rather than to the classical Broca's area.",
+    "quote": "Articulation epicentres were also found within the pre/post-central gyri. However, speech arrest localized to ventral premotor cortex, not the classical Broca's area.",
+    "pmid": "24970097",
+    "doi": "10.1093/brain/awu168",
+    "cite": "Tate MC, Herbet G, Moritz-Gasser S, Tate JE, Duffau H. Probabilistic map of critical functional regions of the human cerebral cortex: Broca's area revisited. Brain. 2014;137(Pt 10):2773-82.",
+    "year": 2014
+   }
+  ],
+  "stimulation": {
+   "method": "direct cortical stimulation in awake surgery (165 patients)",
+   "effect": "Stimulating the pre- and post-central gyri produced sensorimotor responses and articulation problems, and stimulating ventral premotor cortex stopped speech.",
+   "quote": "Articulation epicentres were also found within the pre/post-central gyri. However, speech arrest localized to ventral premotor cortex, not the classical Broca's area.",
+   "pmid": "24970097",
+   "doi": "10.1093/brain/awu168",
+   "cite": "Tate MC, Herbet G, Moritz-Gasser S, Tate JE, Duffau H. Probabilistic map of critical functional regions of the human cerebral cortex: Broca's area revisited. Brain. 2014;137(Pt 10):2773-82.",
+   "year": 2014
+  }
+ },
+ {
+  "id": "parietal_lobe",
+  "how_we_know": "Stroke lesions show which parietal sites are needed for spatial awareness, and awake-surgery stimulation shows what the area can produce directly. Imaging shows attention networks that include parietal cortex, but only lesions and stimulation test whether the region is necessary. Neglect is also linked to neighbouring regions, so lesion maps are debated.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Right parietal lesions, especially inferior parietal, cause neglect of the left side of space",
+    "finding": "High resolution MRI was used to map the lesions of 35 right-hemisphere stroke patients. Among patients with middle cerebral artery strokes, the angular gyrus of the inferior parietal lobe was involved in all of those with neglect. The superior temporal gyrus was spared in about half of them, which argues against the temporal lobe being the key site.",
+    "quote": "Here, we use novel high resolution MRI protocols to map the lesions of 35 right-hemisphere patients who had suffered either MCA or posterior cerebral artery (PCA) territory stroke. For patients with MCA territory strokes, the critical area involved in all neglect patients was the angular gyrus of the inferior parietal lobe (IPL).",
+    "pmid": "12821519",
+    "doi": "10.1093/brain/awg200",
+    "cite": "Mort DJ, Malhotra P, Mannan SK, et al. The anatomy of visual neglect. Brain. 2003;126(Pt 9):1986-97.",
+    "year": 2003
+   },
+   {
+    "kind": "imaging",
+    "claim": "The posterior parietal cortex directs spatial attention",
+    "finding": "This review of imaging and lesion evidence describes two attention networks. A dorsal one with intraparietal cortex prepares top-down selection, and a ventral one with temporoparietal cortex detects salient stimuli. Both are disrupted in unilateral spatial neglect.",
+    "quote": "One system, which includes parts of the intraparietal cortex and superior frontal cortex, is involved in preparing and applying goal-directed (top-down) selection for stimuli and responses. Both attentional systems interact during normal vision, and both are disrupted in unilateral spatial neglect.",
+    "pmid": "11994752",
+    "doi": "10.1038/nrn755",
+    "cite": "Corbetta M, Shulman GL. Control of goal-directed and stimulus-driven attention in the brain. Nat Rev Neurosci. 2002;3(3):201-15.",
+    "year": 2002
+   },
+   {
+    "kind": "stimulation",
+    "claim": "The right angular gyrus and temporoparietal region support the sense of bodily self",
+    "finding": "In a patient being evaluated for epilepsy treatment, electrical stimulation of the right angular gyrus repeatedly induced an out-of-body experience. The same site also produced illusory changes of the arm and legs and whole-body displacement. The authors concluded that the experience may reflect a failure to integrate somatosensory and vestibular information. It is a single patient.",
+    "quote": "Here we describe the repeated induction of this experience by focal electrical stimulation of the brain's right angular gyrus in a patient who was undergoing evaluation for epilepsy treatment.",
+    "pmid": "12239558",
+    "doi": "10.1038/419269a",
+    "cite": "Blanke O, Ortigue S, Landis T, Seeck M. Stimulating illusory own-body perceptions. Nature. 2002;419(6904):269-70.",
+    "year": 2002
+   }
+  ],
+  "stimulation": {
+   "method": "direct cortical stimulation in awake surgery (seven patients)",
+   "effect": "Stimulating inferior parietal cortex made patients feel a strong urge to move a hand, arm, foot or the lips, and at higher intensity they believed they had moved although no muscle activity was recorded.",
+   "quote": "We used electrical stimulation in seven patients undergoing awake brain surgery. Stimulating the right inferior parietal regions triggered a strong intention and desire to move the contralateral hand, arm, or foot, whereas stimulating the left inferior parietal region provoked the intention to move the lips and to talk.",
+   "pmid": "19423830",
+   "doi": "10.1126/science.1169896",
+   "cite": "Desmurget M, Reilly KT, Richard N, Szathmari A, Mottolese C, Sirigu A. Movement intention after parietal cortex stimulation in humans. Science. 2009;324(5928):811-3.",
+   "year": 2009
+  }
+ },
+ {
+  "id": "temporal_lobe",
+  "how_we_know": "The strongest causal evidence is lesion work, beginning with the H.M. case, and stimulation in epilepsy patients, which can alter the perception of faces. Imaging and meta-analyses show which temporal regions are active during language, semantics and face viewing. The temporal lobe has many parts, so each study speaks only to one subregion.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Bilateral medial temporal damage causes anterograde amnesia (patient H.M.)",
+    "finding": "Scoville and Milner tested nine patients, eight psychotic and one epileptic, one and a half to four years after bilateral medial temporal resection. Memory loss was persistent when the removal reached the anterior hippocampus and hippocampal gyrus, and its degree depended on how much hippocampus was removed. This is the paper that began the study of human memory systems.",
+    "quote": "Bilateral medial temporal lobe resection in man results in a persistent impairment of recent memory whenever the removal is carried far enough posteriorly to damage portions of the anterior hippocampus and hippocampal gyrus.",
+    "pmid": "10678523",
+    "doi": "10.1176/jnp.12.1.103",
+    "cite": "Scoville WB, Milner B. Loss of recent memory after bilateral hippocampal lesions. 1957. J Neuropsychiatry Clin Neurosci. 2000;12(1):103-13 (reprint of the 1957 paper).",
+    "year": 2000
+   },
+   {
+    "kind": "meta-analysis",
+    "claim": "Temporal regions store semantic knowledge about concepts, objects and people",
+    "finding": "The authors pooled 120 functional imaging studies of semantic processing using activation likelihood estimation. Activations formed a left-lateralized network of seven regions that included the middle temporal gyrus and the fusiform and parahippocampal gyri. This shows where activity occurs during semantic tasks, not that each region is required.",
+    "quote": "Using strict inclusion criteria, we analyzed 120 functional neuroimaging studies focusing on semantic processing. These activations formed a distinct, left-lateralized network comprised of 7 regions: posterior inferior parietal lobe, middle temporal gyrus, fusiform and parahippocampal gyri, dorsomedial prefrontal cortex, inferior frontal gyrus, ventromedial prefrontal cortex, and posterior cingulate gyrus.",
+    "pmid": "19329570",
+    "doi": "10.1093/cercor/bhp055",
+    "cite": "Binder JR, Desai RH, Graves WW, Conant LL. Where is the semantic system? A critical review and meta-analysis of 120 functional neuroimaging studies. Cereb Cortex. 2009;19(12):2767-96.",
+    "year": 2009
+   },
+   {
+    "kind": "imaging",
+    "claim": "The ventral temporal fusiform gyrus supports recognition of faces",
+    "finding": "With fMRI the authors found a fusiform region in 12 of the 15 subjects that responded more to faces than to common objects. Follow-up tests on the predefined region ruled out several alternative explanations, such as attention or processing of any animate form. This is correlational evidence for face selectivity.",
+    "quote": "Using functional magnetic resonance imaging (fMRI), we found an area in the fusiform gyrus in 12 of the 15 subjects tested that was significantly more active when the subjects viewed faces than when they viewed assorted common objects.",
+    "pmid": "9151747",
+    "doi": "10.1523/JNEUROSCI.17-11-04302.1997",
+    "cite": "Kanwisher N, McDermott J, Chun MM. The fusiform face area: a module in human extrastriate cortex specialized for face perception. J Neurosci. 1997;17(11):4302-11.",
+    "year": 1997
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Fusiform cortex is causally involved in recognizing faces",
+    "finding": "In one patient with electrodes in the right inferior temporal lobe, fMRI and recordings found two face-selective sites. Stimulating that pair of electrodes made real faces look distorted, while naming pictures of famous faces and the look of non-face objects were unaffected. Sham stimulation and nearby sites had no effect.",
+    "quote": "Moreover, electrical charge delivered to this pair of electrodes induced a profound face-specific perceptual distortion during viewing of real faces.",
+    "pmid": "23100414",
+    "doi": "10.1523/JNEUROSCI.2609-12.2012",
+    "cite": "Parvizi J, Jacques C, Foster BL, et al. Electrical stimulation of human fusiform face-selective regions distorts face perception. J Neurosci. 2012;32(43):14915-20.",
+    "year": 2012
+   }
+  ],
+  "stimulation": {
+   "method": "electrical brain stimulation through subdural electrodes",
+   "effect": "Stimulating face-selective fusiform sites made the faces of people in the room look metamorphosed, without changing the look of non-face objects.",
+   "quote": "Moreover, electrical charge delivered to this pair of electrodes induced a profound face-specific perceptual distortion during viewing of real faces.",
+   "pmid": "23100414",
+   "doi": "10.1523/JNEUROSCI.2609-12.2012",
+   "cite": "Parvizi J, Jacques C, Foster BL, et al. Electrical stimulation of human fusiform face-selective regions distorts face perception. J Neurosci. 2012;32(43):14915-20.",
+   "year": 2012
+  }
+ },
+ {
+  "id": "occipital_lobe",
+  "how_we_know": "Lesions in the occipital lobe produce predictable field defects, which allowed the visual map to be drawn long before imaging existed. fMRI later traced the borders of the visual areas, and stimulation of the visual cortex produces spots and shapes of light. Together these methods agree, which is unusual in the brain.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Occipital lesions produce contralateral homonymous field defects that follow a retinotopic map",
+    "finding": "The authors correlated MRI scans with homonymous field defects in patients with clearly defined occipital lobe lesions. They found that the classic Holmes map underestimated the cortical area devoted to central vision, and they revised it. The result matches data from related monkey species.",
+    "quote": "We have tested the accuracy of Gordon Holmes' retinotopic map of human striate cortex by correlating magnetic resonance scans with homonymous field defects in patients with clearly defined occipital lobe lesions. Our findings indicate that Holmes underestimated the cortical magnification of central vision.",
+    "pmid": "2043069",
+    "doi": "10.1001/archopht.1991.01080060080030",
+    "cite": "Horton JC, Hoyt WF. The representation of the visual field in human striate cortex. A revision of the classic Holmes map. Arch Ophthalmol. 1991;109(6):816-24.",
+    "year": 1991
+   },
+   {
+    "kind": "imaging",
+    "claim": "V1 and the surrounding areas V2 to V5 each hold a retinotopic map",
+    "finding": "Functional MRI was recorded during phase-encoded retinal stimulation, and the data were sampled on a reconstructed cortical surface. The method outlined the borders of V1, V2, VP, V3 and V4 by finding where the map flips between mirror image and non-mirror image. It showed that human visual areas emphasize the center of gaze more than monkey areas do.",
+    "quote": "The borders of human visual areas V1, V2, VP, V3, and V4 were precisely and noninvasively determined. Functional magnetic resonance images were recorded during phase-encoded retinal stimulation.",
+    "pmid": "7754376",
+    "doi": "10.1126/science.7754376",
+    "cite": "Sereno MI, Dale AM, Reppas JB, et al. Borders of multiple visual areas in humans revealed by functional magnetic resonance imaging. Science. 1995;268(5212):889-93.",
+    "year": 1995
+   },
+   {
+    "kind": "lesion",
+    "claim": "Areas beyond V1 extract features such as motion",
+    "finding": "A patient with bilateral posterior brain damage lost the perception of movement almost completely while the rest of her vision was intact. Her movement perception for sound and touch was normal. The damage was in the lateral temporo-occipital cortex and underlying white matter, beyond the primary visual cortex.",
+    "quote": "A patient who suffered bilateral posterior brain damage exhibited disturbance of movement vision in a rather pure form. On the basis of the localization of the cerebral damage (as judged by CT scanning and neuropsychological testing) it is concluded that the observed disorder in movement vision is due to bilateral cerebral lesions affecting the lateral temporo-occipital cortex and the underlying white matter.",
+    "pmid": "6850272",
+    "doi": "10.1093/brain/106.2.313",
+    "cite": "Zihl J, von Cramon D, Mai N. Selective disturbance of movement vision after bilateral brain damage. Brain. 1983;106(Pt 2):313-40.",
+    "year": 1983
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Stimulating the occipital cortex produces spots of light that follow the visual map",
+    "finding": "Sighted and blind participants received dynamic stimulation through electrodes on the visual cortex that traced shapes in a sequence. Participants accurately recognized letter shapes predicted by the cortical map, at up to 86 forms per minute in blind participants. The result confirms that the cortical map is organized as imaging suggests.",
+    "quote": "In both sighted and blind participants, dynamic stimulation enabled accurate recognition of letter shapes predicted by the brain's spatial map of the visual world. Forms were presented and recognized rapidly by blind participants, up to 86 forms per minute.",
+    "pmid": "32413298",
+    "doi": "10.1016/j.cell.2020.04.033",
+    "cite": "Beauchamp MS, Oswalt D, Sun P, et al. Dynamic stimulation of visual cortex produces form vision in sighted and blind humans. Cell. 2020;181(4):774-783.e5.",
+    "year": 2020
+   }
+  ],
+  "stimulation": {
+   "method": "electrical stimulation through electrodes on the occipital pole",
+   "effect": "In a blind patient, stimulating through a single electrode usually produced a small spot of white light, and stimulating through several electrodes at once produced simple patterns.",
+   "quote": "The sensation caused by stimulation through a single electrode is commonly a single very small spot of white light at a constant position in the visual field; but for some electrodes it is two or several such spots, or a small cloud.",
+   "pmid": "4871047",
+   "doi": "10.1113/jphysiol.1968.sp008519",
+   "cite": "Brindley GS, Lewin WS. The sensations produced by electrical stimulation of the visual cortex. J Physiol. 1968;196(2):479-93.",
+   "year": 1968
+  }
+ },
+ {
+  "id": "insula",
+  "how_we_know": "Direct stimulation in epilepsy patients shows that the posterior insula can produce pain and body sensations. Lesion studies link the insula to disgust and to cigarette craving. A large meta-analysis of imaging shows that the insula has distinct sensorimotor, social-emotional, taste and cognitive subregions, but imaging alone cannot show that the insula is required.",
+  "evidence": [
+   {
+    "kind": "stimulation",
+    "claim": "The posterior insula receives interoceptive input about pain and body sensation",
+    "finding": "Direct electrical stimulation of the insula was done in 43 patients with drug refractory temporal lobe epilepsy using depth electrodes. Painful sensations came from the upper posterior insula in 14 patients, mostly in the right hemisphere. Non-painful body sensations came from the posterior insula in 16 patients.",
+    "quote": "Painful sensations were evoked in the upper posterior part of the insular cortex in 14 patients, mostly in the right hemisphere. Non-painful sensations were elicited in the posterior part of the insular cortex in 16 patients, in both hemispheres.",
+    "pmid": "11884353",
+    "doi": "10.1093/cercor/12.4.376",
+    "cite": "Ostrowsky K, Magnin M, Ryvlin P, Isnard J, Guenot M, Mauguière F. Representation of pain and somatic sensation in the human insula: a study of responses to direct electrical cortical stimulation. Cereb Cortex. 2002;12(4):376-85.",
+    "year": 2002,
+    "data": {
+     "title": "Patients (of 43) with insular stimulation sensations",
+     "unit": "patients",
+     "items": [
+      [
+       "painful sensations",
+       14
+      ],
+      [
+       "non-painful sensations",
+       16
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "meta-analysis",
+    "claim": "The insula has separate sensorimotor, social-emotional, taste and cognitive parts",
+    "finding": "The authors ran meta-analyses of 1,768 functional neuroimaging experiments. They found four distinct insular regions that map to social-emotional, sensorimotor, olfacto-gustatory and cognitive networks. The mid-posterior insula was activated by sensorimotor tasks and the anterior-ventral insula by social-emotional tasks.",
+    "quote": "we performed activation-likelihood-estimation (ALE) meta-analyses of 1,768 functional neuroimaging experiments. The analysis revealed four functionally distinct regions on the human insula, which map to the social-emotional, the sensorimotor, the olfacto-gustatory, and the cognitive network of the brain.",
+    "pmid": "20512376",
+    "doi": "10.1007/s00429-010-0255-z",
+    "cite": "Kurth F, Zilles K, Fox PT, Laird AR, Eickhoff SB. A link between the systems: functional differentiation and integration within the human insula revealed by meta-analysis. Brain Struct Funct. 2010;214(5-6):519-34.",
+    "year": 2010
+   },
+   {
+    "kind": "lesion",
+    "claim": "Insular lesions have been associated with loss of nicotine craving",
+    "finding": "Smokers with brain damage involving the insula were more likely than smokers with damage elsewhere to stop smoking easily, immediately and without relapse. They also lost the urge to smoke. The study compares groups of patients and cannot say which insular subregion matters.",
+    "quote": "We found that smokers with brain damage involving the insula, a region implicated in conscious urges, were more likely than smokers with brain damage not involving the insula to undergo a disruption of smoking addiction, characterized by the ability to quit smoking easily, immediately, without relapse, and without persistence of the urge to smoke.",
+    "pmid": "17255515",
+    "doi": "10.1126/science.1135926",
+    "cite": "Naqvi NH, Rudrauf D, Damasio H, Bechara A. Damage to the insula disrupts addiction to cigarette smoking. Science. 2007;315(5811):531-4.",
+    "year": 2007
+   },
+   {
+    "kind": "lesion",
+    "claim": "The anterior insula contributes to disgust",
+    "finding": "A patient with damage to the insula and putamen was tested on recognizing disgust from several kinds of social signals. The study describes a neural system for recognizing disgust signals across multiple modalities. It is a single case, and the lesion also involved the putamen.",
+    "quote": "Here we describe evidence, from a patient with insula and putamen damage, for a neural system for recognizing social signals of disgust from multiple modalities.",
+    "pmid": "11036262",
+    "doi": "10.1038/80586",
+    "cite": "Calder AJ, Keane J, Manes F, Antoun N, Young AW. Impaired recognition and experience of disgust following brain injury. Nat Neurosci. 2000;3(11):1077-8.",
+    "year": 2000
+   }
+  ],
+  "stimulation": {
+   "method": "direct electrical stimulation through depth electrodes (43 patients)",
+   "effect": "Stimulating the upper posterior insula evoked pain in 14 of 43 patients, and stimulating the posterior insula evoked non-painful body sensations in 16.",
+   "quote": "We studied painful and non-painful somaesthetic sensations elicited by direct electrical stimulations of the insular cortex performed in 43 patients with drug refractory temporal lobe epilepsy, using stereotactically implanted depth electrodes.",
+   "pmid": "11884353",
+   "doi": "10.1093/cercor/12.4.376",
+   "cite": "Ostrowsky K, Magnin M, Ryvlin P, Isnard J, Guenot M, Mauguière F. Representation of pain and somatic sensation in the human insula: a study of responses to direct electrical cortical stimulation. Cereb Cortex. 2002;12(4):376-85.",
+   "year": 2002
+  }
+ },
+ {
+  "id": "limbic_lobe",
+  "how_we_know": "The limbic lobe is a loose grouping, so the evidence comes from its parts: lesions of the medial temporal lobe, cingulotomy for obsessive-compulsive disorder, and stimulation of the cingulate region. Imaging links the anterior cingulate to the unpleasantness of pain. The evidence is strong for the individual parts and weaker for the lobe as a unit.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Damage to limbic circuit components causes amnesia, as in medial temporal lesions",
+    "finding": "Scoville and Milner tested nine patients after bilateral medial temporal resection. Persistent memory loss followed when the removal reached the anterior hippocampus and hippocampal gyrus. Personality and general intelligence were not impaired.",
+    "quote": "Bilateral medial temporal lobe resection in man results in a persistent impairment of recent memory whenever the removal is carried far enough posteriorly to damage portions of the anterior hippocampus and hippocampal gyrus.",
+    "pmid": "10678523",
+    "doi": "10.1176/jnp.12.1.103",
+    "cite": "Scoville WB, Milner B. Loss of recent memory after bilateral hippocampal lesions. 1957. J Neuropsychiatry Clin Neurosci. 2000;12(1):103-13 (reprint of the 1957 paper).",
+    "year": 2000
+   },
+   {
+    "kind": "lesion",
+    "claim": "Cingulotomy has been used for intractable obsessive-compulsive disorder",
+    "finding": "Forty-four patients with treatment-refractory OCD were followed after one or more cingulotomies, which are lesions of the cingulate region. At a mean follow-up of 32 months, 14 patients met criteria for response and six more were partial responders. Few adverse effects were reported, but the study was open-label, without a control group.",
+    "quote": "At mean follow-up of 32 months after one or more cingulotomies, 14 patients (32%) met criteria for treatment response and six others (14%) were partial responders. Thus, 20 patients (45%) were at least partial responders at long-term follow-up after one or more cingulotomies.",
+    "pmid": "11823270",
+    "doi": "10.1176/appi.ajp.159.2.269",
+    "cite": "Dougherty DD, Baer L, Cosgrove GR, et al. Prospective long-term follow-up of 44 patients who received cingulotomy for treatment-refractory obsessive-compulsive disorder. Am J Psychiatry. 2002;159(2):269-75.",
+    "year": 2002,
+    "data": {
+     "title": "Percent of 44 patients after cingulotomy",
+     "unit": "%",
+     "items": [
+      [
+       "full responders",
+       32
+      ],
+      [
+       "partial responders",
+       14
+      ],
+      [
+       "at least partial",
+       45
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "imaging",
+    "claim": "The cingulate part monitors pain and motivation",
+    "finding": "Hypnotic suggestion was used to change how unpleasant a painful stimulus felt without changing its perceived intensity. PET showed that activity in the anterior cingulate cortex changed with the unpleasantness. Primary somatosensory cortex activity did not change.",
+    "quote": "To differentiate cortical areas involved in pain affect, hypnotic suggestions were used to alter selectively the unpleasantness of noxious stimuli, without changing the perceived intensity. Positron emission tomography revealed significant changes in pain-evoked activity within anterior cingulate cortex, consistent with the encoding of perceived unpleasantness, whereas primary somatosensory cortex activation was unaltered.",
+    "pmid": "9252330",
+    "doi": "10.1126/science.277.5328.968",
+    "cite": "Rainville P, Duncan GH, Price DD, Carrier B, Bushnell MC. Pain affect encoded in human anterior cingulate but not somatosensory cortex. Science. 1997;277(5328):968-71.",
+    "year": 1997
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "The subcallosal cingulate is a deep brain stimulation target in treatment-resistant depression",
+    "finding": "Six patients with refractory depression received chronic deep brain stimulation of white matter next to the subgenual cingulate gyrus (Brodmann area 25). Depression remitted in four of the six. PET showed reduced local blood flow and changes in downstream limbic and cortical sites. This was a small open study.",
+    "quote": "Chronic stimulation of white matter tracts adjacent to the subgenual cingulate gyrus was associated with a striking and sustained remission of depression in four of six patients.",
+    "pmid": "15748841",
+    "doi": "10.1016/j.neuron.2005.02.014",
+    "cite": "Mayberg HS, Lozano AM, Voon V, et al. Deep brain stimulation for treatment-resistant depression. Neuron. 2005;45(5):651-60.",
+    "year": 2005
+   }
+  ],
+  "stimulation": {
+   "method": "intracranial electrical stimulation of the anterior midcingulate cortex (two patients)",
+   "effect": "Stimulation produced autonomic changes and a feeling that a challenge was about to come, along with a determination to overcome it.",
+   "quote": "In the current study, we show that electrical charge delivery in the anterior midcingulate cortex (aMCC) elicits autonomic changes and the expectation of an imminent challenge coupled with a determined attitude to overcome it.",
+   "pmid": "24316296",
+   "doi": "10.1016/j.neuron.2013.10.057",
+   "cite": "Parvizi J, Rangarajan V, Shirer WR, Desai N, Greicius MD. The will to persevere induced by electrical stimulation of the human cingulate gyrus. Neuron. 2013;80(6):1359-67.",
+   "year": 2013
+  }
+ },
+ {
+  "id": "prefrontal_cortex",
+  "how_we_know": "Lesion cases such as Phineas Gage and patients with ventromedial or dorsolateral damage give the causal evidence. Recordings from monkey prefrontal neurons and human imaging show which cells and areas are active during memory and control tasks, but not that they are required. Repetitive magnetic stimulation of the left dorsolateral part is a tested clinical treatment.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Prefrontal damage causes loss of rational decision making and emotional processing",
+    "finding": "The authors measured Gage's skull and used modern neuroimaging to reconstruct the accident and find the probable lesion. The damage involved both left and right prefrontal cortices. This is the pattern that, in modern patients, causes a defect in rational decision making and emotion. The lesion is inferred from the skull.",
+    "quote": "The damage involved both left and right prefrontal cortices in a pattern that, as confirmed by Gage's modern counterparts, causes a defect in rational decision making and the processing of emotion.",
+    "pmid": "8178168",
+    "doi": "10.1126/science.8178168",
+    "cite": "Damasio H, Grabowski T, Frank R, Galaburda AM, Damasio AR. The return of Phineas Gage: clues about the brain from the skull of a famous patient. Science. 1994;264(5162):1102-5.",
+    "year": 1994
+   },
+   {
+    "kind": "lesion",
+    "claim": "Prefrontal subregions differ: ventromedial damage impairs flexible rule use, dorsolateral does not",
+    "finding": "Patients with ventromedial prefrontal lesions were compared with patients with dorsolateral frontal damage and with healthy controls on a reversal learning task. Neither kind of damage affected initial learning of which stimulus was rewarded. Only ventromedial damage impaired learning after the rule was reversed.",
+    "quote": "Subjects with lesions of the ventromedial prefrontal cortex were compared with a group with dorsolateral frontal lobe damage, as well as with normal controls on a simple reversal learning task. Neither form of frontal damage affected initial stimulus-reinforcement learning; ventromedial frontal damage selectively impaired reversal learning.",
+    "pmid": "12821528",
+    "doi": "10.1093/brain/awg180",
+    "cite": "Fellows LK, Farah MJ. Ventromedial frontal cortex mediates affective shifting in humans: evidence from a reversal learning paradigm. Brain. 2003;126(Pt 8):1830-7.",
+    "year": 2003
+   },
+   {
+    "kind": "recording",
+    "claim": "Dorsolateral prefrontal neurons hold information during a delay, the basis of working memory",
+    "finding": "In monkeys performing a delayed eye movement task, the authors recorded from 288 neurons around the principal sulcus. Of these, 170 were task-related and 87 changed their activity during the delay while the cue was remembered. Most of the delay-active cells preferred particular cue directions.",
+    "quote": "Of the 288 PS neurons, 170 exhibited task-related activity during at least one phase of this task and, of these, 87 showed significant excitation or inhibition of activity during the delay period relative to activity during the intertrial interval.",
+    "pmid": "2918358",
+    "doi": "10.1152/jn.1989.61.2.331",
+    "cite": "Funahashi S, Bruce CJ, Goldman-Rakic PS. Mnemonic coding of visual space in the monkey's dorsolateral prefrontal cortex. J Neurophysiol. 1989;61(2):331-49.",
+    "year": 1989,
+    "data": {
+     "title": "Monkey prefrontal neurons recorded",
+     "unit": "neurons",
+     "items": [
+      [
+       "recorded",
+       288
+      ],
+      [
+       "task-related",
+       170
+      ],
+      [
+       "delay-period change",
+       87
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "imaging",
+    "claim": "A frontal network is recruited for many different cognitive demands",
+    "finding": "This review of frontal activation across many task types found the same mid-dorsolateral, mid-ventrolateral and dorsal anterior cingulate regions engaged by a wide range of demands. Much of the medial and orbital frontal surface was largely insensitive to these demands. The evidence is correlational.",
+    "quote": "The results show a striking regularity: for many demands, there is a similar recruitment of mid-dorsolateral, mid-ventrolateral and dorsal anterior cingulate cortex.",
+    "pmid": "11006464",
+    "doi": "10.1016/s0166-2236(00)01633-7",
+    "cite": "Duncan J, Owen AM. Common regions of the human frontal lobe recruited by diverse cognitive demands. Trends Neurosci. 2000;23(10):475-83.",
+    "year": 2000
+   }
+  ],
+  "stimulation": {
+   "method": "repetitive transcranial magnetic stimulation over left dorsolateral prefrontal cortex (301 patients)",
+   "effect": "Daily stimulation for four to six weeks reduced depression scores more than sham stimulation, and roughly doubled remission rates at week 6.",
+   "quote": "Active TMS was significantly superior to sham TMS on the MADRS at week 4 (with a post hoc correction for inequality in symptom severity between groups at baseline), as well as on the HAMD17 and HAMD24 scales at weeks 4 and 6.",
+   "pmid": "17573044",
+   "doi": "10.1016/j.biopsych.2007.01.018",
+   "cite": "O'Reardon JP, Solvason HB, Janicak PG, et al. Efficacy and safety of transcranial magnetic stimulation in the acute treatment of major depression: a multisite randomized controlled trial. Biol Psychiatry. 2007;62(11):1208-16.",
+   "year": 2007
+  }
+ },
+ {
+  "id": "dorsolateral_prefrontal_cortex",
+  "how_we_know": "Single-neuron recordings in monkeys show delay-period activity, human lesion studies test whether the region is necessary, and meta-analyses show where working memory tasks activate the frontal cortex. Stimulation evidence comes from a large randomized trial of magnetic stimulation. The 3D outline here is approximate, so the studies below concern dorsolateral prefrontal cortex in general.",
+  "evidence": [
+   {
+    "kind": "recording",
+    "claim": "DLPFC maintains information in working memory, as shown by delay-period neuron activity in monkeys",
+    "finding": "Monkeys had to remember a cue location over a delay of 1 to 6 seconds. Of 288 neurons recorded near the principal sulcus, 170 were task-related and 87 changed activity during the delay. The authors report that 79% of those 87 neurons were directional, responding only to some cue locations.",
+    "quote": "Of the 288 PS neurons, 170 exhibited task-related activity during at least one phase of this task and, of these, 87 showed significant excitation or inhibition of activity during the delay period relative to activity during the intertrial interval.",
+    "pmid": "2918358",
+    "doi": "10.1152/jn.1989.61.2.331",
+    "cite": "Funahashi S, Bruce CJ, Goldman-Rakic PS. Mnemonic coding of visual space in the monkey's dorsolateral prefrontal cortex. J Neurophysiol. 1989;61(2):331-49.",
+    "year": 1989,
+    "data": {
+     "title": "Monkey prefrontal neurons recorded",
+     "unit": "neurons",
+     "items": [
+      [
+       "recorded",
+       288
+      ],
+      [
+       "task-related",
+       170
+      ],
+      [
+       "delay-period change",
+       87
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "lesion",
+    "claim": "DLPFC is necessary for manipulating information in working memory",
+    "finding": "Working memory tests were given to 19 patients with dorsolateral prefrontal lesions, 152 patients with lesions elsewhere and 54 people without lesions. Dorsolateral damage was associated with deficits in manipulating verbal and spatial knowledge. The left side was needed for manipulating information in working memory and the right side for a broader range of reasoning.",
+    "quote": "DlPFC damage was associated with deficits in the manipulation of verbal and spatial knowledge, with left dlPFC necessary for manipulating information in working memory and right dlPFC critical for manipulating information in a broader range of reasoning contexts.",
+    "pmid": "22789779",
+    "doi": "10.1016/j.cortex.2012.05.022",
+    "cite": "Barbey AK, Koenigs M, Grafman J. Dorsolateral prefrontal contributions to human working memory. Cortex. 2013;49(5):1195-205.",
+    "year": 2013
+   },
+   {
+    "kind": "meta-analysis",
+    "claim": "The left side favors verbal and the right side spatial material, though lateralization is partial",
+    "finding": "The authors performed meta-analyses of 60 PET and fMRI studies of working memory. Frontal activation was more dorsal for tasks that required executive processing than for storage-only tasks. Left frontal dominance for verbal material was found only for tasks with low executive demand.",
+    "quote": "Tasks requiring executive processing generally produce more dorsal frontal activations than do storage-only tasks, but not all executive processes show this pattern. Brodmann's areas (BAs) 6, 8, and 9, in the superior frontal cortex, respond most when WM must be continuously updated and when memory for temporal order must be maintained.",
+    "pmid": "15040547",
+    "doi": "10.3758/cabn.3.4.255",
+    "cite": "Wager TD, Smith EE. Neuroimaging studies of working memory: a meta-analysis. Cogn Affect Behav Neurosci. 2003;3(4):255-74.",
+    "year": 2003
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "Repetitive TMS of the left DLPFC is an approved treatment for depression",
+    "finding": "In a double-blind multisite trial, 301 medication-free patients with major depression were randomized to active TMS (155 patients) or sham TMS (146 patients). Active TMS was significantly better than sham at week 4, and remission rates were about twofold higher at week 6. Dropout for adverse events was 4.5%.",
+    "quote": "In a double-blind, multisite study, 301 medication-free patients with major depression who had not benefited from prior treatment were randomized to active (n = 155) or sham TMS (n = 146) conditions.",
+    "pmid": "17573044",
+    "doi": "10.1016/j.biopsych.2007.01.018",
+    "cite": "O'Reardon JP, Solvason HB, Janicak PG, et al. Efficacy and safety of transcranial magnetic stimulation in the acute treatment of major depression: a multisite randomized controlled trial. Biol Psychiatry. 2007;62(11):1208-16.",
+    "year": 2007
+   }
+  ],
+  "stimulation": {
+   "method": "repetitive transcranial magnetic stimulation over left dorsolateral prefrontal cortex (301 patients)",
+   "effect": "Five sessions a week for four to six weeks lowered depression scores more than sham, with remission about twice as common at week 6.",
+   "quote": "Remission rates were approximately twofold higher with active TMS at week 6 and significant on the MADRS and HAMD24 scales (but not the HAMD17 scale).",
+   "pmid": "17573044",
+   "doi": "10.1016/j.biopsych.2007.01.018",
+   "cite": "O'Reardon JP, Solvason HB, Janicak PG, et al. Efficacy and safety of transcranial magnetic stimulation in the acute treatment of major depression: a multisite randomized controlled trial. Biol Psychiatry. 2007;62(11):1208-16.",
+   "year": 2007
+  }
+ },
+ {
+  "id": "orbitofrontal_cortex",
+  "how_we_know": "Lesion studies with ventromedial and orbital damage show impaired real-life decisions and reversal learning, while imaging and a meta-analysis show reward and punishment representations. There is no good direct human stimulation result for this area, because the orbital surface is rarely mapped in awake surgery. Most lesions in these studies are ventromedial and include the orbital cortex without being limited to it.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Orbitofrontal and ventromedial damage causes poor decisions despite intact intellect",
+    "finding": "Bechara and colleagues designed a gambling task that simulates real-life decisions with uncertain rewards and punishments, the basis of the Iowa Gambling Task. Patients with ventromedial prefrontal damage, unlike controls, did not respond to the future consequences of their choices and seemed guided only by immediate prospects. Their other intellectual functions were normal.",
+    "quote": "Following damage to the ventromedial prefrontal cortex, humans develop a defect in real-life decision-making, which contrasts with otherwise normal intellectual functions. we find that prefrontal patients, unlike controls, are oblivious to the future consequences of their actions, and seem to be guided by immediate prospects only.",
+    "pmid": "8039375",
+    "doi": "10.1016/0010-0277(94)90018-3",
+    "cite": "Bechara A, Damasio AR, Damasio H, Anderson SW. Insensitivity to future consequences following damage to human prefrontal cortex. Cognition. 1994;50(1-3):7-15.",
+    "year": 1994
+   },
+   {
+    "kind": "lesion",
+    "claim": "The orbitofrontal region updates value when conditions change (reversal learning)",
+    "finding": "Patients with ventromedial prefrontal lesions, patients with dorsolateral frontal damage and healthy controls did a reversal learning task. Neither form of damage affected initial learning. Only ventromedial damage impaired learning after the reversal.",
+    "quote": "Neither form of frontal damage affected initial stimulus-reinforcement learning; ventromedial frontal damage selectively impaired reversal learning.",
+    "pmid": "12821528",
+    "doi": "10.1093/brain/awg180",
+    "cite": "Fellows LK, Farah MJ. Ventromedial frontal cortex mediates affective shifting in humans: evidence from a reversal learning paradigm. Brain. 2003;126(Pt 8):1830-7.",
+    "year": 2003
+   },
+   {
+    "kind": "imaging",
+    "claim": "The orbitofrontal cortex represents the value of rewards and punishments",
+    "finding": "Using event-related fMRI during a reversal learning task with monetary gains and losses, the authors found distinct orbitofrontal areas activated by rewards and by punishments. In those areas, activation grew with the size of the reward or loss. This is correlational evidence of value coding.",
+    "quote": "Distinct areas of the OFC were activated by monetary rewards and punishments. Moreover, in these areas, we found a correlation between the magnitude of the brain activation and the magnitude of the rewards and punishments received.",
+    "pmid": "11135651",
+    "doi": "10.1038/82959",
+    "cite": "O'Doherty J, Kringelbach ML, Rolls ET, Hornak J, Andrews C. Abstract reward and punishment representations in the human orbitofrontal cortex. Nat Neurosci. 2001;4(1):95-102.",
+    "year": 2001
+   },
+   {
+    "kind": "meta-analysis",
+    "claim": "The medial part tracks reward value and the lateral part responds to punishment",
+    "finding": "This review combined the neuropsychological literature with a meta-analysis of neuroimaging studies of the human orbitofrontal cortex. It proposed that medial activity relates to monitoring reward value, while lateral activity relates to evaluating punishers that may change behaviour. More complex rewards such as money were represented more anteriorly than simple ones such as taste.",
+    "quote": "One is a mediolateral distinction, whereby medial orbitofrontal cortex activity is related to monitoring the reward value of many different reinforcers, whereas lateral orbitofrontal cortex activity is related to the evaluation of punishers which may lead to a change in ongoing behaviour.",
+    "pmid": "15157726",
+    "doi": "10.1016/j.pneurobio.2004.03.006",
+    "cite": "Kringelbach ML, Rolls ET. The functional neuroanatomy of the human orbitofrontal cortex: evidence from neuroimaging and neuropsychology. Prog Neurobiol. 2004;72(5):341-72.",
+    "year": 2004
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "brocas_area",
+  "how_we_know": "Broca's area was first tied to speech by lesion cases in 1861, and modern lesion mapping and direct recordings now show it is part of a wider network. Direct stimulation in awake surgery shows which sites stop speech. Imaging of the preserved brains of Broca's patients showed that the classical lesion extended well beyond the area now called Broca's area.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Damage causes Broca's aphasia, but the classic lesions reach beyond Broca's area",
+    "finding": "The authors scanned the preserved brains of Broca's two historic patients with high resolution MRI. Both lesions extended significantly into medial regions of the brain, in addition to the surface lesions Broca saw. The area Broca identified does not match what is now called Broca's area.",
+    "quote": "We found that both patients' lesions extended significantly into medial regions of the brain, in addition to the surface lesions observed by Broca. Results also indicate inconsistencies between the area originally identified by Broca and what is now called Broca's area, a finding with significant ramifications for both lesion and functional neuroimaging studies of this well-known brain area.",
+    "pmid": "17405763",
+    "doi": "10.1093/brain/awm042",
+    "cite": "Dronkers NF, Plaisant O, Iba-Zizen MT, Cabanis EA. Paul Broca's historic cases: high resolution MR imaging of the brains of Leborgne and Lelong. Brain. 2007;130(Pt 5):1432-41.",
+    "year": 2007
+   },
+   {
+    "kind": "recording",
+    "claim": "Broca's area is part of a wider network that sequences articulation",
+    "finding": "Using direct cortical surface recordings in neurosurgical patients, the authors tracked activity during cued word production. Broca's area was surprisingly silent while motor cortex was active for spoken words. For novel nonword sequences, activity increased in Broca's area but not in motor cortex.",
+    "quote": "Contrary to classic notions of the role of Broca's area in speech, while motor cortex is activated during spoken responses, Broca's area is surprisingly silent. Moreover, when novel strings of articulatory gestures must be produced in response to nonword stimuli, neural activity is enhanced in Broca's area, but not in motor cortex.",
+    "pmid": "25730850",
+    "doi": "10.1073/pnas.1414491112",
+    "cite": "Flinker A, Korzeniewska A, Shestyuk AY, et al. Redefining the role of Broca's area in speech. Proc Natl Acad Sci U S A. 2015;112(9):2871-5.",
+    "year": 2015
+   },
+   {
+    "kind": "lesion",
+    "claim": "Frontal language regions form a dorsal route from sound form to articulation",
+    "finding": "A large sample of stroke survivors had behavioural testing and imaging. Lesion-symptom mapping with principal components analysis separated a dorsal frontoparietal stream from a ventral temporal-frontal stream. The dorsal stream was characterized as a form-to-articulation pathway.",
+    "quote": "Distinct anatomical boundaries were revealed between a dorsal frontoparietal stream and a ventral temporal-frontal stream associated with separate components. Collapsing over the tasks primarily supported by these streams, we characterize the dorsal stream as a form-to-articulation pathway and the ventral stream as a form-to-meaning pathway.",
+    "pmid": "27956600",
+    "doi": "10.1073/pnas.1614038114",
+    "cite": "Fridriksson J, Yourganov G, Bonilha L, Basilakos A, Den Ouden DB, Rorden C. Revealing the dual streams of speech processing. Proc Natl Acad Sci U S A. 2016;113(52):15108-15113.",
+    "year": 2016
+   },
+   {
+    "kind": "lesion",
+    "claim": "Broca's area lesions alone did not impair sentence comprehension on one large test",
+    "finding": "Sixty-four chronic left-hemisphere stroke patients did a sentence comprehension test, and voxel-based lesion-symptom mapping linked their lesions to performance. Lesions to Broca's and Wernicke's areas did not significantly alter performance on this measure. Five other left-hemisphere regions did, including mid-frontal area 46 and area 47 of the inferior frontal gyrus.",
+    "quote": "Lesions to Broca's and Wernicke's areas were not found to significantly alter language comprehension on this particular measure.",
+    "pmid": "15037129",
+    "doi": "10.1016/j.cognition.2003.11.002",
+    "cite": "Dronkers NF, Wilkins DP, Van Valin RD Jr, Redfern BB, Jaeger JJ. Lesion analysis of the brain areas involved in language comprehension. Cognition. 2004;92(1-2):145-77.",
+    "year": 2004
+   }
+  ],
+  "stimulation": {
+   "method": "direct cortical stimulation in awake surgery (165 patients)",
+   "effect": "Speech arrest was produced by stimulating ventral premotor cortex, not the classical Broca's area, while naming errors came from sites in the middle and inferior frontal gyri.",
+   "quote": "However, speech arrest localized to ventral premotor cortex, not the classical Broca's area. Anomia/paraphasia data demonstrated foci not only within classical Wernicke's area but also within the middle and inferior frontal gyri.",
+   "pmid": "24970097",
+   "doi": "10.1093/brain/awu168",
+   "cite": "Tate MC, Herbet G, Moritz-Gasser S, Tate JE, Duffau H. Probabilistic map of critical functional regions of the human cerebral cortex: Broca's area revisited. Brain. 2014;137(Pt 10):2773-82.",
+   "year": 2014
+  }
+ },
+ {
+  "id": "primary_motor_cortex",
+  "how_we_know": "Direct electrical stimulation in patients, begun by Penfield and updated with modern coordinates, is the main evidence for the motor map. Recordings from monkeys and from a paralysed person show how cell activity relates to intended movement. Imaging located the hand area on the precentral gyrus, but only stimulation and lesions show cause.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The hand and arm are represented over the dorsal convexity, at a knob-like landmark",
+    "finding": "Using fMRI, the authors located the motor hand area. The part of the precentral gyrus that most often held hand function was a knob-like structure shaped like an omega or epsilon in the axial plane. The knob matched the middle knee of the central sulcus in cadaver brains, so it can be used as a landmark.",
+    "quote": "Using functional magnetic resonance imaging (fMRI) we have evaluated the anatomical location of the motor hand area. The segment of the precentral gyrus that most often contained motor hand function was a knob-like structure, that is shaped like an omega or epsilon in the axial plane and like a hook in the sagittal plane.",
+    "pmid": "9055804",
+    "doi": "10.1093/brain/120.1.141",
+    "cite": "Yousry TA, Schmid UD, Alkadhi H, et al. Localization of the motor hand area to a knob on the precentral gyrus. A new landmark. Brain. 1997;120(Pt 1):141-57.",
+    "year": 1997
+   },
+   {
+    "kind": "stimulation",
+    "claim": "The motor cortex is organized somatotopically (the motor homunculus)",
+    "finding": "In 100 operated patients without motor deficit, 608 sites in the precentral gyrus were stimulated and 248 gave a motor response. Movements showed a medial-to-lateral somatotopy in small areas. Current needed was about 2 mA for the fingers, tongue, legs and face.",
+    "quote": "Positive stimulations were detected through the 'on/off' outbreak effect, and only basic movements were detected. We found no significant difference in mean intensity threshold between the motor representations of the fingers (1.94 mA), tongue and lower limbs (both 2.0 mA), or face (2.25 mA).",
+    "pmid": "32857862",
+    "doi": "10.1113/JP280156",
+    "cite": "Roux FE, Niare M, Charni S, Giussani C, Durand JB. Functional architecture of the motor homunculus detected by electrostimulation. J Physiol. 2020;598(23):5487-5504.",
+    "year": 2020,
+    "data": {
+     "title": "Mean current to evoke movement",
+     "unit": "mA",
+     "items": [
+      [
+       "fingers",
+       1.94
+      ],
+      [
+       "tongue and lower limbs",
+       2.0
+      ],
+      [
+       "face",
+       2.25
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "recording",
+    "claim": "Population activity of motor cortex cells encodes movement direction",
+    "finding": "In monkeys making arm movements in eight directions, the authors examined 606 cells and studied 323 that were active in the task. Of these, 241 cells (74.6%) changed their firing in an orderly way with movement direction. Each cell preferred one direction, and tuning curves overlapped, so a population of cells could specify direction.",
+    "quote": "The activity of 606 cells related to proximal arm movements was examined in the task; 323 of the 606 cells were active in that task and were studied in detail. The frequency of discharge of 241 of the 323 cells (74.6%) varied in an orderly fashion with the direction of movement.",
+    "pmid": "7143039",
+    "doi": "10.1523/JNEUROSCI.02-11-01527.1982",
+    "cite": "Georgopoulos AP, Kalaska JF, Caminiti R, Massey JT. On the relations between the direction of two-dimensional arm movements and cell discharge in primate motor cortex. J Neurosci. 1982;2(11):1527-37.",
+    "year": 1982,
+    "data": {
+     "title": "Monkey motor cortex cells",
+     "unit": "cells",
+     "items": [
+      [
+       "examined",
+       606
+      ],
+      [
+       "active in task",
+       323
+      ],
+      [
+       "direction-tuned",
+       241
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "recording",
+    "claim": "Motor cortex activity still reflects intended hand movement after spinal cord injury",
+    "finding": "A 96-electrode array was implanted in the primary motor cortex of a tetraplegic man. Intended hand motion changed the firing patterns three years after his injury. He used decoded signals to move a cursor, operate devices and control a prosthetic hand and a robotic arm.",
+    "quote": "Neuronal ensemble activity recorded through a 96-microelectrode array implanted in primary motor cortex demonstrated that intended hand motion modulates cortical spiking patterns three years after spinal cord injury.",
+    "pmid": "16838014",
+    "doi": "10.1038/nature04970",
+    "cite": "Hochberg LR, Serruya MD, Friehs GM, et al. Neuronal ensemble control of prosthetic devices by a human with tetraplegia. Nature. 2006;442(7099):164-71.",
+    "year": 2006
+   }
+  ],
+  "stimulation": {
+   "method": "direct cortical electrostimulation in awake surgery (100 patients)",
+   "effect": "Stimulating the precentral gyrus produced basic, stereotyped movements of the contralateral body part in small zones arranged from medial to lateral.",
+   "quote": "Among 608 sites stimulated in the precentral gyrus (and 1937 in gyri nearby), 248 positive points (40%) for motor response were detected - 245 in the precentral gyrus.",
+   "pmid": "32857862",
+   "doi": "10.1113/JP280156",
+   "cite": "Roux FE, Niare M, Charni S, Giussani C, Durand JB. Functional architecture of the motor homunculus detected by electrostimulation. J Physiol. 2020;598(23):5487-5504.",
+   "year": 2020
+  }
+ },
+ {
+  "id": "primary_somatosensory_cortex",
+  "how_we_know": "Stimulation of the postcentral gyrus in awake surgery and in a paralysed participant produces touch sensations at predicted body locations. Magnetoencephalography localized touch responses along the central sulcus in healthy people. Stimulation shows that the area is sufficient to produce touch, while recordings show a map.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The homunculus places the tongue, lips and fingers on the lateral side with large representations",
+    "finding": "In five healthy subjects, magnetoencephalography measured fields after touching points on the right side of the body. The sources lay in the postcentral gyrus and were arranged in order along the central sulcus. The size of the sources fit the large tongue, lips and fingers of the homunculus.",
+    "quote": "Linear distances, averaged in five subjects, from the receptive area of the thumb to that of the tongue, little finger, forearm, upper arm, and toes were estimated to be 2.42 +/- 0.28, 1.25 +/- 0.28, 2.21 +/- 0.72, 2.75 +/- 0.63, and 5.29 +/- 0.48 cm, respectively.",
+    "pmid": "9626677",
+    "doi": "10.1006/nimg.1998.0332",
+    "cite": "Nakamura A, Yamada T, Goto A, et al. Somatosensory homunculus as drawn by MEG. Neuroimage. 1998;7(4 Pt 1):377-86.",
+    "year": 1998,
+    "data": {
+     "title": "Distance from thumb representation",
+     "unit": "cm",
+     "items": [
+      [
+       "little finger",
+       1.25
+      ],
+      [
+       "forearm",
+       2.21
+      ],
+      [
+       "tongue",
+       2.42
+      ],
+      [
+       "upper arm",
+       2.75
+      ],
+      [
+       "toes",
+       5.29
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Area 1 stimulation gives touch sensations arranged in a somatotopic map",
+    "finding": "In 50 operated patients with no sensory deficit, 647 sites were stimulated on Brodmann area 1 and 258 positive somatosensory points were found in the postcentral gyrus. Patients reported almost exclusively discriminative touch. The authors found some differences from Penfield's earlier maps and drew a new homunculus.",
+    "quote": "For 647 sites stimulated on Brodmann Area 1 (and 1025 in gyri nearby), 258 positive points for somatosensory response (40%) were found in the postcentral gyrus. Positive stimulations were detected through the 'on/off' outbreak effect and discriminative touch sensations were the sensations reported almost exclusively by all patients during stimulation.",
+    "pmid": "29285773",
+    "doi": "10.1113/JP275243",
+    "cite": "Roux FE, Djidjeli I, Durand JB. Functional architecture of the somatosensory homunculus detected by electrostimulation. J Physiol. 2018;596(5):941-956.",
+    "year": 2018
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Somatosensory cortex stimulation evokes touch felt at specific places on the hand",
+    "finding": "Microstimulation of the hand area of somatosensory cortex was tested in a person with long-term spinal cord injury. It evoked tactile sensations felt at locations on the hand, with stimulation sites organized somatotopically. Many sensations felt natural, such as pressure, and stayed stable for months.",
+    "quote": "We show that microstimulation within the hand area of the somatosensory cortex of a person with long-term spinal cord injury evokes tactile sensations perceived as originating from locations on the hand and that cortical stimulation sites are organized according to expected somatotopic principles.",
+    "pmid": "27738096",
+    "doi": "10.1126/scitranslmed.aaf8083",
+    "cite": "Flesher SN, Collinger JL, Foldes ST, et al. Intracortical microstimulation of human somatosensory cortex. Sci Transl Med. 2016;8(361):361ra141.",
+    "year": 2016
+   }
+  ],
+  "stimulation": {
+   "method": "intracortical microstimulation of the hand area (one participant)",
+   "effect": "Stimulation evoked tactile sensations felt on specific places on the hand, often described as pressure, and stronger currents made them feel more intense.",
+   "quote": "Many of these percepts exhibit naturalistic characteristics (including feelings of pressure), can be evoked at low stimulation amplitudes, and remain stable for months.",
+   "pmid": "27738096",
+   "doi": "10.1126/scitranslmed.aaf8083",
+   "cite": "Flesher SN, Collinger JL, Foldes ST, et al. Intracortical microstimulation of human somatosensory cortex. Sci Transl Med. 2016;8(361):361ra141.",
+   "year": 2016
+  }
+ },
+ {
+  "id": "primary_auditory_cortex",
+  "how_we_know": "High-field fMRI maps frequency preferences across Heschl's gyrus, and recordings from single neurons in epilepsy patients show how finely they are tuned. Electrical stimulation of the superior temporal gyrus produces or suppresses hearing, which shows cause. Lesion evidence for the primary field alone is rare, because strokes seldom spare the neighbouring fields.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Neurons for low and high frequencies form mirror-symmetric tonotopic maps",
+    "finding": "Using silent event-related fMRI at 7 Tesla, the authors mapped sound frequency preferences across the human primary auditory cortex. They found two tonotopic maps in two adjacent subdivisions. The maps share a low-frequency border, are mirror symmetric, and resemble those in macaque monkeys.",
+    "quote": "These maps share a low-frequency border, are mirror symmetric, and clearly resemble those of presumably homologous fields in the macaque monkey.",
+    "pmid": "14622588",
+    "doi": "10.1016/s0896-6273(03)00669-x",
+    "cite": "Formisano E, Kim DS, Di Salle F, van de Moortele PF, Ugurbil K, Goebel R. Mirror-symmetric tonotopic maps in human primary auditory cortex. Neuron. 2003;40(4):859-69.",
+    "year": 2003
+   },
+   {
+    "kind": "recording",
+    "claim": "The region contributes to pitch perception",
+    "finding": "Single neurons were recorded from human auditory cortex while patients heard random-chord sounds. Their frequency tuning was far narrower than in any other mammal except bats, and exceeded what the human ear itself provides. Simple filter models failed to predict responses to speech and music.",
+    "quote": "Here we report that frequency tuning in single neurons recorded from human auditory cortex in response to random-chord stimuli is far narrower than that typically described in any other mammalian species (besides bats), and substantially exceeds that attributed to the human auditory periphery.",
+    "pmid": "18185589",
+    "doi": "10.1038/nature06476",
+    "cite": "Bitterman Y, Mukamel R, Malach R, Fried I, Nelken I. Ultra-fine frequency tuning revealed in single neurons of human auditory cortex. Nature. 2008;451(7175):197-201.",
+    "year": 2008
+   },
+   {
+    "kind": "imaging",
+    "claim": "Surrounding regions process complex sounds, including speech",
+    "finding": "Using fMRI, the authors played noise, tones, reversed speech, pseudowords and words to normal volunteers. Areas around Heschl's gyrus responded more to tones than noise, while regions in the superior temporal sulcus responded more to speech than to tones. The speech result was identical for words and reversed speech, so it reflected acoustic rather than linguistic properties.",
+    "quote": "Dorsal areas surrounding Heschl's gyrus bilaterally, particularly the planum temporale and dorsolateral superior temporal gyrus, were more strongly activated by FM tones than by noise, suggesting a role in processing simple temporally encoded auditory information. Distinct from these dorsolateral areas, regions centered in the superior temporal sulcus bilaterally were more activated by speech stimuli than by FM tones.",
+    "pmid": "10847601",
+    "doi": "10.1093/cercor/10.5.512",
+    "cite": "Binder JR, Frost JA, Hammeke TA, et al. Human temporal lobe activation by speech and nonspeech sounds. Cereb Cortex. 2000;10(5):512-28.",
+    "year": 2000
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Stimulating core auditory cortex produces sound, mainly heard in the opposite ear",
+    "finding": "In three neurosurgery patients, electrical stimulation of the superior temporal gyrus suppressed hearing at belt and parabelt sites. Stimulation of the presumed core auditory cortex in posterior medial Heschl's gyrus instead evoked sound perceptions in the opposite ear, or in one case louder tinnitus. Those effects ended when the stimulation ended.",
+    "quote": "In contrast, stimulation of presumed core auditory cortex within posterior medial HG evoked sound perceptions, or in one case an increase in tinnitus intensity, that affected the contralateral ear and did not persist beyond the period of stimulation.",
+    "pmid": "16979144",
+    "doi": "10.1016/j.brainres.2006.08.013",
+    "cite": "Fenoy AJ, Severson MA, Volkov IO, Brugge JF, Howard MA 3rd. Hearing suppression induced by electrical stimulation of human auditory cortex. Brain Res. 2006;1118(1):75-83.",
+    "year": 2006
+   }
+  ],
+  "stimulation": {
+   "method": "electrical stimulation through intracranial electrodes (three patients)",
+   "effect": "Stimulating core auditory cortex evoked sound perceptions, mostly in the opposite ear, while stimulating belt and parabelt sites suppressed hearing in both ears.",
+   "quote": "In contrast, stimulation of presumed core auditory cortex within posterior medial HG evoked sound perceptions, or in one case an increase in tinnitus intensity, that affected the contralateral ear and did not persist beyond the period of stimulation.",
+   "pmid": "16979144",
+   "doi": "10.1016/j.brainres.2006.08.013",
+   "cite": "Fenoy AJ, Severson MA, Volkov IO, Brugge JF, Howard MA 3rd. Hearing suppression induced by electrical stimulation of human auditory cortex. Brain Res. 2006;1118(1):75-83.",
+   "year": 2006
+  }
+ },
+ {
+  "id": "wernickes_area",
+  "how_we_know": "Lesion mapping in stroke patients and direct stimulation in awake surgery test whether posterior temporal regions are needed for language, and imaging shows which parts respond to speech. The evidence shows that comprehension depends on a distributed network, and that damage restricted to the classical Wernicke's area does not always impair comprehension. The 3D outline here is approximate.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Comprehension depends on a broader distributed network, not only Wernicke's area",
+    "finding": "Sixty-four chronic left-hemisphere stroke patients did a sentence comprehension test, and voxel-based lesion-symptom mapping linked their lesions to performance. Lesions in five left-hemisphere regions affected performance, including the posterior middle temporal gyrus. Lesions to Broca's and Wernicke's areas did not significantly alter comprehension on this measure.",
+    "quote": "Results indicated that lesions to five left hemisphere brain regions affected performance on the CYCLE-R, including the posterior middle temporal gyrus and underlying white matter, the anterior superior temporal gyrus, the superior temporal sulcus and angular gyrus, mid-frontal cortex in Brodmann's area 46, and Brodmann's area 47 of the inferior frontal gyrus. Lesions to Broca's and Wernicke's areas were not found to significantly alter language comprehension on this particular measure.",
+    "pmid": "15037129",
+    "doi": "10.1016/j.cognition.2003.11.002",
+    "cite": "Dronkers NF, Wilkins DP, Van Valin RD Jr, Redfern BB, Jaeger JJ. Lesion analysis of the brain areas involved in language comprehension. Cognition. 2004;92(1-2):145-77.",
+    "year": 2004
+   },
+   {
+    "kind": "lesion",
+    "claim": "A ventral temporal route maps sound form to meaning",
+    "finding": "A large sample of stroke survivors had behavioural testing and imaging, and lesion-symptom mapping with principal components analysis was used to find regions crucial for clusters of tasks. A ventral temporal-frontal stream separated from a dorsal frontoparietal stream. The ventral stream supported lexical-semantic comprehension tasks and was described as a form-to-meaning pathway.",
+    "quote": "Distinct anatomical boundaries were revealed between a dorsal frontoparietal stream and a ventral temporal-frontal stream associated with separate components. Collapsing over the tasks primarily supported by these streams, we characterize the dorsal stream as a form-to-articulation pathway and the ventral stream as a form-to-meaning pathway.",
+    "pmid": "27956600",
+    "doi": "10.1073/pnas.1614038114",
+    "cite": "Fridriksson J, Yourganov G, Bonilha L, Basilakos A, Den Ouden DB, Rorden C. Revealing the dual streams of speech processing. Proc Natl Acad Sci U S A. 2016;113(52):15108-15113.",
+    "year": 2016
+   },
+   {
+    "kind": "imaging",
+    "claim": "The superior temporal sulcus responds to speech sounds",
+    "finding": "Normal volunteers heard noise, tones, reversed speech, pseudowords and words during fMRI. Regions centered in the superior temporal sulcus were more activated by speech than by tones. Results were identical for words, pseudowords and reversed speech, so this response reflects acoustic rather than linguistic factors. Word and nonword comparisons in more ventral temporal and temporoparietal regions pointed to lexical-semantic processing.",
+    "quote": "Distinct from these dorsolateral areas, regions centered in the superior temporal sulcus bilaterally were more activated by speech stimuli than by FM tones.",
+    "pmid": "10847601",
+    "doi": "10.1093/cercor/10.5.512",
+    "cite": "Binder JR, Frost JA, Hammeke TA, et al. Human temporal lobe activation by speech and nonspeech sounds. Cereb Cortex. 2000;10(5):512-28.",
+    "year": 2000
+   }
+  ],
+  "stimulation": {
+   "method": "direct cortical stimulation in awake surgery (165 patients)",
+   "effect": "Stimulating sites in classical Wernicke's area produced naming errors and paraphasias, and so did sites in the middle and inferior frontal gyri.",
+   "quote": "Anomia/paraphasia data demonstrated foci not only within classical Wernicke's area but also within the middle and inferior frontal gyri.",
+   "pmid": "24970097",
+   "doi": "10.1093/brain/awu168",
+   "cite": "Tate MC, Herbet G, Moritz-Gasser S, Tate JE, Duffau H. Probabilistic map of critical functional regions of the human cerebral cortex: Broca's area revisited. Brain. 2014;137(Pt 10):2773-82.",
+   "year": 2014
+  }
+ },
+ {
+  "id": "primary_visual_cortex",
+  "how_we_know": "Field defects from V1 lesions, fMRI retinotopy and direct electrical stimulation all point to the same map of the visual field. Stimulation in a blind patient proved that activating V1 produces spots of light at predicted places. Hubel and Wiesel's recordings of orientation columns in cat cortex underlie the cell-level claims, but that paper has no PubMed abstract and so is not quoted here.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "V1 contains a retinotopic map with a large foveal representation (cortical magnification)",
+    "finding": "The authors correlated MRI scans with homonymous field defects in patients with clearly defined occipital lesions and revised the classic Holmes map of striate cortex. The area serving central vision was larger and the area serving peripheral vision smaller than Holmes had thought. The revised map agrees with data from related monkeys.",
+    "quote": "In a revised map of the human striate cortex, we expand the area subserving central vision and reduce the area devoted to peripheral vision.",
+    "pmid": "2043069",
+    "doi": "10.1001/archopht.1991.01080060080030",
+    "cite": "Horton JC, Hoyt WF. The representation of the visual field in human striate cortex. A revision of the classic Holmes map. Arch Ophthalmol. 1991;109(6):816-24.",
+    "year": 1991
+   },
+   {
+    "kind": "imaging",
+    "claim": "Human visual areas emphasize the center of gaze, with V1 at the base of the map",
+    "finding": "With fMRI during phase-encoded retinal stimulation, the authors measured cortical magnification curves for striate and extrastriate areas. They found that human visual areas emphasize the center of gaze more than the corresponding monkey areas do.",
+    "quote": "Cortical magnification factor curves for striate and extrastriate cortical areas were determined, which showed that human visual areas have a greater emphasis on the center-of-gaze than their counterparts in monkeys.",
+    "pmid": "7754376",
+    "doi": "10.1126/science.7754376",
+    "cite": "Sereno MI, Dale AM, Reppas JB, et al. Borders of multiple visual areas in humans revealed by functional magnetic resonance imaging. Science. 1995;268(5212):889-93.",
+    "year": 1995
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Stimulating the cortex at the occipital pole creates points of light that follow the visual map",
+    "finding": "An array of electrodes on the occipital pole of a 52-year-old blind patient produced sensations of light in the opposite half of the visual field. For weak stimuli, the map of the visual field on the cortex agreed roughly with the classical maps from war wounds. With stronger stimuli, extra phosphenes appeared.",
+    "quote": "For weak stimuli the map of the visual field on the cortex agrees roughly with the classical maps of Holmes and others derived from war wounds.",
+    "pmid": "4871047",
+    "doi": "10.1113/jphysiol.1968.sp008519",
+    "cite": "Brindley GS, Lewin WS. The sensations produced by electrical stimulation of the visual cortex. J Physiol. 1968;196(2):479-93.",
+    "year": 1968
+   }
+  ],
+  "stimulation": {
+   "method": "dynamic electrical stimulation through electrodes on visual cortex",
+   "effect": "Tracing shapes across the visual cortex by stimulating electrodes in sequence let sighted and blind participants recognize letters, as high as 86 forms per minute in blind participants.",
+   "quote": "In both sighted and blind participants, dynamic stimulation enabled accurate recognition of letter shapes predicted by the brain's spatial map of the visual world. Forms were presented and recognized rapidly by blind participants, up to 86 forms per minute.",
+   "pmid": "32413298",
+   "doi": "10.1016/j.cell.2020.04.033",
+   "cite": "Beauchamp MS, Oswalt D, Sun P, et al. Dynamic stimulation of visual cortex produces form vision in sighted and blind humans. Cell. 2020;181(4):774-783.e5.",
+   "year": 2020
+  }
+ },
+ {
+  "id": "anterior_cingulate_cortex",
+  "how_we_know": "fMRI shows that the anterior cingulate responds to errors and to response competition, and one lesion patient and one stimulation report provide causal tests. PET with hypnosis links it to the unpleasantness of pain. Whether it signals conflict, errors or the need for control is still argued, and the lesion and stimulation reports each involve only one or two patients.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The dorsal part monitors conflict and detects error-prone conditions",
+    "finding": "Event-related fMRI showed anterior cingulate activity during erroneous responses. The same region was also active during correct responses when response competition was high. The authors concluded that the region detects conditions in which errors are likely rather than errors themselves.",
+    "quote": "Results confirm that this region shows activity during erroneous responses. However, activity was also observed in the same region during correct responses under conditions of increased response competition. This suggests that the ACC detects conditions under which errors are likely to occur rather than errors themselves.",
+    "pmid": "9563953",
+    "doi": "10.1126/science.280.5364.747",
+    "cite": "Carter CS, Braver TS, Barch DM, Botvinick MM, Noll D, Cohen JD. Anterior cingulate cortex, error detection, and the online monitoring of performance. Science. 1998;280(5364):747-9.",
+    "year": 1998
+   },
+   {
+    "kind": "lesion",
+    "claim": "The dorsal anterior cingulate is needed for error monitoring",
+    "finding": "A patient with a rare focal lesion of the rostral-to-middorsal anterior cingulate was tested with event-related potentials. The error-related negativity after incorrect responses was attenuated and error correction was lower than in controls. The result suggests error monitoring can be dissociated from conflict detection. It is a single patient.",
+    "quote": "A neurological patient with a rare focal lesion of rostral-to-middorsal ACC was tested in an event-related potential study designed to track the time course of neural activity during conflicts and erroneous responses. Compared with controls, the error-related negativity component after incorrect responses was attenuated in the patient, accompanied by lower error-correction rates.",
+    "pmid": "12456882",
+    "doi": "10.1073/pnas.252521499",
+    "cite": "Swick D, Turken AU. Dissociation between conflict detection and error monitoring in the human anterior cingulate cortex. Proc Natl Acad Sci U S A. 2002;99(25):16354-9.",
+    "year": 2002
+   },
+   {
+    "kind": "imaging",
+    "claim": "It participates in the affective, unpleasant component of pain",
+    "finding": "Hypnotic suggestions were used to change the unpleasantness of painful stimuli without changing their perceived intensity. PET showed changes in pain-evoked activity within anterior cingulate cortex that tracked the unpleasantness, while primary somatosensory cortex activity did not change.",
+    "quote": "To differentiate cortical areas involved in pain affect, hypnotic suggestions were used to alter selectively the unpleasantness of noxious stimuli, without changing the perceived intensity. Positron emission tomography revealed significant changes in pain-evoked activity within anterior cingulate cortex, consistent with the encoding of perceived unpleasantness, whereas primary somatosensory cortex activation was unaltered.",
+    "pmid": "9252330",
+    "doi": "10.1126/science.277.5328.968",
+    "cite": "Rainville P, Duncan GH, Price DD, Carrier B, Bushnell MC. Pain affect encoded in human anterior cingulate but not somatosensory cortex. Science. 1997;277(5328):968-71.",
+    "year": 1997
+   },
+   {
+    "kind": "stimulation",
+    "claim": "The dorsal cingulate contributes to motivation and autonomic control",
+    "finding": "In two patients, electrical stimulation of the anterior midcingulate cortex produced autonomic changes and the expectation of an imminent challenge, with a determined attitude to overcome it. Resting-state connectivity showed the stimulation site was the core of a distributed network linking it to frontoinsular and frontopolar regions.",
+    "quote": "In the current study, we show that electrical charge delivery in the anterior midcingulate cortex (aMCC) elicits autonomic changes and the expectation of an imminent challenge coupled with a determined attitude to overcome it.",
+    "pmid": "24316296",
+    "doi": "10.1016/j.neuron.2013.10.057",
+    "cite": "Parvizi J, Rangarajan V, Shirer WR, Desai N, Greicius MD. The will to persevere induced by electrical stimulation of the human cingulate gyrus. Neuron. 2013;80(6):1359-67.",
+    "year": 2013
+   }
+  ],
+  "stimulation": {
+   "method": "intracranial electrical stimulation of the anterior midcingulate cortex (two patients)",
+   "effect": "Patients felt a rising expectation of a challenge together with a determination to overcome it, and showed autonomic changes.",
+   "quote": "In the current study, we show that electrical charge delivery in the anterior midcingulate cortex (aMCC) elicits autonomic changes and the expectation of an imminent challenge coupled with a determined attitude to overcome it.",
+   "pmid": "24316296",
+   "doi": "10.1016/j.neuron.2013.10.057",
+   "cite": "Parvizi J, Rangarajan V, Shirer WR, Desai N, Greicius MD. The will to persevere induced by electrical stimulation of the human cingulate gyrus. Neuron. 2013;80(6):1359-67.",
+   "year": 2013
+  }
+ },
+ {
+  "id": "posterior_cingulate_cortex",
+  "how_we_know": "Most evidence is correlational: PET and resting-state fMRI show that the posterior cingulate is active at rest and falls during demanding tasks, and FDG-PET shows early metabolic loss in Alzheimer's disease. Direct electrical stimulation of the posteromedial cortex produced no detectable effects, so its causal role is still unproven.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Activity is high at rest and decreases during demanding external tasks",
+    "finding": "Using PET measures of oxygen extraction, the authors identified a baseline state of the resting brain. A group of areas consistently decreased from this baseline across many goal-directed tasks, which suggests an organized default mode of brain function that is suspended during such tasks.",
+    "quote": "Defining the baseline state of an area in this manner attaches meaning to a group of areas that consistently exhibit decreases from this baseline, during a wide variety of goal-directed behaviors monitored with positron-emission tomography and functional MRI. These decreases suggest the existence of an organized, baseline default mode of brain function that is suspended during specific goal-directed behaviors.",
+    "pmid": "11209064",
+    "doi": "10.1073/pnas.98.2.676",
+    "cite": "Raichle ME, MacLeod AM, Snyder AZ, Powers WJ, Gusnard DA, Shulman GL. A default mode of brain function. Proc Natl Acad Sci U S A. 2001;98(2):676-82.",
+    "year": 2001
+   },
+   {
+    "kind": "connectivity",
+    "claim": "The posterior cingulate is a hub with extensive connectivity in the default mode network",
+    "finding": "The authors defined posterior and ventral anterior cingulate regions that decreased during a working memory task and examined their connectivity during rest. The posterior cingulate was strongly coupled with the ventral anterior cingulate and other default mode regions. Lateral prefrontal regions that increased during the task were inversely correlated with it.",
+    "quote": "PCC was strongly coupled with vACC and several other brain regions implicated in the default mode network.",
+    "pmid": "12506194",
+    "doi": "10.1073/pnas.0135058100",
+    "cite": "Greicius MD, Krasnow B, Reiss AL, Menon V. Functional connectivity in the resting brain: a network analysis of the default mode hypothesis. Proc Natl Acad Sci U S A. 2003;100(1):253-8.",
+    "year": 2003
+   },
+   {
+    "kind": "imaging",
+    "claim": "Early Alzheimer's disease reduces posterior cingulate metabolism, detectable on FDG-PET",
+    "finding": "FDG-PET was done in 66 patients with probable Alzheimer's disease and a prospective group of 8 patients who only had memory complaints and later progressed. Metabolism was reduced by 21 to 22 percent in the posterior cingulate cortex and cinguloparietal transitional area in very early disease. This reduction was greater than in lateral neocortices or parahippocampal cortex.",
+    "quote": "First, 66 patients with probable Alzheimer's disease with a spectrum of dementia severity (Mini-Mental State Examination score, 0-23) were recruited and studied. Prediction and analysis of actual patients consistently indicated marked metabolic reduction (21-22%) in the posterior cingulate cortex and cinguloparietal transitional area in patients with very early Alzheimer's disease.",
+    "pmid": "9225689",
+    "doi": "10.1002/ana.410420114",
+    "cite": "Minoshima S, Giordani B, Berent S, Frey KA, Foster NL, Kuhl DE. Metabolic reduction in the posterior cingulate cortex in very early Alzheimer's disease. Ann Neurol. 1997;42(1):85-94.",
+    "year": 1997
+   },
+   {
+    "kind": "stimulation",
+    "claim": "The precise function of the posterior cingulate remains debated",
+    "finding": "Direct electrical stimulation was applied in 25 patients with intracranial electrodes across the posteromedial cortex, which includes the posterior cingulate and precuneus. In total there were 885 stimulations. Sites just dorsal or ventral produced movement or visual effects, but sites inside the posteromedial cortex produced no observable or reported effects, even where recordings had shown responses during autobiographical recall.",
+    "quote": "Data were collected from 885 stimulations in 25 patients implanted with intracranial electrodes across the PMC. While EBS of regions immediately dorsal or ventral to the PMC reliably produced somatomotor or visual effects, respectively, we found no observable behavioral or subjectively reported effects when sites within the boundaries of PMC were electrically perturbed.",
+    "pmid": "28100728",
+    "doi": "10.1212/WNL.0000000000003607",
+    "cite": "Foster BL, Parvizi J. Direct cortical stimulation of human posteromedial cortex. Neurology. 2017;88(7):685-691.",
+    "year": 2017
+   }
+  ],
+  "stimulation": {
+   "method": "direct electrical stimulation of posteromedial cortex (25 patients, 885 stimulations)",
+   "effect": "Standard stimulation of sites within the posteromedial cortex produced no observable behavioral or reported effects.",
+   "quote": "Direct electric modulation of the human PMC produced null effects when standard functional mapping methods were used.",
+   "pmid": "28100728",
+   "doi": "10.1212/WNL.0000000000003607",
+   "cite": "Foster BL, Parvizi J. Direct cortical stimulation of human posteromedial cortex. Neurology. 2017;88(7):685-691.",
+   "year": 2017
+  }
+ },
+ {
+  "id": "thalamus",
+  "how_we_know": "Thalamic strokes show what each nucleus does, diffusion imaging maps its connections to the cortex in living people, and deep brain stimulation in the thalamus changes tremor and arousal. The stimulation studies involve patients with disease, so they show effects, not normal function.",
+  "evidence": [
+   {
+    "kind": "connectivity",
+    "claim": "Each nucleus projects to a defined cortical area",
+    "finding": "The authors used probabilistic tractography on diffusion imaging in living people to find thalamus-to-cortex connections. Thalamic gray matter split into distinct subregions by cortical connectivity pattern. Their locations corresponded to nuclei seen in histology and matched primate findings.",
+    "quote": "Here we identified specific connections between human thalamus and cortex using a novel probabilistic tractography algorithm with diffusion imaging data. Classification of thalamic gray matter based on cortical connectivity patterns revealed distinct subregions whose locations correspond to nuclei described previously in histological studies.",
+    "pmid": "12808459",
+    "doi": "10.1038/nn1075",
+    "cite": "Behrens TE, Johansen-Berg H, Woolrich MW, et al. Non-invasive mapping of connections between human thalamus and cortex using diffusion imaging. Nat Neurosci. 2003;6(7):750-7.",
+    "year": 2003
+   },
+   {
+    "kind": "lesion",
+    "claim": "Thalamic stroke causes sensory loss, pain syndromes, and arousal or memory impairment",
+    "finding": "This review links thalamic infarcts to the nuclei they destroy. Inferolateral territory strokes cause contralateral hemisensory loss, hemiparesis and pain syndromes. Paramedian infarcts, especially bilateral ones, decrease arousal and impair learning and memory.",
+    "quote": "Paramedian infarcts cause decreased arousal, particularly if the lesion is bilateral, and impaired learning and memory. Inferolateral territory strokes produce contralateral hemisensory loss, hemiparesis and hemiataxia, and pain syndromes that are more common after right thalamic lesions.",
+    "pmid": "12933968",
+    "doi": "10.1161/01.STR.0000087786.38997.9E",
+    "cite": "Schmahmann JD. Vascular syndromes of the thalamus. Stroke. 2003;34(9):2264-78.",
+    "year": 2003
+   },
+   {
+    "kind": "stimulation",
+    "claim": "The thalamus participates in arousal circuits",
+    "finding": "In a six-month double-blind alternating crossover study, a patient who had been in a minimally conscious state for six years after a brain injury received bilateral deep brain stimulation of the central thalamus. Cognitively mediated behaviours, limb control and oral feeding increased during on periods compared with off periods. It is a single patient.",
+    "quote": "Here, in a 6-month double-blind alternating crossover study, we show that bilateral deep brain electrical stimulation (DBS) of the central thalamus modulates behavioural responsiveness in a patient who remained in MCS for 6 yr following traumatic brain injury before the intervention.",
+    "pmid": "17671503",
+    "doi": "10.1038/nature06041",
+    "cite": "Schiff ND, Giacino JT, Kalmar K, et al. Behavioural improvements with thalamic stimulation after severe traumatic brain injury. Nature. 2007;448(7153):600-3.",
+    "year": 2007
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "The thalamus relays motor loops, and stimulating its Vim nucleus suppresses tremor",
+    "finding": "High-frequency stimulation of the ventral intermediate nucleus was tested in 26 patients with Parkinson's disease and 6 with essential tremor. Of 43 thalami stimulated, 27 showed complete relief from tremor and 11 showed major improvement. Side effects were mild and went away with lower stimulation.",
+    "quote": "Of the 43 thalami stimulated, 27 showed complete relief from tremor and 11 major improvement (88%).",
+    "pmid": "1671433",
+    "doi": "10.1016/0140-6736(91)91175-t",
+    "cite": "Benabid AL, Pollak P, Gervason C, et al. Long-term suppression of tremor by chronic stimulation of the ventral intermediate thalamic nucleus. Lancet. 1991;337(8738):403-6.",
+    "year": 1991,
+    "data": {
+     "title": "Thalami stimulated (of 43)",
+     "unit": "thalami",
+     "items": [
+      [
+       "complete tremor relief",
+       27
+      ],
+      [
+       "major improvement",
+       11
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": {
+   "method": "chronic high-frequency stimulation of the ventral intermediate thalamic nucleus (32 patients)",
+   "effect": "Stimulating the Vim suppressed tremor, giving complete relief or major improvement in 88% of the thalami stimulated.",
+   "quote": "Of the 43 thalami stimulated, 27 showed complete relief from tremor and 11 major improvement (88%). The improvement was maintained for up to 29 months (mean follow-up 13 [SD 9] months).",
+   "pmid": "1671433",
+   "doi": "10.1016/0140-6736(91)91175-t",
+   "cite": "Benabid AL, Pollak P, Gervason C, et al. Long-term suppression of tremor by chronic stimulation of the ventral intermediate thalamic nucleus. Lancet. 1991;337(8738):403-6.",
+   "year": 1991
+  }
+ },
+ {
+  "id": "caudate_nucleus",
+  "how_we_know": "Neuropathology of Huntington's disease shows the caudate degenerates early, and a review of 240 reported lesion cases links caudate damage to apathy more than to movement disorders. Patient studies of habit learning and a small stimulation study in epilepsy patients test its role in learning. Most lesion cases are strokes that also touch neighbouring tissue.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Caudate strokes can cause abulia and executive impairment",
+    "finding": "The authors analyzed 240 patients from the literature with lesions of the caudate, putamen or globus pallidus. Caudate lesions rarely caused movement disorders, but 28% of them caused abulia (apathy with loss of initiative), sometimes alternating with disinhibition in 11%. Chorea appeared in only 6% and dystonia in 9%.",
+    "quote": "Lesions of the caudate nucleus rarely caused motor disorders but were more likely to cause behavioural problems. Chorea has been described in only 6% of those with caudate lesions, and dystonia in only 9%. The most significant behavioural disturbance described in 28% of those with caudate lesions was the syndrome of abulia, sometimes alternating with disinhibition (11%).",
+    "pmid": "7922471",
+    "doi": "10.1093/brain/117.4.859",
+    "cite": "Bhatia KP, Marsden CD. The behavioural and motor consequences of focal lesions of the basal ganglia in man. Brain. 1994;117(Pt 4):859-76.",
+    "year": 1994,
+    "data": {
+     "title": "Percent of caudate lesion cases with each problem",
+     "unit": "%",
+     "items": [
+      [
+       "abulia",
+       28
+      ],
+      [
+       "disinhibition",
+       11
+      ],
+      [
+       "dystonia",
+       9
+      ],
+      [
+       "chorea",
+       6
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "histology",
+    "claim": "Caudate neurons degenerate early in Huntington's disease",
+    "finding": "In postmortem brains from 163 patients with Huntington's disease, the earliest changes were in the medial paraventricular caudate, the tail of the caudate and the dorsal putamen. Counts of caudate neurons showed 50% lost in grade 1 and 95% lost in grade 4. The grade correlated closely with clinical disability.",
+    "quote": "The earliest changes were seen in the medial paraventricular portions of the caudate nucleus (CN), in the tail of the CN, and in the dorsal part of the putamen. Counts of neurons in the CN reveal that 50% are lost in grade 1 and that 95% are lost in grade 4",
+    "pmid": "2932539",
+    "doi": "10.1097/00005072-198511000-00003",
+    "cite": "Vonsattel JP, Myers RH, Stevens TJ, Ferrante RJ, Bird ED, Richardson EP Jr. Neuropathological classification of Huntington's disease. J Neuropathol Exp Neurol. 1985;44(6):559-77.",
+    "year": 1985,
+    "data": {
+     "title": "Percent of caudate neurons lost",
+     "unit": "%",
+     "items": [
+      [
+       "grade 1",
+       50
+      ],
+      [
+       "grade 4",
+       95
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "lesion",
+    "claim": "The caudate and putamen support habit learning of associations",
+    "finding": "Amnesic patients and non-demented Parkinson's disease patients did a probabilistic classification task. Amnesic patients learned the task normally, while Parkinson's patients failed to learn it despite intact memory for the training episode. The authors conclude the neostriatum, meaning the caudate and putamen, is essential for gradual habit learning.",
+    "quote": "In contrast, patients with Parkinson's disease failed to learn the probabilistic classification task, despite having intact memory for the training episode. In humans, the neostriatum (caudate nucleus and putamen) is essential for the gradual, incremental learning of associations that is characteristic of habit learning.",
+    "pmid": "8703077",
+    "doi": "10.1126/science.273.5280.1399",
+    "cite": "Knowlton BJ, Mangels JA, Squire LR. A neostriatal habit learning system in humans. Science. 1996;273(5280):1399-402.",
+    "year": 1996
+   },
+   {
+    "kind": "stimulation",
+    "claim": "The caudate contributes to goal-directed learning and action selection",
+    "finding": "Six epilepsy patients with depth electrodes learned associations between images and button presses, and three of them also received stimulation during feedback after correct responses. Caudate stimulation enhanced learning. The caudate and dorsolateral prefrontal cortex both showed more beta power after correct than incorrect trials.",
+    "quote": "Three subjects participated in stimulation sessions during which caudate or putamen stimulation was delivered for some images during feedback after correct responses. Caudate stimulation enhanced learning.",
+    "pmid": "31504220",
+    "doi": "10.1093/brain/awz254",
+    "cite": "Bick SK, Patel SR, Katnani HA, et al. Caudate stimulation enhances learning. Brain. 2019;142(10):2930-2937.",
+    "year": 2019
+   }
+  ],
+  "stimulation": {
+   "method": "depth-electrode stimulation of the caudate during feedback (three of six patients)",
+   "effect": "Stimulating the caudate after correct responses improved how well patients learned image and button-press associations, and raised beta power in the dorsolateral prefrontal cortex.",
+   "quote": "Caudate stimulation enhanced learning. Both caudate and dorsolateral prefrontal cortex demonstrated a beta power increase during the feedback period of the learning task that was greater following correct than incorrect trials.",
+   "pmid": "31504220",
+   "doi": "10.1093/brain/awz254",
+   "cite": "Bick SK, Patel SR, Katnani HA, et al. Caudate stimulation enhances learning. Brain. 2019;142(10):2930-2937.",
+   "year": 2019
+  }
+ },
+ {
+  "id": "putamen",
+  "how_we_know": "Autopsy measurements of dopamine in Parkinson's disease, lesion cases, and imaging during skill learning all point to a motor role for the putamen. Imaging is correlational, but the dopamine and lesion evidence is causal in direction. There is no good human stimulation study specific to the putamen.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "Loss of dopamine input to the putamen underlies the motor signs of Parkinson's disease",
+    "finding": "The authors measured dopamine in striatum obtained at autopsy from eight patients with idiopathic Parkinson's disease. The putamen had nearly complete depletion in all subdivisions, with the caudal part lowest. They proposed that the motor deficits are mostly a consequence of dopamine loss in the putamen.",
+    "quote": "we examined the pattern and degree of dopamine loss in striatum obtained at autopsy from eight patients with idiopathic Parkinson's disease. We found that in the putamen there was a nearly complete depletion of dopamine in all subdivisions, with the greatest reduction in the caudal portions (less than 1 percent of the dopamine remaining).",
+    "pmid": "3352672",
+    "doi": "10.1056/NEJM198804073181402",
+    "cite": "Kish SJ, Shannak K, Hornykiewicz O. Uneven pattern of dopamine loss in the striatum of patients with idiopathic Parkinson's disease. Pathophysiologic and clinical implications. N Engl J Med. 1988;318(14):876-80.",
+    "year": 1988
+   },
+   {
+    "kind": "imaging",
+    "claim": "The putamen contributes to motor skill and sequence learning",
+    "finding": "Fourteen healthy volunteers practiced a sequence of eight finger moves daily, and fMRI was done on days 1, 14 and 28. Activation in the rostrodorsal (associative) putamen decreased with practice, while activation in the caudoventral (sensorimotor) putamen increased. This suggests motor skills shift to the sensorimotor putamen as they become automatic.",
+    "quote": "In both putamen, activation decreased with practice in rostrodorsal (associative) regions. In contrast, there was a significant signal increase in more caudoventral (sensorimotor) regions of the putamen.",
+    "pmid": "16107540",
+    "doi": "10.1073/pnas.0502762102",
+    "cite": "Lehéricy S, Benali H, Van de Moortele PF, et al. Distinct basal ganglia territories are engaged in early and advanced motor sequence learning. Proc Natl Acad Sci U S A. 2005;102(35):12566-71.",
+    "year": 2005
+   },
+   {
+    "kind": "lesion",
+    "claim": "Putaminal lesions commonly cause dystonia",
+    "finding": "In the review of 240 reported cases, lesions of the lentiform nuclei commonly caused dystonia in 49% of cases, and in 63% when the putamen was involved. Abulia occurred in only 10% and disinhibition did not occur.",
+    "quote": "Lesions of the lentiform nuclei rarely caused abulia (10%) and did not produce disinhibition, but they commonly caused dystonia (49%), particularly when the putamen was involved (63%).",
+    "pmid": "7922471",
+    "doi": "10.1093/brain/117.4.859",
+    "cite": "Bhatia KP, Marsden CD. The behavioural and motor consequences of focal lesions of the basal ganglia in man. Brain. 1994;117(Pt 4):859-76.",
+    "year": 1994,
+    "data": {
+     "title": "Percent of lentiform lesion cases with dystonia",
+     "unit": "%",
+     "items": [
+      [
+       "any lentiform lesion",
+       49
+      ],
+      [
+       "putamen involved",
+       63
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "globus_pallidus",
+  "how_we_know": "Pallidal deep brain stimulation in randomized trials gives the strongest causal evidence for the motor role of the globus pallidus interna. Lesion reports and imaging during skill learning add support. These trials stimulate a diseased circuit, so they show what the structure can change, not what it does in a healthy brain.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Bilateral pallidal damage causes parkinsonism and dystonia",
+    "finding": "In the review of 240 reported cases with basal ganglia lesions, bilateral lentiform lesions, of either the globus pallidus or the putamen, infrequently caused parkinsonism in 19% and dystonia-parkinsonism in 6% of cases. The author concluded that these findings emphasize motor roles for putamen and globus pallidus.",
+    "quote": "Bilateral lesions of the lentiform nuclei, either of the globus pallidus or of the putamen, caused parkinsonism (19%) or dystonia-parkinsonism (6%) infrequently. The frequent occurrence of dystonia and less commonly of parkinsonism with lentiform lesions emphasize the motor roles of putamen and globus pallidus.",
+    "pmid": "7922471",
+    "doi": "10.1093/brain/117.4.859",
+    "cite": "Bhatia KP, Marsden CD. The behavioural and motor consequences of focal lesions of the basal ganglia in man. Brain. 1994;117(Pt 4):859-76.",
+    "year": 1994
+   },
+   {
+    "kind": "imaging",
+    "claim": "The pallidum is engaged as motor skills become fast and automatic",
+    "finding": "Fourteen healthy volunteers practiced a finger sequence over a month while fMRI was done. Faster reaction times were linked to signal changes in areas active at advanced learning stages, including the sensorimotor putamen and globus pallidus. This is correlational.",
+    "quote": "reaction time (movement speed) was negatively correlated with signal changes in areas activated during advanced learning stages, including the sensorimotor putamen and globus pallidus.",
+    "pmid": "16107540",
+    "doi": "10.1073/pnas.0502762102",
+    "cite": "Lehéricy S, Benali H, Van de Moortele PF, et al. Distinct basal ganglia territories are engaged in early and advanced motor sequence learning. Proc Natl Acad Sci U S A. 2005;102(35):12566-71.",
+    "year": 2005
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "Pallidal deep brain stimulation reduces dystonia",
+    "finding": "In a controlled multicenter study, 22 patients with primary generalized dystonia received bilateral stimulation of the internal globus pallidus. The mean dystonia movement score improved from 46.3 before surgery to 21.0 at 12 months. A blinded video review and a double-blind on-off test at three months supported the benefit.",
+    "quote": "The dystonia movement score improved from a mean (+/-SD) of 46.3+/-21.3 before surgery to 21.0+/-14.1 at 12 months (P<0.001).",
+    "pmid": "15689584",
+    "doi": "10.1056/NEJMoa042187",
+    "cite": "Vidailhet M, Vercueil L, Houeto JL, et al. Bilateral deep-brain stimulation of the globus pallidus in primary generalized dystonia. N Engl J Med. 2005;352(5):459-67.",
+    "year": 2005,
+    "data": {
+     "title": "Dystonia movement score (lower is better)",
+     "unit": "points",
+     "items": [
+      [
+       "before surgery",
+       46.3
+      ],
+      [
+       "12 months",
+       21.0
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "Pallidal stimulation improves motor function in Parkinson's disease, similar to subthalamic stimulation",
+    "finding": "In 13 hospitals, 299 patients with Parkinson's disease were randomly assigned to pallidal or subthalamic stimulation. Motor improvement was similar with either target at 24 months. Serious adverse events occurred in 51% of pallidal and 56% of subthalamic patients.",
+    "quote": "Serious adverse events occurred in 51% of patients undergoing pallidal stimulation and in 56% of those undergoing subthalamic stimulation, with no significant between-group differences at 24 months. Patients with Parkinson's disease had similar improvement in motor function after either pallidal or subthalamic stimulation.",
+    "pmid": "20519680",
+    "doi": "10.1056/NEJMoa0907083",
+    "cite": "Follett KA, Weaver FM, Stern M, et al. Pallidal versus subthalamic deep-brain stimulation for Parkinson's disease. N Engl J Med. 2010;362(22):2077-91.",
+    "year": 2010,
+    "data": {
+     "title": "Patients with serious adverse events",
+     "unit": "%",
+     "items": [
+      [
+       "pallidal stimulation",
+       51
+      ],
+      [
+       "subthalamic stimulation",
+       56
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": {
+   "method": "bilateral deep brain stimulation of the internal globus pallidus (22 patients)",
+   "effect": "In patients with generalized dystonia, stimulation reduced involuntary movements, and scores were better with the stimulator on than off.",
+   "quote": "At three months, patients underwent a double-blind evaluation in the presence and absence of neurostimulation. At the three-month evaluation, dystonia movement scores were significantly better with neurostimulation than without neurostimulation (24.6+/-17.7 vs. 34.6+/-12.3, P<0.001).",
+   "pmid": "15689584",
+   "doi": "10.1056/NEJMoa042187",
+   "cite": "Vidailhet M, Vercueil L, Houeto JL, et al. Bilateral deep-brain stimulation of the globus pallidus in primary generalized dystonia. N Engl J Med. 2005;352(5):459-67.",
+   "year": 2005
+  }
+ },
+ {
+  "id": "nucleus_accumbens",
+  "how_we_know": "Imaging shows accumbens activation when people anticipate rewards, and recordings in monkeys show dopamine neurons coding prediction errors. Deep brain stimulation of the accumbens in small trials shows that changing its activity can relieve anhedonia and obsessive-compulsive symptoms. The dopamine recordings are from monkeys and the stimulation trials are small and in patients.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The accumbens responds to anticipated rewards, not to anticipated punishments",
+    "finding": "In eight healthy volunteers, event-related fMRI was recorded during anticipation of increasing monetary rewards and punishments. Anticipating larger rewards raised both self-reported happiness and accumbens activation, while anticipating larger punishments did neither. A different striatal region, the medial caudate, responded to both.",
+    "quote": "Whereas anticipation of increasing rewards elicited both increasing self-reported happiness and NAcc activation, anticipation of increasing punishment elicited neither. However, anticipation of both rewards and punishments activated a different striatal region (the medial caudate).",
+    "pmid": "11459880",
+    "doi": "10.1523/JNEUROSCI.21-16-j0002.2001",
+    "cite": "Knutson B, Adams CM, Fong GW, Hommer D. Anticipation of increasing monetary reward selectively recruits nucleus accumbens. J Neurosci. 2001;21(16):RC159.",
+    "year": 2001
+   },
+   {
+    "kind": "recording",
+    "claim": "Dopamine signals reward prediction and prediction errors",
+    "finding": "This review combines recordings from dopamine neurons in the primate with computational theory. The neurons' changing output appears to signal errors in the prediction of future rewards. It is recorded in monkeys and reviewed alongside learning theory, not measured in the accumbens itself.",
+    "quote": "Physiological work has recently complemented these studies by identifying dopaminergic neurons in the primate whose fluctuating output apparently signals changes or errors in the predictions of future salient and rewarding events.",
+    "pmid": "9054347",
+    "doi": "10.1126/science.275.5306.1593",
+    "cite": "Schultz W, Dayan P, Montague PR. A neural substrate of prediction and reward. Science. 1997;275(5306):1593-9.",
+    "year": 1997
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "The accumbens is a deep brain stimulation target in obsessive-compulsive disorder",
+    "finding": "Sixteen patients with treatment-refractory OCD received bilateral accumbens stimulation. In the open phase the mean Y-BOCS score fell by 46%, from 33.7 to 18.0 after 8 months, and nine of 16 patients were responders. A double-blind sham-controlled phase in 14 patients confirmed a difference between active and sham stimulation.",
+    "quote": "In the open phase, the mean (SD) Y-BOCS score decreased by 46%, from 33.7 (3.6) at baseline to 18.0 (11.4) after 8 months (P < .001). Nine of 16 patients were responders, with a mean (SD) Y-BOCS score decrease of 23.7 (7.0), or 72%.",
+    "pmid": "20921122",
+    "doi": "10.1001/archgenpsychiatry.2010.122",
+    "cite": "Denys D, Mantione M, Figee M, et al. Deep brain stimulation of the nucleus accumbens for treatment-refractory obsessive-compulsive disorder. Arch Gen Psychiatry. 2010;67(10):1061-8.",
+    "year": 2010,
+    "data": {
+     "title": "Mean Y-BOCS score (lower is better)",
+     "unit": "points",
+     "items": [
+      [
+       "baseline",
+       33.7
+      ],
+      [
+       "after 8 months",
+       18.0
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Blunted accumbens activity accompanies anhedonia, and stimulation relieves it",
+    "finding": "Three patients with extremely resistant depression received bilateral accumbens stimulation, with settings changed in a double-blind way. Ratings improved in all three with the stimulator on and worsened in all three when it was turned off. FDG-PET showed metabolic changes in frontostriatal networks.",
+    "quote": "Clinical ratings improved in all three patients when the stimulator was on, and worsened in all three patients when the stimulator was turned off.",
+    "pmid": "17429407",
+    "doi": "10.1038/sj.npp.1301408",
+    "cite": "Schlaepfer TE, Cohen MX, Frick C, et al. Deep brain stimulation to reward circuitry alleviates anhedonia in refractory major depression. Neuropsychopharmacology. 2008;33(2):368-77.",
+    "year": 2008
+   }
+  ],
+  "stimulation": {
+   "method": "bilateral deep brain stimulation of the nucleus accumbens (three patients with depression)",
+   "effect": "Clinical ratings of depression improved when the stimulator was on and worsened when it was off, with no side effects beyond the surgery.",
+   "quote": "Clinical ratings improved in all three patients when the stimulator was on, and worsened in all three patients when the stimulator was turned off. Effects were observable immediately, and no side effects occurred in any of the patients.",
+   "pmid": "17429407",
+   "doi": "10.1038/sj.npp.1301408",
+   "cite": "Schlaepfer TE, Cohen MX, Frick C, et al. Deep brain stimulation to reward circuitry alleviates anhedonia in refractory major depression. Neuropsychopharmacology. 2008;33(2):368-77.",
+   "year": 2008
+  }
+ },
+ {
+  "id": "hippocampus",
+  "how_we_know": "The core evidence is lesion work: the surgical case of H.M. and later patients with damage confined to the hippocampus. Imaging of London taxi drivers shows the hippocampus can change with experience, and recordings in epilepsy patients find cells tied to place. Stimulation of the medial temporal lobe has produced mixed results, with impairment in a larger study and improvement in a smaller one.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Bilateral hippocampal removal in H.M. caused profound anterograde amnesia",
+    "finding": "Scoville and Milner tested nine patients, eight psychotic and one epileptic, after bilateral medial temporal resection. Memory impairment was persistent when the removal reached the anterior hippocampus and hippocampal gyrus, and its severity depended on how much hippocampus was removed. Early memories and technical skills were intact.",
+    "quote": "Bilateral medial temporal lobe resection in man results in a persistent impairment of recent memory whenever the removal is carried far enough posteriorly to damage portions of the anterior hippocampus and hippocampal gyrus.",
+    "pmid": "10678523",
+    "doi": "10.1176/jnp.12.1.103",
+    "cite": "Scoville WB, Milner B. Loss of recent memory after bilateral hippocampal lesions. 1957. J Neuropsychiatry Clin Neurosci. 2000;12(1):103-13 (reprint of the 1957 paper).",
+    "year": 2000
+   },
+   {
+    "kind": "lesion",
+    "claim": "A lesion limited to the hippocampus is enough to cause amnesia",
+    "finding": "Patient R.B. developed memory impairment after an ischemic episode and was followed for five years until his death. He had marked anterograde amnesia and little retrograde amnesia without other cognitive impairment. His brain showed a circumscribed bilateral lesion of the entire CA1 field of the hippocampus.",
+    "quote": "During the 5 years until his death, R.B. exhibited marked anterograde amnesia, little if any retrograde amnesia, and showed no signs of cognitive impairment other than memory. Thorough histological examination revealed a circumscribed bilateral lesion involving the entire CA1 field of the hippocampus.",
+    "pmid": "3760943",
+    "doi": "10.1523/JNEUROSCI.06-10-02950.1986",
+    "cite": "Zola-Morgan S, Squire LR, Amaral DG. Human amnesia and the medial temporal region: enduring memory impairment following a bilateral lesion limited to field CA1 of the hippocampus. J Neurosci. 1986;6(10):2950-67.",
+    "year": 1986
+   },
+   {
+    "kind": "imaging",
+    "claim": "The posterior hippocampus supports spatial memory and can change with experience",
+    "finding": "Structural MRI of licensed London taxi drivers was compared with that of control subjects who did not drive taxis. The posterior hippocampi of taxi drivers were significantly larger, and a more anterior region was larger in controls. Volume correlated with time spent as a taxi driver, positively in the posterior and negatively in the anterior hippocampus.",
+    "quote": "The posterior hippocampi of taxi drivers were significantly larger relative to those of control subjects. A more anterior hippocampal region was larger in control subjects than in taxi drivers. Hippocampal volume correlated with the amount of time spent as a taxi driver (positively in the posterior and negatively in the anterior hippocampus).",
+    "pmid": "10716738",
+    "doi": "10.1073/pnas.070039597",
+    "cite": "Maguire EA, Gadian DG, Johnsrude IS, et al. Navigation-related structural change in the hippocampi of taxi drivers. Proc Natl Acad Sci U S A. 2000;97(8):4398-403.",
+    "year": 2000
+   },
+   {
+    "kind": "recording",
+    "claim": "Place-responsive cells in the human hippocampus support navigation",
+    "finding": "The authors recorded from 317 neurons in the human medial temporal and frontal lobes while patients navigated a virtual town. Some cells responded at specific spatial locations, mainly in the hippocampus, and others responded to views of landmarks, mainly in the parahippocampal region.",
+    "quote": "We directly recorded from 317 neurons in the human medial temporal and frontal lobes while subjects explored and navigated a virtual town. Here we present evidence for a neural code of human spatial navigation based on cells that respond at specific spatial locations and cells that respond to views of landmarks. The former are present primarily in the hippocampus, and the latter in the parahippocampal region.",
+    "pmid": "12968182",
+    "doi": "10.1038/nature01964",
+    "cite": "Ekstrom AD, Kahana MJ, Caplan JB, et al. Cellular networks underlying human spatial navigation. Nature. 2003;425(6954):184-8.",
+    "year": 2003
+   }
+  ],
+  "stimulation": {
+   "method": "50 Hz electrical stimulation of the entorhinal region and hippocampus during encoding",
+   "effect": "In neurosurgical patients, stimulation during encoding made memory worse on both spatial and verbal tasks.",
+   "quote": "In contrast to earlier work, electrical stimulation impaired memory performance significantly in both spatial and verbal tasks. Stimulation in both the entorhinal region and hippocampus caused decreased memory performance.",
+   "pmid": "27930911",
+   "doi": "10.1016/j.neuron.2016.10.062",
+   "cite": "Jacobs J, Miller J, Lee SA, et al. Direct electrical stimulation of the human entorhinal region and hippocampus impairs memory. Neuron. 2016;92(5):983-990.",
+   "year": 2016
+  }
+ },
+ {
+  "id": "amygdala",
+  "how_we_know": "Rare patients with selective bilateral amygdala damage, such as S.M., give the causal evidence, together with stimulation in epilepsy patients and fMRI and PET studies of fear. Kluver and Bucy's 1939 monkey lesions, which first showed placidity and hyperorality, predate the PubMed abstracts used here. Imaging cannot say whether the amygdala is required, and lesion patients are very few.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Bilateral amygdala damage impairs the induction and experience of fear",
+    "finding": "Patient S.M., with focal bilateral amygdala lesions, was exposed to live snakes and spiders, a haunted house and emotionally evocative films. She never showed fear and never reported more than minimal fear, across questionnaires and three months of experience sampling. She could show and feel other basic emotions.",
+    "quote": "we conducted a new study in a rare human patient, SM, who has focal bilateral amygdala lesions. To provoke fear in SM, we exposed her to live snakes and spiders, took her on a tour of a haunted house, and showed her emotionally evocative films. On no occasion did SM exhibit fear, and she never endorsed feeling more than minimal levels of fear.",
+    "pmid": "21167712",
+    "doi": "10.1016/j.cub.2010.11.042",
+    "cite": "Feinstein JS, Adolphs R, Damasio A, Tranel D. The human amygdala and the induction and experience of fear. Curr Biol. 2011;21(1):34-8.",
+    "year": 2011
+   },
+   {
+    "kind": "lesion",
+    "claim": "Bilateral amygdala damage impairs recognition of fearful faces",
+    "finding": "Working with one rare patient with selective bilateral amygdala damage, the authors found the amygdala may be indispensable for recognizing fear in facial expressions and for recognizing multiple emotions in one expression. It is not needed to recognize who a person is from a face.",
+    "quote": "Here, with the help of one such rare patient, we report findings that suggest the human amygdala may be indispensable to: (1) recognize fear in facial expressions; (2) recognize multiple emotions in a single facial expression; but (3) is not required to recognize personal identity from faces.",
+    "pmid": "7990957",
+    "doi": "10.1038/372669a0",
+    "cite": "Adolphs R, Tranel D, Damasio H, Damasio A. Impaired recognition of emotion in facial expressions following bilateral damage to the human amygdala. Nature. 1994;372(6507):669-72.",
+    "year": 1994
+   },
+   {
+    "kind": "lesion",
+    "claim": "The amygdala is needed for fear conditioning, the hippocampus for the declarative facts",
+    "finding": "A patient with selective bilateral amygdala damage did not acquire conditioned autonomic responses but did learn the facts about which sounds or images were paired with the shock. A patient with selective hippocampal damage showed the opposite pattern, and a patient with damage to both acquired neither.",
+    "quote": "A patient with selective bilateral damage to the amygdala did not acquire conditioned autonomic responses to visual or auditory stimuli but did acquire the declarative facts about which visual or auditory stimuli were paired with the unconditioned stimulus. By contrast, a patient with selective bilateral damage to the hippocampus failed to acquire the facts but did acquire the conditioning.",
+    "pmid": "7652558",
+    "doi": "10.1126/science.7652558",
+    "cite": "Bechara A, Tranel D, Damasio H, Adolphs R, Rockland C, Damasio AR. Double dissociation of conditioning and declarative knowledge relative to the amygdala and hippocampus in humans. Science. 1995;269(5227):1115-8.",
+    "year": 1995
+   },
+   {
+    "kind": "imaging",
+    "claim": "The amygdala reads the emotional significance of faces",
+    "finding": "Positron emission tomography was recorded while subjects viewed fearful or happy faces of varying intensity. The response in the left amygdala was significantly greater to fearful than to happy expressions, and it grew as fear increased. This is correlational evidence.",
+    "quote": "Positron-emission tomography (PET) measures of neural activity were acquired while subjects viewed photographs of fearful or happy faces, varying systematically in emotional intensity. The neuronal response in the left amygdala was significantly greater to fearful as opposed to happy expressions.",
+    "pmid": "8893004",
+    "doi": "10.1038/383812a0",
+    "cite": "Morris JS, Frith CD, Perrett DI, et al. A differential neural response in the human amygdala to fearful and happy facial expressions. Nature. 1996;383(6603):812-5.",
+    "year": 1996
+   }
+  ],
+  "stimulation": {
+   "method": "direct electrical stimulation through intracerebral electrodes in epilepsy patients",
+   "effect": "Stimulating the right amygdala induced negative emotions, mainly fear and sadness, while stimulating the left could produce either pleasant or unpleasant emotions.",
+   "quote": "According to responses on Izard scales, electrical stimulations of the right amygdala induced negative emotions, especially fear and sadness. In contrast, stimulations of the left amygdala were able to induce either pleasant (happiness) or unpleasant (fear, anxiety, sadness) emotions.",
+   "pmid": "16880223",
+   "doi": "10.1093/cercor/bhl041",
+   "cite": "Lanteaume L, Khalfa S, Régis J, Marquis P, Chauvel P, Bartolomei F. Emotion induction after direct intracerebral stimulations of human amygdala. Cereb Cortex. 2007;17(6):1307-13.",
+   "year": 2007
+  }
+ },
+ {
+  "id": "lateral_ventricle",
+  "how_we_know": "The ventricles are known from anatomy and physiology, and the best abstract-level evidence concerns what happens when they enlarge or when fluid flow fails. Meta-analyses of MRI show ventricular enlargement in disease, and surgical series show that draining excess fluid helps hydrocephalus. The classic measurements of CSF production by the choroid plexus predate abstracts on PubMed and are not quoted here.",
+  "evidence": [
+   {
+    "kind": "meta-analysis",
+    "claim": "Lateral ventricles enlarge when surrounding brain tissue is lost, as in schizophrenia",
+    "finding": "A meta-analysis of 58 MRI studies included 1,588 patients with schizophrenia. Taking controls as 100%, total ventricular volume was 126% and the bodies of the lateral ventricles were 116%, while cerebral volume was 98%. The ventricles therefore differed more than the brain did.",
+    "quote": "Assuming a volume of 100% in the comparison group, they found that the mean cerebral volume of the subjects with schizophrenia was smaller (98%), but the mean total ventricular volume of the subjects with schizophrenia was greater (126%). Relative to the global ventricular system differences, the largest differences in ventricular subdivisions were in the right and left body of the lateral ventricle, where the volumes of schizophrenic subjects were 116% and 116%, respectively.",
+    "pmid": "10618008",
+    "doi": "10.1176/ajp.157.1.16",
+    "cite": "Wright IC, Rabe-Hesketh S, Woodruff PW, David AS, Murray RM, Bullmore ET. Meta-analysis of regional brain volumes in schizophrenia. Am J Psychiatry. 2000;157(1):16-25.",
+    "year": 2000,
+    "data": {
+     "title": "Volume in schizophrenia, controls = 100%",
+     "unit": "%",
+     "items": [
+      [
+       "cerebral volume",
+       98
+      ],
+      [
+       "lateral ventricle body",
+       116
+      ],
+      [
+       "total ventricular volume",
+       126
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "meta-analysis",
+    "claim": "Normal pressure hydrocephalus is treatable by draining excess cerebrospinal fluid",
+    "finding": "A systematic review covered 64 studies of 3,063 patients with idiopathic normal-pressure hydrocephalus who had shunt surgery. On average 71% improved with 1% mortality, and in the last five years of studies 82% improved with 0.2% mortality. This shows that the symptoms depend on fluid dynamics, although patients must be selected carefully.",
+    "quote": "Positive improvement following shunt insertion was reported in an average of 71 % of patients with an average 1 % mortality. Results from studies published in the last 5 years showed 82 % improvement following shunt insertion, mortality of 0.2 %, and combined common complications rate of 8.2 %.",
+    "pmid": "23975646",
+    "doi": "10.1007/s00701-013-1835-5",
+    "cite": "Toma AK, Papadopoulos MC, Stapleton S, Kitchen ND, Watkins LD. Systematic review of the outcome of shunt surgery in idiopathic normal-pressure hydrocephalus. Acta Neurochir (Wien). 2013;155(10):1977-80.",
+    "year": 2013,
+    "data": {
+     "title": "Percent of shunted patients who improved",
+     "unit": "%",
+     "items": [
+      [
+       "all studies",
+       71
+      ],
+      [
+       "studies in last 5 years",
+       82
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "imaging",
+    "claim": "Cerebrospinal fluid clears waste from the brain",
+    "finding": "In mice, in vivo two-photon imaging of fluorescent tracers showed that CSF enters the brain along spaces around penetrating arteries. Interstitial fluid was cleared along paravenous pathways. Mice lacking the aquaporin-4 water channel had about 70% less interstitial solute clearance, and clearance of amyloid beta was reduced. These are animal data.",
+    "quote": "On the basis of in vivo two-photon imaging of small fluorescent tracers, we showed that CSF enters the parenchyma along paravascular spaces that surround penetrating arteries and that brain interstitial fluid is cleared along paravenous drainage pathways.",
+    "pmid": "22896675",
+    "doi": "10.1126/scitranslmed.3003748",
+    "cite": "Iliff JJ, Wang M, Liao Y, et al. A paravascular pathway facilitates CSF flow through the brain parenchyma and the clearance of interstitial solutes, including amyloid β. Sci Transl Med. 2012;4(147):147ra111.",
+    "year": 2012
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "striatum",
+  "how_we_know": "Autopsy studies of Parkinson's and Huntington's disease show which parts of the striatum fail in each, and resting-state fMRI in 1,000 people maps how the cortex connects to it. Deep brain stimulation near the ventral striatum shows it can be modulated in patients with obsessive-compulsive disorder. The direct and indirect pathway model comes mainly from animal work and is not tested in these studies.",
+  "evidence": [
+   {
+    "kind": "connectivity",
+    "claim": "Cortex and thalamus project to the striatum in topographic loops",
+    "finding": "Resting-state fMRI data from 1,000 subjects were used to map each striatal voxel to its most strongly correlated cortical network. At least five cortical zones in the striatum were linked to sensorimotor, premotor, limbic and two association networks, with a topography consistent with monkey anatomy. Most of the human striatum was coupled to association networks.",
+    "quote": "Data from 1,000 subjects were registered with nonlinear deformation of the striatum in combination with surface-based alignment of the cerebral cortex. The results revealed at least five cortical zones in the striatum linked to sensorimotor, premotor, limbic, and two association networks with a topography globally consistent with monkey anatomical studies.",
+    "pmid": "22832566",
+    "doi": "10.1152/jn.00270.2012",
+    "cite": "Choi EY, Yeo BT, Buckner RL. The organization of the human striatum estimated by intrinsic functional connectivity. J Neurophysiol. 2012;108(8):2242-63.",
+    "year": 2012
+   },
+   {
+    "kind": "histology",
+    "claim": "Loss of dopamine from the dorsal striatum causes Parkinson's disease",
+    "finding": "Dopamine was measured in striatum from eight patients with Parkinson's disease at autopsy. The putamen had nearly complete depletion in all subdivisions, with less than 1 percent remaining in the caudal part. In the caudate only the most dorsal rostral part was severely depleted, with 4 percent remaining.",
+    "quote": "We found that in the putamen there was a nearly complete depletion of dopamine in all subdivisions, with the greatest reduction in the caudal portions (less than 1 percent of the dopamine remaining). In the caudate nucleus, the only subdivision with severe dopamine reduction was the most dorsal rostral part (4 percent of the dopamine remaining); the other subdivisions still had substantial levels of dopamine (up to approximately 40 percent of control levels).",
+    "pmid": "3352672",
+    "doi": "10.1056/NEJM198804073181402",
+    "cite": "Kish SJ, Shannak K, Hornykiewicz O. Uneven pattern of dopamine loss in the striatum of patients with idiopathic Parkinson's disease. Pathophysiologic and clinical implications. N Engl J Med. 1988;318(14):876-80.",
+    "year": 1988
+   },
+   {
+    "kind": "histology",
+    "claim": "Loss of medium spiny neurons causes Huntington's disease with chorea",
+    "finding": "Postmortem brains from 163 patients with Huntington's disease showed marked variation in how severely the striatum was affected. The authors set up a five-grade scale (0 to 4) that correlated closely with clinical disability. Neuron counts in the caudate showed 50% lost at grade 1 and 95% at grade 4.",
+    "quote": "In postmortem brain specimens from 163 clinically diagnosed cases of Huntington's disease (HD) the striatum exhibited marked variation in the severity of neuropathological involvement. The grade correlates closely with the extent of clinical disability as assessed by a rating scale.",
+    "pmid": "2932539",
+    "doi": "10.1097/00005072-198511000-00003",
+    "cite": "Vonsattel JP, Myers RH, Stevens TJ, Ferrante RJ, Bird ED, Richardson EP Jr. Neuropathological classification of Huntington's disease. J Neuropathol Exp Neurol. 1985;44(6):559-77.",
+    "year": 1985
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Striatal dysfunction is associated with obsessive-compulsive disorder",
+    "finding": "Four teams combined their long-term results of deep brain stimulation at the ventral internal capsule and adjacent ventral striatum for severe, treatment-resistant OCD. About two-thirds of patients had clinically significant symptom reductions and functional improvement. Results improved as the target moved to a more posterior site near the ventral striatum.",
+    "quote": "Here, we present combined long-term results of those studies, which reveal clinically significant symptom reductions and functional improvement in about two-thirds of patients.",
+    "pmid": "18490925",
+    "doi": "10.1038/mp.2008.55",
+    "cite": "Greenberg BD, Gabriels LA, Malone DA Jr, et al. Deep brain stimulation of the ventral internal capsule/ventral striatum for obsessive-compulsive disorder: worldwide experience. Mol Psychiatry. 2010;15(1):64-79.",
+    "year": 2010
+   }
+  ],
+  "stimulation": {
+   "method": "deep brain stimulation of the ventral internal capsule and ventral striatum (combined series)",
+   "effect": "In patients with severe obsessive-compulsive disorder, stimulation reduced symptoms and improved function in about two-thirds.",
+   "quote": "Psychiatric neurosurgery teams in the United States and Europe have studied deep brain stimulation (DBS) of the ventral anterior limb of the internal capsule and adjacent ventral striatum (VC/VS) for severe and highly treatment-resistant obsessive-compulsive disorder. Here, we present combined long-term results of those studies, which reveal clinically significant symptom reductions and functional improvement in about two-thirds of patients.",
+   "pmid": "18490925",
+   "doi": "10.1038/mp.2008.55",
+   "cite": "Greenberg BD, Gabriels LA, Malone DA Jr, et al. Deep brain stimulation of the ventral internal capsule/ventral striatum for obsessive-compulsive disorder: worldwide experience. Mol Psychiatry. 2010;15(1):64-79.",
+   "year": 2010
+  }
+ },
+ {
+  "id": "basal_ganglia",
+  "how_we_know": "Lesions and stimulation of the subthalamic nucleus first tested the circuit model in monkeys and then in people, and randomized trials of stimulation in Parkinson's disease now give strong evidence. Studies of Parkinson's patients show that the striatum supports habit learning. The pathway model itself is mostly built from animal work, so human studies test its predictions rather than the wiring.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "A lesion of the subthalamic nucleus reduces parkinsonian signs in monkeys",
+    "finding": "Monkeys were made parkinsonian with MPTP, and the subthalamic nucleus was then lesioned. The lesions reduced all of the major motor disturbances in the opposite limbs, including akinesia, rigidity and tremor. This supported the idea that excess subthalamic activity drives parkinsonism.",
+    "quote": "To test this hypothesis, the effects of lesions of the subthalamic nucleus were evaluated in monkeys rendered parkinsonian by treatment with 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP). The lesions reduced all of the major motor disturbances in the contralateral limbs, including akinesia, rigidity, and tremor.",
+    "pmid": "2402638",
+    "doi": "10.1126/science.2402638",
+    "cite": "Bergman H, Wichmann T, DeLong MR. Reversal of experimental parkinsonism by lesions of the subthalamic nucleus. Science. 1990;249(4975):1436-8.",
+    "year": 1990
+   },
+   {
+    "kind": "lesion",
+    "claim": "The basal ganglia contribute to habit learning and procedural memory",
+    "finding": "Amnesic patients and non-demented Parkinson's disease patients did a probabilistic classification task. Amnesic patients learned the task normally but remembered the training episode poorly. Parkinson's patients failed to learn despite intact memory of the episode, a double dissociation.",
+    "quote": "Amnesic patients exhibited normal learning of the task but had severely impaired declarative memory for the training episode. In contrast, patients with Parkinson's disease failed to learn the probabilistic classification task, despite having intact memory for the training episode.",
+    "pmid": "8703077",
+    "doi": "10.1126/science.273.5280.1399",
+    "cite": "Knowlton BJ, Mangels JA, Squire LR. A neostriatal habit learning system in humans. Science. 1996;273(5280):1399-402.",
+    "year": 1996
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "Subthalamic stimulation improves Parkinson's disease beyond medication alone",
+    "finding": "In a randomized-pairs trial, 156 patients with advanced Parkinson's disease received subthalamic stimulation plus medication or medical management alone. After six months, stimulation improved quality of life by 9.5 points and motor severity by 19.6 points more than medication alone. Serious adverse events were more common with stimulation, 13% versus 4%.",
+    "quote": "Pairwise comparisons showed that neurostimulation, as compared with medication alone, caused greater improvements from baseline to six months in the PDQ-39 (50 of 78 pairs, P=0.02) and the UPDRS-III (55 of 78, P<0.001), with mean improvements of 9.5 and 19.6 points, respectively.",
+    "pmid": "16943402",
+    "doi": "10.1056/NEJMoa060281",
+    "cite": "Deuschl G, Schade-Brittinger C, Krack P, et al. A randomized trial of deep-brain stimulation for Parkinson's disease. N Engl J Med. 2006;355(9):896-908.",
+    "year": 2006,
+    "data": {
+     "title": "Extra improvement with stimulation over medication",
+     "unit": "points",
+     "items": [
+      [
+       "PDQ-39 quality of life",
+       9.5
+      ],
+      [
+       "UPDRS-III motor score",
+       19.6
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "stimulation",
+    "claim": "A lesion or stimulation of the subthalamic nucleus affects tremor, rigidity and ballism",
+    "finding": "Bilateral subthalamic stimulation was tested in three patients with disabling akinetic-rigid Parkinson's disease. Three months after surgery activities-of-daily-living scores improved by 58 to 88% and motor scores by 42 to 84%. In one patient, stimulation could induce ballism, which stopped when stimulation was reduced.",
+    "quote": "3 months after surgery, activities of daily living scores had improved by 58-88% and motor scores by 42-84%. In one patient, stimulation could induce ballism that was stopped by reduction of stimulation.",
+    "pmid": "7815888",
+    "doi": "10.1016/s0140-6736(95)90062-4",
+    "cite": "Limousin P, Pollak P, Benazzouz A, et al. Effect of parkinsonian signs and symptoms of bilateral subthalamic nucleus stimulation. Lancet. 1995;345(8942):91-5.",
+    "year": 1995
+   }
+  ],
+  "stimulation": {
+   "method": "bilateral deep brain stimulation of the subthalamic nucleus (three patients)",
+   "effect": "Stimulation improved motor scores in Parkinson's disease and, in one patient, could induce ballism that stopped when the stimulation was reduced.",
+   "quote": "3 months after surgery, activities of daily living scores had improved by 58-88% and motor scores by 42-84%. In one patient, stimulation could induce ballism that was stopped by reduction of stimulation.",
+   "pmid": "7815888",
+   "doi": "10.1016/s0140-6736(95)90062-4",
+   "cite": "Limousin P, Pollak P, Benazzouz A, et al. Effect of parkinsonian signs and symptoms of bilateral subthalamic nucleus stimulation. Lancet. 1995;345(8942):91-5.",
+   "year": 1995
+  }
+ }
+]

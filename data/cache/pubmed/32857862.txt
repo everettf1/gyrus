@@ -1,0 +1,58 @@
+1. J Physiol. 2020 Dec;598(23):5487-5504. doi: 10.1113/JP280156. Epub 2020 Sep
+15.
+
+Functional architecture of the motor homunculus detected by electrostimulation.
+
+Roux FE(1)(2), Niare M(1)(2), Charni S(1)(2), Giussani C(3), Durand JB(1).
+
+Author information:
+(1)CNRS (CERCO) UMR Unité 5549, Université Paul Sabatier, Toulouse, France.
+(2)Pôle Neurosciences (Neurochirurgie), Centres Hospitalo-Universitaires, 
+Toulouse, France.
+(3)Neurosurgery, School of Medicine, Ospedale San Gerardo, Università degli 
+Studi di Milano Bicocca, Monza, Italy.
+
+Comment in
+    J Physiol. 2020 Dec;598(23):5305-5306. doi: 10.1113/JP280712.
+    J Physiol. 2021 Mar;599(6):1731-1732. doi: 10.1113/JP280982.
+
+KEY POINTS: We performed a prospective electrostimulation study of the motor 
+homunculus in 100 patients without motor deficit or brain lesion in the 
+precentral gyrus in order to acquire accurate Montreal Neurological Institute 
+(MNI) coordinates of the functional areas. The analysis of 248 body coordinates 
+in the precentral gyrus showed rare inter-individual variations in the 
+medial-to-lateral somatotopic movement organization with quite similar intensity 
+thresholds. Electrostimulation only induced basic and stereotyped movements. We 
+detected a relative medial-to-lateral somatotopy of the 
+wrist/hand/global/individual fingers, with sometimes different sites for an 
+individual muscle or movement. We found some similarities to, but also 
+substantial differences from, the seminal work of Penfield and colleagues. We 
+propose an updated version of the human motor homunculus and of its correlation 
+with the somatosensory homunculus, previously defined in MNI space with a 
+similar brain mapping technique.
+ABSTRACT: In this prospective electrostimulation study, based on 100 operated 
+patients without motor deficit or brain lesion in the precentral gyrus, we 
+acquired coordinates of the functional areas of the motor homunculus and 
+normalized them to standard MNI space. Among 608 sites stimulated in the 
+precentral gyrus (and 1937 in gyri nearby), 248 positive points (40%) for motor 
+response were detected - 245 in the precentral gyrus. Positive stimulations were 
+detected through the 'on/off' outbreak effect, and only basic movements were 
+detected. We found no significant difference in mean intensity threshold between 
+the motor representations of the fingers (1.94 mA), tongue and lower limbs (both 
+2.0 mA), or face (2.25 mA). In the precentral gyrus, the evoked body movements 
+displayed a medial-to-lateral somatotopy in very small (often <10 mm2 ) areas. 
+The hand region displayed multiple areas for a specific movement, with areas 
+inducing either global or single-finger movement (with a relative 
+medial-to-lateral somatotopy). Among these tested patients, the somatotopic 
+organization of the intact motor cortex showed little inter-individual 
+variations. Unlike Penfield and collaborators, we evoked no sensations such as 
+sense of movement or desire to move, and only 2% of motor responses outside the 
+precentral gyrus. We propose a rationalization of the standard drawing of the 
+motor homunculus according to MNI space. We found a somatotopic correlation 
+perpendicular to the central sulcus when matching our motor data to those 
+previously obtained for the somatosensory homunculus.
+
+© 2020 The Authors. The Journal of Physiology © 2020 The Physiological Society.
+
+DOI: 10.1113/JP280156
+PMID: 32857862 [Indexed for MEDLINE]

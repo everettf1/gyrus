@@ -1,0 +1,48 @@
+1. Neurosurg Focus. 2022 Dec;53(6):E2. doi: 10.3171/2022.9.FOCUS2283.
+
+Cortical mapping in glioma surgery: correlation of fMRI and direct electrical 
+stimulation with Human Connectome Project parcellations.
+
+Bennett C(1)(2), González M(1)(2), Tapia G(2)(3), Riveros R(2)(4), Torres 
+F(2)(4), Loyola N(1)(2), Veloz A(5)(6), Chabert S(5)(7).
+
+Author information:
+(1)1Department of Neurosurgery, Hospital Carlos van Buren, Valparaíso.
+(2)2School of Medicine, Universidad de Valparaíso.
+(3)3Department of Neurology, Hospital Carlos van Buren, Valparaíso.
+(4)4Department of Radiology, Hospital Carlos van Buren, Valparaíso.
+(5)5School of Biomedical Engineering, Universidad de Valparaíso.
+(6)6Centro de Investigación y Desarrollo en Ingeniería en Salud CINGS, 
+Universidad de Valparaíso.
+(7)8Instituto Milenio Intelligent Healthcare Engineering, Santiago, Chile.
+
+OBJECTIVE: Noninvasive brain mapping with functional MRI (fMRI) and mapping with 
+direct electrical stimulation (DES) are important tools in glioma surgery, but 
+the evidence is inconclusive regarding the sensitivity and specificity of fMRI. 
+The Human Connectome Project (HCP) proposed a new cortical parcellation that has 
+not been thoroughly tested in a clinical setting. The main goal of this study 
+was to evaluate the correlation of fMRI and DES mapping with HCP areas in a 
+clinical setting, and to evaluate the performance of fMRI mapping in motor and 
+language tasks in patients with glioma, using DES as the gold standard.
+METHODS: Forty patients with supratentorial gliomas were examined using 
+preoperative fMRI and underwent awake craniotomy with DES. Functional activation 
+maps were visualized on a 3D representation of the cortex, classified according 
+to HCP areas, and compared with surgical mapping.
+RESULTS: Functional MRI was successful in identifying language and motor HCP 
+areas in most cases, including novel areas such as 55b and the superior 
+longitudinal fasciculus (SLF). Functional MRI had a sensitivity and specificity 
+of 100% and 71%, respectively, for motor function in HCP area 4. Sensitivity and 
+specificity were different according to the area and fMRI protocol; i.e., 
+semantic protocols performed better in Brodmann area (BA) 55b/peri-sylvian 
+language areas with 100% sensitivity and 20% specificity, and word production 
+protocols in BAs 44 and 45 with 70% sensitivity and 80% specificity. Some 
+compensation patterns could be observed, such as motor activation of the 
+postcentral gyrus in precentral gliomas.
+CONCLUSIONS: HCP areas can be detected in clinical scenarios of glioma surgery. 
+These areas appear relatively stable across patients, but compensation patterns 
+seem to differ, allowing occasional resection of activating areas. Newly 
+described areas such as 55b and SLF can act as critical areas in language 
+networks. Surgical planning should account for these parcellations.
+
+DOI: 10.3171/2022.9.FOCUS2283
+PMID: 36455268 [Indexed for MEDLINE]

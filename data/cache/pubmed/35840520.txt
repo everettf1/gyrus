@@ -1,0 +1,65 @@
+1. Neuromodulation. 2023 Feb;26(2):292-301. doi: 10.1016/j.neurom.2022.05.005.
+Epub  2022 Jul 13.
+
+Investigating Deep Brain Stimulation of the Habenula: A Review of Clinical 
+Studies.
+
+Abraham ME(1), Ong V(2), Gendreau J(3), Brown NJ(4), Choi EH(5), Shlobin NA(6), 
+Yang CY(4), Shahrestani S(7), Himstead AS(4), Detchou DK(8), Patel N(9), Gold 
+J(10), Sahyouni R(1), Diaz-Aguilar LD(1), Ben-Haim S(11).
+
+Author information:
+(1)Department of Neurosurgery, University of California San Diego, La Jolla, CA, 
+USA.
+(2)John A. Burns School of Medicine, University of Hawaii at Manoa, Honolulu, 
+HI, USA.
+(3)Department of Biomedical Engineering, Johns Hopkins Whiting School of 
+Engineering, Baltimore, MD, USA.
+(4)Department of Neurosurgery, University of California Irvine, Irvine, CA, USA.
+(5)Department of Pharmacology, Case Western Reserve University School of 
+Medicine, Cleveland, OH, USA.
+(6)Department of Neurological Surgery, Northwestern University Feinberg School 
+of Medicine, Chicago, IL, USA.
+(7)Department of Neurosurgery, Keck School of Medicine of USC, Los Angeles, CA, 
+USA; Medical Scientist Training Program, California Institute of Technology, 
+Pasadena, CA, USA.
+(8)Department of Neurosurgery, University of Pennsylvania School of Medicine, 
+Philadelphia, PA, USA.
+(9)School of Medicine, Mercer University, Savannah, GA, USA.
+(10)Department of Neurosurgery, Rutgers New Jersey Medical School, Newark, NJ, 
+USA.
+(11)Department of Neurosurgery, University of California San Diego, La Jolla, 
+CA, USA. Electronic address: sbenhaim@ucsd.edu.
+
+OBJECTIVES: The aim of this study was to examine the current scientific 
+literature on deep brain stimulation (DBS) targeting the habenula for the 
+treatment of neuropsychiatric disorders including schizophrenia, major 
+depressive disorder, and obsessive-compulsive disorder (OCD).
+MATERIALS AND METHODS: Two authors performed independent data base searches 
+using the PubMed, Cochrane, PsycINFO, and Web of Science search engines. The 
+data bases were searched for the query ("deep brain stimulation" and 
+"habenula"). The inclusion criteria involved screening for human clinical trials 
+written in English and published from 2007 to 2020. From the eligible studies, 
+data were collected on the mean age, sex, number of patients included, and 
+disorder treated. Patient outcomes of each study were summarized.
+RESULTS: The search yielded six studies, which included 11 patients in the final 
+analysis. Treated conditions included refractory depression, bipolar disorder, 
+OCD, schizophrenia, and major depressive disorder. Patients with bipolar 
+disorder unmedicated for at least two months had smaller habenula volumes than 
+healthy controls. High-frequency stimulation of the lateral habenula attenuated 
+the rise of serotonin in the dorsal raphe nucleus for treating depression. 
+Bilateral habenula DBS and patient OCD symptoms were reduced and maintained at 
+one-year follow up. Low- and high-frequency stimulation DBS can simulate input 
+paths to the lateral habenula to treat addiction, including cocaine addiction. 
+More data are needed to draw conclusions as to the impact of DBS for 
+schizophrenia and obesity.
+CONCLUSIONS: The habenula is a novel target that could aid in reducing 
+neuropsychiatric symptoms and should be considered in circuit-specific 
+investigation of neuromodulation for psychiatric disorders. More information 
+needs to be gathered and assessed before this treatment is fully approved for 
+treatment of neuropsychiatric conditions.
+
+Copyright © 2022 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neurom.2022.05.005
+PMID: 35840520 [Indexed for MEDLINE]

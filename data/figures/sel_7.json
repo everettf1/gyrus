@@ -1,0 +1,152 @@
+[
+ {
+  "region": "area_mt",
+  "pmid": "6850272",
+  "from": "Figure 1",
+  "caption": "Drawings from the patient's CT scans at three levels, with the damaged tissue shaded. The shaded areas lie in the lateral occipital and nearby temporal and parietal regions on both sides, and are larger on the right.",
+  "notice": "This is where the damage sat in the patient whose movement perception was lost; because it comes from a lesion, it points to cause, though the damage is wide and not limited to one small area.",
+  "short": "Zihl et al. 1983, Brain",
+  "license": "",
+  "file": "area_mt_6850272.webp"
+ },
+ {
+  "region": "retrosplenial_cortex",
+  "pmid": "11501737",
+  "from": "Figure 2",
+  "caption": "Outlines of the lesions of four patients with topographical disorientation, drawn as white patches on a midline MRI view of the brain.",
+  "notice": "Look at where the four white patches fall: they overlap in the same area, which is why a lesion there is linked to getting lost, a cause rather than a correlation.",
+  "short": "Maguire 2001, Scand J Psychol",
+  "license": "",
+  "file": "retrosplenial_cortex_11501737.webp"
+ },
+ {
+  "region": "substantia_nigra_pars_compacta",
+  "pmid": "1933245",
+  "from": "Figure 5D",
+  "caption": "A side view of the substantia nigra in Parkinson's disease, with the percent of neurons lost marked in each part.",
+  "notice": "The largest loss shown, 91 percent, sits in the lower lateral part of the pars compacta, while other parts show smaller losses; this is a tissue count, so it shows where cells are lost, not why.",
+  "short": "Fearnley et al. 1991, Brain",
+  "license": "",
+  "file": "substantia_nigra_pars_compacta_1933245.webp"
+ },
+ {
+  "region": "insula",
+  "pmid": "17255515",
+  "from": "Figure 3",
+  "caption": "A map of brain regions colored by how strongly a lesion there was linked to losing the urge to smoke. Regions outlined in red had a statistically significant link.",
+  "notice": "The authors say the insula is the only region on either side where a lesion was significantly linked to disrupted smoking addiction, so the damage is tied to the change, which points to cause.",
+  "short": "Naqvi et al. 2007, Science",
+  "license": "",
+  "file": "insula_17255515.webp"
+ },
+ {
+  "region": "insula",
+  "pmid": "11884353",
+  "from": "Figure 2",
+  "caption": "Each dot is a stimulation site in the insula where an electric pulse evoked pain. Most sites are in the upper posterior part, mainly in the right hemisphere.",
+  "notice": "Stimulating the sites caused the pain, so this is cause; notice how the dots cluster in the upper back of the insula.",
+  "short": "Ostrowsky et al. 2002, Cereb Cortex",
+  "license": "",
+  "file": "insula_11884353.webp"
+ },
+ {
+  "region": "visual_network",
+  "pmid": "21653723",
+  "from": "Figure 11",
+  "caption": "The 7 cortical networks from resting fMRI in 1,000 people, shown on the left and right brain surfaces. The paper groups the blue and purple networks as early sensory and late motor cortex.",
+  "notice": "The purple patch at the back of the brain is the visual network, and it stays local to the occipital lobe; this is a correlation of signals at rest, not a cause.",
+  "short": "Yeo et al. 2011, J Neurophysiol",
+  "license": "",
+  "file": "visual_network_21653723.webp"
+ },
+ {
+  "region": "cornu_ammonis",
+  "pmid": "3760943",
+  "from": "Figure 9",
+  "caption": "A stained slice through the left hippocampus of patient R.B. The region of cell loss in field CA1 is marked by an asterisk and bounded by two bold arrows.",
+  "notice": "The authors describe a sharp border between lost cells in CA1 and normal cells in CA3, so the damage was limited to CA1 in a man who had lasting memory loss, which points to cause.",
+  "short": "Zola-Morgan et al. 1986, J Neurosci",
+  "license": "",
+  "file": "cornu_ammonis_3760943.webp"
+ },
+ {
+  "region": "cuneus",
+  "pmid": "1884174",
+  "from": "Figure 5 (lower panels)",
+  "caption": "Visual fields of the left and right eye for Case 1 after surgery, measured on a Goldmann perimeter. The paper describes a left lower quadrantanopia, a missing lower-left quarter of vision.",
+  "notice": "Look at the lower left of each plot, where the field is cut; the tumor was in the right occipital lobe, so the lesion is linked to the loss of a quarter of vision, which points to cause.",
+  "short": "Horton et al. 1991, Brain",
+  "license": "",
+  "file": "cuneus_1884174.webp"
+ },
+ {
+  "region": "long_insular_gyrus",
+  "pmid": "12154366",
+  "from": "Figure 4",
+  "caption": "Brain scans from several studies in which different kinds of body sensation, such as cooling, light touch, pain, itch and exercise, activated the dorsal posterior insula.",
+  "notice": "Each colored patch is the same part of the insula lighting up for a different body signal, which is a correlation from imaging.",
+  "short": "Craig 2002, Nat Rev Neurosci",
+  "license": "",
+  "file": "long_insular_gyrus_12154366.webp"
+ },
+ {
+  "region": "pars_triangularis",
+  "pmid": "17675110",
+  "from": "Figure 3",
+  "caption": "Activity in left ventrolateral prefrontal regions during a word task. In panel A (mid-VLPFC, which the paper labels pars triangularis), signal was highest for unrelated words, and the competitive interference effect was the significant one.",
+  "notice": "The bars in A show more activity when unrelated words compete, which fits the card's idea of selecting among competing options; this is imaging, so it is a correlation.",
+  "short": "Badre et al. 2007, Neuropsychologia",
+  "license": "",
+  "file": "pars_triangularis_17675110.webp"
+ },
+ {
+  "region": "superior_parietal_lobule",
+  "pmid": "10196553",
+  "from": "Figure 2",
+  "caption": "MRI scans of the patient: a T2-weighted axial section (left) and a T1-weighted coronal section (right) showing a left superior parietal cyst.",
+  "notice": "The cyst sits in the left superior parietal region of a patient whose estimate of arm position was impaired, so the lesion points to cause, from a single patient.",
+  "short": "Wolpert et al. 1998, Nat Neurosci",
+  "license": "",
+  "file": "superior_parietal_lobule_10196553.webp"
+ },
+ {
+  "region": "anterior_horizontal_ramus",
+  "pmid": "31667522",
+  "from": "Figure 2",
+  "caption": "Drawings of the left hemisphere showing the horizontal ramus (half) and its neighbors in three common patterns. In Type I it is separate from nearby sulci, in Type II it shares a stem with the anterior ascending ramus, and in Type III a third ramus lies between them.",
+  "notice": "Notice that the horizontal ramus is present in all three drawings, though its relation to the neighboring ramus varies from brain to brain.",
+  "short": "Sprung-Much et al. 2020, Cereb Cortex",
+  "license": "",
+  "file": "anterior_horizontal_ramus_31667522.webp"
+ },
+ {
+  "region": "intraparietal_sulcus",
+  "pmid": "39417046",
+  "from": "Figure 2",
+  "caption": "Three left hemispheres showing where the intraparietal sulcus meets the postcentral sulcus. The sulcus can run parallel to the midline (A), tilt laterally (B), or tilt medially (C).",
+  "notice": "Compare the three brains: the sulcus takes a different course in each, which fits the card's point that it varies from brain to brain.",
+  "short": "Oğlin et al. 2024, Front Neuroanat",
+  "license": "",
+  "file": "intraparietal_sulcus_39417046.webp"
+ },
+ {
+  "region": "transverse_temporal_sulcus",
+  "pmid": "39012481",
+  "from": "Figure 1A",
+  "caption": "Phonological decoding scores for people with a duplicated Heschl's gyrus compared with people with a single one. The duplicated group scored lower (t = -2.08, p = 0.039).",
+  "notice": "The duplicated group sits lower, which links a common variant of this region to reading-related skill; it is a group difference, so a correlation.",
+  "short": "Eckert 2024, Brain Struct Funct",
+  "license": "",
+  "file": "transverse_temporal_sulcus_39012481.webp"
+ },
+ {
+  "region": "mediodorsal_nucleus",
+  "pmid": "28777058",
+  "from": "Figure 4 (first two panels)",
+  "caption": "Error rates during high-frequency deep brain stimulation at the mediodorsal nucleus (ON at MD), at the control site in the anterior nucleus (ON at ANT), and with stimulation off. Total errors and incorrect responses were higher with stimulation at MD.",
+  "notice": "The MD box sits well above the ANT and OFF boxes, so switching on stimulation at MD led to more errors, which points to cause.",
+  "short": "Peräkylä et al. 2017, J Cogn Neurosci",
+  "license": "",
+  "file": "mediodorsal_nucleus_28777058.webp"
+ }
+]

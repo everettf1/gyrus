@@ -1,0 +1,55 @@
+1. J Sleep Res. 2023 Apr;32(2):e13640. doi: 10.1111/jsr.13640. Epub 2022 May 24.
+
+REM sleep and muscle atonia in brainstem stroke: A quantitative polysomnographic 
+and lesion analysis study.
+
+Tellenbach N(1), Schmidt MH(1), Alexiev F(1)(2), Blondiaux E(3), Cavalloni F(1), 
+Bassetti CL(1), Heydrich L(1), Bargiotas P(1)(4).
+
+Author information:
+(1)Department of Neurology, University Hospital (Inselspital) and University of 
+Bern, Bern, Switzerland.
+(2)Neurology Clinic, St Anna University Hospital, Sofia, Bulgaria.
+(3)Laboratory of Cognitive Neuroscience, Center for Neuroprosthetics and Brain 
+Mind Institute, Faculty of Life Sciences, Swiss Federal institute of Technology 
+(EPFL), Geneva, Switzerland.
+(4)Department of Neurology, Medical School, University of Cyprus, Nicosia, 
+Cyprus.
+
+Important brainstem regions are involved in the regulation of rapid eye movement 
+sleep. We hypothesized that brainstem stroke is associated with dysregulated 
+rapid eye movement sleep and related muscle activity. We compared 
+quantitative/qualitative polysomnography features of rapid eye movement sleep 
+and muscle activity (any, phasic, tonic) between 15 patients with brainstem 
+stroke (N = 46 rapid eye movement periods), 16 patients with 
+lacunar/non-brainstem stroke (N = 40 rapid eye movement periods), 15 healthy 
+controls (N = 62 rapid eye movement periods), and patients with Parkinson's 
+disease and polysomnography-confirmed rapid eye movement sleep behaviour 
+disorder. Further, in the brainstem group, we performed a magnetic resonance 
+imaging-based lesion overlap analysis. The mean ratio of muscle activity to 
+rapid eye movement sleep epoch in the brainstem group ("any" muscle activity 
+0.09 ± 0.15; phasic muscle activity 0.08 ± 0.14) was significantly lower than in 
+the lacunar group ("any" muscle activity 0.17 ± 0.2, p < 0.05; phasic muscle 
+activity 0.16 ± 0.19, p < 0.05), and also lower than in the control group ("any" 
+muscle activity 0.15 ± 0.17, p < 0.05). Magnetic resonance imaging-based lesion 
+analysis indicated an area of maximum overlap in the medioventral pontine region 
+for patients with reduced phasic muscle activity index. For all groups, mean 
+values of muscle activity were significantly lower than in the patients with 
+Parkinson's disease and polysomnography-confirmed REM sleep behaviour disorder 
+group ("any" activity 0.51 ± 0.26, p < 0.0001 for all groups; phasic muscle 
+activity 0.42 ± 0.21, p < 0.0001 for all groups). For the tonic muscle activity 
+in the mentalis muscle, no significant differences were found between the 
+groups. In the brainstem group, contrary to the lacunar and the control groups, 
+"any" muscle activity index during rapid eye movement sleep was significantly 
+reduced after the third rapid eye movement sleep phase. This study reports on 
+the impact of brainstem stroke on rapid eye movement atonia features in a human 
+cohort. Our findings highlight the important role of the human brainstem, in 
+particular the medioventral pontine regions, in the regulation of phasic muscle 
+activity during rapid eye movement sleep and the ultradian distribution of rapid 
+eye movement-related muscle activity.
+
+© 2022 The Authors. Journal of Sleep Research published by John Wiley & Sons Ltd 
+on behalf of European Sleep Research Society.
+
+DOI: 10.1111/jsr.13640
+PMID: 35609965 [Indexed for MEDLINE]

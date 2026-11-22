@@ -1,0 +1,132 @@
+[
+ {
+  "region": "brocas_area",
+  "pmid": "27956600",
+  "from": "Figure 1",
+  "caption": "Maps built from the brain damage of stroke patients, one per pattern of language problems. The colors mark which parts of the left hemisphere, front and back, each pattern depends on.",
+  "notice": "Damage in the frontal areas tracks the speech-production pattern, and because these are lesions, it points to cause rather than correlation.",
+  "short": "Fridriksson et al. 2016, Proc Natl Acad Sci U S A",
+  "license": "",
+  "file": "brocas_area_27956600.webp"
+ },
+ {
+  "region": "inferior_frontal_junction",
+  "pmid": "15846824",
+  "from": "Figure 2",
+  "caption": "Meta-analysis results from many studies of task switching (A) and Stroop tasks (B), shown on brain slices. The colored blobs are where the studies' activations clustered.",
+  "notice": "Both kinds of task light up the same left frontal spot in the coronal and sagittal slices, which is the IFJ; this is a correlation across imaging studies.",
+  "short": "Derrfuss et al. 2005, Hum Brain Mapp",
+  "license": "",
+  "file": "inferior_frontal_junction_15846824.webp"
+ },
+ {
+  "region": "perirhinal_cortex",
+  "pmid": "17905870",
+  "from": "Figure 2",
+  "caption": "Memory scores for patient NB (open circle) compared with healthy controls (gray dots and black average) in three experiments. NB's recollection scores sit near or above the controls, while his familiarity scores sit at the bottom.",
+  "notice": "Look at the open circles in the Familiarity columns: after the surgery that removed perirhinal cortex, familiarity is lowest of all while recollection holds up, which suggests the damage caused the loss.",
+  "short": "Bowles et al. 2007, Proc Natl Acad Sci U S A",
+  "license": "",
+  "file": "perirhinal_cortex_17905870.webp"
+ },
+ {
+  "region": "supplementary_motor_area",
+  "pmid": "1941101",
+  "from": "Figure 5",
+  "caption": "Each dot is one stimulation trial. The horizontal axis is how far forward on the inner brain surface the electrode was, and the vertical axis is where on the body the movement appeared.",
+  "notice": "The dots climb from lower left to upper right, so stimulating further forward moved body parts further toward the head; electrical stimulation shows cause, and it reveals a body map.",
+  "short": "Fried et al. 1991, J Neurosci",
+  "license": "",
+  "file": "supplementary_motor_area_1941101.webp"
+ },
+ {
+  "region": "pons",
+  "pmid": "35609965",
+  "from": "Figure 3",
+  "caption": "Where the brainstem strokes of the patients overlapped, shown in coronal (a), sagittal (b) and axial (c) views. Warmer colors mean more patients had damage at that spot.",
+  "notice": "The hottest spots sit in the pons, so damage there is what the REM sleep changes in these patients line up with; lesion work points toward a causal role.",
+  "short": "Tellenbach et al. 2023, J Sleep Res",
+  "license": "",
+  "file": "pons_35609965.webp"
+ },
+ {
+  "region": "hippocampus",
+  "pmid": "10716738",
+  "from": "Figure 3a-b",
+  "caption": "Taxi drivers' posterior hippocampus (a) and a plot of its gray matter against months spent as a licensed London taxi driver (b).",
+  "notice": "The dots rise with time on the job, so more years of navigating goes with a bigger posterior hippocampus; this is a correlation, since the scans cannot show experience was the cause.",
+  "short": "Maguire et al. 2000, Proc Natl Acad Sci U S A",
+  "license": "",
+  "file": "hippocampus_10716738.webp"
+ },
+ {
+  "region": "salience_network",
+  "pmid": "36424874",
+  "from": "Figure 1A",
+  "caption": "For visceral sensations evoked by electrical stimulation, each labeled brain structure is colored and plotted by its odds ratio, a measure of how strongly stimulating it goes with that sensation.",
+  "notice": "Points on the web far from the center, such as the insula and the amygdala, are the sites where stimulation most often produced the sensation; stimulation shows cause, but for single sites rather than the whole network.",
+  "short": "Soulier et al. 2023, Ann Clin Transl Neurol",
+  "license": "CC BY",
+  "file": "salience_network_36424874.webp"
+ },
+ {
+  "region": "superior_longitudinal_fasciculus",
+  "pmid": "15597383",
+  "from": "Figure 3",
+  "caption": "Tractography of the fibers linking Broca's and Wernicke's territories in an average brain. The red long segment is the direct pathway, and the green and yellow segments form the indirect pathway through Geschwind's territory.",
+  "notice": "The two routes between the same ends are drawn in different colors, which is the direct and indirect pathway the card describes; tractography maps the paths but is not a test of cause.",
+  "short": "Catani et al. 2005, Ann Neurol",
+  "license": "",
+  "file": "superior_longitudinal_fasciculus_15597383.webp"
+ },
+ {
+  "region": "globus_pallidus_externus",
+  "pmid": "22726837",
+  "from": "Figure 1I-J",
+  "caption": "Mean firing rates of the two types of external pallidum neuron (GP-TI and GP-TA) in Parkinsonian rats during slow-wave activity (SWA) versus the activated brain state with beta oscillations.",
+  "notice": "The two cell types move in opposite directions between the states (GP-TI falls, GP-TA rises), which is why they count as two separate cell types; this is a recording, so a correlation.",
+  "short": "Mallet et al. 2012, Neuron",
+  "license": "CC BY",
+  "file": "globus_pallidus_externus_22726837.webp"
+ },
+ {
+  "region": "frontomarginal_gyrus",
+  "pmid": "16839301",
+  "from": "Figure 6",
+  "caption": "A map of rostral prefrontal cortex colored by which task type an algorithm predicted from an activation's position: multitask (green), episodic memory (blue) and mentalizing (red).",
+  "notice": "The blue memory area sits to the sides and the green multitask area at the front, matching the card's split; it comes from pooled imaging peaks, so it is a correlation.",
+  "short": "Gilbert et al. 2006, J Cogn Neurosci",
+  "license": "",
+  "file": "frontomarginal_gyrus_16839301.webp"
+ },
+ {
+  "region": "orbital_gyri",
+  "pmid": "30503621",
+  "from": "Figure 2B",
+  "caption": "Change in a mood score during lateral orbitofrontal stimulation compared with sham, at 1 mA and 6 mA, for patients with moderate to severe baseline depression (left) and minimal to mild (right).",
+  "notice": "Only the moderate-to-severe group shows a clear mood gain, and the 6 mA bar is taller than the 1 mA bar, which fits a dose effect; stimulation points to cause.",
+  "short": "Rao et al. 2018, Curr Biol",
+  "license": "",
+  "file": "orbital_gyri_30503621.webp"
+ },
+ {
+  "region": "superior_frontal_gyrus",
+  "pmid": "1941101",
+  "from": "Figure 5",
+  "caption": "Each dot is one stimulation trial. The horizontal axis is how far forward on the inner brain surface the electrode was, and the vertical axis is where on the body the movement appeared.",
+  "notice": "The upward trend shows a front-to-back body map in the medial frontal cortex, with forward sites reaching toward the face; stimulation shows cause.",
+  "short": "Fried et al. 1991, J Neurosci",
+  "license": "",
+  "file": "superior_frontal_gyrus_1941101.webp"
+ },
+ {
+  "region": "ventral_anterior_nucleus",
+  "pmid": "30023427",
+  "from": "Figure 3",
+  "caption": "Sagittal slices of human thalamus at 3.25 and 4.75 mm from the midline. On the left are the stained sections, and on the right are color maps of the traced nuclei, including the ventral anterior parts VAn and VAp.",
+  "notice": "The colored VA patches sit at the front of the thalamus beside the ventral lateral nucleus, which shows where this relay lies; the figure is anatomy, not a test of function.",
+  "short": "Ilinsky et al. 2018, eNeuro",
+  "license": "CC BY",
+  "file": "ventral_anterior_nucleus_30023427.webp"
+ }
+]

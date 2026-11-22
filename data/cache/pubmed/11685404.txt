@@ -1,0 +1,36 @@
+1. Exp Brain Res. 2001 Oct;140(4):505-10. doi: 10.1007/s002210100862.
+
+Suppression of the motor cortex by magnetic stimulation of the cerebellum.
+
+Pinto AD(1), Chen R.
+
+Author information:
+(1)Division of Neurology, Toronto Western Hospital and Toronto Western Research 
+Institute, University Health Network, University of Toronto, Toronto, Ontario, 
+Canada.
+
+Conditioning magnetic stimulation of the cerebellum suppresses the motor cortex 
+5-8 ms later, probably through activation of cerebellar Purkinje cells, which 
+inhibit the dentatothalamocortical pathway. To further characterize this 
+pathway, we examined several factors that may modulate its excitability. We 
+tested the effects of different test motor evoked potential (MEP) amplitudes, 
+voluntary activation of the target muscle, and arm extension that required 
+activation of proximal arm muscles while maintaining relaxation of hand muscles. 
+Surface electromyography was recorded from the right first dorsal interosseous 
+(FDI) muscle. A double-cone coil centered 3 cm lateral to the inion was used for 
+right cerebellar stimulation. The stimulus intensity was set at 5% below the 
+threshold for activation of the corticospinal tract. A figure-of-eight coil was 
+used for left motor cortex stimulation. Interstimulus intervals (ISIs) between 3 
+and 15 ms were studied. Small test MEPs of about 0.5 mV were markedly inhibited 
+at ISIs of 5-8 ms, but there was much less inhibition for test MEPs of about 2 
+mV. There was no significant MEP suppression during voluntary activation of the 
+FDI muscle or during right arm extension. Left arm extension did not affect 
+inhibition. Our findings indicate that cerebellar stimulation has a much 
+stronger effect on motor cortex neurons activated near threshold intensities 
+than those activated at higher intensities. Activation of contralateral but not 
+ipsilateral proximal arm muscles during arm extension reduced the excitability 
+of the cerebellothalamocortical projections to the hand area of the motor 
+cortex.
+
+DOI: 10.1007/s002210100862
+PMID: 11685404 [Indexed for MEDLINE]

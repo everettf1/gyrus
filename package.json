@@ -1,0 +1,6 @@
+{
+  "name": "gyrus",
+  "private": true,
+  "description": "Interactive 3D human brain atlas",
+  "devDependencies": { "playwright-core": "1.66.0-alpha-2026-11-18" }
+}

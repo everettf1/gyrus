@@ -1,0 +1,29 @@
+1. J Hist Neurosci. 2007 Oct-Dec;16(4):362-77. doi: 10.1080/09647040600620468.
+
+The complex history of the fronto-occipital fasciculus.
+
+Schmahmann JD(1), Pandya DN.
+
+Author information:
+(1)Ataxia Unit, Cognitive/Behavioral Neurology Unit, Department of Neurology, 
+Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114, 
+USA. jschmahmann@partners.org
+
+We investigated the history of the fronto-occipital fasciculus (FOF) and related 
+tracts in the cerebral white matter because of their contemporary relevance for 
+connectional neuroanatomy, magnetic resonance tractography, and clinical 
+neurology. The term "FOF" originated with Forel and Onufrowicz who misidentified 
+aberrant longitudinally oriented callosal fibers in patients with callosal 
+agenesis. This error was soon recognized, and Dejerine described an actual FOF 
+linking frontal and occipital lobes, but gross dissection and 
+lesion-degeneration methods could not distinguish the FOF from the subcallosal 
+fasciculus of Muratoff and neighboring white matter bundles. Subsequent 
+descriptions of a probably nonexistent "inferior FOF" have led to the FOF being 
+misnamed post-hoc "superior FOF," and other imprecise anatomical concepts and 
+terminologies from the early literature are still perpetuated. Our analysis of 
+brain fiber pathways using isotope anterograde tract tracers (Schmahmann & 
+Pandya, 2006) resolves the earlier uncertainties and provides hypotheses 
+regarding functions of these fiber pathways.
+
+DOI: 10.1080/09647040600620468
+PMID: 17966054 [Indexed for MEDLINE]

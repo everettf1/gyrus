@@ -1,0 +1,23 @@
+1. Nat Rev Neurosci. 2009 Nov;10(11):792-802. doi: 10.1038/nrn2733. Epub 2009 Oct
+ 8.
+
+What does the retrosplenial cortex do?
+
+Vann SD(1), Aggleton JP, Maguire EA.
+
+Author information:
+(1)School of Psychology, Cardiff University, Tower Building, Park Place, 
+Cardiff, CF10 3AT, UK. vannsd@Cardiff.ac.uk
+
+The past decade has seen a transformation in research on the retrosplenial 
+cortex (RSC). This cortical area has emerged as a key member of a core network 
+of brain regions that underpins a range of cognitive functions, including 
+episodic memory, navigation, imagination and planning for the future. It is now 
+also evident that the RSC is consistently compromised in the most common 
+neurological disorders that impair memory. Here we review advances on multiple 
+fronts, most notably in neuroanatomy, animal studies and neuroimaging, that have 
+highlighted the importance of the RSC for cognition, and consider why specifying 
+its precise functions remains problematic.
+
+DOI: 10.1038/nrn2733
+PMID: 19812579 [Indexed for MEDLINE]

@@ -1,0 +1,36 @@
+1. Curr Biol. 2007 Sep 18;17(18):1568-73. doi: 10.1016/j.cub.2007.07.063. Epub
+2007  Aug 30.
+
+TMS evidence for the involvement of the right occipital face area in early face 
+processing.
+
+Pitcher D(1), Walsh V, Yovel G, Duchaine B.
+
+Author information:
+(1)Institute of Cognitive Neuroscience, Department of Psychology, University 
+College London, Alexandra House, 17 Queen Square, London WC1N 3AR, United 
+Kingdom. d.pitcher@ucl.ac.uk
+
+Comment in
+    Curr Biol. 2007 Oct 23;17(20):R888-9. doi: 10.1016/j.cub.2007.08.008.
+
+Extensive research has demonstrated that several specialized cortical regions 
+respond preferentially to faces. One such region, located in the inferior 
+occipital gyrus, has been dubbed the occipital face area (OFA). The OFA is the 
+first stage in two influential face-processing models, both of which suggest 
+that it constructs an initial representation of a face, but how and when it does 
+so remains unclear. The present study revealed that repetitive transcranial 
+magnetic stimulation (rTMS) targeted at the right OFA (rOFA) disrupted accurate 
+discrimination of face parts but had no effect on the discrimination of spacing 
+between these parts. rTMS to left OFA had no effect. A matched part and spacing 
+discrimination task that used house stimuli showed no impairment. In a second 
+experiment, rTMS to rOFA replicated the face-part impairment but did not produce 
+the same effect in an adjacent area, the lateral occipital cortex. A third 
+experiment delivered double pulses of TMS separated by 40 ms at six periods 
+after stimulus presentation during face-part discrimination. Accuracy dropped 
+when pulses were delivered at 60 and 100 ms only. These findings indicate that 
+the rOFA processes face-part information at an early stage in the 
+face-processing stream.
+
+DOI: 10.1016/j.cub.2007.07.063
+PMID: 17764942 [Indexed for MEDLINE]

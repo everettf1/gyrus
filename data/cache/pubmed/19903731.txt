@@ -1,0 +1,36 @@
+1. Brain. 2010 Feb;133(Pt 2):320-32. doi: 10.1093/brain/awp281. Epub 2009 Nov 10.
+
+The enigma of Gerstmann's syndrome revisited: a telling tale of the vicissitudes 
+of neuropsychology.
+
+Rusconi E(1), Pinel P, Dehaene S, Kleinschmidt A.
+
+Author information:
+(1)Laboratories of Functional Neuroimaging, Center for Mind/Brain Sciences, 
+University of Trento, Via delle Regole, 101 38060 Mattarello, Italy. 
+elena.rusconi@gmail.com
+
+Eighty years ago, the Austrian neurologist Josef Gerstmann observed in a few 
+patients a concomitant impairment in discriminating their own fingers, writing 
+by hand, distinguishing left from right and performing calculations. He claimed 
+that this tetrad of symptoms constituted a syndromal entity, assigned it to a 
+lesion of the dominant parietal lobe and suggested that it was due to damage of 
+a common functional denominator. Ever since, these claims have been debated and 
+an astute synopsis and sceptical discussion was presented 40 years ago by 
+MacDonald Critchley in this journal. Nonetheless, Gerstmann's syndrome has 
+continued to intrigue both clinical neurologists and researchers in 
+neuropsychology, and more frequently than not is described in textbooks as an 
+example of parietal lobe damage. In this review, we revisit the chequered 
+history of this syndrome, which can be seen as a case study of the dialectic 
+evolution of concepts in neuropsychology. In light of several modern era 
+findings of pure cases we conclude that it is legitimate to label the 
+conjunction of symptoms first described by Gerstmann as a 'syndrome', but that 
+it is very unlikely that damage to the same population of cortical neurons 
+should account for all of the four symptoms. Instead, we propose that a pure 
+form of Gerstmann's syndrome might arise from disconnection, via a lesion, to 
+separate but co-localized fibre tracts in the subcortical parietal white matter, 
+a hypothesis for which we have recently provided evidence using combined imaging 
+of functional and structural organization in the healthy brain.
+
+DOI: 10.1093/brain/awp281
+PMID: 19903731 [Indexed for MEDLINE]

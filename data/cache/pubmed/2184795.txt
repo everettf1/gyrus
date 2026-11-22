@@ -1,0 +1,36 @@
+1. Arch Gen Psychiatry. 1990 May;47(5):411-8. doi: 
+10.1001/archpsyc.1990.01810170011002.
+
+Serotonin function and the mechanism of antidepressant action. Reversal of 
+antidepressant-induced remission by rapid depletion of plasma tryptophan.
+
+Delgado PL(1), Charney DS, Price LH, Aghajanian GK, Landis H, Heninger GR.
+
+Author information:
+(1)West Haven Veterans Administration Medical Center, CT 06516.
+
+Comment in
+    Arch Gen Psychiatry. 1995 Feb;52(2):154-6. doi: 
+10.1001/archpsyc.1995.03950140072010.
+    Arch Gen Psychiatry. 1993 Dec;50(12):1000-1. doi: 
+10.1001/archpsyc.1993.01820240084010.
+    Arch Gen Psychiatry. 2001 Feb;58(2):200-2. doi: 10.1001/archpsyc.58.2.200.
+
+Brain serotonin content is dependent on plasma levels of the essential amino 
+acid tryptophan. We investigated the behavioral effects of rapid tryptophan 
+depletion in patients in antidepressant-induced remission. Twenty-one patients 
+who were depressed by DSM-III-R criteria received a 24-hour, 160-mg/d, 
+low-tryptophan diet followed the next morning by a 16-amino acid drink, in a 
+double-blind, placebo-controlled (acute tryptophan depletion and control 
+testing), crossover fashion. Total and free tryptophan levels decreased 87% and 
+91%, respectively, during acute tryptophan depletion. Fourteen of the 21 
+remitted depressed patients receiving antidepressants experienced a depressive 
+relapse after the tryptophan-free amino acid drink, with gradual (24 to 48 
+hours) return to the remitted state on return to regular food intake. Control 
+testing produced no significant behavioral effects. Free plasma tryptophan level 
+was negatively correlated with depression score during acute tryptophan 
+depletion. The therapeutic effects of some antidepressant drugs may be dependent 
+on serotonin availability.
+
+DOI: 10.1001/archpsyc.1990.01810170011002
+PMID: 2184795 [Indexed for MEDLINE]

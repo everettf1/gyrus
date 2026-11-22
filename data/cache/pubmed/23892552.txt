@@ -1,0 +1,31 @@
+1. Nat Neurosci. 2013 Sep;16(9):1348-55. doi: 10.1038/nn.3470. Epub 2013 Jul 28.
+
+Multi-task connectivity reveals flexible hubs for adaptive task control.
+
+Cole MW(1), Reynolds JR, Power JD, Repovs G, Anticevic A, Braver TS.
+
+Author information:
+(1)Department of Psychology, Washington University in St. Louis, St. Louis, 
+Missouri, USA. mwcole@mwcole.net
+
+Comment in
+    Trends Cogn Sci. 2013 Dec;17(12):602-3. doi: 10.1016/j.tics.2013.10.001.
+
+Extensive evidence suggests that the human ability to adaptively implement a 
+wide variety of tasks is preferentially a result of the operation of a 
+fronto-parietal brain network (FPN). We hypothesized that this network's 
+adaptability is made possible by flexible hubs: brain regions that rapidly 
+update their pattern of global functional connectivity according to task 
+demands. Using recent advances in characterizing brain network organization and 
+dynamics, we identified mechanisms consistent with the flexible hub theory. We 
+found that the FPN's brain-wide functional connectivity pattern shifted more 
+than those of other networks across a variety of task states and that these 
+connectivity patterns could be used to identify the current task. Furthermore, 
+these patterns were consistent across practiced and novel tasks, suggesting that 
+reuse of flexible hub connectivity patterns facilitates adaptive (novel) task 
+performance. Together, these findings support a central role for fronto-parietal 
+flexible hubs in cognitive control and adaptive implementation of task demands.
+
+DOI: 10.1038/nn.3470
+PMCID: PMC3758404
+PMID: 23892552 [Indexed for MEDLINE]

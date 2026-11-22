@@ -1,0 +1,1495 @@
+[
+ {
+  "id": "premotor_cortex",
+  "aliases": [
+   "pmc",
+   "premotor area",
+   "lateral premotor cortex",
+   "area 6",
+   "pmd",
+   "pmv",
+   "dorsal premotor cortex",
+   "ventral premotor cortex"
+  ],
+  "hint": "lateral frontal strip directly ahead of the central strip",
+  "summary": "The lateral premotor cortex is the part of Brodmann area 6 on the outer surface of the frontal lobe, lying directly in front of the primary motor cortex. It has a dorsal division near the superior frontal sulcus and a ventral division near the inferior precentral sulcus. It receives visual and spatial information from the posterior parietal cortex and sends projections to the primary motor cortex, the spinal cord and the brainstem. It selects and prepares movements that are guided by external cues, such as reaching for a seen object or shaping the hand to grasp it.",
+  "where": "It forms a band on the lateral surface of the frontal lobe just anterior to the precentral gyrus, running from the superior frontal sulcus down toward the lateral sulcus. The dorsal part sits in the posterior superior and middle frontal gyri, and the ventral part sits above the pars opercularis. It shows best in a lateral view, and on this model it is drawn from HCP areas 6a, 6d, 6v and 6r.",
+  "does": "The lateral premotor cortex turns sensory cues into movement plans. The dorsal division is tied to reaching and to learned rules that link a cue to an action, and the ventral division is tied to grasping and hand shaping. Neurons here fire in preparation for a movement, before the primary motor cortex fires. In monkeys, area F5 in the ventral division holds mirror neurons that respond both when the animal grasps and when it watches another animal grasp, and human fMRI shows premotor activity when people watch actions, although how closely this matches the monkey result is debated. Left ventral premotor and inferior frontal regions also contribute to planning the articulation of speech.",
+  "connects": "Its main inputs come from the posterior parietal cortex (the dorsal visual stream), the prefrontal cortex and the basal ganglia and cerebellum through the ventral lateral thalamus. It projects to the primary motor cortex and sends its own corticospinal fibres to the spinal cord.",
+  "clinical": "Damage to the left premotor and parietal cortex produces apraxia, in which the patient can move normally but cannot plan or sequence skilled actions. Premotor lesions also impair selecting a movement from a visual cue and can release a contralateral grasp reflex. A resection of the left dorsal premotor cortex has caused apraxia of speech in a reported patient.",
+  "remember": "Premotor means before the motor strip: it decides which movement to make, and the primary motor cortex then sends the command.",
+  "facts": [
+   "The lateral premotor cortex lies in Brodmann area 6, directly anterior to the primary motor cortex (area 4).",
+   "It selects movements guided by external cues, while the supplementary motor area is more tied to internally generated movements.",
+   "Mirror neurons were first recorded in monkey area F5, part of the ventral premotor cortex."
+  ],
+  "quiz": [
+   {
+    "q": "Which lateral frontal region, directly anterior to the precentral gyrus, selects and prepares movements that are guided by visual cues?",
+    "type": "function"
+   },
+   {
+    "q": "A patient moves normally but cannot plan skilled actions after left frontoparietal damage, and cannot pick a movement from a visual cue. Which lateral frontal region is part of the lesion?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which lateral part of Brodmann area 6 sits just in front of the precentral gyrus, with a dorsal division near the superior frontal sulcus and a ventral one above the pars opercularis?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   7
+  ],
+  "see_also": [
+   "primary_motor_cortex",
+   "supplementary_motor_area",
+   "frontal_eye_field",
+   "brocas_area"
+  ],
+  "how_we_know": "Stimulation, TMS and lesions show that the premotor cortex is needed to choose and prepare movements, while fMRI shows which actions raise its activity, including when a person only watches someone else act. Human lesion evidence is mostly from single cases or small series, and the dorsal and ventral divisions are hard to separate in imaging.",
+  "evidence": [
+   {
+    "kind": "stimulation",
+    "claim": "TMS over premotor cortex delays choosing a movement after a cue",
+    "finding": "Healthy volunteers did simple and choice reaction-time tasks while TMS was applied over premotor or primary motor cortex. Stimulating premotor cortex 100 to 140 ms after the cue delayed responses in the choice task, but not in the simple task, so it disrupted an early stage of movement selection. Stimulating primary motor cortex delayed responses only later, at 300 to 340 ms. This is a causal result.",
+    "quote": "We found that we were able to delay responses by stimulating at short cue-stimulus intervals (100-140 ms) over premotor cortex and at longer cue-stimulus intervals (300-340 ms) over primary motor cortex while subjects performed the choice reaction-time task with the contralateral hand.",
+    "pmid": "9619185",
+    "doi": "10.1093/brain/121.5.785",
+    "cite": "Schluter ND, Rushworth MF, Passingham RE, et al. Temporary interference in human lateral premotor cortex suggests dominance for the selection of movements. A study using transcranial magnetic stimulation. Brain. 1998;121(5):785-99.",
+    "year": 1998
+   },
+   {
+    "kind": "imaging",
+    "claim": "Watching actions activates premotor cortex in a body-part map",
+    "finding": "fMRI was used while volunteers watched actions made with the mouth, hand and foot. Observing the actions activated premotor cortex in a somatotopic pattern that resembled the motor homunculus, which suggests that the observer's own motor system is engaged. This is correlational: it shows premotor cortex is active, not that it is needed to understand the action.",
+    "quote": "Observation of both object- and non-object-related actions determined a somatotopically organized activation of premotor cortex. The somatotopic pattern was similar to that of the classical motor cortex homunculus.",
+    "pmid": "11168545",
+    "doi": "",
+    "cite": "Buccino G, Binkofski F, Fink GR, et al. Action observation activates premotor and parietal areas in a somatotopic manner: an fMRI study. Eur J Neurosci. 2001;13(2):400-4.",
+    "year": 2001
+   },
+   {
+    "kind": "lesion",
+    "claim": "Damage to dorsal premotor cortex can cause a speech planning disorder",
+    "finding": "A right-handed man had a recurrent grade III astrocytoma removed from the left dorsal premotor cortex in the posterior middle frontal gyrus. Afterward his comprehension, naming and orofacial strength were intact, but he had marked difficulty coordinating articulation, fluency and prosody, which fits pure apraxia of speech. It is a single case.",
+    "quote": "After the procedure, he experienced significant long-term speech production difficulties. A battery of standard and custom language and articulatory assessments were administered, revealing intact comprehension and naming abilities, and preserved strength in orofacial articulators, but considerable deficits in articulatory coordination, fluency, and prosody-consistent with diagnosis of pure apraxia of speech.",
+    "pmid": "32097489",
+    "doi": "10.1093/neuros/nyaa002",
+    "cite": "Chang EF, Kurteff G, Andrews JP, et al. Pure apraxia of speech after resection based in the posterior middle frontal gyrus. Neurosurgery. 2020;87(3):E383-E389.",
+    "year": 2020
+   }
+  ],
+  "stimulation": {
+   "method": "transcranial magnetic stimulation",
+   "effect": "TMS over left or right premotor cortex shortly after a visual cue slowed the contralateral hand in a choice task. Over the left premotor cortex it also slowed the ipsilateral hand, which points to left hemisphere dominance for selecting movements.",
+   "quote": "We were also able to delay responses with the ipsilateral hand while stimulating over the left premotor cortex, but not while stimulating over the right premotor cortex or either sensorimotor cortex.",
+   "pmid": "9619185",
+   "doi": "10.1093/brain/121.5.785",
+   "cite": "Schluter ND, Rushworth MF, Passingham RE, et al. Temporary interference in human lateral premotor cortex suggests dominance for the selection of movements. A study using transcranial magnetic stimulation. Brain. 1998;121(5):785-99.",
+   "year": 1998
+  }
+ },
+ {
+  "id": "supplementary_motor_area",
+  "aliases": [
+   "sma",
+   "sma proper",
+   "supplementary motor cortex"
+  ],
+  "hint": "medial frontal strip just ahead of the leg zone, above the cingulate",
+  "summary": "The supplementary motor area proper is the caudal part of Brodmann area 6 on the medial surface of the frontal lobe. It lies in the superior frontal gyrus, anterior to the leg representation of the primary motor cortex and above the cingulate sulcus. It receives input from the basal ganglia and cerebellum through the thalamus and projects to the primary motor cortex and the spinal cord. It helps start and sequence movements that are generated from within, such as a planned series of finger movements, and it has a rough body map.",
+  "where": "It is on the medial surface of the hemisphere, in the posterior part of the superior frontal gyrus, in front of the paracentral lobule and above the cingulate sulcus. Its anterior border is taken as a vertical line through the anterior commissure, beyond which lies the pre-supplementary motor area. It is best seen in a medial view. The model draws it as HCP area 6mp, the closest match to SMA proper, so the outline is approximate.",
+  "does": "The supplementary motor area contributes to starting movements that are not triggered by an external cue and to sequencing them in the right order. Its neurons begin firing well before a self-paced movement, and recordings in epilepsy patients show a build-up in SMA activity before people report deciding to move. It also coordinates the two hands and holds learned motor sequences. Electrical stimulation reveals a body map, with the legs represented behind the arms and the face most anteriorly.",
+  "connects": "It receives input from the ventral lateral thalamus, which relays the basal ganglia and cerebellum, and from the cingulate motor areas and the parietal cortex. It projects to the primary motor cortex, the contralateral SMA through the corpus callosum, the striatum, and the spinal cord through its own corticospinal fibres.",
+  "clinical": "After surgery on the medial frontal lobe, patients can develop the SMA syndrome: reduced movement on the opposite side (akinesia) and, with left-sided damage, reduced or absent speech, which recovers over days to months. Medial frontal damage can also produce the anarchic hand, in which one hand makes purposeful movements the patient does not intend. Stimulation of this area can evoke an urge to move or complex movements involving several joints.",
+  "remember": "Supplementary means backup motor strip: it gets movements going from the inside, without a cue from the outside.",
+  "facts": [
+   "The SMA lies on the medial surface, anterior to the leg area of the primary motor cortex.",
+   "Stimulation of the SMA can evoke an urge to move, and the SMA body map runs legs, arms, then face from back to front.",
+   "Left SMA damage after surgery can cause transient mutism and weakness of the opposite side that recover over weeks."
+  ],
+  "quiz": [
+   {
+    "q": "Which medial frontal area fires before self-initiated movements and sequences movements without an external cue?",
+    "type": "function"
+   },
+   {
+    "q": "After a left medial frontal tumor resection, a patient has weakness of the right side and almost no speech, and both recover over weeks. Which area was resected?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which part of Brodmann area 6 lies on the medial surface of the hemisphere, directly in front of the leg area of the primary motor cortex?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   7,
+   13
+  ],
+  "see_also": [
+   "pre_supplementary_motor_area",
+   "primary_motor_cortex",
+   "paracentral_lobule",
+   "premotor_cortex"
+  ],
+  "how_we_know": "Electrical stimulation in epilepsy patients shows what the area can cause, and recordings from single neurons show what it does before a voluntary movement. The surgical syndrome shows what is lost when it is removed, but resections usually include nearby cortex. fMRI and PET show it is active in motor tasks, which is correlational.",
+  "evidence": [
+   {
+    "kind": "stimulation",
+    "claim": "Stimulating the SMA gives a body map and an urge to move",
+    "finding": "Subdural electrode grids were placed on the medial surface in 13 patients with intractable epilepsy, and the SMA was stimulated below the threshold for afterdischarges. Stimulation showed a body map with the legs behind, the arms in the middle and the head and face most anterior. Some patients also reported an urge to move, which is a causal result.",
+    "quote": "In this study, subdural electrode grids were placed on the medial surface of the cerebral hemispheres in 13 patients with intractable epilepsy undergoing evaluation for surgical treatment. Electrical stimulation mapping with currents below the threshold of afterdischarges showed somatotopic organization of supplementary motor cortex with the lower extremities represented posteriorly, head and face most anteriorly, and the upper extremities between these two regions.",
+    "pmid": "1941101",
+    "doi": "10.1523/JNEUROSCI.11-11-03656.1991",
+    "cite": "Fried I, Katz A, McCarthy G, et al. Functional organization of human supplementary motor cortex studied by electrical stimulation. J Neurosci. 1991;11(11):3656-66.",
+    "year": 1991
+   },
+   {
+    "kind": "recording",
+    "claim": "SMA neurons signal an upcoming decision to move before awareness",
+    "finding": "The activity of 1019 neurons was recorded in twelve subjects while they made self-initiated finger movements. Firing rates in the SMA changed progressively as the reported time of decision approached. A population of 256 SMA neurons predicted the decision to move in single trials with accuracy above 80% already 700 ms before the subjects reported being aware of it.",
+    "quote": "A population of 256 SMA neurons is sufficient to predict in single trials the impending decision to move with accuracy greater than 80% already 700 ms prior to subjects' awareness.",
+    "pmid": "21315264",
+    "doi": "10.1016/j.neuron.2010.11.045",
+    "cite": "Fried I, Mukamel R, Kreiman G. Internally generated preactivation of single neurons in human medial frontal cortex predicts volition. Neuron. 2011;69(3):548-62.",
+    "year": 2011
+   },
+   {
+    "kind": "imaging",
+    "claim": "The SMA is active during simple and complex movements",
+    "finding": "Regional cerebral blood flow was measured with PET in nine volunteers who made saccades or finger movements. The SMA was active in every motor task and its activity did not depend on how complex the task was, which led the authors to suggest it sets up a general motor set. This is correlational.",
+    "quote": "Nine paid normal volunteers were studied. The supplementary motor area (SMA) was consistently active during all motor tasks and was uninfluenced by the degree of task complexity or stochasticity.",
+    "pmid": "3875696",
+    "doi": "10.1152/jn.1985.54.2.348",
+    "cite": "Fox PT, Fox JM, Raichle ME, Burde RM. The role of cerebral cortex in the generation of voluntary saccades: a positron emission tomographic study. J Neurophysiol. 1985;54(2):348-69.",
+    "year": 1985
+   },
+   {
+    "kind": "lesion",
+    "claim": "Surgery on the SMA causes a motor and speech syndrome that recovers",
+    "finding": "A systematic review of 31 studies covered 236 patients who developed SMA syndrome after tumor surgery. Almost all had motor deficits and about half had speech disorders, and the symptoms began within 24 hours. Most recovered completely, but about a fifth had lasting symptoms.",
+    "quote": "Postoperative SMAS symptoms occurred within 24 hours after surgery, characterized by motor deficits (97%), including paresis (68.6%) and hemiplegia (16.1%), and speech disorders (53%), including hesitancy (24.2%) and mutism (22%).",
+    "pmid": "35752423",
+    "doi": "10.1016/j.wneu.2022.06.080",
+    "cite": "Palmisciano P, Haider AS, Balasubramanian K, et al. Supplementary motor area syndrome after brain tumor surgery: a systematic review. World Neurosurg. 2022;165:160-171.e2.",
+    "year": 2022,
+    "data": {
+     "title": "Percent of 236 patients with each symptom after SMA surgery",
+     "unit": "%",
+     "items": [
+      [
+       "Motor deficits",
+       97
+      ],
+      [
+       "Paresis",
+       68.6
+      ],
+      [
+       "Hemiplegia",
+       16.1
+      ],
+      [
+       "Speech disorders",
+       53
+      ],
+      [
+       "Speech hesitancy",
+       24.2
+      ],
+      [
+       "Mutism",
+       22
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": {
+   "method": "subdural electrical stimulation",
+   "effect": "Stimulating the SMA evoked movements of the opposite side that often involved several joints. In some cases patients first felt an urge to move or expected that a movement was about to happen.",
+   "quote": "In some cases a preliminary sensation of \"urge\" to perform a movement or anticipation that a movement was about to occur were evoked.",
+   "pmid": "1941101",
+   "doi": "10.1523/JNEUROSCI.11-11-03656.1991",
+   "cite": "Fried I, Katz A, McCarthy G, et al. Functional organization of human supplementary motor cortex studied by electrical stimulation. J Neurosci. 1991;11(11):3656-66.",
+   "year": 1991
+  }
+ },
+ {
+  "id": "pre_supplementary_motor_area",
+  "aliases": [
+   "pre sma",
+   "presma",
+   "pre-sma",
+   "rostral sma",
+   "anterior sma"
+  ],
+  "hint": "medial strip of the superior gyrus, ahead of the starter zone",
+  "summary": "The pre-supplementary motor area is the rostral part of medial Brodmann area 6, in front of the supplementary motor area proper. It lies in the superior frontal gyrus on the medial surface, above the anterior cingulate gyrus. Unlike the SMA proper it has little direct projection to the spinal cord and is linked mainly to the prefrontal cortex and the striatum. It contributes to selecting between actions, stopping them and switching between them, and to choosing words for speech.",
+  "where": "It lies on the medial surface of the superior frontal gyrus, in front of the SMA proper (anterior to a vertical line through the anterior commissure) and behind the medial prefrontal cortex, above the cingulate sulcus. It is best seen in a medial view. The model draws it as HCP area 6ma, an approximation, because the pre-SMA is defined by its position and connections more than by one clear architectonic border.",
+  "does": "The pre-supplementary motor area supports control of action: choosing between competing responses, stopping an action that is under way and switching to a new task. Activity here rises when a movement must be chosen freely and when responses conflict, and imaging separates parts of it that respond to free choice from parts that respond to conflict. It also helps select words, and it forms part of the circuit that links the frontal cortex to the subthalamic nucleus for rapid stopping.",
+  "connects": "It connects with the prefrontal cortex, the anterior cingulate cortex and the striatum, and it sends fibres to the SMA proper. The frontal aslant tract links the pre-SMA and SMA to the inferior frontal gyrus, which supports speech initiation.",
+  "clinical": "Direct stimulation of the left pre-SMA has produced isolated anomia (a failure to name objects) in a patient during language mapping. Damage to the medial frontal cortex can produce reduced spontaneous speech and movement, and surgeons try to spare the frontal aslant tract. Abnormal activity in this region is reported in Parkinson's disease and in disorders of impulse and urge control, but those links are correlational.",
+  "remember": "Pre-SMA is the planner and brake, the SMA proper is the starter: pre-SMA decides which and whether, SMA proper gets it going.",
+  "facts": [
+   "The pre-SMA lies anterior to the vertical line through the anterior commissure; the SMA proper lies behind it.",
+   "It has little direct corticospinal projection, unlike the SMA proper.",
+   "The frontal aslant tract connects the pre-SMA and SMA with the inferior frontal gyrus."
+  ],
+  "quiz": [
+   {
+    "q": "Which medial frontal area helps stop an action, switch tasks and resolve response conflict, and has few fibres to the spinal cord?",
+    "type": "function"
+   },
+   {
+    "q": "Stimulating this medial frontal area during language mapping made a patient fail to name objects while speech was otherwise intact. Which area?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which part of medial Brodmann area 6 lies anterior to a vertical line through the anterior commissure, in front of the SMA proper?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   7,
+   12,
+   13
+  ],
+  "see_also": [
+   "supplementary_motor_area",
+   "dorsomedial_prefrontal_cortex",
+   "anterior_cingulate_cortex",
+   "brocas_area"
+  ],
+  "how_we_know": "fMRI shows that the pre-SMA responds to freely chosen actions and to conflict, and TMS and cortical stimulation in patients show it is needed for stopping and for word selection. Many of the stimulation results are small studies or single cases, and the pre-SMA border with the SMA proper is functional rather than sharp.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Parts of the pre-SMA respond either to volition or to conflict",
+    "finding": "The authors combined an eye-movement task with fMRI to separate free choice of an action from conflict between actions. The pre-SMA divided into anatomically distinct areas that responded exclusively to volition or exclusively to conflict. This is correlational but it shows the region is not one uniform unit.",
+    "quote": "Here, we combine a novel behavioral paradigm with functional imaging of the oculomotor system to reveal, for the first time, a functional subdivision of the pre-supplementary motor area (pre-SMA) into anatomically distinct areas that respond exclusively to either volition or conflict.",
+    "pmid": "15668167",
+    "doi": "10.1016/j.cub.2005.01.006",
+    "cite": "Nachev P, Rees G, Parton A, et al. Volition and conflict in human medial frontal cortex. Curr Biol. 2005;15(2):122-8.",
+    "year": 2005
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Stimulating the pre-SMA slows responses and increases stopping errors",
+    "finding": "Eight epilepsy patients with electrodes over the frontal lobe did a Go/No-Go task, and brief 50 Hz stimulation was applied at sites that showed large No-Go potentials. Stimulation prolonged Go reaction time at two thirds of the 12 sites and caused more No-Go errors at a quarter of them, including a site in the left pre-SMA. The authors conclude that the pre-SMA and posterior middle frontal gyrus have a direct role in response inhibition.",
+    "quote": "Brief stimulation prolonged Go reaction time at most stimulation sites (66.7%) [P < 0.0001, effect size (d) = 0.30, Wilcoxon rank sum test], and increased No-Go error at some stimulation sites (25.0%: left posterior middle frontal gyrus and left pre-supplementary motor area).",
+    "pmid": "35982946",
+    "doi": "10.1093/braincomms/fcac204",
+    "cite": "Takeyama H, Matsumoto R, Usami K, et al. Secondary motor areas for response inhibition: an epicortical recording and stimulation study. Brain Commun. 2022;4(4):fcac204.",
+    "year": 2022,
+    "data": {
+     "title": "Percent of stimulation sites with each effect",
+     "unit": "%",
+     "items": [
+      [
+       "Longer Go reaction time",
+       66.7
+      ],
+      [
+       "More No-Go errors",
+       25.0
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "stimulation",
+    "claim": "TMS over the right pre-SMA worsens the ability to stop an action",
+    "finding": "Volunteers did a stop-switching task while single TMS pulses were applied over the right pre-SMA, and the results were compared with sham stimulation and the vertex. Pulses over the pre-SMA significantly worsened inhibition, but did not worsen switching trials. Theta-burst stimulation over the right inferior frontal gyrus also delayed stopping, which points to a pre-SMA and inferior frontal gyrus partnership.",
+    "quote": "Significant worsening of inhibition as well as response adaptation during inhibition was found when applying pulses over the pre-SMA. However, no such worsening was observed in switch trials.",
+    "pmid": "23616761",
+    "doi": "10.3389/fnhum.2013.00150",
+    "cite": "Obeso I, Robles N, Marron EM, Redolar-Ripoll D. Dissociating the role of the pre-SMA in response inhibition and switching: a combined online and offline TMS approach. Front Hum Neurosci. 2013;7:150.",
+    "year": 2013
+   }
+  ],
+  "stimulation": {
+   "method": "direct cortical stimulation in language mapping",
+   "effect": "Stimulating the anterior supplementary motor area (pre-SMA) in one patient during preoperative language mapping produced isolated anomia, a failure to name objects. This is a single case, and it matches fMRI evidence that the region helps select words.",
+   "quote": "Here, we report a patient who experienced isolated anomia during stimulation of the anterior supplementary motor area and discuss the role of the supplementary motor area in speech production.",
+   "pmid": "26030473",
+   "doi": "10.1684/epd.2015.0750",
+   "cite": "Rozanski VE, Peraud A, Noachtar S. Anomia produced by direct cortical stimulation of the pre-supplementary motor area in a patient undergoing preoperative language mapping. Epileptic Disord. 2015;17(2):184-7.",
+   "year": 2015
+  }
+ },
+ {
+  "id": "frontal_eye_field",
+  "aliases": [
+   "fef",
+   "frontal eye fields"
+  ],
+  "hint": "back of the middle gyrus, at the precentral sulcus junction",
+  "summary": "The frontal eye field is a patch of lateral premotor cortex that controls voluntary eye movements. It lies at the junction of the precentral sulcus and the superior frontal sulcus, in the posterior middle frontal gyrus. It receives visual and spatial input from the parietal cortex and projects to the superior colliculus and the brainstem gaze centres. It generates saccades to the opposite side, takes part in smooth pursuit, and directs spatial attention and visual search.",
+  "where": "It sits on the lateral surface of the frontal lobe at the point where the precentral sulcus meets the superior frontal sulcus, at the back of the middle frontal gyrus. Classic atlases put it in Brodmann area 8, but PET, fMRI and stimulation studies place it nearer the precentral sulcus. It is best seen in a lateral or dorsolateral view, in front of the dorsal premotor cortex.",
+  "does": "The frontal eye field drives voluntary saccades, the rapid eye movements that put a target on the fovea. Stimulating it moves the eyes toward the opposite side. It also contributes to smooth pursuit and to the selection of targets in a visual scene, and it boosts activity in visual cortex for the attended location, so it acts in covert attention as well as in eye movement. The supplementary eye field and the parietal eye field work with it in a saccade network.",
+  "connects": "It receives input from the lateral intraparietal area, the middle temporal visual areas and the prefrontal cortex. It projects to the superior colliculus, the caudate nucleus and the brainstem saccade generators in the paramedian pontine reticular formation, and it works with the cerebellum and basal ganglia.",
+  "clinical": "An acute lesion of the frontal eye field deviates the eyes toward the side of the lesion, because the intact side pushes the eyes the other way, and gaze usually recovers within days to weeks. An irritative seizure focus here turns the eyes and head away from the side of the focus (an adversive seizure). Lesions also delay contralateral saccades and impair saccades made to remembered targets.",
+  "remember": "Each frontal eye field pushes the eyes to the opposite side, so a destructive lesion leaves the eyes looking at the lesion.",
+  "facts": [
+   "The frontal eye field sits at the junction of the precentral sulcus and the superior frontal sulcus.",
+   "Stimulating it makes the eyes move to the contralateral side.",
+   "After an acute lesion, the eyes deviate toward the side of the lesion."
+  ],
+  "quiz": [
+   {
+    "q": "Which lateral frontal region drives voluntary saccades to the opposite side and sends output to the superior colliculus?",
+    "type": "function"
+   },
+   {
+    "q": "After an acute left frontal stroke, a patient's eyes are deviated to the left, and later they move normally again. Which cortical region was damaged?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which area sits where the precentral sulcus meets the superior frontal sulcus, at the back of the middle frontal gyrus?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   7
+  ],
+  "see_also": [
+   "lateral_intraparietal_area",
+   "premotor_cortex",
+   "dorsolateral_prefrontal_cortex",
+   "inferior_frontal_junction"
+  ],
+  "how_we_know": "Electrical stimulation in epilepsy patients and TMS show that this region can drive and disrupt eye movements, and strokes in small series show which eye movements fail when it is damaged. PET and fMRI mark its location, but the exact coordinates vary across people.",
+  "evidence": [
+   {
+    "kind": "stimulation",
+    "claim": "Stimulation of the posterior middle frontal gyrus evokes eye movements",
+    "finding": "Electrical stimulation was applied to the lateral frontal cortex of six patients with epilepsy, and sites that produced eye movements were plotted against gyri, sulci and Talairach coordinates. The electrically defined frontal eye field was placed within a larger oculomotor region on the posterior part of the middle frontal gyrus. This is a causal result.",
+    "quote": "We applied electrical cortical stimulation in the lateral frontal cortex in six epileptic patients. Sites whose stimulation resulted in eye movements were determined with respect to gyral and sulcal patterns, Talairach coordinates and neighboring functions as found by electrical cortical stimulation.",
+    "pmid": "10884042",
+    "doi": "10.1097/00001756-200006260-00021",
+    "cite": "Blanke O, Spinelli L, Thut G, et al. Location of the human frontal eye field as defined by electrical cortical stimulation: anatomical, functional and electrophysiological characteristics. Neuroreport. 2000;11(9):1907-13.",
+    "year": 2000
+   },
+   {
+    "kind": "lesion",
+    "claim": "A frontal eye field lesion impairs saccades and pursuit",
+    "finding": "Eye movements were recorded in three patients with a small ischemic lesion of the left frontal eye field and in 12 control subjects. The patients had delayed saccades, reduced accuracy of contralateral saccades, fewer predictive saccades and impaired pursuit, mostly toward the side of the lesion.",
+    "quote": "Eye movements were recorded electro-oculographically in three patients with a small ischemic lesion affecting the left frontal eye field (FEF) and in 12 control subjects. The results show, for the first time in humans, that the FEF plays an important role in (1) the disengagement from central fixation, (2) the control of contralateral saccades programmed using retinotopic coordinates, (3) saccade prediction and (4) the control of smooth pursuit and OKN, mainly ipsilaterally.",
+    "pmid": "7895787",
+    "doi": "10.1007/BF00232443",
+    "cite": "Rivaud S, Muri RM, Gaymard B, et al. Eye movement disorders after frontal eye field lesions in humans. Exp Brain Res. 1994;102(1):110-20.",
+    "year": 1994
+   },
+   {
+    "kind": "imaging",
+    "claim": "The frontal eye fields are active during voluntary saccades",
+    "finding": "Cerebral blood flow was measured with PET in nine volunteers who made voluntary saccades. The frontal eye fields were discrete regions that were consistently active during saccades regardless of the target, the cue or the task complexity, which indicated a predominantly motor role. This is correlational.",
+    "quote": "Nine paid normal volunteers were studied. The frontal eye fields were discrete cortical regions consistently active during the generation of voluntary SEMs and uninfluenced by target presence, type of cue, or task complexity, indicating a predominantly motor function.",
+    "pmid": "3875696",
+    "doi": "10.1152/jn.1985.54.2.348",
+    "cite": "Fox PT, Fox JM, Raichle ME, Burde RM. The role of cerebral cortex in the generation of voluntary saccades: a positron emission tomographic study. J Neurophysiol. 1985;54(2):348-69.",
+    "year": 1985
+   },
+   {
+    "kind": "stimulation",
+    "claim": "TMS over the frontal eye field disrupts visual search",
+    "finding": "Volunteers searched for a target defined by a combination of features and signalled its presence with an eye movement. TMS over the frontal eye field reduced accuracy, but TMS over the posterior parietal cortex did not, whereas with a manual response parietal TMS did disrupt search. The authors conclude that the frontal eye field contributes to visual target detection independent of the response used.",
+    "quote": "Task disruption was seen with FEF TMS (with reduced accuracy on the task) but not with PPC stimulation.",
+    "pmid": "21490286",
+    "doi": "10.1152/jn.01149.2009",
+    "cite": "Muggleton NG, Kalla R, Juan CH, Walsh V. Dissociating the contributions of human frontal eye fields and posterior parietal cortex to visual search. J Neurophysiol. 2011;105(6):2891-6.",
+    "year": 2011
+   }
+  ],
+  "stimulation": {
+   "method": "direct cortical stimulation in epilepsy patients",
+   "effect": "Stimulating the dorsolateral frontal cortex including the frontal eye field in five patients produced eye movements that were always to the opposite side, horizontal or oblique upward from the primary position. The direction changed when the eyes started from an eccentric position.",
+   "quote": "The five patients of the study underwent invasive presurgical evaluation for pharmacoresistant epilepsy. The present data show that the direction of electrically induced eye movements was always contralateral and either horizontal or oblique upward if the eye started from the primary position.",
+   "pmid": "12677314",
+   "doi": "10.1007/s00221-003-1395-7",
+   "cite": "Blanke O, Seeck M. Direction of saccadic and smooth eye movements induced by electrical stimulation of the human frontal eye field: effect of orbital position. Exp Brain Res. 2003;150(2):174-83.",
+   "year": 2003
+  }
+ },
+ {
+  "id": "area_55b",
+  "aliases": [
+   "55b"
+  ],
+  "hint": "posterior middle frontal gyrus premotor patch near the eye-field",
+  "summary": "Area 55b is a small premotor area in the posterior middle frontal gyrus that was named in the HCP multimodal parcellation. It lies just in front of the dorsal premotor cortex and close to the frontal eye field. It is linked by the superior longitudinal fasciculus to language areas in the temporal and inferior frontal cortex. Imaging and case reports tie it to speech planning, syntax and the semantic network, although it is not a classic language area.",
+  "where": "Area 55b lies in the dorsal premotor region on the lateral surface of the frontal lobe, in the posterior part of the middle frontal gyrus, just anterior to the precentral gyrus and near the frontal eye field. It is best seen in a lateral view of the left hemisphere, above the pars opercularis (Broca's area). The posterior middle frontal gyrus is also where Exner's writing area has been placed, but how closely the two match is not settled.",
+  "does": "Area 55b is activated by language tasks in the HCP data and sits in the frontal language network with areas 44 and 45. Its function is best described as planning the production of fluent speech, including syntax and articulation, and helping the semantic network link meaning to speech output. Resecting this region has caused apraxia of speech in a reported patient. The evidence for its exact role is still thin, because it was identified recently and much of it comes from imaging and a few surgical cases.",
+  "connects": "Tractography links it to the superior longitudinal fasciculus (arcuate fascicle), the route to the language areas of the temporal and parietal lobes. Effective connectivity analysis shows that it receives input from semantic systems in the superior temporal sulcus and projects to areas 44 and 45.",
+  "clinical": "Resection of the posterior middle frontal gyrus in the left hemisphere, probably overlapping 55b, has caused pure apraxia of speech, with intact comprehension and naming but poor articulatory coordination and prosody. It is now taken into account in presurgical mapping for glioma, because fMRI frequently shows it during semantic tasks, but fMRI is not specific for it. It is not part of the textbook Broca or Wernicke model.",
+  "remember": "Area 55b is the premotor patch that links the eye-field neighbourhood to speech: a language area hidden in a motor region.",
+  "facts": [
+   "Area 55b was identified in the Glasser HCP parcellation and is not in older Brodmann maps.",
+   "It sits in the dorsal premotor region of the posterior middle frontal gyrus.",
+   "A resection that overlapped it caused pure apraxia of speech with preserved comprehension and naming."
+  ],
+  "quiz": [
+   {
+    "q": "Which small premotor area in the posterior middle frontal gyrus, named in the HCP parcellation, takes part in speech planning and the frontal language network?",
+    "type": "function"
+   },
+   {
+    "q": "A man has fluent comprehension and naming but cannot coordinate articulation after a resection in the left posterior middle frontal gyrus. Which newly described area is implicated?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which area connects through the superior longitudinal fasciculus to language regions and lies near the frontal eye field in dorsal premotor cortex?",
+    "type": "connection"
+   }
+  ],
+  "refs": [
+   3,
+   7,
+   12
+  ],
+  "see_also": [
+   "brocas_area",
+   "frontal_eye_field",
+   "premotor_cortex",
+   "superior_longitudinal_fasciculus"
+  ],
+  "how_we_know": "Most evidence is from imaging in healthy volunteers and patients, meta-analyses of language fMRI, and a few surgical cases, so it is mainly correlational. There is little direct electrical stimulation evidence that names 55b specifically.",
+  "evidence": [
+   {
+    "kind": "meta-analysis",
+    "claim": "Area 55b belongs to the left frontal semantic network",
+    "finding": "The authors pooled 155 task-based fMRI studies on categorizing words and objects and built a network model from HCP areas. Fourteen left-hemisphere areas were part of the network, including 55b with areas 44, 45 and IFJa. It is correlational and it shows 55b is active in semantic tasks, not that it is needed.",
+    "quote": "One hundred and fifty-five task-based fMRI studies related to categorization of visual words and objects, and auditory words and stories were used to generate an activation likelihood estimation (ALE). The ALE analysis demonstrated fourteen left hemisphere cortical regions to be a part of the semantic network: 44, 45, 55b, IFJa, 8C, p32pr, SFL, SCEF, 8BM, STSdp, STSvp, TE1p, PHT, and PBelt.",
+    "pmid": "33599397",
+    "doi": "10.1002/brb3.2065",
+    "cite": "Milton CK, Dhanaraj V, Young IM, et al. Parcellation-based anatomic model of the semantic network. Brain Behav. 2021;11(4):e02065.",
+    "year": 2021
+   },
+   {
+    "kind": "connectivity",
+    "claim": "Area 55b receives input from semantic regions and supports speech output",
+    "finding": "Effective connectivity between 26 language regions and 360 cortical regions was measured in 171 people from the Human Connectome Project. A frontal group that includes 44, 45 and 55b received connectivity from two semantic systems and was linked to syntax and speech output. This is a connectivity result, so it shows direction of influence by modelling and does not show necessity.",
+    "quote": "To advance understanding of brain networks involved in language, the effective connectivity between 26 cortical regions implicated in language by a community analysis and 360 cortical regions was measured in 171 humans from the Human Connectome Project, and complemented with functional connectivity and diffusion tractography, all using the HCP multimodal parcellation atlas. A third largely frontal network (Group 2) (44, 45, 47l; 55b; the Superior Frontal Language region SFL; and including temporal pole TGv) receives effective connectivity from the two semantic systems, and is implicated in syntax and speech output.",
+    "pmid": "35659999",
+    "doi": "10.1016/j.neuroimage.2022.119352",
+    "cite": "Rolls ET, Deco G, Huang CC, Feng J. The human language effective connectome. Neuroimage. 2022;258:119352.",
+    "year": 2022
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Presurgical fMRI picks up 55b but is poorly specific for it",
+    "finding": "Forty patients with gliomas had preoperative fMRI and then awake craniotomy with direct electrical stimulation as the reference standard. fMRI was good at finding motor area 4 and the language areas, but a semantic task found 55b with 100% sensitivity and only 20% specificity. The authors conclude 55b can act as a critical area in language networks.",
+    "quote": "Functional MRI had a sensitivity and specificity of 100% and 71%, respectively, for motor function in HCP area 4. Sensitivity and specificity were different according to the area and fMRI protocol; i.e., semantic protocols performed better in Brodmann area (BA) 55b/peri-sylvian language areas with 100% sensitivity and 20% specificity, and word production protocols in BAs 44 and 45 with 70% sensitivity and 80% specificity.",
+    "pmid": "36455268",
+    "doi": "10.3171/2022.9.FOCUS2283",
+    "cite": "Bennett C, Gonzalez M, Tapia G, et al. Cortical mapping in glioma surgery: correlation of fMRI and direct electrical stimulation with Human Connectome Project parcellations. Neurosurg Focus. 2022;53(6):E2.",
+    "year": 2022,
+    "data": {
+     "title": "fMRI accuracy against direct electrical stimulation",
+     "unit": "%",
+     "items": [
+      [
+       "Area 4 sensitivity",
+       100
+      ],
+      [
+       "Area 4 specificity",
+       71
+      ],
+      [
+       "55b sensitivity",
+       100
+      ],
+      [
+       "55b specificity",
+       20
+      ],
+      [
+       "44 and 45 sensitivity",
+       70
+      ],
+      [
+       "44 and 45 specificity",
+       80
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "lesion",
+    "claim": "Resection overlapping 55b caused pure apraxia of speech",
+    "finding": "A right-handed man had a left dorsal premotor tumor removed from the posterior middle frontal gyrus. Tractography and resection volume compared with Human Connectome Project data suggested overlap with area 55b and the superior longitudinal fasciculus. He had intact comprehension and naming but severe, lasting articulatory problems. It is a single case.",
+    "quote": "Tractography and resection volumes compared with publicly available imaging data from the Human Connectome Project suggest possible overlap with area 55b, an under-recognized language area in the dorsal premotor cortex and has white matter connectivity with the superior longitudinal fasciculus.",
+    "pmid": "32097489",
+    "doi": "10.1093/neuros/nyaa002",
+    "cite": "Chang EF, Kurteff G, Andrews JP, et al. Pure apraxia of speech after resection based in the posterior middle frontal gyrus. Neurosurgery. 2020;87(3):E383-E389.",
+    "year": 2020
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "inferior_frontal_junction",
+  "aliases": [
+   "ifj"
+  ],
+  "hint": "where two sulci meet, just behind the pars opercularis",
+  "summary": "The inferior frontal junction is a small patch of lateral prefrontal cortex at the point where the inferior frontal sulcus meets the inferior precentral sulcus. It lies behind the pars opercularis and in front of the ventral premotor cortex. It is active whenever people must update which task or rule is in force, including task switching, the Stroop task and working memory tasks. It also directs attention toward object categories by synchronising with visual areas for faces and places.",
+  "where": "It is on the lateral surface of the frontal lobe at the posterior end of the inferior frontal sulcus, where that sulcus meets the inferior precentral sulcus. It lies just above and behind the pars opercularis (Broca's area) and in front of the ventral premotor cortex. It is best seen in a lateral view, and on this model it is drawn from HCP areas IFJa and IFJp.",
+  "does": "The inferior frontal junction updates task representations: it sets which rule, goal or stimulus feature the brain should currently use. Meta-analyses of fMRI studies find consistent clustering of activity here across task switching, Stroop, working memory and oddball tasks. In object-based attention it appears to drive visual cortex, as the frontal region synchronises with the fusiform face area when faces are attended and with the parahippocampal place area when houses are attended. The right and left sides may not do identical jobs, and the exact borders of the region vary across people.",
+  "connects": "It connects with the dorsolateral prefrontal cortex, the intraparietal sulcus and the ventral premotor cortex, and it communicates with the high-level visual cortex of the ventral stream, including the fusiform face area and the parahippocampal place area. Meta-analytic coactivation shows links across frontal, parietal and temporal cortex.",
+  "clinical": "There is no classic named syndrome for this region. Lateral prefrontal damage more broadly causes perseveration and difficulty shifting between rules on the Wisconsin Card Sorting Test. Because activity here is consistent across control tasks, the region is used as a functional localizer in research on cognitive control and attention.",
+  "remember": "The junction is the control switchboard: the place where two sulci meet is also the place where the brain updates which task it is doing.",
+  "facts": [
+   "It sits where the inferior frontal sulcus meets the inferior precentral sulcus.",
+   "Fronto-visual gamma synchrony from the IFJ to FFA or PPA depends on which object category is attended.",
+   "TMS over left IFJ interferes with updating the task goal but not the response set."
+  ],
+  "quiz": [
+   {
+    "q": "Which lateral prefrontal patch updates the current task rule and, in object-based attention, synchronises with the face and place areas of the ventral stream?",
+    "type": "function"
+   },
+   {
+    "q": "TMS over this left lateral prefrontal patch disrupts updating the task goal, but TMS over the left intraparietal sulcus disrupts updating the response set. Which frontal region?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which prefrontal area lies where the inferior frontal sulcus meets the inferior precentral sulcus, behind the pars opercularis?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   3,
+   7,
+   8
+  ],
+  "see_also": [
+   "dorsolateral_prefrontal_cortex",
+   "frontal_eye_field",
+   "fusiform_face_area",
+   "pars_opercularis"
+  ],
+  "how_we_know": "Meta-analyses of fMRI show that this junction is active across several cognitive control tasks, MEG shows the direction of its influence on visual cortex, and TMS shows that disrupting it changes task updating. Most of it is fMRI, and the TMS evidence is limited to a few experiments.",
+  "evidence": [
+   {
+    "kind": "meta-analysis",
+    "claim": "The IFJ is active in task switching and in the Stroop task",
+    "finding": "Two quantitative meta-analyses of fMRI studies were run, one on task switching, set shifting and reversal studies and one on color-word Stroop studies. In both, activations clustered in the inferior frontal junction. This is correlational but the replication across paradigms makes the location reliable.",
+    "quote": "Results showed highly significant clustering of activations in the IFJ in both analyses. These results provide strong evidence for the consistent involvement of the IFJ in both switching and Stroop paradigms.",
+    "pmid": "15846824",
+    "doi": "10.1002/hbm.20127",
+    "cite": "Derrfuss J, Brass M, Neumann J, von Cramon DY. Involvement of the inferior frontal junction in cognitive control: meta-analyses of switching and Stroop studies. Hum Brain Mapp. 2005;25(1):22-34.",
+    "year": 2005
+   },
+   {
+    "kind": "meta-analysis",
+    "claim": "Several control tasks converge at the IFJ",
+    "finding": "An activation likelihood estimation meta-analysis pooled fMRI studies of oddball and attention, working memory, task switching and Stroop paradigms. Activations converged at the junction of the inferior precentral sulcus and the inferior frontal sulcus, which fixes where the region is.",
+    "quote": "For the IFJ, we found consistent activations across oddball/attention, working memory, task-switching and Stroop paradigms at the junction of the inferior precentral sulcus and inferior frontal sulcus.",
+    "pmid": "37093304",
+    "doi": "10.1007/s00429-023-02641-y",
+    "cite": "Bedini M, Olivetti E, Avesani P, Baldauf D. Accurate localization and coactivation profiles of the frontal eye field and inferior frontal junction: an ALE and MACM fMRI meta-analysis. Brain Struct Funct. 2023;228(3-4):997-1017.",
+    "year": 2023
+   },
+   {
+    "kind": "recording",
+    "claim": "The IFJ leads gamma synchrony with the face or place area it attends to",
+    "finding": "Volunteers viewed overlapping streams of faces and houses while MEG and fMRI were recorded. Attention to faces enhanced responses in the fusiform face area and attention to houses did so in the parahippocampal place area, and gamma synchrony with the IFJ rose in whichever area was attended. Gamma phases were advanced by 20 ms in the IFJ, which suggests the IFJ drives the interaction.",
+    "quote": "The IFJ appeared to be the driver of the synchrony, as gamma phases were advanced by 20 ms in IFJ compared to FFA or PPA.",
+    "pmid": "24763592",
+    "doi": "10.1126/science.1247003",
+    "cite": "Baldauf D, Desimone R. Neural mechanisms of object-based attention. Science. 2014;344(6182):424-7.",
+    "year": 2014
+   },
+   {
+    "kind": "stimulation",
+    "claim": "TMS over the left IFJ disrupts updating of task goals",
+    "finding": "Participants did a task-switching experiment while TMS was applied during preparation. TMS over the left IFJ interfered with updating the task goal and not the response set. TMS over the left intraparietal sulcus produced the opposite pattern, so the two regions have separate contributions.",
+    "quote": "In Experiment 1, TMS over the IFJ caused interference with the updating of task goals, while leaving the updating of response sets unaffected. In Experiment 2, TMS over the IPS created the opposite pattern of results, perturbing only the ability to update response sets, but not task goals.",
+    "pmid": "25209286",
+    "doi": "10.1523/JNEUROSCI.4931-13.2014",
+    "cite": "Muhle-Karbe PS, Andres M, Brass M. Transcranial magnetic stimulation dissociates prefrontal and parietal contributions to task preparation. J Neurosci. 2014;34(37):12481-9.",
+    "year": 2014
+   }
+  ],
+  "stimulation": {
+   "method": "transcranial magnetic stimulation",
+   "effect": "TMS applied over the left IFJ during task preparation interfered with updating the task goal while leaving the updating of response sets unaffected.",
+   "quote": "In Experiment 1, TMS over the IFJ caused interference with the updating of task goals, while leaving the updating of response sets unaffected.",
+   "pmid": "25209286",
+   "doi": "10.1523/JNEUROSCI.4931-13.2014",
+   "cite": "Muhle-Karbe PS, Andres M, Brass M. Transcranial magnetic stimulation dissociates prefrontal and parietal contributions to task preparation. J Neurosci. 2014;34(37):12481-9.",
+   "year": 2014
+  }
+ },
+ {
+  "id": "frontopolar_cortex",
+  "aliases": [
+   "fpc",
+   "area 10",
+   "rostral prefrontal cortex",
+   "anterior prefrontal cortex",
+   "ba10"
+  ],
+  "hint": "anterior tip of the hemisphere, ahead of the superior and middle gyri",
+  "summary": "The frontopolar cortex is the rostral tip of the prefrontal cortex, corresponding to Brodmann area 10. It is proportionally larger in humans than in other apes and sits at the top of the frontal hierarchy, with connections mainly to other association areas and almost none to motor or primary sensory cortex. It supports holding an intention while doing something else, switching between goals, tracking the value of alternatives, and, in its medial part, thinking about mental states. Its precise function is still debated, and the evidence comes mostly from imaging and from patients with lesions.",
+  "where": "It forms the most anterior part of the frontal lobe, the frontal pole, and extends onto the medial and lateral surfaces. It lies in front of the superior frontal and middle frontal gyri and above the orbital surface, and it is best seen in a frontal or medial view. The model draws it from four HCP area 10 parcels (10pp, a10p, p10p and 10d), so the outline is an approximation of Brodmann area 10.",
+  "does": "The frontopolar cortex is associated with coordinating several goals at once and with remembering to carry out an intention after a delay (prospective memory). In an fMRI meta-analysis, tasks that involve working memory and episodic memory retrieval were disproportionately associated with lateral activation, and tasks that involve mentalizing with medial activation. It also tracks the relative advantage of switching to an alternative course of action when a choice is made voluntarily. Patients with damage here often have normal IQ but disorganized behaviour in open-ended, everyday situations.",
+  "connects": "It is connected mainly with other supramodal association cortex: the dorsolateral and orbital prefrontal cortex, the anterior cingulate cortex, the anterior temporal lobe and the mediodorsal thalamus. It has very little direct connection with motor or primary sensory cortex.",
+  "clinical": "Lesions of rostral prefrontal cortex cause difficulty with multitasking and with prospective memory despite preserved intelligence on standard tests. In a lesion study, damage to the right polar prefrontal region was specifically associated with a deficit in time-based prospective memory. There is no classic named syndrome for this region.",
+  "remember": "Think of area 10 as the manager's desk at the tip of the frontal lobe: it holds a goal on hold while you work on another and decides when to switch.",
+  "facts": [
+   "The frontopolar cortex corresponds to Brodmann area 10.",
+   "Lesions in the right polar prefrontal region impair time-based prospective memory.",
+   "Meta-analysis shows lateral area 10 for working and episodic memory, and medial area 10 for mentalizing."
+  ],
+  "quiz": [
+   {
+    "q": "Which prefrontal region at the very tip of the brain is associated with holding one goal while pursuing another and with prospective memory?",
+    "type": "function"
+   },
+   {
+    "q": "A patient scores normally on IQ tests but cannot handle open-ended multitasking, and fails to remember to act at a set time. A lesion of which area is most associated?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which area, Brodmann area 10, forms the anterior tip of the frontal lobe?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   7
+  ],
+  "see_also": [
+   "prefrontal_cortex",
+   "dorsolateral_prefrontal_cortex",
+   "ventromedial_prefrontal_cortex",
+   "anterior_cingulate_cortex"
+  ],
+  "how_we_know": "Imaging and meta-analyses show which tasks raise activity in the frontal pole, and lesion studies show what is lost when it is damaged, but there is little direct stimulation evidence for it. The lesion studies are small and lesions rarely respect the area 10 border, so the role is still debated.",
+  "evidence": [
+   {
+    "kind": "meta-analysis",
+    "claim": "Medial and lateral area 10 serve different tasks",
+    "finding": "A meta-analysis of 104 PET and fMRI studies found that working memory and episodic memory retrieval activated lateral area 10, whereas mentalizing activated medial area 10. A classification algorithm could predict the task from the activation coordinates at 74% for the three most common tasks and 45% across all eight tasks. This is correlational.",
+    "quote": "Here, we investigate the possibility that there are functional subdivisions within this region by conducting a meta-analysis of 104 functional neuroimaging studies (using positron emission tomography/functional magnetic resonance imaging). Performance was well above chance levels (74% for the three most common tasks; 45% across all eight tasks investigated) and generalized to data not included in the training set.",
+    "pmid": "16839301",
+    "doi": "10.1162/jocn.2006.18.6.932",
+    "cite": "Gilbert SJ, Spengler S, Simons JS, et al. Functional specialization within rostral prefrontal cortex (area 10): a meta-analysis. J Cogn Neurosci. 2006;18(6):932-48.",
+    "year": 2006,
+    "data": {
+     "title": "Percent of tasks correctly predicted from activation coordinates",
+     "unit": "%",
+     "items": [
+      [
+       "Three most common tasks",
+       74
+      ],
+      [
+       "All eight tasks",
+       45
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "imaging",
+    "claim": "Frontopolar cortex tracks the advantage of switching to an alternative",
+    "finding": "Volunteers made voluntary choices during fMRI while a Bayesian reinforcement-learning model estimated the relative advantage of a foregone alternative. The frontopolar cortex tracked that advantage, its connectivity changed when subjects switched, and individual differences in its signal predicted how well they adapted. The ventromedial prefrontal cortex tracked the value of the current choice instead.",
+    "quote": "Using a Bayesian reinforcement-learning model and fMRI, we show that frontopolar cortex (FPC) tracks the relative advantage in favor of switching to a foregone alternative when choices are made voluntarily.",
+    "pmid": "19524531",
+    "doi": "10.1016/j.neuron.2009.05.014",
+    "cite": "Boorman ED, Behrens TE, Woolrich MW, Rushworth MF. How green is the grass on the other side? Frontopolar cortex and the evidence in favor of alternative courses of action. Neuron. 2009;62(5):733-43.",
+    "year": 2009
+   },
+   {
+    "kind": "lesion",
+    "claim": "Right polar prefrontal damage impairs time-based prospective memory",
+    "finding": "A voxelwise lesion analysis compared 45 patients with focal brain lesions and 107 control subjects on prospective memory tasks. Lesions in the right polar prefrontal region (Brodmann area 10) were specifically associated with a deficit in time-based prospective memory, and this could not be explained by attention, inhibition or multiple-instruction problems. It was a causal-type lesion result, though lesions are rarely confined to area 10.",
+    "quote": "We examined brain-behaviour relationships with a voxelwise lesion method in 45 patients with focal brain lesions and 107 control subjects using this paradigm. The results showed that lesions in the right polar prefrontal region (in Brodmann area 10) were specifically associated with a deficit in time-based prospective memory tasks for both words and pictures.",
+    "pmid": "21371485",
+    "doi": "10.1016/j.neuropsychologia.2011.02.045",
+    "cite": "Volle E, Gonen-Yaacovi G, Costello Ade L, et al. The role of rostral prefrontal cortex in prospective memory: a voxel-based lesion study. Neuropsychologia. 2011;49(8):2185-98.",
+    "year": 2011
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "dorsomedial_prefrontal_cortex",
+  "aliases": [
+   "dmpfc",
+   "dorsomedial frontal cortex",
+   "dorsal medial prefrontal cortex"
+  ],
+  "hint": "upper medial wall at the front of the hemisphere, above the cingulate",
+  "summary": "The dorsomedial prefrontal cortex is the upper part of the medial prefrontal cortex, on the medial surface of the superior frontal gyrus in front of the pre-supplementary motor area. It is a core node of the social brain and of the default network. It is most consistently engaged when people think about other people's beliefs, intentions and traits, especially people unlike themselves. It also responds to value and salience, and it connects with the temporoparietal junction, the superior temporal sulcus and the posterior cingulate cortex.",
+  "where": "It lies on the medial surface of the frontal lobe, in the superior frontal gyrus above the anterior cingulate cortex and anterior to the pre-supplementary motor area. It is best seen in a medial view. The model draws it from HCP areas 8BM, 9m and 8BL, so the outline approximates a region that has no agreed border.",
+  "does": "The dorsomedial prefrontal cortex is associated with mentalizing: inferring what another person thinks, wants or intends. A meta-analysis of theory of mind studies found medial prefrontal and bilateral posterior temporoparietal junction activation across every task format. In one fMRI study, judging a dissimilar other engaged a more dorsal medial prefrontal subregion, while judging a similar other engaged a ventral one linked to self-reference. It also contributes to social judgment, moral and value judgments, and in some analyses to salience and decision conflict.",
+  "connects": "It connects with the temporoparietal junction, superior temporal sulcus and temporal pole, the posterior cingulate cortex and precuneus, and the lateral prefrontal cortex. Together with these regions it forms the dorsomedial subsystem of the default network.",
+  "clinical": "Atypical medial prefrontal activity during theory of mind tasks is reported in autism spectrum disorder and schizophrenia, but those findings are correlational and vary across studies. Repetitive TMS and deep TMS aimed at the dorsomedial or medial prefrontal cortex is used in research on depression and obsessive-compulsive disorder, and a deep TMS device for OCD targets this medial prefrontal area and the anterior cingulate.",
+  "remember": "The dmPFC is the mind-reading spot: it lights up when you work out what someone else is thinking, and more so the less like you they are.",
+  "facts": [
+   "The dmPFC is a main node of theory of mind, along with the temporoparietal junction.",
+   "Mentalizing about a dissimilar other engages a more dorsal medial prefrontal subregion than judging a similar other.",
+   "TMS over the dmPFC removed the effect of beauty primes on trustworthiness judgments."
+  ],
+  "quiz": [
+   {
+    "q": "Which upper medial prefrontal region is the most consistent site of activation when people infer the thoughts of others?",
+    "type": "function"
+   },
+   {
+    "q": "TMS over this region made beauty primes stop influencing trustworthiness ratings, but TMS over the dorsolateral prefrontal cortex did not. Which region?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which prefrontal region lies on the medial surface of the superior frontal gyrus, above the anterior cingulate and in front of the pre-supplementary motor area?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   7,
+   8
+  ],
+  "see_also": [
+   "ventromedial_prefrontal_cortex",
+   "temporoparietal_junction",
+   "default_mode_network",
+   "pre_supplementary_motor_area"
+  ],
+  "how_we_know": "Most of the evidence is fMRI and meta-analysis, which shows that the dmPFC is active during social tasks but not that it is needed. TMS experiments in healthy volunteers give some causal evidence, though they are small and the stimulated spot is not always the same.",
+  "evidence": [
+   {
+    "kind": "meta-analysis",
+    "claim": "The medial prefrontal cortex is active in every theory of mind task",
+    "finding": "The authors meta-analyzed imaging studies of theory of mind and sorted them into task groups by stimulus and instruction. All task groups overlapped in the medial prefrontal cortex and the bilateral posterior temporoparietal junction, which supports a core network that is active whenever people reason about mental states. The finding is correlational.",
+    "quote": "Overlap in brain activation between all task groups was found in the mPFC and in the bilateral posterior TPJ. This supports the idea of a core network for theory of mind that is activated whenever we are reasoning about mental states, irrespective of the task- and stimulus-formats (Mar, 2011).",
+    "pmid": "24486722",
+    "doi": "10.1016/j.neubiorev.2014.01.009",
+    "cite": "Schurz M, Radua J, Aichhorn M, Richlan F, Perner J. Fractionating theory of mind: a meta-analysis of functional brain imaging studies. Neurosci Biobehav Rev. 2014;42:9-34.",
+    "year": 2014
+   },
+   {
+    "kind": "imaging",
+    "claim": "Judging dissimilar people engages a more dorsal medial prefrontal area",
+    "finding": "Participants inferred the mental states of people who were similar to them and people who were dissimilar during fMRI. There was a double dissociation: a similar other engaged ventral medial prefrontal cortex linked to self-reference, and a dissimilar other engaged a more dorsal medial prefrontal subregion.",
+    "quote": "We observed a double dissociation such that mentalizing about a similar other engaged a region of ventral mPFC linked to self-referential thought, whereas mentalizing about a dissimilar other engaged a more dorsal subregion of mPFC.",
+    "pmid": "16701214",
+    "doi": "10.1016/j.neuron.2006.03.040",
+    "cite": "Mitchell JP, Macrae CN, Banaji MR. Dissociable medial prefrontal contributions to judgments of similar and dissimilar others. Neuron. 2006;50(4):655-63.",
+    "year": 2006
+   },
+   {
+    "kind": "stimulation",
+    "claim": "TMS over the dmPFC abolishes the beauty-is-good effect on trust",
+    "finding": "Volunteers rated the trustworthiness of faces after seeing positive or negative aesthetic words, while TMS was applied between prime and face over the dmPFC, the dlPFC or the vertex. With TMS over the vertex or the dlPFC the primes shifted trust ratings, but with TMS over the dmPFC the primes had no effect, and a second experiment corroborated this. This is a causal result in healthy people.",
+    "quote": "However, when TMS was applied over the dmPFC, primes had no effect on trustworthiness judgments. A second Experiment corroborated this finding.",
+    "pmid": "28158864",
+    "doi": "10.1093/scan/nsx002",
+    "cite": "Ferrari C, Nadal M, Schiavi S, et al. The dorsomedial prefrontal cortex mediates the interaction between moral and aesthetic valuation: a TMS study on the beauty-is-good stereotype. Soc Cogn Affect Neurosci. 2017;12(5):707-717.",
+    "year": 2017
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Disrupting the dmPFC changes the effect of irrelevant social information",
+    "finding": "fMRI showed separate dmPFC and anterior insula representations during context-dependent social judgment. Non-invasive brain stimulation of the anterior insula altered the impact of relevant information on social comparison, whereas dmPFC disruption affected only the impact of irrelevant information.",
+    "quote": "Causal evaluation using non-invasive brain stimulation shows that AI disruption alters the impact of relevant information on social comparison, whereas dmPFC disruption only affects the impact of irrelevant information.",
+    "pmid": "36681075",
+    "doi": "10.1016/j.neuron.2022.12.030",
+    "cite": "Mahmoodi A, Nili H, Harbison C, et al. Causal role of a neural system for separating and selecting multidimensional social cognitive information. Neuron. 2023;111(7):1152-1164.e6.",
+    "year": 2023
+   }
+  ],
+  "stimulation": {
+   "method": "transcranial magnetic stimulation",
+   "effect": "TMS over the dmPFC between a prime and a face removed the effect of attractive or unattractive words on how trustworthy the face was judged, while TMS over the dorsolateral prefrontal cortex or the vertex left it intact.",
+   "quote": "However, when TMS was applied over the dmPFC, primes had no effect on trustworthiness judgments. A second Experiment corroborated this finding.",
+   "pmid": "28158864",
+   "doi": "10.1093/scan/nsx002",
+   "cite": "Ferrari C, Nadal M, Schiavi S, et al. The dorsomedial prefrontal cortex mediates the interaction between moral and aesthetic valuation: a TMS study on the beauty-is-good stereotype. Soc Cogn Affect Neurosci. 2017;12(5):707-717.",
+   "year": 2017
+  }
+ },
+ {
+  "id": "ventromedial_prefrontal_cortex",
+  "aliases": [
+   "vmpfc",
+   "ventromedial frontal cortex",
+   "vmf"
+  ],
+  "hint": "lower medial wall at the front of the hemisphere, above the orbit",
+  "summary": "The ventromedial prefrontal cortex is the lower part of the medial prefrontal cortex, in front of the genu of the corpus callosum and above the orbital surface. It is connected with the amygdala, hypothalamus, ventral striatum and hippocampus, and it is part of the default network. It carries a common value signal for choices and rewards, and it is needed for normal emotional and social decision making. Damage to it makes people poor at everyday decisions despite normal IQ.",
+  "where": "It lies on the medial surface of the frontal lobe below the genu of the corpus callosum and in front of the subgenual cingulate cortex, with the gyrus rectus and medial orbital cortex below it. It is best seen in a medial or inferior view. The model draws it from HCP areas 10r, 10v, p32 and s32, so the outline is approximate and overlaps the pregenual cingulate and the medial orbitofrontal cortex, because the term has no agreed border.",
+  "does": "The ventromedial prefrontal cortex computes the subjective value of options so they can be compared on a common scale. A meta-analysis of 206 fMRI studies found that it and the ventral striatum carry a domain-general value signal, positive for both monetary and primary rewards. It also takes part in emotion regulation, in recalling extinguished fear, in self-referential thought and in moral judgment. In patients, damage here makes preference judgments inconsistent and changes moral decisions.",
+  "connects": "It has reciprocal links with the amygdala, hypothalamus, nucleus accumbens, hippocampus and periaqueductal gray, and with the orbitofrontal and anterior cingulate cortex. Through the hypothalamus and brainstem it influences autonomic and emotional responses.",
+  "clinical": "Ventromedial prefrontal damage, as in patient EVR and the railroad worker Phineas Gage, produces poor judgment and impaired social behavior with preserved intelligence, sometimes called acquired sociopathy. Patients with bilateral damage give abnormally utilitarian answers to emotionally charged moral dilemmas. Reduced activity here is reported in post-traumatic stress disorder and depression.",
+  "remember": "The vmPFC is the value meter: it puts a price tag on every option so that apples and holidays can be compared.",
+  "facts": [
+   "A meta-analysis of 206 fMRI studies found a domain-general subjective value signal in the vmPFC and ventral striatum.",
+   "Patients with vmPFC damage make abnormally utilitarian moral judgments on personal dilemmas.",
+   "Preference judgments are inconsistent in people with ventromedial frontal damage."
+  ],
+  "quiz": [
+   {
+    "q": "Which medial prefrontal region carries a common subjective value signal for choices and is damaged in patients with poor everyday decision making despite normal IQ?",
+    "type": "function"
+   },
+   {
+    "q": "Six patients with bilateral lesions here gave abnormally utilitarian answers to emotionally aversive moral dilemmas. Which region was damaged?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which prefrontal region lies on the medial wall in front of and below the genu of the corpus callosum, above the gyrus rectus?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   7
+  ],
+  "see_also": [
+   "orbitofrontal_cortex",
+   "subgenual_cingulate_cortex",
+   "dorsomedial_prefrontal_cortex",
+   "anterior_cingulate_cortex"
+  ],
+  "how_we_know": "Lesion studies show it is necessary for consistent value-based choices and for some moral judgments, and meta-analyses of fMRI show where value signals are found across studies. Lesions in these studies are rarely confined to the same area, and 'vmPFC' covers a broad zone, so conclusions apply to the zone and not to one exact area.",
+  "evidence": [
+   {
+    "kind": "meta-analysis",
+    "claim": "The vmPFC carries a common value signal across studies",
+    "finding": "A coordinate-based meta-analysis pooled 206 fMRI studies of subjective value. The ventromedial prefrontal cortex and anterior ventral striatum were areas in which positive effects predominate, at decision and at outcome, for both monetary and primary rewards, and the authors call them a valuation system. This is correlational.",
+    "quote": "Here we present a quantitative, coordinate-based meta-analysis of 206 published fMRI studies investigating neural correlates of SV. In a second set of areas, including ventromedial prefrontal cortex and anterior ventral striatum, positive effects predominate.",
+    "pmid": "23507394",
+    "doi": "10.1016/j.neuroimage.2013.02.063",
+    "cite": "Bartra O, McGuire JT, Kable JW. The valuation system: a coordinate-based meta-analysis of BOLD fMRI experiments examining neural correlates of subjective value. Neuroimage. 2013;76:412-27.",
+    "year": 2013
+   },
+   {
+    "kind": "lesion",
+    "claim": "Damage to the ventromedial frontal cortex makes preferences inconsistent",
+    "finding": "Twenty-one people with focal frontal damage were compared with 19 matched control subjects on a pairwise preference task that had no uncertainty. Subjects with ventromedial frontal damage were significantly more inconsistent than controls, whereas those with frontal damage that spared the region performed normally, so the region is needed even for certain decisions.",
+    "quote": "Twenty-one participants with focal damage to the frontal lobes were compared with 19 age- and education-matched control subjects. Subjects with VMF damage were significantly more inconsistent in their preferences than controls, whereas those with frontal damage that spared the VMF performed normally.",
+    "pmid": "17259643",
+    "doi": "10.1093/cercor/bhl176",
+    "cite": "Fellows LK, Farah MJ. The role of ventromedial prefrontal cortex in decision making: judgment under uncertainty or judgment per se? Cereb Cortex. 2007;17(11):2669-74.",
+    "year": 2007
+   },
+   {
+    "kind": "lesion",
+    "claim": "Bilateral vmPFC damage makes moral judgments more utilitarian",
+    "finding": "Six patients with focal bilateral ventromedial prefrontal damage judged moral dilemmas that pit aggregate welfare against emotionally aversive acts, such as sacrificing one person to save several. They gave an abnormally utilitarian pattern of answers on those dilemmas, and normal answers on other kinds of dilemma. The result suggests that emotion has a necessary role in these judgments.",
+    "quote": "Here we show that six patients with focal bilateral damage to the ventromedial prefrontal cortex (VMPC), a brain region necessary for the normal generation of emotions and, in particular, social emotions, produce an abnormally 'utilitarian' pattern of judgements on moral dilemmas that pit compelling considerations of aggregate welfare against highly emotionally aversive behaviours (for example, having to sacrifice one person's life to save a number of other lives).",
+    "pmid": "17377536",
+    "doi": "10.1038/nature05631",
+    "cite": "Koenigs M, Young L, Adolphs R, et al. Damage to the prefrontal cortex increases utilitarian moral judgements. Nature. 2007;446(7138):908-11.",
+    "year": 2007
+   },
+   {
+    "kind": "connectivity",
+    "claim": "The anterior medial prefrontal cortex is a default network core for self-relevant decisions",
+    "finding": "Across three studies the default network split into several components. A midline core containing the posterior cingulate and anterior medial prefrontal cortex was active when people made self-relevant, affective decisions, while a medial temporal subsystem was active for decisions that involve constructing a mental scene from memory.",
+    "quote": "A midline core (posterior cingulate and anterior medial prefrontal cortex) is active when people make self-relevant, affective decisions.",
+    "pmid": "20188659",
+    "doi": "10.1016/j.neuron.2010.02.005",
+    "cite": "Andrews-Hanna JR, Reidler JS, Sepulcre J, Poulin R, Buckner RL. Functional-anatomic fractionation of the brain's default network. Neuron. 2010;65(4):550-62.",
+    "year": 2010
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "subgenual_cingulate_cortex",
+  "aliases": [
+   "sgacc",
+   "subgenual anterior cingulate cortex",
+   "cg25",
+   "subcallosal cingulate",
+   "scc"
+  ],
+  "hint": "thin strip curving beneath the front of the callosal knee",
+  "summary": "The subgenual cingulate cortex is Brodmann area 25, a thin agranular strip of cortex beneath the genu of the corpus callosum on the medial surface of the frontal lobe. It is a visceromotor region that projects to the hypothalamus, amygdala and brainstem and helps regulate autonomic and emotional responses. It is metabolically overactive in treatment-resistant depression, and the white matter beside it is a target for deep brain stimulation in that disorder. How it works in depression is still under study, and the results of controlled trials are mixed.",
+  "where": "It lies on the medial surface of the frontal lobe, under (sub-) the genu of the corpus callosum, with the subcallosal gyrus in the region around it and the ventromedial prefrontal cortex in front. It is best seen in a medial view. It is a small area, drawn on this model from HCP area 25.",
+  "does": "The subgenual cingulate cortex links the emotional centres of the limbic system to the autonomic and neuroendocrine control systems, and it takes part in regulating sadness and mood. In PET studies, transient sadness in healthy volunteers raised blood flow here and in the anterior insula, while recovery from depression reduced it. It is also tied to the content of ruminative negative thought. Its exact computation is not settled, and its link with mood rests mostly on imaging and stimulation studies in depressed patients.",
+  "connects": "It projects to the hypothalamus, amygdala, periaqueductal gray, nucleus accumbens and brainstem autonomic nuclei, and receives input from the amygdala, hippocampus and orbitofrontal cortex. Its white matter connections run in the cingulum, the uncinate fasciculus and the forceps minor, and DBS electrodes are placed in the adjacent white matter.",
+  "clinical": "Area 25 shows increased resting activity in treatment-resistant depression, and activity falls with effective treatment. Deep brain stimulation of the subcallosal cingulate white matter produced remission in four of six patients in the first report, but a later multisite sham-controlled trial of 90 patients did not show a significant difference in response at 6 months. Functional connectivity with this region also predicts which left dorsolateral prefrontal TMS sites work best for depression.",
+  "remember": "Subgenual means below the knee: area 25 sits under the genu of the corpus callosum, the sad-mood hub that depression DBS aims at.",
+  "facts": [
+   "The subgenual cingulate cortex is Brodmann area 25, beneath the genu of the corpus callosum.",
+   "In the first DBS report, stimulation of the white matter beside it caused remission in four of six treatment-resistant depression patients.",
+   "A multisite sham-controlled DBS trial did not find a significant difference in response at 6 months."
+  ],
+  "quiz": [
+   {
+    "q": "Which small agranular strip beneath the genu of the corpus callosum is overactive in treatment-resistant depression and is a target for deep brain stimulation?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which medial frontal area regulates visceral and emotional responses through its projections to the hypothalamus, amygdala and periaqueductal gray, and shows increased blood flow during induced sadness?",
+    "type": "function"
+   },
+   {
+    "q": "Which Brodmann area lies directly under the genu of the corpus callosum?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   7,
+   12
+  ],
+  "see_also": [
+   "ventromedial_prefrontal_cortex",
+   "anterior_cingulate_cortex",
+   "subcallosal_gyrus",
+   "uncinate_fasciculus"
+  ],
+  "how_we_know": "PET and fMRI show that it is overactive in depression, stimulation of the adjacent white matter shows that changing its circuit can change mood in some patients, and connectivity studies show why some TMS targets work better. The stimulation evidence is mixed: the first open-label reports were positive, but a larger sham-controlled trial did not separate active from sham.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The subgenual region has reduced grey matter in mood disorders",
+    "finding": "PET and MRI were used in people with familial bipolar or unipolar depression. An area ventral to the genu of the corpus callosum had abnormally low activity, partly explained by lower grey matter volume, with reductions of 39% in the bipolar sample and 48% in the unipolar sample. This is correlational.",
+    "quote": "This decrement in activity was at least partly explained by a corresponding reduction in cortical volume, as magnetic resonance imaging (MRI) demonstrated reductions in the mean grey matter volume in the same area of 39 and 48% in the bipolar and unipolar samples, respectively.",
+    "pmid": "9126739",
+    "doi": "10.1038/386824a0",
+    "cite": "Drevets WC, Price JL, Simpson JR Jr, et al. Subgenual prefrontal cortex abnormalities in mood disorders. Nature. 1997;386(6627):824-7.",
+    "year": 1997,
+    "data": {
+     "title": "Percent reduction in subgenual grey matter volume",
+     "unit": "%",
+     "items": [
+      [
+       "Bipolar depression sample",
+       39
+      ],
+      [
+       "Unipolar depression sample",
+       48
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "connectivity",
+    "claim": "TMS sites that anticorrelate with the subgenual cingulate work better",
+    "finding": "Resting-state fMRI from 98 healthy people was used to map functional connectivity with left dorsolateral prefrontal TMS targets from the literature. Targets with better reported clinical efficacy were more negatively correlated with the subgenual cingulate, and the finding was reproduced in 13 patients with depression. It suggests an anticorrelated network pairing in depression, though it is correlational.",
+    "quote": "Dorsolateral prefrontal cortex TMS sites with better clinical efficacy were more negatively correlated (anticorrelated) with the subgenual cingulate. Optimum connectivity-based stimulation coordinates were identified in Brodmann area 46.",
+    "pmid": "22658708",
+    "doi": "10.1016/j.biopsych.2012.04.028",
+    "cite": "Fox MD, Buckner RL, White MP, Greicius MD, Pascual-Leone A. Efficacy of transcranial magnetic stimulation targets for depression is related to intrinsic functional connectivity with the subgenual cingulate. Biol Psychiatry. 2012;72(7):595-603.",
+    "year": 2012
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "Open-label DBS of area 25 kept about two thirds of patients responding",
+    "finding": "Twenty patients with treatment-resistant depression who had received DBS to the subcallosal cingulate gyrus (Brodmann area 25) were followed for 3 to 6 years. Response rates were 62.5%, 46.2% and 75% at 1, 2 and 3 years, and 64.3% at the last visit, though two patients died by suicide during relapses. There was no control group in this follow-up.",
+    "quote": "The average response rates 1, 2, and 3 years after DBS implantation were 62.5%, 46.2%, and 75%, respectively. At the last follow-up visit (range=3-6 years), the average response rate was 64.3%.",
+    "pmid": "21285143",
+    "doi": "10.1176/appi.ajp.2010.10081187",
+    "cite": "Kennedy SH, Giacobbe P, Rizvi SJ, et al. Deep brain stimulation for treatment-resistant depression: follow-up after 3 to 6 years. Am J Psychiatry. 2011;168(5):502-10.",
+    "year": 2011,
+    "data": {
+     "title": "Average response rate after DBS (open label)",
+     "unit": "%",
+     "items": [
+      [
+       "1 year",
+       62.5
+      ],
+      [
+       "2 years",
+       46.2
+      ],
+      [
+       "3 years",
+       75
+      ],
+      [
+       "Last follow-up",
+       64.3
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "A sham-controlled DBS trial found no significant difference at 6 months",
+    "finding": "Ninety patients were randomised to active (60) or sham (30) DBS of the subcallosal cingulate white matter. Both groups improved, but response in the double-blind phase was 20% with stimulation and 17% with sham, which was not a statistically significant difference. The study confirmed that the procedure is safe and feasible.",
+    "quote": "Both groups showed improvement, but there was no statistically significant difference in response during the double-blind, sham-controlled phase (12 [20%] patients in the stimulation group vs five [17%] patients in the control group).",
+    "pmid": "28988904",
+    "doi": "10.1016/S2215-0366(17)30371-1",
+    "cite": "Holtzheimer PE, Husain MM, Lisanby SH, et al. Subcallosal cingulate deep brain stimulation for treatment-resistant depression: a multisite, randomised, sham-controlled trial. Lancet Psychiatry. 2017;4(11):839-849.",
+    "year": 2017,
+    "data": {
+     "title": "Percent responding in the double-blind phase",
+     "unit": "%",
+     "items": [
+      [
+       "Active stimulation",
+       20
+      ],
+      [
+       "Sham stimulation",
+       17
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": {
+   "method": "deep brain stimulation of the adjacent white matter",
+   "effect": "Chronic stimulation of white matter beside the subgenual cingulate gyrus in six patients with treatment-resistant depression was followed by sustained remission in four of them, with reduced local blood flow in area 25 on PET.",
+   "quote": "Chronic stimulation of white matter tracts adjacent to the subgenual cingulate gyrus was associated with a striking and sustained remission of depression in four of six patients.",
+   "pmid": "15748841",
+   "doi": "10.1016/j.neuron.2005.02.014",
+   "cite": "Mayberg HS, Lozano AM, Voon V, et al. Deep brain stimulation for treatment-resistant depression. Neuron. 2005;45(5):651-60.",
+   "year": 2005
+  }
+ },
+ {
+  "id": "anterior_insula",
+  "aliases": [
+   "anterior insular cortex",
+   "ai",
+   "fronto-insular cortex"
+  ],
+  "hint": "front of the buried island, beneath the lid of the lateral sulcus",
+  "summary": "The anterior insula is the front part of the insular cortex, buried in the lateral sulcus under the frontal operculum. It receives interoceptive and visceral information relayed through the posterior and mid insula and links it to emotion, awareness and decisions. Together with the dorsal anterior cingulate it forms the core of the salience network. It is active in disgust, empathy for pain, craving and the awareness of one's own heartbeat, and it contains von Economo neurons.",
+  "where": "It lies deep in the lateral sulcus, under the frontal operculum, covering the short insular gyri and the front of the insula near the limen insulae. It is hidden on the surface, so on this model it is best seen with the frontal and temporal opercula faded or from a lateral view. It is drawn from HCP areas AAIC and AVI, so the outline is approximate, and the border with the mid insula is not sharp.",
+  "does": "The anterior insula is associated with the conscious representation of bodily states and with the feeling that comes with them. Activity in the right anterior insula predicts how accurately people can detect their own heartbeat, and the same region has a larger grey matter volume in people who are more aware of their body. It responds to disgust whether the person smells something foul or watches another person's disgusted face, and to pain in oneself and in a loved one, which has made it central to theories of empathy. As part of the salience network it also detects behaviourally important events and helps switch between brain networks.",
+  "connects": "It receives interoceptive input from the posterior and mid insula, which in turn receive visceral and pain afferents through the thalamus. It connects with the dorsal anterior cingulate cortex, amygdala, orbitofrontal cortex, ventral striatum and hypothalamus.",
+  "clinical": "Smokers with damage to the insula were more likely to lose the urge to smoke and quit easily. Bilateral insula and putamen damage can leave a patient unable to recognize or feel disgust. Anterior insula and anterior cingulate von Economo neurons are lost early in behavioural variant frontotemporal dementia, which impairs empathy and social awareness, and excess anterior insula activity is reported in anxiety disorders.",
+  "remember": "The anterior insula is the gut-feeling cortex: it turns signals from your body into the feeling that something is disgusting, painful or urgent.",
+  "facts": [
+   "Right anterior insula activity predicts accuracy at detecting one's own heartbeat.",
+   "Seeing disgust on a face and smelling a disgusting odor activate overlapping anterior insula sites.",
+   "Smokers with insula damage were more likely to quit easily, without craving."
+  ],
+  "quiz": [
+   {
+    "q": "Which buried cortex under the frontal operculum predicts how accurately people sense their own heartbeat?",
+    "type": "function"
+   },
+   {
+    "q": "Smokers who suffered a stroke here quit immediately and without craving. Which region?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which part of the insula, with the dorsal anterior cingulate cortex, forms the salience network?",
+    "type": "connection"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   7,
+   8
+  ],
+  "see_also": [
+   "posterior_insula",
+   "anterior_cingulate_cortex",
+   "salience_network",
+   "orbitofrontal_cortex"
+  ],
+  "how_we_know": "Lesion cases show it is needed for some body-linked urges and feelings, and imaging shows what raises its activity, but it is a broad region and activity is common to many tasks. Intracranial stimulation in epilepsy patients shows it can produce olfactory and other chemosensory sensations, though responses are rare.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Right anterior insula activity predicts accuracy of heartbeat awareness",
+    "finding": "fMRI was recorded while volunteers judged the timing of their own heartbeats. The insula, somatomotor and cingulate cortices were more active, and in the right anterior insula and opercular cortex activity predicted accuracy, and grey matter volume in the same region correlated with both accuracy and ratings of visceral awareness. This is correlational.",
+    "quote": "In right anterior insular/opercular cortex, neural activity predicted subjects' accuracy in the heartbeat detection task. Furthermore, local gray matter volume in the same region correlated with both interoceptive accuracy and subjective ratings of visceral awareness.",
+    "pmid": "14730305",
+    "doi": "10.1038/nn1176",
+    "cite": "Critchley HD, Wiens S, Rotshtein P, Ohman A, Dolan RJ. Neural systems supporting interoceptive awareness. Nat Neurosci. 2004;7(2):189-95.",
+    "year": 2004
+   },
+   {
+    "kind": "imaging",
+    "claim": "The anterior insula responds to pain in oneself and in a loved one",
+    "finding": "Volunteers received a painful stimulus, and in a second condition saw a signal that their partner was receiving a similar pain. Bilateral anterior insula and rostral anterior cingulate cortex were activated in both conditions, and anterior insula activity correlated with empathy scores, whereas the posterior insula and secondary somatosensory cortex responded only to pain on oneself.",
+    "quote": "Bilateral anterior insula (AI), rostral anterior cingulate cortex (ACC), brainstem, and cerebellum were activated when subjects received pain and also by a signal that a loved one experienced pain. AI and ACC activation correlated with individual empathy scores.",
+    "pmid": "14976305",
+    "doi": "10.1126/science.1093535",
+    "cite": "Singer T, Seymour B, O'Doherty J, Kaube H, Dolan RJ, Frith CD. Empathy for pain involves the affective but not sensory components of pain. Science. 2004;303(5661):1157-62.",
+    "year": 2004
+   },
+   {
+    "kind": "lesion",
+    "claim": "Insula damage can end the addiction to smoking",
+    "finding": "Smokers with brain damage that involved the insula were compared with smokers whose damage spared it. The insula group was more likely to have a disruption of smoking addiction: they quit easily, immediately and without relapse or a persisting urge to smoke. The damage covered the insula broadly and was not limited to the anterior part.",
+    "quote": "We found that smokers with brain damage involving the insula, a region implicated in conscious urges, were more likely than smokers with brain damage not involving the insula to undergo a disruption of smoking addiction, characterized by the ability to quit smoking easily, immediately, without relapse, and without persistence of the urge to smoke.",
+    "pmid": "17255515",
+    "doi": "10.1126/science.1135926",
+    "cite": "Naqvi NH, Rudrauf D, Damasio H, Bechara A. Damage to the insula disrupts addiction to cigarette smoking. Science. 2007;315(5811):531-4.",
+    "year": 2007
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Stimulating the anteroventral insula evokes smell sensations",
+    "finding": "Intracranial electrical stimulation was applied across the brain in 302 neurosurgical patients with epilepsy. Chemosensory perceptions were evoked in 7% of patients and 0.2% of stimulated sites, with the highest response rate, 1.8%, in the insula. The anteroventral insula mostly produced orthonasal smell and the mid-dorsal insula produced several chemosensory modalities.",
+    "quote": "The chemosensory perceptions including olfaction, gustation, and chemesthesis were elicited in 21 of 302 patients (7%). Chemosensory responses were evoked in 53 (0.2%) of 21,661 stimulated sites. The highest response rate (1.8%) was in the insula (37/2,051 stimulated sites from 15/163 patients).",
+    "pmid": "36218015",
+    "doi": "10.1002/ana.26532",
+    "cite": "Li Y, Tan Z, Wang J, et al. Responses of chemosensory perception to stimulation of the human brain. Ann Neurol. 2023;93(1):175-183.",
+    "year": 2023,
+    "data": {
+     "title": "Percent of patients or sites with a chemosensory response",
+     "unit": "%",
+     "items": [
+      [
+       "Patients with a response",
+       7
+      ],
+      [
+       "All sites that responded",
+       0.2
+      ],
+      [
+       "Insula sites that responded",
+       1.8
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": {
+   "method": "intracranial electrical stimulation in epilepsy patients",
+   "effect": "Stimulating the anteroventral insula predominantly produced the sensation of smell through the nose, and the mid-dorsal insula produced several chemosensory sensations, but responses were rare overall.",
+   "quote": "Notably, there existed a distinct pattern that the anteroventral insula predominately represented orthonasal olfaction, whereas different chemosensory modalities converged in the mid-dorsal insula.",
+   "pmid": "36218015",
+   "doi": "10.1002/ana.26532",
+   "cite": "Li Y, Tan Z, Wang J, et al. Responses of chemosensory perception to stimulation of the human brain. Ann Neurol. 2023;93(1):175-183.",
+   "year": 2023
+  }
+ },
+ {
+  "id": "posterior_insula",
+  "aliases": [
+   "posterior insular cortex",
+   "granular insula"
+  ],
+  "hint": "back of the buried island, behind its central sulcus, under the lid",
+  "summary": "The posterior insula is the rear, granular part of the insular cortex, buried in the lateral sulcus beneath the parietal and temporal opercula. It receives touch, temperature, pain and visceral information from the thalamus and passes it forward to the mid and anterior insula. Direct electrical stimulation here can evoke pain and other body sensations. It is considered a primary cortex for interoception and for the sensory side of pain.",
+  "where": "It lies in the depths of the lateral sulcus, behind the central sulcus of the insula, on the long insular gyri, and is covered by the parietal operculum above and the temporal operculum below. It is best seen with the opercula faded or in a lateral view of the insula. It is drawn from HCP areas Ig, PoI1 and PoI2, so the outline is approximate, and it borders the parietal operculum (secondary somatosensory cortex).",
+  "does": "The posterior insula encodes the physical qualities of body signals: touch, innocuous warmth and cooling, pain, itch and visceral sensation. Direct electrical stimulation in epilepsy patients shows it is one of the only cortical sites that can evoke pain, along with the medial parietal operculum next to it, and a rough body map exists with the face represented in front of the arm and leg. It is more concerned with the sensory-discriminative side of pain than the anterior insula, which handles how unpleasant it is. A dorsal posterior sector is proposed to be specific to pain.",
+  "connects": "It receives nociceptive, thermal and visceral input from the posterior and ventromedial thalamic nuclei, and from the adjacent parietal operculum. It sends information forward to the mid and anterior insula, and to the amygdala and cingulate cortex.",
+  "clinical": "Insular strokes can cause central poststroke pain and altered pain or temperature sensation on the opposite side, and in pain asymbolia insular damage leaves pain recognized but not distressing. Seizures arising in the posterior insula often start with painful or tingling body sensations and are mistaken for parietal seizures. Stimulation of this region is a diagnostic tool in epilepsy surgery.",
+  "remember": "The posterior insula is the body's sensor panel: it logs what the sensation is (hot, sharp, touch) before the anterior insula decides how it feels.",
+  "facts": [
+   "Direct stimulation of the posterior insula and medial parietal operculum can evoke pain.",
+   "Stimulation-evoked pain in the insula shows a rough body map, with the face in front of the arm and leg.",
+   "The granular posterior insula is the sensory-discriminative end of the posterior-to-anterior insular gradient."
+  ],
+  "quiz": [
+   {
+    "q": "Which buried cortex behind the central sulcus of the insula can evoke pain when stimulated electrically in epilepsy patients?",
+    "type": "function"
+   },
+   {
+    "q": "Epilepsy patients with depth electrodes reported painful sensations in the face, arm or leg when this region was stimulated. Which region?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which part of the insula is granular, lies on the long insular gyri behind the central insular sulcus, and borders the parietal operculum?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   7
+  ],
+  "see_also": [
+   "anterior_insula",
+   "secondary_somatosensory_cortex",
+   "long_insular_gyrus",
+   "ventral_posterolateral_nucleus"
+  ],
+  "how_we_know": "Direct stimulation shows causally which sites can produce pain and other sensations, and fMRI shows which sub-regions respond to which stimulus type. Stimulation only reaches the places where electrodes happen to be placed in epilepsy patients, and pain responses are rare, so the evidence is strong for a role in pain but gives a rough map.",
+  "evidence": [
+   {
+    "kind": "stimulation",
+    "claim": "Stimulating the posterior insula evokes pain and other body sensations",
+    "finding": "Direct electrical stimulation of the insular cortex was done in 43 patients with drug-refractory temporal lobe epilepsy, using depth electrodes. Painful sensations arose in the upper posterior insula in 14 patients, mostly in the right hemisphere, and non-painful sensations arose in the posterior insula in 16 patients in both hemispheres. The two kinds of representation overlapped.",
+    "quote": "We studied painful and non-painful somaesthetic sensations elicited by direct electrical stimulations of the insular cortex performed in 43 patients with drug refractory temporal lobe epilepsy, using stereotactically implanted depth electrodes. Painful sensations were evoked in the upper posterior part of the insular cortex in 14 patients, mostly in the right hemisphere. Non-painful sensations were elicited in the posterior part of the insular cortex in 16 patients, in both hemispheres.",
+    "pmid": "11884353",
+    "doi": "10.1093/cercor/12.4.376",
+    "cite": "Ostrowsky K, Magnin M, Ryvlin P, et al. Representation of pain and somatic sensation in the human insula: a study of responses to direct electrical cortical stimulation. Cereb Cortex. 2002;12(4):376-85.",
+    "year": 2002,
+    "data": {
+     "title": "Patients (of 43) with sensations from insular stimulation",
+     "unit": "patients",
+     "items": [
+      [
+       "Painful sensations",
+       14
+      ],
+      [
+       "Non-painful sensations",
+       16
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Pain from insular stimulation has a rough body map, mostly posterior",
+    "finding": "In 142 patients having depth electrode exploration, 472 insular stimulations were delivered. Only 10.5% elicited pain, in 27% of patients, and most sites were in the posterior two thirds of the insula. Pain sites showed a face representation in front of the upper limb, with the upper limb above the lower limb.",
+    "quote": "We studied 142 patients undergoing depth stereotactic EEG (SEEG) exploration of the insular cortex for pre-surgical evaluation of epilepsy. 472 insular electrical stimulations were delivered, of which only 49 (10.5%) elicited a painful sensation in 38 patients (27%).",
+    "pmid": "19665303",
+    "doi": "10.1016/j.pain.2009.07.014",
+    "cite": "Mazzola L, Isnard J, Peyron R, Guenot M, Mauguiere F. Somatotopic organization of pain responses to direct electrical stimulation of the human insular cortex. Pain. 2009;146(1-2):99-104.",
+    "year": 2009,
+    "data": {
+     "title": "Percent with a painful response",
+     "unit": "%",
+     "items": [
+      [
+       "Stimulations that gave pain",
+       10.5
+      ],
+      [
+       "Patients with pain response",
+       27
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "imaging",
+    "claim": "The granular posterior insula responds specifically to pain stimuli",
+    "finding": "In 25 healthy volunteers, tactile stimuli, passive movements, cold, warmth and heat pain were applied to the left hand during fMRI. The posterior granular insula (Ig) and the anterior parietal operculum (OP4) were specifically activated by pain, which raises the question of whether they are the substrate of sensory-discriminative processing of thermal pain.",
+    "quote": "However, the posterior granular part of insula contralateral to stimulus (Ig area) and the anterior part of SII bilaterally (OP4) were specifically activated during pain stimulation.",
+    "pmid": "22245639",
+    "doi": "10.1016/j.neuroimage.2011.12.072",
+    "cite": "Mazzola L, Faillenot I, Barral FG, Mauguiere F, Peyron R. Spatial segregation of somato-sensory and pain activations in the human operculo-insular cortex. Neuroimage. 2012;60(1):409-18.",
+    "year": 2012
+   },
+   {
+    "kind": "imaging",
+    "claim": "The dorsal posterior insula has a specific role in pain",
+    "finding": "The authors used arterial spin-labeling perfusion imaging and a new analysis procedure to look for a pain-specific region. They identified the dorsal posterior insula as having a specific role in pain, similar to a region that animal tracing studies place at the center of nociception.",
+    "quote": "We exploited arterial spin-labeling quantitative perfusion imaging and a newly developed procedure to identify a specific role for the dorsal posterior insula (dpIns) in pain.",
+    "pmid": "25751532",
+    "doi": "10.1038/nn.3969",
+    "cite": "Segerdahl AR, Mezue M, Okell TW, Farrar JT, Tracey I. The dorsal posterior insula subserves a fundamental role in human pain. Nat Neurosci. 2015;18(4):499-500.",
+    "year": 2015
+   }
+  ],
+  "stimulation": {
+   "method": "intracerebral electrical stimulation in epilepsy patients",
+   "effect": "In 164 consecutive patients and 4160 stimulations, pain was rare but arose from the medial parietal operculum and neighbouring posterior insula, and nowhere else in the cortex.",
+   "quote": "Pain responses were scarce (1.4%) and concentrated in the medial part of the parietal operculum and neighbouring posterior insula where pain thresholds showed a rostrocaudal decrement.",
+   "pmid": "22036962",
+   "doi": "10.1093/brain/awr265",
+   "cite": "Mazzola L, Isnard J, Peyron R, Mauguiere F. Stimulation of the human cortex and the experience of pain: Wilder Penfield's observations revisited. Brain. 2012;135(Pt 2):631-40.",
+   "year": 2012
+  }
+ },
+ {
+  "id": "piriform_cortex",
+  "aliases": [
+   "primary olfactory cortex",
+   "pir",
+   "olfactory cortex"
+  ],
+  "hint": "underside where the smell tract ends, at the frontotemporal border",
+  "summary": "The piriform cortex is the main primary olfactory cortex, a three-layered paleocortex at the junction of the frontal and temporal lobes. It receives smell information directly from the olfactory bulb through the lateral olfactory tract, without a thalamic relay. It encodes odor quality as distributed patterns of activity, and its posterior part appears to hold templates of odor identity. It projects to the orbitofrontal cortex, amygdala, entorhinal cortex and hippocampus, which link smell to emotion and memory.",
+  "where": "It lies on the ventral surface of the brain at the border between the frontal and temporal lobes, where the lateral olfactory tract ends, around the limen insulae and in front of and around the amygdala at the uncus. It is a small structure on the underside of the hemisphere, best seen in an inferior view. The frontal part sits in the posterior orbitofrontal area, and the temporal part lies around the uncus.",
+  "does": "The piriform cortex builds odor objects: patterns of activity across it correspond to perceived odor quality, particularly in the posterior piriform cortex, where more similar patterns match odors that are rated as more similar. The anterior part reflects the attended odor target before and after the odor arrives, and the posterior part shifts from a prestimulus template to the odor itself. It responds to sniffing as well as to smell, and takes part in recognition memory for odors and in linking odors to other senses.",
+  "connects": "The mitral and tufted cells of the olfactory bulb project to it directly through the lateral olfactory tract, so olfaction is the one sense that reaches cortex without first synapsing in the thalamus. It projects to the orbitofrontal cortex, directly and through the mediodorsal thalamus, and to the amygdala, entorhinal cortex, hippocampus and insula.",
+  "clinical": "Smell loss is an early feature of Parkinson's disease and Alzheimer's disease, whose pathology involves the olfactory bulb, piriform and entorhinal regions. Seizures that start in the medial temporal lobe near the uncus can begin with a brief unpleasant smell, called an uncinate fit. Removing the temporal lobe or orbital frontal cortex impairs odor identification in patients, but detection thresholds stay normal.",
+  "remember": "Piriform means pear-shaped: it is the first cortical stop for smell, reached straight from the nose-side bulb with no thalamic relay.",
+  "facts": [
+   "Olfaction is the only sense that reaches the cortex without a thalamic relay.",
+   "Posterior piriform activity patterns coincide with perceived odor similarity.",
+   "Sniffing alone, without a smell, activates the piriform cortex."
+  ],
+  "quiz": [
+   {
+    "q": "Which paleocortex at the frontotemporal junction receives mitral cell axons from the olfactory bulb directly, without a thalamic relay?",
+    "type": "connection"
+   },
+   {
+    "q": "In fMRI, activity patterns in this posterior cortex match how similar odors smell. Which region?",
+    "type": "function"
+   },
+   {
+    "q": "Temporal lobe seizures near the uncus start with a brief unpleasant smell, and smell loss is an early sign of Parkinson's disease. Which primary olfactory cortex is involved?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   4,
+   7
+  ],
+  "see_also": [
+   "entorhinal_cortex",
+   "amygdala",
+   "orbitofrontal_cortex",
+   "anterior_insula"
+  ],
+  "how_we_know": "Most of what we know is from fMRI in healthy volunteers, which shows what odor information piriform patterns hold but not what they are needed for, and from lesion studies that include more than the piriform cortex. Direct human stimulation evidence that targets the piriform cortex specifically is thin, so no stimulation result is given here.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Posterior piriform patterns track perceived odor similarity",
+    "finding": "Volunteers smelled a range of odors during fMRI, and pattern analysis was used to compare the activity with their ratings of odor quality. Distributed activity in the human posterior piriform cortex coincided with perceived odor quality, so that odors with more similar patterns were perceived as more alike. This was not seen in the anterior piriform cortex, the amygdala or the orbitofrontal cortex. It is correlational.",
+    "quote": "By combining functional magnetic resonance imaging (fMRI) with multivariate (pattern-based) techniques, we found that spatially distributed ensemble activity in human posterior piriform cortex (PPC) coincides with perceptual ratings of odor quality, such that odorants with more (or less) similar fMRI patterns were perceived as more (or less) alike.",
+    "pmid": "19483688",
+    "doi": "10.1038/nn.2324",
+    "cite": "Howard JD, Plailly J, Grueschow M, Haynes JD, Gottfried JA. Odor quality coding and categorization in human posterior piriform cortex. Nat Neurosci. 2009;12(7):932-8.",
+    "year": 2009
+   },
+   {
+    "kind": "imaging",
+    "claim": "Anterior and posterior piriform cortex hold odor target templates",
+    "finding": "Using high-resolution fMRI during an odor search task, the authors found that anterior piriform cortex and orbitofrontal cortex patterns reflected the attended odor target both before and after stimulus onset. In the posterior piriform cortex, prestimulus patterns for the target gave way to patterns for the odor itself, and the strength of the target pattern predicted later performance.",
+    "quote": "Ensemble activity patterns in anterior piriform cortex (APC) and orbitofrontal cortex (OFC) reflected the attended odor target both before and after stimulus onset. In contrast, prestimulus ensemble representations of the odor target in posterior piriform cortex (PPC) gave way to poststimulus representations of the odor itself.",
+    "pmid": "21982378",
+    "doi": "10.1016/j.neuron.2011.08.010",
+    "cite": "Zelano C, Mohanty A, Gottfried JA. Olfactory predictive codes and stimulus templates in piriform cortex. Neuron. 2011;72(1):178-87.",
+    "year": 2011
+   },
+   {
+    "kind": "imaging",
+    "claim": "Sniffing activates the piriform cortex even without an odor",
+    "finding": "fMRI in healthy volunteers separated sniffing from smelling. Sniffing, with or without an odorant, activated mainly the piriform cortex and the medial and posterior orbitofrontal gyri, while a smell regardless of sniffing activated mainly the lateral and anterior orbitofrontal gyri. The sniff response came from the somatosensory stimulation of air flow through the nostrils.",
+    "quote": "We find that sniffing, whether odorant is present or absent, induces activation primarily in the piriform cortex of the temporal lobe and in the medial and posterior orbito-frontal gyri of the frontal lobe. In contrast, a smell, regardless of sniffing, induces activation mainly in the lateral and anterior orbito-frontal gyri of the frontal lobe.",
+    "pmid": "9521322",
+    "doi": "10.1038/32654",
+    "cite": "Sobel N, Prabhakaran V, Desmond JE, et al. Sniffing and smelling: separate subsystems in the human olfactory cortex. Nature. 1998;392(6673):282-6.",
+    "year": 1998
+   },
+   {
+    "kind": "lesion",
+    "claim": "Temporal or orbital frontal removal impairs odor identification",
+    "finding": "The University of Pennsylvania Smell Identification Test was given to 120 patients with a focal surgical lesion and 20 control subjects. Identification was significantly impaired after temporal lobectomy, which removes the piriform cortex among other tissue, and after frontal lobectomy that invaded the orbital cortex. Detection thresholds were normal, and the lesions were not confined to the piriform cortex.",
+    "quote": "The ability to identify common odors using the University of Pennsylvania Smell Identification Test was investigated in 120 patients with a focal surgical brain lesion and 20 normal control subjects. Results showed significant impairment after right or left temporal lobectomy, right or left frontal lobectomy, and right frontotemporal excision.",
+    "pmid": "3374800",
+    "doi": "10.1016/0028-3932(88)90093-0",
+    "cite": "Jones-Gotman M, Zatorre RJ. Olfactory identification deficits in patients with focal cerebral excision. Neuropsychologia. 1988;26(3):387-400.",
+    "year": 1988
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "secondary_somatosensory_cortex",
+  "aliases": [
+   "s2",
+   "sii",
+   "parietal operculum",
+   "secondary somatosensory area"
+  ],
+  "hint": "upper lip and bank of the lateral sulcus, behind the insular island",
+  "summary": "The secondary somatosensory cortex is the part of the somatosensory system on the parietal operculum, the upper bank of the lateral sulcus, behind the insula and below the primary somatosensory cortex. It receives touch, temperature and pain information from the primary somatosensory cortex and the thalamus, and has large receptive fields that often cover both sides of the body. It integrates touch for recognising objects and takes part in the sensory side of pain and in attention to touch. It projects to the posterior insula and, from there, to limbic structures that store tactile memories.",
+  "where": "It lies on the parietal operculum, the upper bank and lip of the lateral sulcus, directly behind the posterior insula and below the lower end of the postcentral gyrus. It is best seen in a lateral view with the lateral sulcus opened. The model draws it from HCP areas OP1, OP2-3 and OP4, so the outline is an approximation of S2 that also includes neighbouring operculum fields.",
+  "does": "The secondary somatosensory cortex processes touch at a higher level than the primary cortex. It combines inputs from many skin regions, so a single finger can activate wide areas on both sides, and it helps recognise objects by touch. It has a coarse body map that is less detailed than the primary cortex. Subdivisions differ: OP1 resembles the human equivalent of S2 and is closely tied to parietal networks for higher-order touch, while OP4 is tied more to frontal motor and action-control areas.",
+  "connects": "It receives input from the primary somatosensory cortex (areas 3b, 1 and 2) and from thalamic nuclei, and projects to the posterior insula, the premotor and motor areas and the parietal association cortex. Anatomical and functional connectivity analyses show OP1 is more closely connected to parietal networks and OP4 to frontal motor areas.",
+  "clinical": "Damage to the parietal operculum and adjacent parietal cortex can cause tactile agnosia, in which a patient cannot recognise an object by touch even though basic sensation is preserved. Stimulation of its medial part, together with the posterior insula, can evoke pain. Operculo-insular lesions can also alter pain and temperature sensation, whereas stimulation of the lateral part of S2 did not evoke pain.",
+  "remember": "S2 is the second stop for touch: S1 says where and what kind, S2 pools both sides of the body to say what the object is.",
+  "facts": [
+   "S2 lies on the parietal operculum, the upper bank of the lateral sulcus.",
+   "Its receptive fields are often bilateral and its body map is coarser than S1.",
+   "OP1 is more connected to parietal networks, and OP4 to frontal motor and action areas."
+  ],
+  "quiz": [
+   {
+    "q": "Which area on the upper bank of the lateral sulcus has bilateral receptive fields and helps recognise objects by touch?",
+    "type": "function"
+   },
+   {
+    "q": "A patient can feel light touch normally but cannot recognise a coin placed in the hand without looking. Damage to which opercular region is suspected?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which somatosensory cortex lies on the parietal operculum behind the insula, with subdivisions OP1 and OP4?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   7,
+   11
+  ],
+  "see_also": [
+   "primary_somatosensory_cortex",
+   "posterior_insula",
+   "postcentral_gyrus",
+   "ventral_posterolateral_nucleus"
+  ],
+  "how_we_know": "fMRI shows a coarse body map and separate subdivisions, tractography shows the connection pattern, and intracerebral stimulation shows where stimulation does and does not give pain. S2 sits deep in the sulcus next to the insula, so separating it from the posterior insula is hard and the boundaries on the model are approximate.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "S2 has a coarse body map that is also found in the ipsilateral side",
+    "finding": "Eight subjects had electrical stimulation of the second finger, the fifth finger and the hallux during fMRI. Both fingers were represented halfway down the contralateral parietal operculum, and the hallux more medially near the posterior pole of the insula. Separate finger representations were not seen, so the S2 map is coarser than the S1 map.",
+    "quote": "Eight subjects received electrical stimulation on their right second finger, fifth finger and hallux. Within SII, the typical finding for both fingers was a representation site within the contralateral parietal operculum roughly halfway between the lip of the lateral sulcus and its fundus, whereas the representation site of the hallux was found more medially to this position at the fundus of the lateral sulcus, near the posterior pole of the insula.",
+    "pmid": "11313298",
+    "doi": "10.1093/cercor/11.5.463",
+    "cite": "Ruben J, Schwiemann J, Deuchert M, et al. Somatotopic organization of human secondary somatosensory cortex. Cereb Cortex. 2001;11(5):463-73.",
+    "year": 2001
+   },
+   {
+    "kind": "connectivity",
+    "claim": "OP1 links to parietal networks and OP4 to frontal motor areas",
+    "finding": "Probabilistic tractography on diffusion data and a coordinate-based meta-analysis of functional imaging were used to compare the connectivity of the two largest parietal operculum areas. OP4 was more closely integrated with areas for basic sensorimotor processing and action control, while OP1 was more closely connected to the parietal networks for higher-order somatosensory processing.",
+    "quote": "In particular, relative to OP 1, area OP 4 is more closely integrated with areas responsible for basic sensorimotor processing and action control, while OP 1 is more closely connected to the parietal networks for higher order somatosensory processing.",
+    "pmid": "20445067",
+    "doi": "10.1523/JNEUROSCI.5664-09.2010",
+    "cite": "Eickhoff SB, Jbabdi S, Caspers S, et al. Anatomical and functional connectivity of cytoarchitectonic areas within the human parietal operculum. J Neurosci. 2010;30(18):6409-21.",
+    "year": 2010
+   },
+   {
+    "kind": "imaging",
+    "claim": "OP1 responds to every type of touch stimulus and OP4 to pain",
+    "finding": "In 25 healthy volunteers, five kinds of somatosensory stimulus (tactile, passive movement, cold, warmth and heat pain) were applied to the left hand during fMRI. The posterior part of S2 (OP1) was the only subregion activated by all stimulus types, while the anterior part (OP4) was specifically activated by pain.",
+    "quote": "The posterior part of SII (OP1 area), contralateral to stimuli, was the only sub-region activated by all type of stimuli and might therefore be considered as a common cortical target for different types of somato-sensory inputs.",
+    "pmid": "22245639",
+    "doi": "10.1016/j.neuroimage.2011.12.072",
+    "cite": "Mazzola L, Faillenot I, Barral FG, Mauguiere F, Peyron R. Spatial segregation of somato-sensory and pain activations in the human operculo-insular cortex. Neuroimage. 2012;60(1):409-18.",
+    "year": 2012
+   }
+  ],
+  "stimulation": {
+   "method": "intracerebral electrical stimulation in epilepsy patients",
+   "effect": "Across 4160 stimulations in 164 patients, pain was evoked from the medial parietal operculum and neighbouring posterior insula, but no pain response occurred from the lateral part of the secondary somatosensory area.",
+   "quote": "Like Penfield et al., we obtained no pain response anywhere else in the cortex, including in regions consistently activated by pain in most functional imaging studies, i.e. the first somatosensory area, the lateral part of the secondary somatosensory area, anterior and mid-cingulate gyri (mid-cingulate cortex), anterior frontal, posterior parietal and supplementary motor areas.",
+   "pmid": "22036962",
+   "doi": "10.1093/brain/awr265",
+   "cite": "Mazzola L, Isnard J, Peyron R, Mauguiere F. Stimulation of the human cortex and the experience of pain: Wilder Penfield's observations revisited. Brain. 2012;135(Pt 2):631-40.",
+   "year": 2012
+  }
+ }
+]

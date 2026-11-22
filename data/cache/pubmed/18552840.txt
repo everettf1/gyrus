@@ -1,0 +1,28 @@
+1. Nat Neurosci. 2008 Jul;11(7):834-42. doi: 10.1038/nn.2149. Epub 2008 Jun 15.
+
+A disproportionate role for the fornix and mammillary bodies in recall versus 
+recognition memory.
+
+Tsivilis D(1), Vann SD, Denby C, Roberts N, Mayes AR, Montaldi D, Aggleton JP.
+
+Author information:
+(1)School of Psychological Sciences, Zochonis Building, University of 
+Manchester, Brunswick Street, Manchester, M13 9PL, UK. 
+dimitris.tsivilis@manchester.ac.uk
+
+Uncovering the functional relationship between temporal lobe amnesia and 
+diencephalic amnesia depends on determining the role of the fornix, the major 
+interlinking fiber tract. In this study relating fornix volume with memory, we 
+made magnetic resonance imaging-based volume estimates of 13 brain structures in 
+38 individuals with surgically removed colloid cysts. Fornix status was assessed 
+directly by overall volume and indirectly by mammillary body volume (which 
+atrophies after fornix damage). Mammillary body volume significantly correlated 
+with 13 out of 14 tests of episodic memory recall, but correlated poorly with 
+recognition memory. Furthermore, as the volumes of the left fornix and the left 
+mammillary bodies decreased, the difference between recall and recognition 
+scores increased. No other structure was consistently associated with memory. 
+These findings support models of diencephalic memory mechanisms that require 
+hippocampal inputs for recall, but not for key elements of recognition.
+
+DOI: 10.1038/nn.2149
+PMID: 18552840 [Indexed for MEDLINE]

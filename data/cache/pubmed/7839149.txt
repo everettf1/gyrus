@@ -1,0 +1,25 @@
+1. Science. 1995 Feb 3;267(5198):699-701. doi: 10.1126/science.7839149.
+
+In vivo evidence of structural brain asymmetry in musicians.
+
+Schlaug G(1), Jäncke L, Huang Y, Steinmetz H.
+
+Author information:
+(1)Department of Neurology, Heinrich-Heine-Universität Düsseldorf, Germany.
+
+Comment in
+    Science. 1995 May 5;268(5211):621-2. doi: 10.1126/science.7732360.
+    Science. 1995 Feb 3;267(5198):616. doi: 10.1126/science.7839136.
+
+Certain human talents, such as musical ability, have been associated with 
+left-right differences in brain structure and function. In vivo magnetic 
+resonance morphometry of the brain in musicians was used to measure the 
+anatomical asymmetry of the planum temporale, a brain area containing auditory 
+association cortex and previously shown to be a marker of structural and 
+functional asymmetry. Musicians with perfect pitch revealed stronger leftward 
+planum temporale asymmetry than nonmusicians or musicians without perfect pitch. 
+The results indicate that outstanding musical ability is associated with 
+increased leftward asymmetry of cortex subserving music-related functions.
+
+DOI: 10.1126/science.7839149
+PMID: 7839149 [Indexed for MEDLINE]

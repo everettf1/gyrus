@@ -1,0 +1,30 @@
+1. Proc Natl Acad Sci U S A. 2007 Dec 11;104(50):20137-41. doi: 
+10.1073/pnas.0707383104. Epub 2007 Dec 3.
+
+Anterior temporal lobes mediate semantic representation: mimicking semantic 
+dementia by using rTMS in normal participants.
+
+Pobric G(1), Jefferies E, Ralph MA.
+
+Author information:
+(1)Neuroscience and Aphasia Research Unit, School of Psychological Sciences, 
+University of Manchester, Manchester M13 9PL, United Kingdom.
+
+Studies of semantic dementia and PET neuroimaging investigations suggest that 
+the anterior temporal lobes (ATL) are a critical substrate for semantic 
+representation. In stark contrast, classical neurological models of 
+comprehension do not include ATL, and likewise functional MRI studies often fail 
+to show activations in the ATL, reinforcing the classical view. Using a novel 
+application of low-frequency, repetitive transcranial magnetic stimulation 
+(rTMS) over the ATL, we demonstrate that the behavioral pattern of semantic 
+dementia can be mirrored in neurologically intact participants: Specifically, we 
+show that temporary disruption to neural processing in the ATL produces a 
+selective semantic impairment leading to significant slowing in both picture 
+naming and word comprehension but not to other equally demanding, nonsemantic 
+cognitive tasks.
+
+DOI: 10.1073/pnas.0707383104
+PMCID: PMC2148435
+PMID: 18056637 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

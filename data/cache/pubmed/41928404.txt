@@ -1,0 +1,43 @@
+1. Neurocase. 2026 Apr;32(2):65-75. doi: 10.1080/13554794.2026.2640909. Epub 2026
+ Apr 2.
+
+Stimulation of the human periaqueductal gray induces threat bradycardia: a case 
+report.
+
+Klaassen FH(1)(2), de Voogd LD(1)(3), Hulsman AM(1), Klumpers F(1), Farrell 
+SM(4), Green AL(4), van den Munckhof P(5), Roelofs K(1).
+
+Author information:
+(1)Donders Institute for Brain, Cognition and Behaviour and Behavioural Science 
+Institute (BSI), Radboud University, Nijmegen, The Netherlands.
+(2)Institute of Systems Neuroscience, University Medical Center 
+Hamburg-Eppendorf, Hamburg, Germany.
+(3)Institute of Psychology and Leiden Institute for Brain and Cognition (LIBC), 
+Leiden University, Leiden, The Netherlands.
+(4)Nuffield Department of Surgical Sciences, John Radcliffe Hospital, University 
+of Oxford, Oxford, UK.
+(5)Amsterdam UMC, Department of Neurosurgery, University of Amsterdam, 
+Amsterdam, The Netherlands.
+
+The ability to recognize and anticipate potential danger is crucial for survival 
+across species. The midbrain periaqueductal gray (PAG) is implicated in 
+regulating threat-anticipatory responses, including heart rate deceleration 
+(threat bradycardia) which is typically observed during freezing. Although 
+animal studies have provided causal evidence that the PAG regulates 
+threat-anticipatory bradycardia, causal evidence does not exist in humans. To 
+address this translational gap, we performed a single-case study to elucidate 
+the causal role of the human PAG in threat-anticipatory bradycardia using deep 
+brain stimulation (DBS). We report on a participant who received PAG DBS for 
+chronic pain treatment. The participant performed an instructed fear task during 
+which cues were presented signaling either threat of electrical shock or safety. 
+During the task, we applied DBS in the PAG, no DBS, or DBS at a control site 
+bordering the PAG. Deep brain stimulation in the PAG significantly increased 
+threat bradycardia responses (i.e. reduced heart rate for threat vs. safety) 
+compared to no stimulation, whereas control-site stimulation bordering the PAG 
+did not significantly affect threat bradycardia. Together, this single-case 
+report provides causal evidence that the human PAG regulates threat bradycardia 
+responses, furthering our understanding of the neural circuit underlying 
+defensive reactions in humans.
+
+DOI: 10.1080/13554794.2026.2640909
+PMID: 41928404 [Indexed for MEDLINE]

@@ -1,0 +1,31 @@
+1. Nat Neurosci. 2005 Oct;8(10):1391-400. doi: 10.1038/nn1549. Epub 2005 Sep 11.
+
+Timing of the brain events underlying access to consciousness during the 
+attentional blink.
+
+Sergent C(1), Baillet S, Dehaene S.
+
+Author information:
+(1)Institut National de la Santé et de la Recherche Médicale Unité 562, 
+Cognitive Neuroimaging, Service Hospitalier Frédéric Joliot, Commissariat à 
+l'Energie Atomique, 4, place du Général Leclerc, 91401 Orsay Cedex, France. 
+sergent@shfj.cea.fr
+
+Comment in
+    Nat Neurosci. 2005 Oct;8(10):1285-6. doi: 10.1038/nn1005-1285.
+
+In the phenomenon of attentional blink, identical visual stimuli are sometimes 
+fully perceived and sometimes not detected at all. This phenomenon thus provides 
+an optimal situation to study the fate of stimuli not consciously perceived and 
+the differences between conscious and nonconscious processing. We correlated 
+behavioral visibility ratings and recordings of event-related potentials to 
+study the temporal dynamics of access to consciousness. Intact early potentials 
+(P1 and N1) were evoked by unseen words, suggesting that these brain events are 
+not the primary correlates of conscious perception. However, we observed a rapid 
+divergence around 270 ms, after which several brain events were evoked solely by 
+seen words. Thus, we suggest that the transition toward access to consciousness 
+relates to the optional triggering of a late wave of activation that spreads 
+through a distributed network of cortical association areas.
+
+DOI: 10.1038/nn1549
+PMID: 16158062 [Indexed for MEDLINE]

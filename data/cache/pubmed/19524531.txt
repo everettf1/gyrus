@@ -1,0 +1,31 @@
+1. Neuron. 2009 Jun 11;62(5):733-43. doi: 10.1016/j.neuron.2009.05.014.
+
+How green is the grass on the other side? Frontopolar cortex and the evidence in 
+favor of alternative courses of action.
+
+Boorman ED(1), Behrens TE, Woolrich MW, Rushworth MF.
+
+Author information:
+(1)Centre for Functional MRI of the Brain, University of Oxford, Oxford 0X3 9DU, 
+UK. erie.boorman@psy.ox.ac.uk
+
+Comment in
+    Neuron. 2009 Jun 11;62(5):609-11. doi: 10.1016/j.neuron.2009.05.020.
+
+Behavioral flexibility is the hallmark of goal-directed behavior. Whereas a 
+great deal is known about the neural substrates of behavioral adjustment when it 
+is explicitly cued by features of the external environment, little is known 
+about how we adapt our behavior when such changes are made on the basis of 
+uncertain evidence. Using a Bayesian reinforcement-learning model and fMRI, we 
+show that frontopolar cortex (FPC) tracks the relative advantage in favor of 
+switching to a foregone alternative when choices are made voluntarily. Changes 
+in FPC functional connectivity occur when subjects finally decide to switch to 
+the alternative behavior. Moreover, interindividual variation in the FPC signal 
+predicts interindividual differences in effectively adapting behavior. By 
+contrast, ventromedial prefrontal cortex (vmPFC) encodes the relative value of 
+the current decision. Collectively, these findings reveal complementary 
+prefrontal computations essential for promoting short- and long-term behavioral 
+flexibility.
+
+DOI: 10.1016/j.neuron.2009.05.014
+PMID: 19524531 [Indexed for MEDLINE]

@@ -1,0 +1,40 @@
+1. Brain. 2007 Jan;130(Pt 1):170-80. doi: 10.1093/brain/awl333.
+
+Functional potential in chronic stroke patients depends on corticospinal tract 
+integrity.
+
+Stinear CM(1), Barber PA, Smale PR, Coxon JP, Fleming MK, Byblow WD.
+
+Author information:
+(1)Human Motor Control Laboratory, University of Auckland, Auckland, New 
+Zealand.
+
+Determining whether a person with stroke has reached their full potential for 
+recovery is difficult. While techniques such as transcranial magnetic 
+stimulation (TMS) and MRI have some prognostic value, their role in 
+rehabilitation is undefined. This study used TMS and MRI to determine which 
+factors predict functional potential, defined as an individual's capacity for 
+further functional improvement at least 6 months following stroke. We studied 21 
+chronic stroke patients with upper limb impairment. The functional integrity of 
+the corticospinal tracts (CSTs) was assessed using TMS and functional MRI. The 
+presence or absence of motor-evoked responses (MEPs) to TMS in the affected 
+upper limb, and the lateralization of cortical activity during affected hand use 
+were determined. The structural integrity of the CST was assessed using MRI, and 
+diffusion tensor imaging was used to measure the asymmetry in fractional 
+anisotropy (FA) of the internal capsules. A multiple linear regression analysis 
+was performed, to predict both clinical score at inception and change in 
+clinical score for 17 patients who completed a 30 day programme of motor 
+practice with the affected upper limb. The main findings were that in patients 
+with MEPs, meaningful gains were still possible 3 years after stroke, although 
+the capacity for improvement declined with time. In patients without MEPs, 
+functional potential declines with increasing CST disruption, with no meaningful 
+gains possible if FA asymmetry exceeds a value of 0.25. This study is the first 
+to demonstrate the complementary nature of TMS and MRI techniques in predicting 
+functional potential in chronic stroke patients. An algorithm is proposed for 
+the selection of individualized rehabilitation strategies, based on the 
+prediction of functional potential. These strategies could include 
+neuromodulation using a range of emerging techniques, to prime the motor system 
+for a plastic response to rehabilitation.
+
+DOI: 10.1093/brain/awl333
+PMID: 17148468 [Indexed for MEDLINE]

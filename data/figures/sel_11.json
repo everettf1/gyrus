@@ -1,0 +1,102 @@
+[
+ {
+  "region": "posterior_insula",
+  "pmid": "11884353",
+  "from": "Figure 2 (A-C)",
+  "caption": "Sites in the insular cortex where electrical stimulation evoked pain in 14 patients, plotted on a sagittal MRI. Most sites sit in the upper posterior part of the insula, and the lower panels sort them by body part and by pain quality.",
+  "notice": "The pain sites cluster toward the back of the insula, and because the electrode current caused the sensation this points to a cause, not just a correlation.",
+  "short": "Ostrowsky et al. 2002, Cereb Cortex",
+  "license": "",
+  "file": "posterior_insula_11884353.webp"
+ },
+ {
+  "region": "subgenual_cingulate_cortex",
+  "pmid": "9126739",
+  "from": "Figure 2",
+  "caption": "Sagittal and coronal brain sections with the subgenual prefrontal cortex labeled and a t-value color scale; the strongest values, in red and orange, sit at the subgenual region.",
+  "notice": "Look at where the peak color falls: it is centered on the subgenual region, which ties the group difference in mood disorders to this spot, a correlation.",
+  "short": "Drevets et al. 1997, Nature",
+  "license": "",
+  "file": "subgenual_cingulate_cortex_9126739.webp"
+ },
+ {
+  "region": "striatum",
+  "pmid": "22832566",
+  "from": "Figure 7",
+  "caption": "A map of the human striatum in which each voxel is colored by the cerebral network it is most strongly connected to; the cortical network colors are shown at the bottom.",
+  "notice": "Different parts of the striatum take different colors, so each part couples to a different cortical network; this is functional connectivity, a correlation of activity.",
+  "short": "Choi et al. 2012, J Neurophysiol",
+  "license": "",
+  "file": "striatum_22832566.webp"
+ },
+ {
+  "region": "parietal_lobe",
+  "pmid": "12821519",
+  "from": "Fig. 1A",
+  "caption": "Lesion overlap map for 14 middle cerebral artery stroke patients with neglect, shown on axial slices; the colors show how many patients' lesions covered each voxel.",
+  "notice": "The overlap is deepest in the parietal region, so damage there goes with neglect; lesions point to a cause.",
+  "short": "Mort et al. 2003, Brain",
+  "license": "",
+  "file": "parietal_lobe_12821519.webp"
+ },
+ {
+  "region": "posterior_lobe_of_cerebellum",
+  "pmid": "9577385",
+  "from": "Fig. 1",
+  "caption": "Bar graph of the deficits found at the bedside in patients with cerebellar lesions, with a severity score for each functional category such as executive function, reasoning, calculation and affect.",
+  "notice": "The tallest bars are executive function, reasoning, calculation and affect, so cerebellar damage produced problems in thinking and mood, not just movement; lesions show cause.",
+  "short": "Schmahmann et al. 1998, Brain",
+  "license": "",
+  "file": "posterior_lobe_of_cerebellum_9577385.webp"
+ },
+ {
+  "region": "angular_gyrus",
+  "pmid": "19329570",
+  "from": "Figure 4 (left-hemisphere sagittal slices)",
+  "caption": "Sagittal slices of an ALE map pooling 691 foci from general semantic contrasts across studies; yellow and red mark places where activation foci agreed.",
+  "notice": "The large bright patch in the left posterior inferior parietal region in the top row shows that many studies of meaning activate it, a correlation.",
+  "short": "Binder et al. 2009, Cereb Cortex",
+  "license": "",
+  "file": "angular_gyrus_19329570.webp"
+ },
+ {
+  "region": "occipital_pole",
+  "pmid": "19605642",
+  "from": "Figure 4",
+  "caption": "Polar angle map from one subject's hemisphere on the inflated surface, with a flattened patch around the occipital pole at right; the colors follow the visual field angle each spot responds to.",
+  "notice": "The colored angle bands run together in the patch at the occipital pole, which is where the visual areas meet; this is a mapped correlation with the visual field.",
+  "short": "Schira et al. 2009, J Neurosci",
+  "license": "",
+  "file": "occipital_pole_19605642.webp"
+ },
+ {
+  "region": "ventral_posterior_cingulate_gyrus",
+  "pmid": "11501737",
+  "from": "Fig. 2",
+  "caption": "Outlines of the lesions (white) of four patients with topographical disorientation, drawn on a structural MRI.",
+  "notice": "All four white lesions lie in the retrosplenial area behind the corpus callosum, so damage there went with getting lost, and lesions point to a cause.",
+  "short": "Maguire 2001, Scand J Psychol",
+  "license": "",
+  "file": "ventral_posterior_cingulate_gyrus_11501737.webp"
+ },
+ {
+  "region": "superior_temporal_sulcus",
+  "pmid": "10659849",
+  "from": "Figure 1c",
+  "caption": "Group-average map of regions that responded more to human voices than to energy-matched non-vocal sounds, shown on sagittal and axial brain slices of both hemispheres.",
+  "notice": "The colored patches run along the temporal lobe on both sides, so voice-selective activity lines up with this sulcus region; this is imaging, a correlation.",
+  "short": "Belin et al. 2000, Nature",
+  "license": "",
+  "file": "superior_temporal_sulcus_10659849.webp"
+ },
+ {
+  "region": "lateral_geniculate_nucleus",
+  "pmid": "20574422",
+  "from": "Figure 4",
+  "caption": "Mean fMRI activation in extrastriate visual areas of two monkeys under normal conditions (blue), after a V1 lesion (red), and after a V1 lesion plus LGN inactivation (green).",
+  "notice": "The green bars drop to near zero, so silencing the LGN removed the activation that remained without V1; this is a manipulation, so it shows cause.",
+  "short": "Schmid et al. 2010, Nature",
+  "license": "",
+  "file": "lateral_geniculate_nucleus_20574422.webp"
+ }
+]

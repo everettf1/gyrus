@@ -1,0 +1,47 @@
+1. Hum Brain Mapp. 2024 Jul 15;45(10):e26759. doi: 10.1002/hbm.26759.
+
+Morphological patterns and spatial probability maps of the inferior frontal 
+sulcus in the human brain.
+
+Nolan E(1)(2), Loh KK(2)(3), Petrides M(1)(2).
+
+Author information:
+(1)Department of Psychology, McGill University, Montreal, Canada.
+(2)Department of Neurology and Neurosurgery, Montreal Neurological Institute, 
+McGill University, Montreal, Canada.
+(3)Department of Psychology, National University of Singapore, Singapore.
+
+The inferior frontal sulcus (ifs) is a prominent sulcus on the lateral frontal 
+cortex, separating the middle frontal gyrus from the inferior frontal gyrus. The 
+morphology of the ifs can be difficult to distinguish from adjacent sulci, which 
+are often misidentified as continuations of the ifs. The morphological 
+variability of the ifs and its relationship to surrounding sulci were examined 
+in 40 healthy human subjects (i.e., 80 hemispheres). The sulci were identified 
+and labeled on the native cortical surface meshes of individual subjects, 
+permitting proper intra-sulcal assessment. Two main morphological patterns of 
+the ifs were identified across hemispheres: in Type I, the ifs was a single 
+continuous sulcus, and in Type II, the ifs was discontinuous and appeared in two 
+segments. The morphology of the ifs could be further subdivided into nine 
+subtypes based on the presence of anterior and posterior sulcal extensions. The 
+ifs was often observed to connect, either superficially or completely, with 
+surrounding sulci, and seldom appeared as an independent sulcus. The spatial 
+variability of the ifs and its various morphological configurations were 
+quantified in the form of surface spatial probability maps which are made 
+publicly available in the standard fsaverage space. These maps demonstrated that 
+the ifs generally occupied a consistent position across hemispheres and across 
+individuals. The normalized mean sulcal depths associated with the main 
+morphological types were also computed. The present study provides the first 
+detailed description of the ifs as a sulcal complex composed of segments and 
+extensions that can be clearly differentiated from adjacent sulci. These 
+descriptions, together with the spatial probability maps, are critical for the 
+accurate identification of the ifs in anatomical and functional neuroimaging 
+studies investigating the structural characteristics and functional organization 
+of this region in the human brain.
+
+© 2024 The Author(s). Human Brain Mapping published by Wiley Periodicals LLC.
+
+DOI: 10.1002/hbm.26759
+PMCID: PMC11237881
+PMID: 38989632 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

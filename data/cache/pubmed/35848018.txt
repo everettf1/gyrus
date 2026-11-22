@@ -1,0 +1,48 @@
+1. J Alzheimers Dis. 2022;89(1):39-49. doi: 10.3233/JAD-220024.
+
+Does Loss of Integrity of the Cingulum Bundle Link Amyloid-β Accumulation and 
+Neurodegeneration in Alzheimer's Disease?
+
+Vlegels N(1), Ossenkoppele R(2)(3), van der Flier WM(2)(4), Koek HL(5), Reijmer 
+YD(1), Wisse LE(6), Biessels GJ(1); Alzheimer’s Disease Neuroimaging Initiative.
+
+Author information:
+(1)Department of Neurology, UMC Utrecht Brain Center, University Medical Center 
+Utrecht, Utrecht University, Utrecht, The Netherlands.
+(2)Alzheimer Center Amsterdam, Department of Neurology, Amsterdam Neuroscience, 
+Vrije Universiteit Amsterdam, Amsterdam UMC, Amsterdam, The Netherlands.
+(3)Clinical Memory Research Unit, Lund University, Lund, Sweden.
+(4)Department of Epidemiology and Data Science, VU University Medical Center, 
+Amsterdam, The Netherlands.
+(5)Department of Geriatrics, University Medical Center Utrecht, Utrecht, The 
+Netherlands.
+(6)Department of Diagnostic Radiology, Lund University, Lund, Sweden.
+
+BACKGROUND: Alzheimer's disease is characterized by the accumulation of 
+amyloid-β (Aβ) into plaques, aggregation of tau into neurofibrillary tangles, 
+and neurodegenerative processes including atrophy. However, there is a poorly 
+understood spatial discordance between initial Aβ deposition and local 
+neurodegeneration.
+OBJECTIVE: Here, we test the hypothesis that the cingulum bundle links Aβ 
+deposition in the cingulate cortex to medial temporal lobe (MTL) atrophy.
+METHODS: 21 participants with mild cognitive impairment (MCI) from the UMC 
+Utrecht memory clinic (UMCU, discovery sample) and 37 participants with MCI from 
+Alzheimer's Disease Neuroimaging Initiative (ADNI, replication sample) with 
+available Aβ-PET scan, T1-weighted and diffusion-weighted MRI were included. Aβ 
+load of the cingulate cortex was measured by the standardized uptake value ratio 
+(SUVR), white matter integrity of the cingulum bundle was assessed by mean 
+diffusivity and atrophy of the MTL by normalized MTL volume. Relationships were 
+tested with linear mixed models, to accommodate multiple measures for each 
+participant.
+RESULTS: We found at most a weak association between cingulate Aβ and MTL volume 
+(added R2 &lt;0.06), primarily for the posterior hippocampus. In neither sample, 
+white matter integrity of the cingulum bundle was associated with cingulate Aβ 
+or MTL volume (added R2 &lt;0.01). Various sensitivity analyses (Aβ-positive 
+individuals only, posterior cingulate SUVR, MTL sub region volume) provided 
+similar results.
+CONCLUSION: These findings, consistent in two independent cohorts, do not 
+support our hypothesis that loss of white matter integrity of the cingulum is a 
+connecting factor between cingulate gyrus Aβ deposition and MTL atrophy.
+
+DOI: 10.3233/JAD-220024
+PMID: 35848018 [Indexed for MEDLINE]

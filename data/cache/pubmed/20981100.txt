@@ -1,0 +1,38 @@
+1. Nature. 2010 Oct 28;467(7319):1104-8. doi: 10.1038/nature09510.
+
+On-line, voluntary control of human temporal lobe neurons.
+
+Cerf M(1), Thiruvengadam N, Mormann F, Kraskov A, Quiroga RQ, Koch C, Fried I.
+
+Author information:
+(1)Computation and Neural Systems, California Institute of Technology, Pasadena, 
+California 91125, USA. moran@klab.caltech.edu
+
+Comment in
+    Nat Rev Neurosci. 2010 Dec;11(12):785. doi: 10.1038/nrn2958.
+
+Daily life continually confronts us with an exuberance of external, sensory 
+stimuli competing with a rich stream of internal deliberations, plans and 
+ruminations. The brain must select one or more of these for further processing. 
+How this competition is resolved across multiple sensory and cognitive regions 
+is not known; nor is it clear how internal thoughts and attention regulate this 
+competition. Recording from single neurons in patients implanted with 
+intracranial electrodes for clinical reasons, here we demonstrate that humans 
+can regulate the activity of their neurons in the medial temporal lobe (MTL) to 
+alter the outcome of the contest between external images and their internal 
+representation. Subjects looked at a hybrid superposition of two images 
+representing familiar individuals, landmarks, objects or animals and had to 
+enhance one image at the expense of the other, competing one. Simultaneously, 
+the spiking activity of their MTL neurons in different subregions and 
+hemispheres was decoded in real time to control the content of the hybrid. 
+Subjects reliably regulated, often on the first trial, the firing rate of their 
+neurons, increasing the rate of some while simultaneously decreasing the rate of 
+others. They did so by focusing onto one image, which gradually became clearer 
+on the computer screen in front of their eyes, and thereby overriding sensory 
+input. On the basis of the firing of these MTL neurons, the dynamics of the 
+competition between visual images in the subject's mind was visualized on an 
+external display.
+
+DOI: 10.1038/nature09510
+PMCID: PMC3010923
+PMID: 20981100 [Indexed for MEDLINE]

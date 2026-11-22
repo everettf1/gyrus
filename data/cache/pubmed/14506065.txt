@@ -1,0 +1,47 @@
+1. Brain. 2003 Nov;126(Pt 11):2463-75. doi: 10.1093/brain/awg248. Epub 2003 Sep
+23.
+
+Ventral occipital lesions impair object recognition but not object-directed 
+grasping: an fMRI study.
+
+James TW(1), Culham J, Humphrey GK, Milner AD, Goodale MA.
+
+Author information:
+(1)Vanderbilt Vision Research Center, Vanderbilt University, Nashville, TN 
+37203, USA. tom.james@vanderbilt.edu
+
+D.F., a patient with severe visual form agnosia, has been the subject of 
+extensive research during the past decade. The fact that she could process 
+visual input accurately for the purposes of guiding action despite being unable 
+to perform visual discriminations on the same visual input inspired a novel 
+interpretation of the functions of the two main cortical visual pathways or 
+'streams'. Within this theoretical context, the authors proposed that D.F. had 
+suffered severe bilateral damage to her occipitotemporal visual system (the 
+'ventral stream'), while retaining the use of her occipitoparietal visual system 
+(the 'dorsal stream'). The present paper reports a direct test of this idea, 
+which was initially derived from purely behavioural data, before the advent of 
+modern functional neuroimaging. We used functional MRI to examine activation in 
+her ventral and dorsal streams during object recognition and object-directed 
+grasping tasks. We found that D.F. showed no difference in activation when 
+presented with line drawings of common objects compared with scrambled line 
+drawings in the lateral occipital cortex (LO) of the ventral stream, an area 
+that responded differentially to these stimuli in healthy individuals. Moreover, 
+high-resolution anatomical MRI showed that her lesion corresponded bilaterally 
+with the location of LO in healthy participants. The lack of activation with 
+line drawings in D.F. mirrors her poor performance in identifying the objects 
+depicted in the drawings. With coloured and greyscale pictures, stimuli that she 
+can identify more often, D.F. did show some ventral-stream activation. These 
+activations were, however, more widely distributed than those seen in control 
+participants and did not include LO. In contrast to the absent or abnormal 
+activation observed during these perceptual tasks, D.F. showed robust activation 
+in the expected dorsal stream regions during object grasping, despite 
+considerable atrophy in some regions of the parietal lobes. In particular, an 
+area in the anterior intraparietal sulcus was activated more for grasping an 
+object than for just reaching to that object, for both D.F. and controls. In 
+conclusion, we have been able to confirm directly that D.F.'s visual form 
+agnosia is associated with extensive damage to the ventral stream, and that her 
+spared visuomotor skills are associated with visual processing in the dorsal 
+stream.
+
+DOI: 10.1093/brain/awg248
+PMID: 14506065 [Indexed for MEDLINE]

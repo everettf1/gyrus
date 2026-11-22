@@ -1,0 +1,35 @@
+1. Science. 2008 Oct 3;322(5898):96-101. doi: 10.1126/science.1164685. Epub 2008 
+Sep 4.
+
+Internally generated reactivation of single neurons in human hippocampus during 
+free recall.
+
+Gelbard-Sagiv H(1), Mukamel R, Harel M, Malach R, Fried I.
+
+Author information:
+(1)Department of Neurobiology, Weizmann Institute of Science, Rehovot, 76100, 
+Israel.
+
+Comment in
+    Science. 2008 Sep 5;321(5894):1280-1. doi: 10.1126/science.321.5894.1280b.
+    Nature. 2019 Jan;565(7740):410-411. doi: 10.1038/d41586-019-00198-7.
+
+The emergence of memory, a trace of things past, into human consciousness is one 
+of the greatest mysteries of the human mind. Whereas the neuronal basis of 
+recognition memory can be probed experimentally in human and nonhuman primates, 
+the study of free recall requires that the mind declare the occurrence of a 
+recalled memory (an event intrinsic to the organism and invisible to an 
+observer). Here, we report the activity of single neurons in the human 
+hippocampus and surrounding areas when subjects first view cinematic episodes 
+consisting of audiovisual sequences and again later when they freely recall 
+these episodes. A subset of these neurons exhibited selective firing, which 
+often persisted throughout and following specific episodes for as long as 12 
+seconds. Verbal reports of memories of these specific episodes at the time of 
+free recall were preceded by selective reactivation of the same hippocampal and 
+entorhinal cortex neurons. We suggest that this reactivation is an internally 
+generated neuronal correlate for the subjective experience of spontaneous 
+emergence of human recollection.
+
+DOI: 10.1126/science.1164685
+PMCID: PMC2650423
+PMID: 18772395 [Indexed for MEDLINE]

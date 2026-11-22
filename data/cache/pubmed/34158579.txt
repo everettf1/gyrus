@@ -1,0 +1,51 @@
+1. Commun Biol. 2021 Jun 22;4(1):768. doi: 10.1038/s42003-021-02294-9.
+
+The transverse occipital sulcus and intraparietal sulcus show neural selectivity 
+to object-scene size relationships.
+
+Welbourne LE(1)(2)(3), Jonnalagadda A(4), Giesbrecht B(5)(6)(7), Eckstein 
+MP(8)(9)(10)(11).
+
+Author information:
+(1)Department of Psychological and Brain Sciences, University of California, 
+Santa Barbara, USA. lauren.welbourne@york.ac.uk.
+(2)Institute for Collaborative Biotechnologies, University of California, Santa 
+Barbara, USA. lauren.welbourne@york.ac.uk.
+(3)York NeuroImaging Centre, Department of Psychology, University of York, York, 
+UK. lauren.welbourne@york.ac.uk.
+(4)Electrical and Computer Engineering, University of California, Santa Barbara, 
+USA.
+(5)Department of Psychological and Brain Sciences, University of California, 
+Santa Barbara, USA.
+(6)Institute for Collaborative Biotechnologies, University of California, Santa 
+Barbara, USA.
+(7)Interdepartmental Graduate Program in Dynamical Neuroscience, University of 
+California, Santa Barbara, USA.
+(8)Department of Psychological and Brain Sciences, University of California, 
+Santa Barbara, USA. miguel.eckstein@psych.ucsb.edu.
+(9)Institute for Collaborative Biotechnologies, University of California, Santa 
+Barbara, USA. miguel.eckstein@psych.ucsb.edu.
+(10)Electrical and Computer Engineering, University of California, Santa 
+Barbara, USA. miguel.eckstein@psych.ucsb.edu.
+(11)Interdepartmental Graduate Program in Dynamical Neuroscience, University of 
+California, Santa Barbara, USA. miguel.eckstein@psych.ucsb.edu.
+
+To optimize visual search, humans attend to objects with the expected size of 
+the sought target relative to its surrounding scene (object-scene scale 
+consistency). We investigate how the human brain responds to variations in 
+object-scene scale consistency. We use functional magnetic resonance imaging and 
+a voxel-wise feature encoding model to estimate tuning to different object/scene 
+properties. We find that regions involved in scene processing (transverse 
+occipital sulcus) and spatial attention (intraparietal sulcus) have the 
+strongest responsiveness and selectivity to object-scene scale consistency: 
+reduced activity to mis-scaled objects (either unusually smaller or larger). The 
+findings show how and where the brain incorporates object-scene size 
+relationships in the processing of scenes. The response properties of these 
+brain areas might explain why during visual search humans often miss objects 
+that are salient but at atypical sizes relative to the surrounding scene.
+
+DOI: 10.1038/s42003-021-02294-9
+PMCID: PMC8219818
+PMID: 34158579 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

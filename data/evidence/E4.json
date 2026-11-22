@@ -1,0 +1,970 @@
+[
+ {
+  "id": "anterior_horizontal_ramus",
+  "how_we_know": "This ramus is known from anatomical and MRI morphometry: researchers label it in many brains and count how often it is found and how it connects to its neighbours. These studies show where the ramus lies and how it varies, but they do not test any function, because the sulcus itself has none.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The ramus is the border between the pars triangularis and pars orbitalis and is usually present",
+    "finding": "Researchers labeled the horizontal ascending ramus of the lateral fissure in 50 in vivo MRI scans and sorted its patterns by how it relates to neighbouring sulci. They found it in 95% of hemispheres, in three main patterns, with no significant difference between the left and right hemispheres.",
+    "quote": "The half could be identified in 95% of hemispheres, and the main morphological patterns were classified into three categories: Types I, II, and III. There were no statistically significant interhemispheric differences in the frequency of the half or its morphological patterns.",
+    "pmid": "31667522",
+    "doi": "10.1093/cercor/bhz189",
+    "cite": "Sprung-Much T, Petrides M. Morphology and Spatial Probability Maps of the Horizontal Ascending Ramus of the Lateral Fissure. Cereb Cortex. 2020;30(3):1586-1602.",
+    "year": 2020
+   },
+   {
+    "kind": "imaging",
+    "claim": "Its length and branching vary between individuals",
+    "finding": "In 62 adult hemispheres from an autopsy series, the anterior ascending and anterior horizontal rami either split at one shared point on the Sylvian fissure or shared a short stem first, giving a Y shape. A split at the shared point was seen in 43 hemispheres, which is 69.4%.",
+    "quote": "The anterior ascending and anterior horizontal rami of the SF arose from the ASP and either divides at this point (43 hemispheres, 69.4%) or have a common short stem before separating distally giving a Y-shape configuration.",
+    "pmid": "25584204",
+    "doi": "10.7860/JCDR/2014/9955.5130",
+    "cite": "Idowu OE, Soyemi S, Atobatele K. Morphometry, asymmetry and variations of the sylvian fissure and sulci bordering and within the pars triangula and pars operculum: an autopsy study. J Clin Diagn Res. 2014;8(11):AC11-4.",
+    "year": 2014
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "anterior_ascending_ramus",
+  "how_we_know": "Everything known about this ramus comes from anatomical and MRI morphometry, which maps where it lies and how often it is present. These studies support its use as a landmark in Broca's area, but they cannot show what the ramus itself does, because it has no function of its own.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The ramus is the landmark between the pars triangularis and the pars opercularis",
+    "finding": "In 40 in vivo MRI scans, researchers compared the anterior ascending ramus of the lateral fissure with the sulcus diagonalis, a similar-looking sulcus inside the pars opercularis. The ramus was found in 96.25% of hemispheres and the diagonalis in 51.25%, and the ramus ran deep enough to reach the circular sulcus of the insula.",
+    "quote": "The ds, a rather superficial sulcus, could be identified in 51.25% of hemispheres. The aalf, on the other hand, could be identified in 96.25% of hemispheres and was observed to extend medially, deep below the surface of the hemisphere, to reach the circular sulcus of the insula.",
+    "pmid": "30167866",
+    "doi": "10.1007/s00429-018-1733-y",
+    "cite": "Sprung-Much T, Petrides M. Morphological patterns and spatial probability maps of two defining sulci of the posterior ventrolateral frontal cortex of the human brain: the sulcus diagonalis and the anterior ascending ramus of the lateral fissure. Brain Struct Funct. 2018;223(9):4125-4152.",
+    "year": 2018,
+    "data": {
+     "title": "Percent of hemispheres where the sulcus was found",
+     "unit": "%",
+     "items": [
+      [
+       "Sulcus diagonalis",
+       51.25
+      ],
+      [
+       "Anterior ascending ramus",
+       96.25
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "imaging",
+    "claim": "The ramus may be doubled or absent, so identification varies between brains",
+    "finding": "In 3D MRI of 90 healthy right-handed adults, both rami were reconstructed and measured. The anterior ascending ramus was found in 98.89% of hemispheres and the horizontal ramus in 98.33%, so absence is uncommon but real, and each ramus came in four typical patterns.",
+    "quote": "The aals and hals could be identified in 98.89% and 98.33%, respectively, of the hemispheres evaluated. The morphological patterns of these two sulci were categorized into four typical types.",
+    "pmid": "35441988",
+    "doi": "10.1007/s00429-022-02482-1",
+    "cite": "Wang Y, Xu F, Zhou W, et al. Morphological and hemispheric and sex differences of the anterior ascending ramus and the horizontal ascending ramus of the lateral sulcus. Brain Struct Funct. 2022;227(6):1949-1961.",
+    "year": 2022,
+    "data": {
+     "title": "Percent of hemispheres where the ramus was found",
+     "unit": "%",
+     "items": [
+      [
+       "Anterior ascending ramus",
+       98.89
+      ],
+      [
+       "Horizontal ramus",
+       98.33
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "lateral_sulcus",
+  "how_we_know": "The shape of the lateral sulcus is known from autopsy and MRI measurements of its length, angle and branches in groups of people. These studies show how the sulcus differs between the left and right hemispheres, but not what the cortex on its banks does, which comes from lesion, stimulation and imaging work on the perisylvian regions themselves.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "The left and right lateral sulci differ in length, with the left longer",
+    "finding": "Researchers measured 62 adult cadaveric hemispheres. The left Sylvian fissure had a mean length of 89.4 mm and the right a mean length of 84.3 mm, a significant difference.",
+    "quote": "The SF length on the right (mean=84.3mm, median=88mm) was significantly shorter than that on the left (mean=89.4mm, median=92.0mm) (p=0.037).",
+    "pmid": "25584204",
+    "doi": "10.7860/JCDR/2014/9955.5130",
+    "cite": "Idowu OE, Soyemi S, Atobatele K. Morphometry, asymmetry and variations of the sylvian fissure and sulci bordering and within the pars triangula and pars operculum: an autopsy study. J Clin Diagn Res. 2014;8(11):AC11-4.",
+    "year": 2014,
+    "data": {
+     "title": "Mean Sylvian fissure length",
+     "unit": "mm",
+     "items": [
+      [
+       "Left hemisphere",
+       89.4
+      ],
+      [
+       "Right hemisphere",
+       84.3
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "histology",
+    "claim": "The posterior end of the sulcus is variable and differs between hemispheres",
+    "finding": "Steinmetz and colleagues studied the sulci around the posterior end of the Sylvian fissure in 80 postmortem hemispheres and 40 MRI hemispheres. About 38% of brains showed gross left-right asymmetry of the pattern, so the fissure is an unreliable landmark for inferior parietal structures, especially on the left.",
+    "quote": "Upon intraindividual left-right comparison, a remarkable 38% of the brains showed gross asymmetry of the parietal opercular sulcus patterns, characterized by a left type 2 or 3 and/or a right type 4; another 5% exhibited a reverse type of asymmetry.",
+    "pmid": "2375980",
+    "doi": "10.1016/0093-934x(90)90135-4",
+    "cite": "Steinmetz H, Ebeling U, Huang YX, Kahn T. Sulcus topography of the parietal opercular region: an anatomic and MR study. Brain Lang. 1990;38(4):515-33.",
+    "year": 1990
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "calcarine_sulcus",
+  "how_we_know": "The link between the calcarine sulcus and primary visual cortex comes from histology of postmortem brains, where the stria of Gennari marks V1, combined with MRI of the folds. Lesion studies of visual field loss add the causal side, but the papers here are anatomical: they show how reliably V1 follows the fold.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "Primary visual cortex (V1) lies along the calcarine sulcus",
+    "finding": "Hinds and colleagues scanned ex vivo human hemispheres at 7 T, where the stria of Gennari makes V1 visible, and mapped V1 onto the folded cortical surface. When individual brains were aligned by their folds, V1 location was predicted better than when brains were aligned by volume.",
+    "quote": "The increased predictability observed under surface-based registration suggests that the location of V1 is more accurately predicted by the cortical folds than by the shape of the brain embedded in the volume of the skull.",
+    "pmid": "18055222",
+    "doi": "10.1016/j.neuroimage.2007.10.033",
+    "cite": "Hinds OP, Rajendran N, Polimeni JR, et al. Accurate prediction of V1 location from cortical folds in a surface coordinate system. Neuroimage. 2008;39(4):1585-99.",
+    "year": 2008
+   },
+   {
+    "kind": "imaging",
+    "claim": "The calcarine sulcus joins the parieto-occipital sulcus in a Y-shaped junction",
+    "finding": "A 3 T MRI study of 50 human brains found the calcarine sulcus in every brain and found that it crossed the parieto-occipital fissure in all of them. Its course was highly variable, so the authors suggest it as a reference for fMRI and surgery.",
+    "quote": "The calcarine sulcus was identified in 100% of cases. In most cases, it had a continuous aspect with several peaks. In all our specimens, the calcarine sulcus crosses the parieto-occipital fissure.",
+    "pmid": "30430185",
+    "doi": "10.1007/s00276-018-2118-x",
+    "cite": "El Mohamad AR, Tatu L, Moulin T, Fadoul S, Vuillier F. Main anatomical features of the calcarine sulcus: a 3D magnetic resonance imaging at 3T study. Surg Radiol Anat. 2019;41(2):181-186.",
+    "year": 2019
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "central_sulcus",
+  "how_we_know": "The central sulcus is tied to motor function by fMRI of hand movements, checked against anatomy, and by its use as the standard surgical landmark. Imaging shows which fold contains hand activity, while the causal proof that this cortex drives movement comes from stimulation and lesion studies of the precentral gyrus.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The motor hand area lies at a knob on the precentral gyrus, at the middle knee of the central sulcus",
+    "finding": "Yousry and colleagues used fMRI to find the motor hand area and matched it to cadaver anatomy. The part of the precentral gyrus that most often contained hand function was a knob shaped like an omega or epsilon in the axial plane, which forms the middle knee of the central sulcus.",
+    "quote": "The segment of the precentral gyrus that most often contained motor hand function was a knob-like structure, that is shaped like an omega or epsilon in the axial plane and like a hook in the sagittal plane.",
+    "pmid": "9055804",
+    "doi": "10.1093/brain/120.1.141",
+    "cite": "Yousry TA, Schmid UD, Alkadhi H, et al. Localization of the motor hand area to a knob on the precentral gyrus. A new landmark. Brain. 1997;120(Pt 1):141-57.",
+    "year": 1997
+   },
+   {
+    "kind": "imaging",
+    "claim": "Surgeons identify the central sulcus to avoid damaging motor cortex",
+    "finding": "In 100 normal MRI scans (200 hemispheres), two readers checked whether the central insular sulcus lines up with the central (Rolandic) sulcus. It did in 95.5% of hemispheres, and the hand motor area was found in the same slice in 87.5%.",
+    "quote": "The CIS was found to be correlated with the RS in 191 hemispheres (95.5%). In the remaining 9 hemispheres, the postcentral sulcus represented the most correlated sulcus with the CIS (7 hemispheres). The interrater agreement was 0.673 (P < 0.05), indicating a substantial agreement. The hand motor area was identified in the same section as the CIS in 175 hemispheres (87.5%).",
+    "pmid": "35940504",
+    "doi": "10.1016/j.wneu.2022.07.110",
+    "cite": "Bakhaidar M, Bokhari R, Hall JA, Mirza FA. The Central Sulcus of the Insula: A Highly Reliable Radiographic Landmark for Identification of the Rolandic Sulcus. World Neurosurg. 2022;167:e165-e171.",
+    "year": 2022,
+    "data": {
+     "title": "Percent of hemispheres",
+     "unit": "%",
+     "items": [
+      [
+       "CIS at the central sulcus",
+       95.5
+      ],
+      [
+       "Hand area in same slice",
+       87.5
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "marginal_sulcus",
+  "how_we_know": "The marginal ramus is known from MRI anatomy: studies of vertex sections ask how often it is found and where it lies relative to the central sulcus. There is no function to test here, only reliability as a landmark, and I did not find a paper with more exact numbers for this ramus alone.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "On axial MRI the marginal ramus lies just behind the central sulcus and helps find it",
+    "finding": "Erbil and colleagues reviewed MRI vertex sections from 3580 cases, with 990 normal cases kept for analysis. They found 16 variations in where the central sulcus and its neighbours, including the marginal ramus of the cingulate sulcus, lie, so counting sulci from the marginal ramus has to allow for variation.",
+    "quote": "Variations in localization of the central sulcus and the sulci around the central sulcus namely the superior frontal sulcus, precentral sulcus, postcentral sulcus, marginal ramus of cingulate sulcus were studied in vertex sections retrospectively by magnetic resonance imaging (MRI) method in 3580 cases.",
+    "pmid": "9798401",
+    "doi": "10.2535/ofaj1936.75.2-3_155",
+    "cite": "Erbil M, Onderoglu S, Yener N, Cumhur M, Cila A. Localization of the central sulcus and adjacent sulci in human: a study by MRI. Okajimas Folia Anat Jpn. 1998;75(2-3):155-62.",
+    "year": 1998
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "anterior_circular_sulcus",
+  "how_we_know": "The circular sulcus is described from cadaver dissection and MRI studies of the insula for surgical planning. No study isolates the anterior segment alone, so the item here is a dissection study that uses the anterior insular point as a landmark.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "The sulcus is a surgical landmark for the edge of the insula during insular tumor resection",
+    "finding": "Dziedzic and colleagues dissected five adult brains to plan transcortical approaches to insular glioma. Going through the pars triangularis exposed the anterior insular point and most of the insular zone nearest the front in every brain.",
+    "quote": "By going through the pars triangularis in all cases, the anterior insular point and most of zone I were exposed.",
+    "pmid": "34292438",
+    "doi": "10.1007/s10143-021-01602-5",
+    "cite": "Dziedzic TA, Bala A, Marchel A. Anatomical aspects of the insula, opercula and peri-insular white matter for a transcortical approach to insular glioma resection. Neurosurg Rev. 2022;45(1):793-806.",
+    "year": 2022
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "inferior_circular_sulcus",
+  "how_we_know": "The inferior peri-insular (circular) sulcus is known from anatomical measurements of formalin-fixed hemispheres. These show its geometry and its relation to the insula, with no functional test, since the sulcus is a landmark.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "The sulcus marks the lower limit of the insula and is used in surgery through the sylvian fissure",
+    "finding": "Researchers photographed and measured the insula in 60 adult hemispheres. The insula was triangular in 75% and trapezoid in the rest, and in trapezoid insulae the angle between the posterior and inferior peri-insular sulci averaged 131.17 degrees.",
+    "quote": "The insular cortex shape alternates between triangular and trapezoid, being the triangular shape the most common (75%). The angle between the posterior and inferior peri-insular sulcus in the trapezoid insulae had a mean range of 131.17° (SD = 12.277).",
+    "pmid": "31586854",
+    "doi": "10.1016/j.clineuro.2019.105530",
+    "cite": "Cunha-Cabral D, Silva SM, Alves H, Vaz RP, Pereira PA, Andrade JP. Neurosurgical anatomy of the insular cortex. Clin Neurol Neurosurg. 2019;186:105530.",
+    "year": 2019
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "superior_circular_sulcus",
+  "how_we_know": "The superior peri-insular (circular) sulcus is known from cadaver dissection combined with MRI and tractography. This work matters for surgery because the sulcus lies over important fiber tracts, but it describes anatomy and cannot show function.",
+  "evidence": [
+   {
+    "kind": "tracing",
+    "claim": "It is a landmark for the upper edge of the insula in surgery through the sylvian fissure",
+    "finding": "Kaneko and colleagues studied 11 cadaveric brains with 3 T MRI and diffusion tensor imaging and defined landmarks on the insula. One landmark, the upper central insular point, is where the central insular sulcus meets the superior peri-insular sulcus, and the corticospinal tract ran 4.8 mm from it.",
+    "quote": "The UCIP is the meeting point between the central insular sulcus and superior peri-insular sulcus. The corticospinal tract was identified as a high-intensity area in the posterior limb of the internal capsule on T2-weighted imaging and its course confirmed with diffusion tensor imaging tractography. The corticospinal tract took a course deep to the posterosuperior insula on T2-weighted imaging, 4.8 mm from the UCIP and 6.2 mm from the PIIP.",
+    "pmid": "21841521",
+    "doi": "10.1227/NEU.0b013e3182315112",
+    "cite": "Kaneko N, Boling WW, Shonai T, et al. Delineation of the safe zone in surgery of sylvian insular triangle: morphometric analysis and magnetic resonance imaging study. Neurosurgery. 2012;70(2 Suppl Operative):290-8.",
+    "year": 2012,
+    "data": {
+     "title": "Distance from landmark to corticospinal tract",
+     "unit": "mm",
+     "items": [
+      [
+       "From UCIP",
+       4.8
+      ],
+      [
+       "From PIIP",
+       6.2
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "anterior_transverse_collateral_sulcus",
+  "how_we_know": "This small sulcus is known only from anatomical studies of the base of the temporal lobe. No paper studies it alone, so the evidence is a dissection study of the collateral sulcus that measures where this sulcus lies and how the patterns vary.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "Its pattern varies between individuals",
+    "finding": "Ovalioglu and colleagues examined the basal surface of 38 formalin-fixed temporal lobes and sorted them into four patterns of how the collateral sulcus connects to its neighbours. The simplest pattern was the most common at 42.1%, and only 63.2% of people had the same pattern in both temporal lobes.",
+    "quote": "The current study showed that type 1 was the pattern seen most frequently (42.1%, 16/38), whereas type 4 was the least (7.9%, 3/38). Overall, 63.2% (12/19) of subjects had the same sulcal pattern in both temporal lobes.",
+    "pmid": "29966775",
+    "doi": "10.1016/j.wneu.2018.06.156",
+    "cite": "Ovalioglu AO, Ovalioglu TC, Canaz G, Emel E. Morphologic Variations of the Collateral Sulcus on the Mediobasal Region of the Temporal Lobe: An Anatomical Study. World Neurosurg. 2018;118:e212-e216.",
+    "year": 2018,
+    "data": {
+     "title": "Percent of temporal lobes by pattern",
+     "unit": "%",
+     "items": [
+      [
+       "Type 1, single branch",
+       42.1
+      ],
+      [
+       "Type 4, joins rhinal and OT",
+       7.9
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "posterior_transverse_collateral_sulcus",
+  "how_we_know": "This small sulcus is known only from anatomical studies of the base of the temporal lobe, and no paper studies it alone. The item here is a dissection study that measured the distance between the anterior and posterior transverse collateral sulci in 38 temporal lobes.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "It is a landmark on the ventral surface used to map the posterior temporal base",
+    "finding": "In 38 formalin-fixed adult brains, Ovalioglu and colleagues measured the base of the temporal lobe. The mean distance between the anterior and posterior transverse collateral sulci was 50 mm, with a standard deviation of 16.2 mm, showing how much the spacing varies.",
+    "quote": "The morphometric analysis showed that the mean distance between anterior and posterior transverse collateral sulcus was 50 ± 16.2 mm and the mean distance between occipitotemporal sulcus and fusiform apex was 26 ± 8.4 mm.",
+    "pmid": "29966775",
+    "doi": "10.1016/j.wneu.2018.06.156",
+    "cite": "Ovalioglu AO, Ovalioglu TC, Canaz G, Emel E. Morphologic Variations of the Collateral Sulcus on the Mediobasal Region of the Temporal Lobe: An Anatomical Study. World Neurosurg. 2018;118:e212-e216.",
+    "year": 2018
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "inferior_frontal_sulcus",
+  "how_we_know": "The inferior frontal sulcus is known from MRI morphometry and from fMRI studies that place activations relative to individual folds. Imaging shows which tasks activate cortex near the sulcus, but it cannot show that the area is needed for the task.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The sulcus is a landmark for the upper edge of the inferior frontal gyrus",
+    "finding": "Researchers labeled the inferior frontal sulcus on the cortical surface of 40 healthy people (80 hemispheres). It occupied a consistent position, and it came in two main patterns: one continuous sulcus, or two segments.",
+    "quote": "Two main morphological patterns of the ifs were identified across hemispheres: in Type I, the ifs was a single continuous sulcus, and in Type II, the ifs was discontinuous and appeared in two segments.",
+    "pmid": "38989632",
+    "doi": "10.1002/hbm.26759",
+    "cite": "Nolan E, Loh KK, Petrides M. Morphological patterns and spatial probability maps of the inferior frontal sulcus in the human brain. Hum Brain Mapp. 2024;45(10):e26759.",
+    "year": 2024
+   },
+   {
+    "kind": "imaging",
+    "claim": "Cortex in and around it participates in cognitive control",
+    "finding": "Derrfuss and colleagues used fMRI in the left hemispheres of individual participants. An area for cognitive control, the inferior frontal junction, lay in the depth of the inferior precentral sulcus close to its junction with the inferior frontal sulcus, and it responded to the Stroop task but not to saccades.",
+    "quote": "The IFJ was located more towards the depth of the inferior precentral sulcus, close to the junction with the inferior frontal sulcus, whereas the iFEF assumed a more lateral, posterior and superior position.",
+    "pmid": "22155041",
+    "doi": "10.1016/j.neuroimage.2011.11.051",
+    "cite": "Derrfuss J, Vogt VL, Fiebach CJ, von Cramon DY, Tittgemeyer M. Functional organization of the left inferior precentral sulcus: dissociating the inferior frontal eye field and the inferior frontal junction. Neuroimage. 2012;59(4):3829-37.",
+    "year": 2012
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "middle_frontal_sulcus",
+  "how_we_know": "I found no paper on the middle frontal sulcus alone, which fits the entry's point that some atlases do not recognize it. The one item is an MRI study of the neighbouring superior frontal sulcus that documents how often sulci on the middle frontal gyrus merge with it.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Its form differs between individuals, and it is often interrupted or merges with neighbours",
+    "finding": "Drudik and Petrides examined 50 MRI scans registered to a standard space. The superior frontal sulcus was either one continuous sulcus or a complex of segments, and it often merged with neighbouring sulci on both the superior and middle frontal gyri, which which fits the variable pattern of sulci on that gyrus.",
+    "quote": "The SFS showed a high probability of merging with neighbouring sulci on the superior and middle frontal gyri and these patterns were documented.",
+    "pmid": "38544425",
+    "doi": "10.1002/hbm.26635",
+    "cite": "Drudik K, Petrides M. The superior frontal sulcus in the human brain: Morphology and probability maps. Hum Brain Mapp. 2024;45(5):e26635.",
+    "year": 2024
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "superior_frontal_sulcus",
+  "how_we_know": "Anatomy comes from MRI morphometry of the sulcus in many people. A TMS study adds a causal test: temporarily reducing activity in the left superior frontal sulcus changed how people used perceptual evidence in decisions.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The sulcus separates the superior and middle frontal gyri and runs rostrally from the precentral sulcus",
+    "finding": "In 50 MRI scans registered to a standard space, the superior frontal sulcus was either a continuous sulcus or a complex of segments. Caudally it started near the superior precentral sulcus and rostrally it ended near the frontal pole.",
+    "quote": "Caudally, it originates near the superior precentral sulcus (SPRS) and, rostrally, it terminates near the frontal pole. The advent of structural neuroimaging has demonstrated significant variability in this sulcus that is not captured by the classic sulcal maps.",
+    "pmid": "38544425",
+    "doi": "10.1002/hbm.26635",
+    "cite": "Drudik K, Petrides M. The superior frontal sulcus in the human brain: Morphology and probability maps. Hum Brain Mapp. 2024;45(5):e26635.",
+    "year": 2024
+   },
+   {
+    "kind": "stimulation",
+    "claim": "The cortex along it belongs to the dorsal prefrontal cortex",
+    "finding": "Barretto-Garcia and colleagues combined fMRI with transcranial magnetic stimulation of the left superior frontal sulcus while people made choices based on perceptual or on value information. Reducing excitability there changed the processing of perceptual evidence but left value-based decisions unaffected, which is causal evidence from stimulation.",
+    "quote": "Confirming predictions by a sequential sampling model, we show that TMS-induced excitability reduction of the left SFS selectively changes the processing of decision-relevant perceptual information and associated neural processes.",
+    "pmid": "41612818",
+    "doi": "10.7554/eLife.94576",
+    "cite": "Barretto-Garcia M, Grueschow M, Moisa M, Polania R, Ruff CC. Causal evidence for a domain-specific role of left superior frontal sulcus in human perceptual decision-making. Elife. 2026;13:RP94576.",
+    "year": 2026
+   }
+  ],
+  "stimulation": {
+   "method": "transcranial magnetic stimulation",
+   "effect": "Reducing excitability of the left superior frontal sulcus with TMS selectively changed how people processed perceptual evidence in decisions, and value-based choices were unaffected.",
+   "quote": "Confirming predictions by a sequential sampling model, we show that TMS-induced excitability reduction of the left SFS selectively changes the processing of decision-relevant perceptual information and associated neural processes.",
+   "pmid": "41612818",
+   "doi": "10.7554/eLife.94576",
+   "cite": "Barretto-Garcia M, Grueschow M, Moisa M, Polania R, Ruff CC. Causal evidence for a domain-specific role of left superior frontal sulcus in human perceptual decision-making. Elife. 2026;13:RP94576.",
+   "year": 2026
+  }
+ },
+ {
+  "id": "sulcus_of_jensen",
+  "how_we_know": "The sulcus of Jensen is known only from anatomical dissection and MRI work, which shows its shape and how it meets the intraparietal sulcus. It has no function of its own, so there is no functional test.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "It branches from the intraparietal sulcus and varies in shape between hemispheres",
+    "finding": "Oglin and colleagues studied 28 formalin-fixed hemispheres from 14 cadavers. The intermediate sulcus of Jensen had a bayonet shape in 86% of right and 50% of left hemispheres.",
+    "quote": "Intermediate sulcus of Jensen was in bayonet shape in 86 and 50 percent of cadavers at right and left side, respectively.",
+    "pmid": "39417046",
+    "doi": "10.3389/fnana.2024.1458989",
+    "cite": "Oglin V, Orhun O, Quinones-Hinojosa A, et al. Topographic anatomy of the lateral surface of the parietal lobe and its relationship with white matter tracts. Front Neuroanat. 2024;18:1458989.",
+    "year": 2024,
+    "data": {
+     "title": "Percent of cadavers with a bayonet-shaped sulcus",
+     "unit": "%",
+     "items": [
+      [
+       "Right hemisphere",
+       86
+      ],
+      [
+       "Left hemisphere",
+       50
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "intraparietal_sulcus",
+  "how_we_know": "The anatomy of the sulcus comes from dissection and MRI, and its link to number skills comes from MRI of sulcal patterns compared with behavior. The sulcal pattern study is correlational, and a link to cognition does not show that the fold itself causes the difference.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "It often joins the postcentral sulcus and varies between hemispheres",
+    "finding": "In 28 formalin-fixed hemispheres from 14 cadavers, the postcentral and intraparietal sulci were continuous in most of them: 71% of right hemispheres and 64% of left hemispheres.",
+    "quote": "Postcentral sulcus and intraparietal sulcus were continuous in most of the cadavers (71% in right, 64% in left side).",
+    "pmid": "39417046",
+    "doi": "10.3389/fnana.2024.1458989",
+    "cite": "Oglin V, Orhun O, Quinones-Hinojosa A, et al. Topographic anatomy of the lateral surface of the parietal lobe and its relationship with white matter tracts. Front Neuroanat. 2024;18:1458989.",
+    "year": 2024,
+    "data": {
+     "title": "Percent of cadavers where the two sulci were continuous",
+     "unit": "%",
+     "items": [
+      [
+       "Right hemisphere",
+       71
+      ],
+      [
+       "Left hemisphere",
+       64
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "imaging",
+    "claim": "The horizontal segment of the sulcus is tied to number processing",
+    "finding": "Roell and colleagues scanned 77 school-aged children and 21 young adults and classified the sulcal pattern of the horizontal intraparietal sulcus. The pattern explained part of the variance in symbolic number comparison and math fluency, and the link was stable from childhood to adulthood, but there was no link to non-symbolic number ability.",
+    "quote": "We found that the HIPS sulcal pattern, (a) explains part of the variance in participant's symbolic number comparison and math fluency abilities, and (b) that this association between HIPS sulcal pattern and symbolic number abilities was found to be stable from childhood to young adulthood.",
+    "pmid": "34388639",
+    "doi": "10.1016/j.dcn.2021.100998",
+    "cite": "Roell M, Cachia A, Matejko AA, Houde O, Ansari D, Borst G. Sulcation of the intraparietal sulcus is related to symbolic but not non-symbolic number skills. Dev Cogn Neurosci. 2021;51:100998.",
+    "year": 2021
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "lunate_sulcus",
+  "how_we_know": "The human lunate sulcus is known from MRI studies that ask how often it is present and whether it matches the ape sulcus. The result is that it does not correspond to a functional region, which is why individual functional mapping is needed.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "It varies a great deal between people and differs from the ape lunate sulcus",
+    "finding": "Allen and colleagues used high-resolution MRI in 110 adults. A single continuous lunate sulcus like the ape one appeared in only 3 of 220 hemispheres, which is 1.4%, and composite lunate sulci made of smaller segments were found in 32.7% of left and 26.4% of right hemispheres.",
+    "quote": "We found only 3 examples in 220 hemispheres (1.4%) of continuous lunate sulci that resembled ape lunates in form (albeit in a more posterior position). Composite lunate sulci were found in 32.7% of left hemispheres and 26.4% of right hemispheres.",
+    "pmid": "16835937",
+    "doi": "10.1002/ar.a.20362",
+    "cite": "Allen JS, Bruss J, Damasio H. Looking for the lunate sulcus: a magnetic resonance imaging study in modern humans. Anat Rec A Discov Mol Cell Evol Biol. 2006;288(8):867-76.",
+    "year": 2006,
+    "data": {
+     "title": "Percent of hemispheres with the pattern",
+     "unit": "%",
+     "items": [
+      [
+       "Continuous, ape-like",
+       1.4
+      ],
+      [
+       "Composite, left hemisphere",
+       32.7
+      ],
+      [
+       "Composite, right hemisphere",
+       26.4
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "transverse_occipital_sulcus",
+  "how_we_know": "The link between the sulcus and scene perception comes from fMRI, which shows scene-selective activity near it, and from a TMS study that disrupted the area and lowered scene accuracy. Stimulation gives the causal evidence that imaging cannot.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Scene-selective activation near the sulcus has been reported in studies of scene processing",
+    "finding": "Welbourne and colleagues used fMRI with a voxel-wise encoding model to see how the brain responds to objects of unusual size within scenes. The transverse occipital sulcus, a scene-processing region, and the intraparietal sulcus had the strongest selectivity to object-scene size relationships, with reduced activity to mis-scaled objects.",
+    "quote": "We find that regions involved in scene processing (transverse occipital sulcus) and spatial attention (intraparietal sulcus) have the strongest responsiveness and selectivity to object-scene scale consistency: reduced activity to mis-scaled objects (either unusually smaller or larger).",
+    "pmid": "34158579",
+    "doi": "10.1038/s42003-021-02294-9",
+    "cite": "Welbourne LE, Jonnalagadda A, Giesbrecht B, Eckstein MP. The transverse occipital sulcus and intraparietal sulcus show neural selectivity to object-scene size relationships. Commun Biol. 2021;4(1):768.",
+    "year": 2021
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Scene-selective cortex near the sulcus supports scene processing",
+    "finding": "Ganaden and colleagues delivered TMS to the transverse occipital sulcus or to the vertex as a control while people sorted scenes and objects as natural or nonnatural. Stimulating the sulcus lowered accuracy for scenes, and did not affect object categorization.",
+    "quote": "TMS was delivered to the TOS or the vertex (control site) while participants performed an object and scene natural/nonnatural categorization task. Transiently interrupting the TOS resulted in significantly lower accuracies for scene categorization compared with control conditions.",
+    "pmid": "23410031",
+    "doi": "10.1162/jocn_a_00372",
+    "cite": "Ganaden RE, Mullin CR, Steeves JK. Transcranial magnetic stimulation to the transverse occipital sulcus affects scene but not object processing. J Cogn Neurosci. 2013;25(6):961-8.",
+    "year": 2013
+   }
+  ],
+  "stimulation": {
+   "method": "transcranial magnetic stimulation",
+   "effect": "TMS over the transverse occipital sulcus lowered accuracy in categorizing scenes but not objects, compared with TMS to a control site.",
+   "quote": "Transiently interrupting the TOS resulted in significantly lower accuracies for scene categorization compared with control conditions.",
+   "pmid": "23410031",
+   "doi": "10.1162/jocn_a_00372",
+   "cite": "Ganaden RE, Mullin CR, Steeves JK. Transcranial magnetic stimulation to the transverse occipital sulcus affects scene but not object processing. J Cogn Neurosci. 2013;25(6):961-8.",
+   "year": 2013
+  }
+ },
+ {
+  "id": "anterior_occipital_sulcus",
+  "how_we_know": "This sulcus and the preoccipital notch are known from cadaver anatomy, where researchers look for landmarks to separate the temporal and occipital lobes. I found no paper on the sulcus alone, so the item is a dissection study of the inferior brain surface.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "The temporal-occipital boundary on the lateral surface is arbitrary and is defined by the preoccipital notch",
+    "finding": "Gokalp and colleagues examined 110 cerebral hemispheres to define the boundaries of the temporal and occipital lobes. They report that no clear separation is defined in the literature, and they suggest the preoccipital notch and a basal temporo-occipital line as landmarks.",
+    "quote": "Since the literature defines no clear separation between the temporal and occipital lobes, certain landmarks such as the preoccipital notch and a basal temporo-occipital line were suggested as ways of making the distinction.",
+    "pmid": "38163584",
+    "doi": "10.1016/j.wneu.2023.12.139",
+    "cite": "Gokalp E, Comert A, Gurses ME, et al. Defining the Temporal and Occipital Lobes: Cadaveric Study with Application to Neurosurgery of the Inferior Brain. World Neurosurg. 2024;183:e540-e548.",
+    "year": 2024
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "occipitotemporal_sulcus",
+  "how_we_know": "Reading-related activity along this sulcus comes from fMRI, and the study here pairs MRI structure with diffusion imaging. These methods show correlation: a region active during reading, and its connections, but not that the sulcus is required for reading.",
+  "evidence": [
+   {
+    "kind": "connectivity",
+    "claim": "Ventral temporal cortex along the sulcus holds regions for reading, and the left side links to reading skill",
+    "finding": "Del Mauro and colleagues related the structure, morphology and anatomical connectivity of the left occipitotemporal sulcus to reading ability in adults. Reading skill was positively associated with the connectivity of the left sulcus to a network of reading regions, but the sulcal pattern did not predict reading skill.",
+    "quote": "Reading activates a region within the left lateral occipitotemporal sulcus (OTS) known as the 'visual word form area' (VWFA). We found that reading skills were positively associated with increased connectivity between the left OTS and a network of reading-related regions in the left hemisphere.",
+    "pmid": "36260960",
+    "doi": "10.1016/j.bandl.2022.105189",
+    "cite": "Del Mauro G, Del Maschio N, Abutalebi J. The relationship between reading abilities and the left occipitotemporal sulcus: A dual perspective study. Brain Lang. 2022;235:105189.",
+    "year": 2022
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "collateral_sulcus",
+  "how_we_know": "The collateral sulcus is described by MRI morphometry, which shows its segments and how its shape affects measurements of the cortex beside it. These are anatomical studies, so they show how the fold varies, not what the neighbouring cortex does.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "It separates the fusiform gyrus from the parahippocampal gyrus and lingual gyrus",
+    "finding": "Huntgeburth and Petrides studied MRI of the collateral sulcus and found three separate segments rather than one continuous sulcus. The front is the rhinal sulcus, the middle is the collateral sulcus proper beside the parahippocampal cortex, and the back runs into the occipital lobe.",
+    "quote": "Our examination demonstrated three separate sulcal segments: (i) an anterior segment, the rhinal sulcus, delineating the uncus from the adjacent temporal neocortex, (ii) a middle segment, the collateral sulcus proper, forming the lateral border of the posterior parahippocampal cortex, and (iii) a caudal segment, the occipital extent of the collateral sulcus, within the occipital lobe.",
+    "pmid": "22512258",
+    "doi": "10.1111/j.1460-9568.2012.08031.x",
+    "cite": "Huntgeburth SC, Petrides M. Morphological patterns of the collateral sulcus in the human brain. Eur J Neurosci. 2012;35(8):1295-311.",
+    "year": 2012
+   },
+   {
+    "kind": "imaging",
+    "claim": "Its depth varies between individuals and affects the shape of cortex near the entorhinal region",
+    "finding": "Pruessner and colleagues built a protocol to measure the temporopolar, perirhinal, entorhinal and parahippocampal cortex on MRI in 40 healthy people. It includes a method to correct the volumes for the variability of the collateral sulcus.",
+    "quote": "Furthermore, it takes into consideration the neuroanatomical appearance of the collateral sulcus by presenting a method to correct the volumes of the surrounding cortices for the variability of this sulcus. The protocol was validated using MR images of 40 healthy normal control subjects (20 men and 20 women, age range 18-42 years).",
+    "pmid": "12427684",
+    "doi": "10.1093/cercor/12.12.1342",
+    "cite": "Pruessner JC, Kohler S, Crane J, et al. Volumetry of temporopolar, perirhinal, entorhinal and parahippocampal cortex from high-resolution MR images: considering the variability of the collateral sulcus. Cereb Cortex. 2002;12(12):1342-53.",
+    "year": 2002
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "lateral_orbital_sulcus",
+  "how_we_know": "The lateral orbital sulcus is known from MRI studies of the pattern of orbital sulci in large groups, including twins. These show how variable the pattern is and how much is inherited, but not function.",
+  "evidence": [
+   {
+    "kind": "genetics",
+    "claim": "Its form is variable between individuals",
+    "finding": "Troiani and colleagues compared the pattern of orbitofrontal sulci in 304 identical (monozygotic) twins and 172 fraternal (dizygotic) twins on MRI. Bilateral pattern concordance was only 14% in fraternal twins and 21% in identical twins, so the pattern may reflect variance that is not genetic.",
+    "quote": "We examined concordance of OFC patterns in 304 monozygotic (MZ) twins relative to 172 dizygotic (DZ) twins using structural magnetic resonance imaging data. We find that the frequency of pattern types within MZ and DZ twins are similar and bilateral concordance rates across all pattern types in DZ twins were 14% and 21% for MZ twins.",
+    "pmid": "35597228",
+    "doi": "10.1016/j.pscychresns.2022.111492",
+    "cite": "Troiani V, Snyder W, Kozick S, Patti MA, Beiler D. Variability and concordance of sulcal patterns in the orbitofrontal cortex: A twin study. Psychiatry Res Neuroimaging. 2022;324:111492.",
+    "year": 2022,
+    "data": {
+     "title": "Bilateral concordance of orbital pattern",
+     "unit": "%",
+     "items": [
+      [
+       "Fraternal twins",
+       14
+      ],
+      [
+       "Identical twins",
+       21
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "olfactory_sulcus",
+  "how_we_know": "Studies of the olfactory sulcus are MRI measurements of its depth in patients and healthy people. A shallow sulcus is linked to psychosis and may reflect early brain development, but these studies are correlational, and the sulcus itself has no function beyond holding the olfactory bulb and tract.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The olfactory sulcus is a distinct groove whose depth differs between people",
+    "finding": "Takahashi and colleagues measured the olfactory sulcus on MRI in 135 ultra high-risk individuals, 162 first-episode psychosis patients, 89 chronic schizophrenia patients and 87 healthy controls. Sulcus length did not differ between groups, but the sulcus was shallower in high-risk people who later developed psychosis than in controls, and became shallower from that group to chronic schizophrenia.",
+    "quote": "While there was no group difference in the length of the sulcus, UHR-P subjects had significantly shallower olfactory sulcus at baseline as compared with UHR-NP and control subjects.",
+    "pmid": "24530137",
+    "doi": "10.1016/j.schres.2014.01.041",
+    "cite": "Takahashi T, Wood SJ, Yung AR, et al. Altered depth of the olfactory sulcus in ultra high-risk individuals and patients with psychotic disorders. Schizophr Res. 2014;153(1-3):18-24.",
+    "year": 2014
+   },
+   {
+    "kind": "imaging",
+    "claim": "Its depth is measured in studies of olfaction and development",
+    "finding": "Nishikawa and colleagues compared MRI scans of 102 patients with schizophrenia, 47 with schizotypal disorder and 84 healthy controls. Olfactory sulcus depth was greatest in controls, intermediate in schizotypal patients and least in schizophrenia, on both sides.",
+    "quote": "There were significant group differences in the olfactory sulcus depth bilaterally (schizophrenia patients < schizotypal patients < controls).",
+    "pmid": "25757375",
+    "doi": "10.1007/s00406-015-0587-z",
+    "cite": "Nishikawa Y, Takahashi T, Takayanagi Y, et al. Orbitofrontal sulcogyral pattern and olfactory sulcus depth in the schizophrenia spectrum. Eur Arch Psychiatry Clin Neurosci. 2016;266(1):15-23.",
+    "year": 2016
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "orbital_sulci",
+  "how_we_know": "The H-shaped pattern of the orbital sulci is known from MRI studies that classify the pattern into types and compare groups. The type is linked to psychiatric conditions, but the evidence is correlational and does not show that the pattern causes anything.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Their pattern varies and is used to define the orbitofrontal gyri",
+    "finding": "Troiani and colleagues note that the pattern of orbital sulci is classed into four types named by how common they are: about 60%, 25%, 10% and 5% of people. Their twin study of 476 twins on MRI suggest the pattern may reflect variance that is not genetic.",
+    "quote": "Pattern types are named according to their frequency in the population, with Type I present in ∼60%, Type II in ∼25%, Type III in ∼10%, and Type IV in ∼5%.",
+    "pmid": "35597228",
+    "doi": "10.1016/j.pscychresns.2022.111492",
+    "cite": "Troiani V, Snyder W, Kozick S, Patti MA, Beiler D. Variability and concordance of sulcal patterns in the orbitofrontal cortex: A twin study. Psychiatry Res Neuroimaging. 2022;324:111492.",
+    "year": 2022,
+    "data": {
+     "title": "Approximate frequency of orbital pattern types",
+     "unit": "%",
+     "items": [
+      [
+       "Type I",
+       60
+      ],
+      [
+       "Type II",
+       25
+      ],
+      [
+       "Type III",
+       10
+      ],
+      [
+       "Type IV",
+       5
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "meta-analysis",
+    "claim": "The pattern of orbital sulci differs in some psychiatric disorders",
+    "finding": "Nakamura and colleagues reviewed 26 studies of the orbitofrontal sulcogyral pattern. In schizophrenia, type I was decreased and types II and III were increased compared with healthy controls, and bipolar disorder, autism and ADHD showed a similar pattern of change.",
+    "quote": "Twenty-six studies were included in the review. Sixteen studies (62%) focused on schizophrenia spectrum (Sz) disorders, and the remaining studies focused on autism spectrum disorder (ASD), attention-deficit/hyperactivity disorder (ADHD), history of extremely preterm and extremely low birth weight, bipolar disorder (BD), panic disorder, obsessive-compulsive disorder, cannabis users, and pathological gambling.",
+    "pmid": "32028799",
+    "doi": "10.1177/1550059420904180",
+    "cite": "Nakamura M, Nestor PG, Shenton ME. Orbitofrontal Sulcogyral Pattern as a Transdiagnostic Trait Marker of Early Neurodevelopment in the Social Brain. Clin EEG Neurosci. 2020;51(4):275-284.",
+    "year": 2020
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "parieto_occipital_sulcus",
+  "how_we_know": "The sulcus is known from MRI anatomy and from clinical MRI, where its width is used as a sign of atrophy. These studies are correlational and describe how the fold looks, not what the cortex beside it does.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "It is a landmark in imaging for the parietal and occipital border",
+    "finding": "Fumagalli and colleagues compared 15 patients with posterior cortical atrophy, 30 with typical Alzheimer disease and 15 healthy people. The parieto-occipital sulcus was wider in posterior cortical atrophy than in typical Alzheimer disease, so a visual rating of this sulcus helped tell the two apart.",
+    "quote": "Patients with PCA, compared to typical AD, showed higher widening of the parieto-occipital sulcus, assessed both with visual rating scales and Brainvisa.",
+    "pmid": "33045537",
+    "doi": "10.1016/j.nicl.2020.102453",
+    "cite": "Fumagalli GG, Basilico P, Arighi A, et al. Parieto-occipital sulcus widening differentiates posterior cortical atrophy from typical Alzheimer disease. Neuroimage Clin. 2020;28:102453.",
+    "year": 2020
+   },
+   {
+    "kind": "imaging",
+    "claim": "It runs to meet the calcarine sulcus, forming a Y",
+    "finding": "In a 3 T MRI study of 50 brains, the calcarine sulcus crossed the parieto-occipital fissure in all specimens.",
+    "quote": "In all our specimens, the calcarine sulcus crosses the parieto-occipital fissure.",
+    "pmid": "30430185",
+    "doi": "10.1007/s00276-018-2118-x",
+    "cite": "El Mohamad AR, Tatu L, Moulin T, Fadoul S, Vuillier F. Main anatomical features of the calcarine sulcus: a 3D magnetic resonance imaging at 3T study. Surg Radiol Anat. 2019;41(2):181-186.",
+    "year": 2019
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "callosal_sulcus",
+  "how_we_know": "I found no paper that studies the callosal sulcus alone. The item is the paper that defined the standard labels, including the callosal sulcus, used for surface-based atlases, so this entry rests on anatomy and not on a functional test.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "It is a standard anatomical landmark on the medial surface around the corpus callosum",
+    "finding": "Destrieux and colleagues built a complete automatic parcellation of the cortical surface using standard anatomical names. Each vertex was first classified as sulcal or gyral, and then subdivided into 74 labels per hemisphere, which are available in the FreeSurfer package.",
+    "quote": "First, a computer-assisted hand parcellation classified each vertex as sulcal or gyral, and these were then subparcellated into 74 labels per hemisphere.",
+    "pmid": "20547229",
+    "doi": "10.1016/j.neuroimage.2010.06.010",
+    "cite": "Destrieux C, Fischl B, Dale A, Halgren E. Automatic parcellation of human cortical gyri and sulci using standard anatomical nomenclature. Neuroimage. 2010;53(1):1-15.",
+    "year": 2010
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "postcentral_sulcus",
+  "how_we_know": "The link between the postcentral sulcus and the body map comes from fMRI of body movements compared with each person's own sulcal segments. This shows a tight correspondence, but not that the sulcus is needed for sensation.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "It forms the posterior boundary of the sensorimotor region and is often interrupted",
+    "finding": "Zlatkina and colleagues scanned participants during movements of different body parts and compared the activity with each person's own sulcal anatomy. The postcentral sulcus was divided into five segments, and each body part's representation was tightly related to specific segments, with a short transverse sulcus linked to the mouth and tongue area.",
+    "quote": "The findings demonstrate that the postcentral sulcus of each subject may be divided into five segments and there is a tight relationship between sensorimotor representations of different body parts and specific segments of the postcentral sulcus.",
+    "pmid": "26296305",
+    "doi": "10.1111/ejn.13049",
+    "cite": "Zlatkina V, Amiez C, Petrides M. The postcentral sulcal complex and the transverse postcentral sulcus and their relation to sensorimotor functional organization. Eur J Neurosci. 2016;43(10):1268-83.",
+    "year": 2016
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "inferior_precentral_sulcus",
+  "how_we_know": "Its anatomy comes from MRI morphometry, and its function from fMRI in individual participants. Imaging shows which areas are active near the sulcus but cannot show that they are required for a task.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "It often meets the inferior frontal sulcus in a T shape",
+    "finding": "Zhao and colleagues scanned 92 right-handed Chinese adolescents at 3 T and reconstructed the inferior precentral sulcus. It fell into five morphological types, and its relation to the inferior frontal sulcus fell into four types, with no significant sex or hemisphere differences in the patterns.",
+    "quote": "To explore the morphology, asymmetry, and sex disparities within the inferior precentral sulcus (IPCS), we acquired 3.0T magnetic resonance images from 92 right-handed Chinese adolescents. Brainvisa was used to reconstruct the IPCS structure and calculate its mean depth (MD). Based on the morphological patterns of IPCS, it was categorized into five distinct types.",
+    "pmid": "38374489",
+    "doi": "10.1007/s10548-024-01035-5",
+    "cite": "Zhao X, Wang Y, Wu X, Liu S. An MRI Study of Morphology, Asymmetry, and Sex Differences of Inferior Precentral Sulcus. Brain Topogr. 2024;37(5):748-763.",
+    "year": 2024
+   },
+   {
+    "kind": "imaging",
+    "claim": "The cortex around it includes the inferior frontal eye field and a cognitive control area",
+    "finding": "Derrfuss and colleagues used fMRI in individual participants and found that the inferior frontal eye field and the inferior frontal junction both lie at the dorsal part of the inferior precentral sulcus. The two were spatially separate in every individual, and the eye field responded to saccades while the junction responded to Stroop conflict.",
+    "quote": "The results show that both the iFEF and the IFJ are indeed located at the dorsal part of the inferior precentral sulcus. Nevertheless, the activations were spatially dissociable in every individual examined.",
+    "pmid": "22155041",
+    "doi": "10.1016/j.neuroimage.2011.11.051",
+    "cite": "Derrfuss J, Vogt VL, Fiebach CJ, von Cramon DY, Tittgemeyer M. Functional organization of the left inferior precentral sulcus: dissociating the inferior frontal eye field and the inferior frontal junction. Neuroimage. 2012;59(4):3829-37.",
+    "year": 2012
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "superior_precentral_sulcus",
+  "how_we_know": "Direct electrical stimulation through electrodes placed in epilepsy patients shows that the precentral sulcus contains cortex that moves the eyes. The result is causal for eye movements, with the limit that these are patients with epilepsy and the response depends on whether the sulcus is in the seizure zone.",
+  "evidence": [
+   {
+    "kind": "stimulation",
+    "claim": "The frontal eye field lies near the superior precentral sulcus and drives voluntary saccades",
+    "finding": "Jin and colleagues reviewed high-frequency electrical stimulation through 778 contacts in the precentral sulcus of 77 epilepsy patients. Eye movements were evoked in 18 patients, and 60.32% of the positive sites lay in the superior part of the sulcus compared with 39.68% in the inferior part.",
+    "quote": "Overall, 60.32% sites were in the superior PrCS (SP), and 39.68% sites were in the inferior PrCS (IP). The SP was more likely to have a stimulating response to EMs than the IP (p = 0.017).",
+    "pmid": "40356402",
+    "doi": "10.1002/brb3.70537",
+    "cite": "Jin Y, Li K, Liu X, et al. Frontal Eye Field in the Precentral Sulcus: A Direct Electrical Cortical Stimulation Study With Stereo-EEG Electrodes. Brain Behav. 2025;15(5):e70537.",
+    "year": 2025,
+    "data": {
+     "title": "Percent of eye-movement sites",
+     "unit": "%",
+     "items": [
+      [
+       "Superior precentral sulcus",
+       60.32
+      ],
+      [
+       "Inferior precentral sulcus",
+       39.68
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": {
+   "method": "direct electrical stimulation with stereo-EEG electrodes",
+   "effect": "Stimulating the precentral sulcus in epilepsy patients evoked eye movements, mostly deviation of the eyes, and the superior part was more responsive than the inferior part.",
+   "quote": "Deviation was the major type of positive EMs by directly stimulating the prCS. The SP was more sensitive to stimulation than the inferior branch was.",
+   "pmid": "40356402",
+   "doi": "10.1002/brb3.70537",
+   "cite": "Jin Y, Li K, Liu X, et al. Frontal Eye Field in the Precentral Sulcus: A Direct Electrical Cortical Stimulation Study With Stereo-EEG Electrodes. Brain Behav. 2025;15(5):e70537.",
+   "year": 2025
+  }
+ },
+ {
+  "id": "suborbital_sulcus",
+  "how_we_know": "The medial orbital and rostral sulci are known from MRI studies that ask how sulcal patterns shape the ventromedial prefrontal cortex. The link to function is correlational, since peaks of fMRI activity shift with the local pattern.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "It is used as a landmark for the ventromedial prefrontal cortex",
+    "finding": "Lopez-Persem and colleagues examined the sulcal anatomy of the ventromedial prefrontal cortex in 57 people. Whether two small sulci were present changed the organization of the region, and it shifted the position of the default mode network peak, so the sulcal pattern helps interpret where activity is.",
+    "quote": "We here examined the interindividual variability in the vmPFC sulcal morphology in 57 humans (37 females) and demonstrated that the presence/absence of the inferior rostral sulcus and the subgenual intralimbic sulcus influences significantly the sulcal organization of this region. Furthermore, the sulcal organization influences the location of the vmPFC peak of the Default Mode Network, demonstrating that the location of functional activity can be affected by local sulcal patterns.",
+    "pmid": "30833514",
+    "doi": "10.1523/JNEUROSCI.2060-18.2019",
+    "cite": "Lopez-Persem A, Verhagen L, Amiez C, Petrides M, Sallet J. The Human Ventromedial Prefrontal Cortex: Sulcal Morphology and Its Influence on Functional Organization. J Neurosci. 2019;39(19):3627-3639.",
+    "year": 2019
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "subparietal_sulcus",
+  "how_we_know": "The sulcus is described from MRI morphometry of the precuneus, which shows its extent and variation. This is anatomical evidence about the fold and does not show what the cortex nearby does.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "It separates the precuneus from the posterior cingulate gyrus",
+    "finding": "Pereira-Pedro and Bruner measured the sulcus in adult humans. It extended on average 14 mm in its anterior and middle regions and 11 mm in its posterior area, and its pattern differed between the two hemispheres of one person, which points to notable individual variability.",
+    "quote": "The subparietal sulcus, on average, extends 14mm in its anterior and middle regions and 11mm in its posterior area. The precuneal area extends 36mm above this sulcus.",
+    "pmid": "27210059",
+    "doi": "10.1016/j.aanat.2016.05.001",
+    "cite": "Pereira-Pedro AS, Bruner E. Sulcal pattern, extension, and morphology of the precuneus in adult humans. Ann Anat. 2016;208:85-93.",
+    "year": 2016,
+    "data": {
+     "title": "Mean extent of the subparietal sulcus",
+     "unit": "mm",
+     "items": [
+      [
+       "Anterior and middle regions",
+       14
+      ],
+      [
+       "Posterior area",
+       11
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "inferior_temporal_sulcus",
+  "how_we_know": "The inferior temporal sulcus is known from MRI morphometry of its patterns, which matter for surgery on the temporal lobe. This anatomy shows how often it is interrupted, not what the cortex around it does.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "It is often interrupted into segments",
+    "finding": "Miyagi and colleagues studied 100 temporal lobes in 50 healthy people on MRI. Most were interrupted by one to three gyral bridges, and the sulcus was clearly seen in 72% of temporal lobes.",
+    "quote": "Most of the ITS was interrupted by one to three gyral bridges (0 bridges, 8%; one bridge, 27%: two bridges, 37%; three bridges, 20%; more than four bridges or no apparent ITS, 8%).",
+    "pmid": "11846939",
+    "doi": "10.1097/00006123-200112000-00017",
+    "cite": "Miyagi Y, Shima F, Ishido K, Araki T, Kamikaseda K. Inferior temporal sulcus as a site of corticotomy: magnetic resonance imaging analysis of individual sulcus patterns. Neurosurgery. 2001;49(6):1394-7; discussion 1397-8.",
+    "year": 2001,
+    "data": {
+     "title": "Percent of temporal lobes by number of gyral bridges",
+     "unit": "%",
+     "items": [
+      [
+       "0 bridges",
+       8
+      ],
+      [
+       "1 bridge",
+       27
+      ],
+      [
+       "2 bridges",
+       37
+      ],
+      [
+       "3 bridges",
+       20
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "superior_temporal_sulcus",
+  "how_we_know": "fMRI shows which sounds and moving stimuli raise activity along the sulcus, in groups of volunteers. These studies are correlational: they show that the sulcus responds to voices and to biological motion, not that it is needed for them.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The sulcus holds regions for voice processing",
+    "finding": "Belin and colleagues used fMRI in volunteers who listened to vocal sounds, including speech and non-speech, and to non-vocal environmental sounds. Voice-selective regions lay bilaterally along the upper bank of the superior temporal sulcus, and central regions also responded more to voices than to scrambled voices and noise.",
+    "quote": "Here we show, using functional magnetic resonance imaging in human volunteers, that voice-selective regions can be found bilaterally along the upper bank of the superior temporal sulcus (STS).",
+    "pmid": "10659849",
+    "doi": "10.1038/35002078",
+    "cite": "Belin P, Zatorre RJ, Lafaille P, Ahad P, Pike B. Voice-selective areas in human auditory cortex. Nature. 2000;403(6767):309-12.",
+    "year": 2000
+   },
+   {
+    "kind": "imaging",
+    "claim": "Cortex along the sulcus is involved in social perception such as biological motion",
+    "finding": "Grossman and colleagues used fMRI while volunteers watched point-light figures that move like people. Activity for biological motion lay in a small region on the ventral bank of the occipital part of the superior temporal sulcus, and this region was found more often in the right hemisphere than in the left.",
+    "quote": "The pattern of activation during viewing of biological motion was located within a small region on the ventral bank of the occipital extent of the superior-temporal sulcus (STS). This region is located lateral and anterior to human MT/MST, and anterior to KO. Among our observers, we localized this region more frequently in the right hemisphere than in the left.",
+    "pmid": "11054914",
+    "doi": "10.1162/089892900562417",
+    "cite": "Grossman E, Donnelly M, Price R, et al. Brain areas involved in perception of biological motion. J Cogn Neurosci. 2000;12(5):711-20.",
+    "year": 2000
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "transverse_temporal_sulcus",
+  "how_we_know": "The anatomy behind this sulcus is the shape of Heschl's gyrus, measured on MRI in groups of people. The study here is correlational: it relates a duplicated gyrus to reading-related skills, which does not show that the fold causes the difference.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Duplicated Heschl's gyri have been reported more often in some groups, such as people with language impairment",
+    "finding": "Eckert compared 96 people with a duplicated left Heschl's gyrus to 96 matched people with a single one, in a multi-site MRI study. The duplicated group had lower phonological decoding, but not lower verbal IQ.",
+    "quote": "The duplicated HG group had significantly lower phonological decoding (F = 4.48, p = 0.04) but not verbal IQ (F = 1.39, p = 0.41) compared to the single HG group.",
+    "pmid": "39012481",
+    "doi": "10.1007/s00429-024-02831-2",
+    "cite": "Eckert MA. Duplicated Heschl's gyrus associations with phonological decoding. Brain Struct Funct. 2024;229(9):2137-2147.",
+    "year": 2024
+   }
+  ],
+  "stimulation": null
+ }
+]

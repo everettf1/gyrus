@@ -1,0 +1,41 @@
+1. Eur Arch Psychiatry Clin Neurosci. 2016 Feb;266(1):15-23. doi: 
+10.1007/s00406-015-0587-z. Epub 2015 Mar 11.
+
+Orbitofrontal sulcogyral pattern and olfactory sulcus depth in the schizophrenia 
+spectrum.
+
+Nishikawa Y(1), Takahashi T(2), Takayanagi Y(2), Furuichi A(2), Kido M(2), 
+Nakamura M(2), Sasabayashi D(2), Noguchi K(3), Suzuki M(2).
+
+Author information:
+(1)Department of Neuropsychiatry, University of Toyama Graduate School of 
+Medicine and Pharmaceutical Sciences, 2630 Sugitani, Toyama, 930-0194, Japan. 
+yumiko@med.u-toyama.ac.jp.
+(2)Department of Neuropsychiatry, University of Toyama Graduate School of 
+Medicine and Pharmaceutical Sciences, 2630 Sugitani, Toyama, 930-0194, Japan.
+(3)Department of Radiology, University of Toyama Graduate School of Medicine and 
+Pharmaceutical Sciences, 2630 Sugitani, Toyama, 930-0194, Japan.
+
+Morphological changes in the orbitofrontal cortex (OFC), such as an altered 
+sulcogyral pattern of the 'H-shaped' orbital sulcus and a shallow olfactory 
+sulcus, have been demonstrated in schizophrenia, possibly reflecting deviations 
+in early neurodevelopment. However, it remains unclear whether patients with 
+schizotypal features exhibit similar OFC changes. This magnetic resonance 
+imaging study examined the OFC sulcogyral pattern (Types I, II, III, and IV) and 
+olfactory sulcus morphology in 102 patients with schizophrenia, 47 patients with 
+schizotypal disorder, and 84 healthy controls. The OFC sulcogyral pattern 
+distribution between the groups was significantly different on the right 
+hemisphere, with the schizophrenia patients showing a decrease in Type I (vs 
+controls and schizotypal patients) and an increase in Type III (vs controls) 
+expression. However, the schizotypal patients and controls did not differ in the 
+OFC pattern. There were significant group differences in the olfactory sulcus 
+depth bilaterally (schizophrenia patients < schizotypal patients < controls). 
+Our findings suggest that schizotypal disorder, a milder form of schizophrenia 
+spectrum disorders, partly shares the OFC changes (i.e., altered depth of the 
+olfactory sulcus) with schizophrenia, possibly reflecting a common disease 
+vulnerability. However, altered distribution of the OFC pattern specific to 
+schizophrenia may at least partly reflect neurodevelopmental pathology related 
+to a greater susceptibility to overt psychosis.
+
+DOI: 10.1007/s00406-015-0587-z
+PMID: 25757375 [Indexed for MEDLINE]

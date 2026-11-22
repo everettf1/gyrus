@@ -1,0 +1,25 @@
+1. Brain. 1997 Mar;120 ( Pt 3):535-59. doi: 10.1093/brain/120.3.535.
+
+Blindsight in man and monkey.
+
+Stoerig P(1), Cowey A.
+
+Author information:
+(1)Institute of Medical Psychology, Ludwig-Maximilians-University, Munich, 
+Germany.
+
+In man and monkey, absolute cortical blindness is caused by destruction of the 
+optic radiations and/or the primary visual cortex. It is characterized by an 
+absence of any conscious vision, but stimuli presented inside its borders may 
+nevertheless be processed. This unconscious vision includes neuroendocrine, 
+reflexive, indirect and forced-choice responses which are mediated by the visual 
+subsystems that escape the direct cerebral damage and the Ensuring degeneration. 
+While extrastriate cortical areas participate in the mediation of the 
+forced-choice responses, a concomitant striate cortical activation does not seem 
+to be necessary for blindsight. Whether the loss of phenomenal vision is a 
+necessary consequence of striate cortical destruction and whether this structure 
+is indispensable for conscious sight are much debated questions which need to be 
+tackled experimentally.
+
+DOI: 10.1093/brain/120.3.535
+PMID: 9126063 [Indexed for MEDLINE]

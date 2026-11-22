@@ -1,0 +1,58 @@
+1. JAMA. 2006 Nov 1;296(17):2124-32. doi: 10.1001/jama.296.17.2124.
+
+Multiple serotonergic brainstem abnormalities in sudden infant death syndrome.
+
+Paterson DS(1), Trachtenberg FL, Thompson EG, Belliveau RA, Beggs AH, Darnall R, 
+Chadwick AE, Krous HF, Kinney HC.
+
+Author information:
+(1)Department of Pathology, Children's Hospital Boston and Harvard Medical 
+School, Boston, MA, USA. david.paterson@childrens.harvard.edu
+
+Comment in
+    JAMA. 2006 Nov 1;296(17):2143-4. doi: 10.1001/jama.296.17.2143.
+    JAMA. 2007 Mar 21;297(11):1190-1; author reply 1191. doi: 
+10.1001/jama.297.11.1190-b.
+    JAMA. 2007 Mar 21;297(11):1190; author reply 1191. doi: 
+10.1001/jama.297.11.1190-a.
+
+CONTEXT: The serotonergic (5-hydroxytryptamine [5-HT]) neurons in the medulla 
+oblongata project extensively to autonomic and respiratory nuclei in the 
+brainstem and spinal cord and help regulate homeostatic function. Previously, 
+abnormalities in 5-HT receptor binding in the medullae of infants dying from 
+sudden infant death syndrome (SIDS) were identified, suggesting that medullary 
+5-HT dysfunction may be responsible for a subset of SIDS cases.
+OBJECTIVE: To investigate cellular defects associated with altered 5-HT receptor 
+binding in the 5-HT pathways of the medulla in SIDS cases.
+DESIGN, SETTING, AND PARTICIPANTS: Frozen medullae from infants dying from SIDS 
+(cases) or from causes other than SIDS (controls) were obtained from the San 
+Diego Medical Examiner's office between 1997 and 2005. Markers of 5-HT function 
+were compared between SIDS cases and controls, adjusted for postconceptional age 
+and postmortem interval. The number of samples available for each analysis 
+ranged from 16 to 31 for SIDS cases and 6 to 10 for controls. An exploratory 
+analysis of the correlation between markers and 6 recognized risk factors for 
+SIDS was performed.
+MAIN OUTCOME MEASURES: 5-HT neuron count and density, 5-HT(1A) receptor binding 
+density, and 5-HT transporter (5-HTT) binding density in the medullary 5-HT 
+system; correlation between these markers and 6 recognized risk factors for 
+SIDS.
+RESULTS: Compared with controls, SIDS cases had a significantly higher 5-HT 
+neuron count (mean [SD], 148.04 [51.96] vs 72.56 [52.36] cells, respectively; 
+P<.001) and 5-HT neuron density (P<.001), as well as a significantly lower 
+density of 5-HT(1A) receptor binding sites (P<or=.01 for all 9 nuclei) in 
+regions of the medulla involved in homeostatic function. The ratio of 5-HTT 
+binding density to 5-HT neuron count in the medulla was significantly lower in 
+SIDS cases compared with controls (mean [SD], 0.70 [0.33] vs 1.93 [1.25] 
+fmol/mg, respectively; P = .001). Male SIDS cases had significantly lower 
+5-HT(1A) binding density in the raphé obscurus compared with female cases (mean 
+[SD], 16.2 [2.0] vs 29.6 [16.5] fmol/mg, respectively; P = .04) or with male and 
+female controls combined (mean [SD], 53.9 [19.8] fmol/mg; P = .005). No 
+association was found between 5-HT neuron count or density, 5-HT(1A) receptor 
+binding density, or 5-HTT receptor binding density and other risk factors.
+CONCLUSIONS: Medullary 5-HT pathology in SIDS is more extensive than previously 
+delineated, potentially including abnormal 5-HT neuron firing, synthesis, 
+release, and clearance. This study also provides preliminary neurochemical 
+evidence that may help explain the increased vulnerability of boys to SIDS.
+
+DOI: 10.1001/jama.296.17.2124
+PMID: 17077377 [Indexed for MEDLINE]

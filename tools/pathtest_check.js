@@ -1,0 +1,34 @@
+// Drives the pathway test in bundled Chromium: hearing (linear) with a wrong try and a reveal, then smell (branches).
+const { chromium } = require('playwright-core');
+const path = require('path');
+const EXE = process.env.CHROMIUM_PATH || undefined;
+(async () => {
+  const b = await chromium.launch({ executablePath: EXE, args: ['--use-gl=swiftshader', '--enable-webgl', '--ignore-gpu-blocklist'] });
+  const p = await b.newPage({ viewport: { width: 1440, height: 900 } });
+  const errs = []; p.on('pageerror', (e) => errs.push(e.message));
+  await p.goto('file:///' + path.join(__dirname, '..', 'dist', 'index.html').replace(/\\/g, '/'));
+  await p.waitForFunction(() => window.gyrus && window.gyrus.R, null, { timeout: 90000 });
+  await p.waitForTimeout(3000);
+  const st = () => p.evaluate(() => { const q = gyrus.PQ; return q ? JSON.stringify({ order: q.order, pend: q.pend, right: q.right, missed: q.missed, reveal: q.reveal, end: q.end }) : 'no test'; });
+  const type = async (s) => { await p.keyboard.type(s, { delay: 15 }); await p.waitForTimeout(250); };
+  const shot = (n) => p.screenshot({ path: path.join(__dirname, '..', 'shots', n + '.png') });
+  await p.evaluate(() => { gyrus.setMode('paths'); }); await p.waitForTimeout(1500);
+  await p.evaluate(() => { gyrus.startPath('hearing'); gyrus.pathGo(0); }); await p.waitForTimeout(500);
+  await shot('pathtest_walk');
+  await p.evaluate(() => { gyrus.startPathTest(); }); await p.waitForTimeout(600);
+  await type('medulla'); console.log('medulla ->', await st());
+  await type('thalamus'); await p.keyboard.press('Enter'); await p.waitForTimeout(200); console.log('wrong once ->', await st());
+  await shot('pathtest_wrong');
+  await p.keyboard.press('Enter'); await p.waitForTimeout(200); console.log('reveal ->', await st());
+  await p.keyboard.press('Enter'); await p.waitForTimeout(200);
+  await type('inferior colliculus'); await type('mgn'); console.log('after mgn ->', await st());
+  await shot('pathtest_mid');
+  await type('acoustic radiation'); await type('primary auditory cortex'); await type('auditory belt'); await type("wernicke's area");
+  console.log('end ->', await st()); await shot('pathtest_end');
+  await p.keyboard.press('Escape'); await p.waitForTimeout(300); console.log('after esc ->', await st());
+  await p.evaluate(() => { gyrus.startPath('smell'); gyrus.pathGo(0); gyrus.startPathTest(); }); await p.waitForTimeout(500);
+  await type('olfactory bulb'); await type('olfactory tract'); await type('superficial amygdala'); console.log('smell: branch named first ->', await st());
+  await type('piriform cortex'); await type('mediodorsal nucleus'); await type('entorhinal cortex'); await type('orbitofrontal cortex');
+  console.log('smell end ->', await st(), '| errors', errs.length, errs[0] || '');
+  await b.close();
+})().catch((e) => { console.log('ERR', e.message.split('\n')[0]); process.exit(1); });

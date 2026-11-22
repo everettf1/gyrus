@@ -1,0 +1,22 @@
+1. Science. 1997 Mar 14;275(5306):1593-9. doi: 10.1126/science.275.5306.1593.
+
+A neural substrate of prediction and reward.
+
+Schultz W(1), Dayan P, Montague PR.
+
+Author information:
+(1)Institute of Physiology, University of Fribourg, CH-1700 Fribourg, 
+Switzerland. Wolfram.Schultz@unifr.ch
+
+The capacity to predict future events permits a creature to detect, model, and 
+manipulate the causal structure of its interactions with its environment. 
+Behavioral experiments suggest that learning is driven by changes in the 
+expectations about future salient events such as rewards and punishments. 
+Physiological work has recently complemented these studies by identifying 
+dopaminergic neurons in the primate whose fluctuating output apparently signals 
+changes or errors in the predictions of future salient and rewarding events. 
+Taken together, these findings can be understood through quantitative theories 
+of adaptive optimizing control.
+
+DOI: 10.1126/science.275.5306.1593
+PMID: 9054347 [Indexed for MEDLINE]

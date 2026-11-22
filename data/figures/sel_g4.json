@@ -1,0 +1,82 @@
+[
+ {
+  "region": "ventromedial_prefrontal_cortex",
+  "pmid": "17377536",
+  "from": "Figure 2",
+  "caption": "Bars show how often each group said yes to three kinds of moral scenarios. Patients with damage to the ventromedial prefrontal cortex (VMPC, dark bars) are compared with patients with other brain damage (BDC) and healthy controls (NC).",
+  "notice": "Look at the Personal group: the VMPC patients say yes to the harmful personal action far more often than the other groups, while all groups look alike on non-moral and impersonal scenarios, so the damage causes the shift.",
+  "short": "Koenigs et al. 2007, Nature",
+  "license": "",
+  "file": "ventromedial_prefrontal_cortex_17377536.webp"
+ },
+ {
+  "region": "vermis",
+  "pmid": "19567703",
+  "from": "Figure 3C",
+  "caption": "Brain slices from low in the skull to higher up, showing which cerebellar areas were damaged more often in patients with impaired eye-reflex suppression (red and yellow) than in patients with intact suppression (blue).",
+  "notice": "The orange arrow points to the uvula, a part of the vermis in the middle of the cerebellum, where the damage in patients with the deficit clusters, which is lesion evidence for cause.",
+  "short": "Baier et al. 2009, Brain",
+  "license": "",
+  "file": "vermis_19567703.webp"
+ },
+ {
+  "region": "frontal_lobe",
+  "pmid": "11006464",
+  "from": "Fig. 1",
+  "caption": "Colored squares mark frontal lobe activations from six experiments on very different mental tasks, plotted on one 3D brain seen from the side and from the middle.",
+  "notice": "The squares from different tasks bunch up in the same few frontal spots near the inferior frontal sulcus (IFS) and the corpus callosum (CC), which is a correlation: these areas are engaged, not shown to be required.",
+  "short": "Duncan et al. 2000, Trends Neurosci",
+  "license": "",
+  "file": "frontal_lobe_11006464.webp"
+ },
+ {
+  "region": "superficial_amygdala",
+  "pmid": "19347877",
+  "from": "Figure 3",
+  "caption": "Bar graphs of fMRI signal in three amygdala subregions, for the right and left side, while people viewed fearful, happy and neutral faces and houses. The brain slice at left shows where the subregions sit.",
+  "notice": "In the blue superficial group the face bars are clearly higher than the house bar on both sides, which is a correlation between faces and activity in this subregion.",
+  "short": "Goossens et al. 2009, Hum Brain Mapp",
+  "license": "",
+  "file": "superficial_amygdala_19347877.webp"
+ },
+ {
+  "region": "lingual_gyrus",
+  "pmid": "2002358",
+  "from": "Figure 2",
+  "caption": "PET blood-flow maps from the color experiment, comparing a colored display with the same display in grays. Rows A to C show brain slices and the right side shows sagittal, coronal and transverse projections of the significant spot.",
+  "notice": "The single bright spot low in the back of the brain is the area that responds to color, a correlation, and it lies in the lingual and fusiform region rather than only the lingual gyrus.",
+  "short": "Zeki et al. 1991, J Neurosci",
+  "license": "",
+  "file": "lingual_gyrus_2002358.webp"
+ },
+ {
+  "region": "temporal_pole",
+  "pmid": "10632099",
+  "from": "Fig 1",
+  "caption": "Orange areas on 3D brain renderings show where gray matter is lower than in healthy older adults, for each of six semantic dementia patients. Views are left side, right side, left middle and from below.",
+  "notice": "In every patient the left front tip of the temporal lobe, the temporal pole, is orange, and it is much more affected on the left than the right.",
+  "short": "Mummery et al. 2000, Ann Neurol",
+  "license": "",
+  "file": "temporal_pole_10632099.webp"
+ },
+ {
+  "region": "collateral_sulcus",
+  "pmid": "22512258",
+  "from": "Fig. 9A",
+  "caption": "A postmortem brain seen from below, with three matching MRI slices (a, b, c) cut at the lines marked on the photo. The labels mark the rhinal sulcus (rhs), the collateral sulcus proper (cos) and the lateral occipitotemporal sulcus (lots).",
+  "notice": "Follow the cos label from the photo into slices b and c to see the collateral sulcus running beside the parahippocampal gyrus (PHG) and the fusiform gyrus (FG), as a separate piece from the rhinal sulcus in front of it.",
+  "short": "Huntgeburth et al. 2012, Eur J Neurosci",
+  "license": "",
+  "file": "collateral_sulcus_22512258.webp"
+ },
+ {
+  "region": "inferior_fronto_occipital_fasciculus",
+  "pmid": "15705610",
+  "from": "Fig. 1E",
+  "caption": "After surgery in a patient with a left temporal tumor, an MRI slice (left) shows the cavity and the remaining tumor, and a white matter map (right) outlines a long pathway in green. The arrows mark matching places on both images.",
+  "notice": "The authors note that the white matter left at the back of the cavity lines up with the course of the inferior fronto-occipital fasciculus, the pathway whose stimulation caused the semantic errors in the card.",
+  "short": "Duffau et al. 2005, Brain",
+  "license": "",
+  "file": "inferior_fronto_occipital_fasciculus_15705610.webp"
+ }
+]

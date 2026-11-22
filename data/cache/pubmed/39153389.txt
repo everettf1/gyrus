@@ -1,0 +1,49 @@
+1. Cortex. 2024 Oct;179:77-90. doi: 10.1016/j.cortex.2024.07.005. Epub 2024 Aug
+3.
+
+Symptomatology after damage to the angular gyrus through the lenses of modern 
+lesion-symptom mapping.
+
+Seghier ML(1).
+
+Author information:
+(1)Department of Biomedical Engineering and Biotechnology, Khalifa University of 
+Science and Technology, Abu Dhabi, United Arab Emirates; Healthcare Engineering 
+Innovation Center (HEIC), Khalifa University of Science and Technology, Abu 
+Dhabi, United Arab Emirates. Electronic address: mseghier@gmail.com.
+
+Brain-behavior relationships are complex. For instance, one might know a brain 
+region's function(s) but still be unable to accurately predict deficit type or 
+severity after damage to that region. Here, I discuss the case of damage to the 
+angular gyrus (AG) that can cause left-right confusion, finger agnosia, 
+attention deficit, and lexical agraphia, as well as impairment in sentence 
+processing, episodic memory, number processing, and gesture imitation. Some of 
+these symptoms are grouped under AG syndrome or Gerstmann's syndrome, though its 
+exact underlying neuronal systems remain elusive. This review applies recent 
+frameworks of brain-behavior modes and principles from modern lesion-symptom 
+mapping to explain symptomatology after AG damage. It highlights four major 
+issues for future studies: (1) functionally heterogeneous symptoms after AG 
+damage need to be considered in terms of the degree of damage to (i) different 
+subdivisions of the AG, (ii) different AG connectivity profiles that disconnect 
+AG from distant regions, and (iii) lesion extent into neighboring regions 
+damaged by the same infarct. (2) To explain why similar symptoms can also be 
+observed after damage to other regions, AG damage needs to be studied in terms 
+of the networks of regions that AG functions with, and other independent 
+networks that might subsume the same functions. (3) To explain inter-patient 
+variability on AG symptomatology, the degree of recovery-related brain 
+reorganisation needs to account for time post-stroke, demographics, therapy 
+input, and pre-stroke differences in functional anatomy. (4) A better 
+integration of the results from lesion and functional neuroimaging 
+investigations of AG function is required, with only the latter so far 
+considering AG function in terms of a hub within the default mode network. 
+Overall, this review discusses why it is so difficult to fully characterize the 
+AG syndrome from lesion data, and how this might be addressed with modern 
+lesion-symptom mapping.
+
+Copyright © 2024 The Author. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.cortex.2024.07.005
+PMID: 39153389 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The author 
+declares that he has no conflict of interest.

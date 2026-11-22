@@ -1,0 +1,26 @@
+1. Brain. 2008 Aug;131(Pt 8):2140-52. doi: 10.1093/brain/awn135. Epub 2008 Jul
+25.
+
+Spatial and temporal deficits are regionally dissociable in patients with 
+pulvinar lesions.
+
+Arend I(1), Rafal R, Ward R.
+
+Author information:
+(1)Wolfson Center for Clinical and Cognitive Neuroscience, Bangor University, 
+Gwynedd LL57 2AS, UK.
+
+The pulvinar is an important structure for visual attention function. Spatial 
+and temporal attention was examined in three patients with varying pulvinar 
+lesions. Spatial and temporal deficits were dissociable. The patient with 
+anterior damage showed strong spatial but not temporal attention deficits, while 
+the patient with posterior damage showed clear temporal attention deficits, but 
+much reduced spatial problems. A third patient with intermediate damage showed 
+intermediate behaviours. These findings are discussed within the scope of models 
+of visual attention in which the pulvinar facilitates communication between 
+different brain areas: depending upon the specifics of pulvinar damage, 
+communication with different cortical areas may be degraded, thereby producing 
+distinct patterns of deficit.
+
+DOI: 10.1093/brain/awn135
+PMID: 18669494 [Indexed for MEDLINE]

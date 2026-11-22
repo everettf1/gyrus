@@ -1,0 +1,54 @@
+1. Schizophr Res. 2014 Mar;153(1-3):18-24. doi: 10.1016/j.schres.2014.01.041.
+Epub  2014 Feb 14.
+
+Altered depth of the olfactory sulcus in ultra high-risk individuals and 
+patients with psychotic disorders.
+
+Takahashi T(1), Wood SJ(2), Yung AR(3), Nelson B(4), Lin A(5), Yücel M(6), 
+Phillips LJ(7), Nakamura Y(8), Suzuki M(8), Brewer WJ(4), Proffitt TM(4), 
+McGorry PD(4), Velakoulis D(9), Pantelis C(9).
+
+Author information:
+(1)Department of Neuropsychiatry, University of Toyama, Toyama, Japan. 
+Electronic address: tsutomu@med.u-toyama.ac.jp.
+(2)Melbourne Neuropsychiatry Centre, Department of Psychiatry, University of 
+Melbourne and Melbourne Health, Victoria, Australia; School of Psychology, 
+University of Birmingham, Birmingham, UK.
+(3)Orygen Youth Health Research Centre, Centre for Youth Mental Health, 
+University of Melbourne, Victoria, Australia; Institute of Brain, Behaviour and 
+Mental Health, University of Manchester, Manchester, UK.
+(4)Orygen Youth Health Research Centre, Centre for Youth Mental Health, 
+University of Melbourne, Victoria, Australia.
+(5)School of Psychology, University of Birmingham, Birmingham, UK.
+(6)Melbourne Neuropsychiatry Centre, Department of Psychiatry, University of 
+Melbourne and Melbourne Health, Victoria, Australia; Monash Clinical and Imaging 
+Neuroscience (MCIN) Laboratory, School of Psychological Sciences, Monash 
+University, Victoria, Australia.
+(7)Department of Psychology, University of Melbourne, Victoria, Australia.
+(8)Department of Neuropsychiatry, University of Toyama, Toyama, Japan.
+(9)Melbourne Neuropsychiatry Centre, Department of Psychiatry, University of 
+Melbourne and Melbourne Health, Victoria, Australia.
+
+A shallow olfactory sulcus has been reported in schizophrenia, possibly 
+reflecting abnormal forebrain development during early gestation. However, it 
+remains unclear whether this anomaly exists prior to the onset of psychosis 
+and/or differs according to illness stage. In the current study, magnetic 
+resonance imaging was used to investigate the length and depth of the olfactory 
+sulcus in 135 ultra high-risk (UHR) individuals [of whom 52 later developed 
+psychosis (UHR-P) and 83 did not (UHR-NP)], 162 patients with first-episode 
+psychosis (FEP), 89 patients with chronic schizophrenia, and 87 healthy 
+controls. While there was no group difference in the length of the sulcus, UHR-P 
+subjects had significantly shallower olfactory sulcus at baseline as compared 
+with UHR-NP and control subjects. The depth of this sulcus became increasingly 
+more superficial as one moved from UHR-P subjects to FEP patients to chronic 
+schizophrenia patients. Finally, the depth of the olfactory sulcus in the UHR-P 
+subjects was negatively correlated with the severity of negative symptoms. These 
+findings suggest that the altered depth of the olfactory sulcus, which exists 
+before psychosis onset, could be predictive of transition to psychosis, but also 
+suggest ongoing changes of the sulcus morphology during the course of the 
+illness.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.schres.2014.01.041
+PMID: 24530137 [Indexed for MEDLINE]

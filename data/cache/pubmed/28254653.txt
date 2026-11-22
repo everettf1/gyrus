@@ -1,0 +1,45 @@
+1. Neuropsychologia. 2017 May;99:81-91. doi: 
+10.1016/j.neuropsychologia.2017.02.024. Epub 2017 Feb 28.
+
+Functional connectivity between prefrontal and parietal cortex drives 
+visuo-spatial attention shifts.
+
+Heinen K(1), Feredoes E(2), Ruff CC(2), Driver J(3).
+
+Author information:
+(1)Institute of Cognitive Neuroscience, University College London, London WC1N 
+3AR, UK; Wellcome Trust Centre for Neuroimaging, University College London, 
+London WC1N 3BG, UK. Electronic address: TH.Heinen@donders.ru.nl.
+(2)Institute of Cognitive Neuroscience, University College London, London WC1N 
+3AR, UK; Wellcome Trust Centre for Neuroimaging, University College London, 
+London WC1N 3BG, UK.
+(3)Wellcome Trust Centre for Neuroimaging, University College London, London 
+WC1N 3BG, UK.
+
+It is well established that the frontal eye-fields (FEF) in the dorsal attention 
+network (DAN) guide top-down selective attention. In addition, converging 
+evidence implies a causal role for the FEF in attention shifting, which is also 
+known to recruit the ventral attention network (VAN) and fronto-striatal 
+regions. To investigate the causal influence of the FEF as (part of) a central 
+hub between these networks, we applied thetaburst transcranial magnetic 
+stimulation (TBS) off-line, combined with functional magnetic resonance (fMRI) 
+during a cued visuo-spatial attention shifting paradigm. We found that TBS over 
+the right FEF impaired performance on a visual discrimination task in both 
+hemifields following attention shifts, while only left hemifield performance was 
+affected when participants were cued to maintain the focus of attention. These 
+effects recovered ca. 20min post stimulation. Furthermore, particularly 
+following attention shifts, TBS suppressed the neural signal in bilateral FEF, 
+right inferior and superior parietal lobule (IPL/SPL) and bilateral 
+supramarginal gyri (SMG). Immediately post stimulation, functional connectivity 
+was impaired between right FEF and right SMG as well as right putamen. 
+Importantly, the extent of decreased connectivity between right FEF and right 
+SMG correlated with behavioural impairment following attention shifts. The main 
+finding of this study demonstrates that influences from right FEF on SMG in the 
+ventral attention network causally underly attention shifts, presumably by 
+enabling disengagement from the current focus of attention.
+
+Copyright © 2017 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.neuropsychologia.2017.02.024
+PMCID: PMC5415819
+PMID: 28254653 [Indexed for MEDLINE]

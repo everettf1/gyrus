@@ -1,0 +1,39 @@
+1. Stroke. 2009 Feb;40(2):487-91. doi: 10.1161/STROKEAHA.108.527762. Epub 2008
+Dec  24.
+
+Isolated nodular infarction.
+
+Moon IS(1), Kim JS, Choi KD, Kim MJ, Oh SY, Lee H, Lee HS, Park SH.
+
+Author information:
+(1)Department of Neurology, Seoul National University Bundang Hospital, Seoul 
+National University College of Medicine, Seongnam-si, Gyeonggi-do, Korea. 
+nrpsh@snu.ac.kr
+
+BACKGROUND AND PURPOSE: Isolated nodular infarction has rarely been described in 
+human. The purpose of this study is to report clinical and laboratory findings 
+of isolated nodular infarction.
+METHODS: Eight patients with isolated nodular infarction were recruited from 6 
+hospitals in Korea. All patients underwent a complete and standardized 
+neurotological evaluation including ocular torsion, bithermal caloric tests, and 
+rotatory chair test in addition to MRI and MR angiography.
+RESULTS: All patients presented with isolated vertigo and moderate to severe 
+imbalance. The most common manifestation was unilateral nystagmus and falling in 
+the opposite direction, which mimicked peripheral vestibulopathy. Six patients 
+had unilateral lesion, and 2 showed bilateral lesions. The direction of the 
+spontaneous nystagmus was all ipsilesional in the unilateral lesion. However, 
+head impulse and bithermal caloric tests were normal. Other findings include 
+periodic alternating nystagmus, perverted head shaking nystagmus, paroxysmal 
+positional nystagmus, and impaired tilt suppression of the postrotatory 
+nystagmus. Hypoplasia of the ipsilesional vertebral artery was the only abnormal 
+finding on MR angiography in 3 patients. The prognosis was excellent.
+CONCLUSIONS: Isolated nodular infarction mostly presents with isolated vertigo 
+mimicking acute peripheral vestibulopathy. However, severe imbalance and a 
+negative head impulse test are important clinical discriminants between nodular 
+infarcts and peripheral vestibular dysfunction. The findings of isolated nodular 
+infarctions are consistent with impaired gravito-inertial processing of the 
+vestibular signals and disrupted nodular inhibition on the vestibular secondary 
+neurons and the velocity storage mechanism.
+
+DOI: 10.1161/STROKEAHA.108.527762
+PMID: 19109545 [Indexed for MEDLINE]

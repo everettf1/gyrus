@@ -1,0 +1,39 @@
+1. Brain. 2012 Feb;135(Pt 2):631-40. doi: 10.1093/brain/awr265. Epub 2011 Oct 27.
+
+Stimulation of the human cortex and the experience of pain: Wilder Penfield's 
+observations revisited.
+
+Mazzola L(1), Isnard J, Peyron R, Mauguière F.
+
+Author information:
+(1)Department of Neurology, University Hospital, St-Etienne, 42055 cedex 2, 
+France.
+
+Thanks to the seminal work of Wilder Graves Penfield (1891-1976) at the Montreal 
+Neurological Institute, electrical stimulation is used worldwide to localize the 
+epileptogenic cortex and to map the functionally eloquent areas in the context 
+of epilepsy surgery or lesion resections. In the functional map of elementary 
+and experiential responses he described through >20 years of careful exploration 
+of the human cortex via stimulation of the cortical surface, Penfield did not 
+identify any 'pain cortical area'. We reinvestigated this issue by analysing 
+subjective and videotaped behavioural responses to 4160 cortical stimulations 
+using intracerebral electrodes implanted in all cortical lobes that were carried 
+out over 12 years during the presurgical evaluation of epilepsy in 164 
+consecutive patients. Pain responses were scarce (1.4%) and concentrated in the 
+medial part of the parietal operculum and neighbouring posterior insula where 
+pain thresholds showed a rostrocaudal decrement. This deep cortical region 
+remained largely inaccessible to the intraoperative stimulation of the cortical 
+surface carried out by Penfield after resection of the parietal operculum. It 
+differs also from primary sensory areas described by Penfield et al. in the 
+sense that, with our stimulation paradigm, pain represented only 10% of 
+responses. Like Penfield et al., we obtained no pain response anywhere else in 
+the cortex, including in regions consistently activated by pain in most 
+functional imaging studies, i.e. the first somatosensory area, the lateral part 
+of the secondary somatosensory area, anterior and mid-cingulate gyri 
+(mid-cingulate cortex), anterior frontal, posterior parietal and supplementary 
+motor areas. The medial parietal operculum and posterior insula are thus the 
+only areas where electrical stimulation is able to trigger activation of the 
+pain cortical network and thus the experience of somatic pain.
+
+DOI: 10.1093/brain/awr265
+PMID: 22036962 [Indexed for MEDLINE]

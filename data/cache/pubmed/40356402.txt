@@ -1,0 +1,51 @@
+1. Brain Behav. 2025 May;15(5):e70537. doi: 10.1002/brb3.70537.
+
+Frontal Eye Field in the Precentral Sulcus: A Direct Electrical Cortical 
+Stimulation Study With Stereo-EEG Electrodes.
+
+Jin Y(1), Li K(2), Liu X(1), Zhang F(1), Wang X(3), Fei L(2), Tan Q(2), Li D(2), 
+Wang X(2), Wang G(2), Chen J(2), Hu X(4).
+
+Author information:
+(1)Department of Neurosurgery, The Affiliated Guangdong Second Provincial 
+General Hospital of Jinan University, Guangzhou, China.
+(2)Department of Epilepsy Center, Guangdong Sanjiu Brain Hospital, Guangzhou, 
+China.
+(3)Department of Neurosurgery, The First Affiliated Hospital of Jinan 
+University, Guangzhou, China.
+(4)Department of Neurology, Institute of Neuroscience, Key Laboratory of 
+Neurogenetics and Channelopathies of Guangdong Province and the Ministry of 
+Education of China, The Second Affiliated Hospital, Guangzhou Medical 
+University, Guangzhou, China.
+
+BACKGROUND: This study aims to explore the stimulation-induced eye movements 
+(EMs) from various branches of the precentral sulcus (PrCS) and to learn if the 
+epileptogenic area influences EMs effects.
+METHODS: The high-frequency direct electrical stimulation mapping reports were 
+completed from patients with SEEG exploration. The counts of gender, the 
+distribution of EMs effects sites, the seizure onset age, course of epilepsy, 
+age of stimulation, and stimulation intensity were analyzed. The correlation 
+factors of the EMs positive cases were studied through the multivariate 
+regression method.
+RESULTS: The PrCS through 778 contacts of 77 patients was studied from July 2015 
+to December 2020. A total of 18 patients showed induced EMs in the PrCS. The 
+average stimulation intensity was 22.0 ± 1.3 mA. In positive cases, 279 contacts 
+were explored on the PrCS, and 24.51% were positive. Overall, 60.32% sites were 
+in the superior PrCS (SP), and 39.68% sites were in the inferior PrCS (IP). The 
+SP was more likely to have a stimulating response to EMs than the IP 
+(p = 0.017). The major EM effect was deviation, with a total of 39.68% positive 
+sites in 11 cases, namely, 16 sites in the SP and 9 sites in the IP. Multiple 
+regression analysis indicated that the positive EMs cases were only correlated 
+with whether seizure onset zone (SOZ) was located on prCS (p = 0.004), but not 
+with age of onset, duration, frequency of seizures, preoperative intelligence 
+quotient (IQ), and age of stimulation.
+CONCLUSION: Deviation was the major type of positive EMs by directly stimulating 
+the prCS. The SP was more sensitive to stimulation than the inferior branch was. 
+The positive EM's chance showed a certain correlation with whether the prCS was 
+inside the SOZ or not.
+
+© 2025 The Author(s). Brain and Behavior published by Wiley Periodicals LLC.
+
+DOI: 10.1002/brb3.70537
+PMCID: PMC12069980
+PMID: 40356402 [Indexed for MEDLINE]

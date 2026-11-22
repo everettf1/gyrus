@@ -1,0 +1,32 @@
+1. Prog Neurobiol. 2004 Apr;72(5):341-72. doi: 10.1016/j.pneurobio.2004.03.006.
+
+The functional neuroanatomy of the human orbitofrontal cortex: evidence from 
+neuroimaging and neuropsychology.
+
+Kringelbach ML(1), Rolls ET.
+
+Author information:
+(1)Department of Experimental Psychology, University of Oxford, South Parks 
+Road, Oxford OX1 3UD, UK. Morten.Kringelbach@psy.ox.ac.uk
+
+The human orbitofrontal cortex is an important brain region for the processing 
+of rewards and punishments, which is a prerequisite for the complex and flexible 
+emotional and social behaviour which contributes to the evolutionary success of 
+humans. Yet much remains to be discovered about the functions of this key brain 
+region, and new evidence from functional neuroimaging and clinical 
+neuropsychology is affording new insights into the different functions of the 
+human orbitofrontal cortex. We review the neuroanatomical and neuropsychological 
+literature on the human orbitofrontal cortex, and propose two distinct trends of 
+neural activity based on a meta-analysis of neuroimaging studies. One is a 
+mediolateral distinction, whereby medial orbitofrontal cortex activity is 
+related to monitoring the reward value of many different reinforcers, whereas 
+lateral orbitofrontal cortex activity is related to the evaluation of punishers 
+which may lead to a change in ongoing behaviour. The second is a 
+posterior-anterior distinction with more complex or abstract reinforcers (such 
+as monetary gain and loss) represented more anteriorly in the orbitofrontal 
+cortex than simpler reinforcers such as taste or pain. Finally, we propose new 
+neuroimaging methods for obtaining further evidence on the localisation of 
+function in the human orbitofrontal cortex.
+
+DOI: 10.1016/j.pneurobio.2004.03.006
+PMID: 15157726 [Indexed for MEDLINE]

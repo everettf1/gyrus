@@ -1,0 +1,46 @@
+1. Brain. 2009 Jun;132(Pt 6):1656-68. doi: 10.1093/brain/awp114. Epub 2009 May
+21.
+
+Defining Meyer's loop-temporal lobe resections, visual field deficits and 
+diffusion tensor tractography.
+
+Yogarajah M(1), Focke NK, Bonelli S, Cercignani M, Acheson J, Parker GJ, 
+Alexander DC, McEvoy AW, Symms MR, Koepp MJ, Duncan JS.
+
+Author information:
+(1)Department of Clinical and Experimental Epilepsy, UCL Institute of Neurology, 
+Queen Square, London, UK. j.duncan@ion.ucl.ac.uk
+
+Anterior temporal lobe resection is often complicated by superior quadrantic 
+visual field deficits (VFDs). In some cases this can be severe enough to 
+prohibit driving, even if a patient is free of seizures. These deficits are 
+caused by damage to Meyer's loop of the optic radiation, which shows 
+considerable heterogeneity in its anterior extent. This structure cannot be 
+distinguished using clinical magnetic resonance imaging sequences. Diffusion 
+tensor tractography is an advanced magnetic resonance imaging technique that 
+enables the parcellation of white matter. Using seed voxels antero-lateral to 
+the lateral geniculate nucleus, we applied this technique to 20 control 
+subjects, and 21 postoperative patients. All patients had visual fields assessed 
+with Goldmann perimetry at least three months after surgery. We measured the 
+distance from the tip of Meyer's loop to the temporal pole and horn in all 
+subjects. In addition, we measured the size of temporal lobe resection using 
+postoperative T(1)-weighted images, and quantified VFDs. Nine patients suffered 
+VFDs ranging from 22% to 87% of the contralateral superior quadrant. In 
+patients, the range of distance from the tip of Meyer's loop to the temporal 
+pole was 24-43 mm (mean 34 mm), and the range of distance from the tip of 
+Meyer's loop to the temporal horn was -15 to +9 mm (mean 0 mm). In controls the 
+range of distance from the tip of Meyer's loop to the temporal pole was 24-47 mm 
+(mean 35 mm), and the range of distance from the tip of Meyer's loop to the 
+temporal horn was -11 to +9 mm (mean 0 mm). Both quantitative and qualitative 
+results were in accord with recent dissections of cadaveric brains, and analysis 
+of postoperative VFDs and resection volumes. By applying a linear regression 
+analysis we showed that both distance from the tip of Meyer's loop to the 
+temporal pole and the size of resection were significant predictors of the 
+postoperative VFDs. We conclude that there is considerable variation in the 
+anterior extent of Meyer's loop. In view of this, diffusion tensor tractography 
+of the optic radiation is a potentially useful method to assess an individual 
+patient's risk of postoperative VFDs following anterior temporal lobe resection.
+
+DOI: 10.1093/brain/awp114
+PMCID: PMC2685925
+PMID: 19460796 [Indexed for MEDLINE]

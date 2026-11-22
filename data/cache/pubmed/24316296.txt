@@ -1,0 +1,44 @@
+1. Neuron. 2013 Dec 18;80(6):1359-67. doi: 10.1016/j.neuron.2013.10.057. Epub
+2013  Dec 5.
+
+The will to persevere induced by electrical stimulation of the human cingulate 
+gyrus.
+
+Parvizi J(1), Rangarajan V(2), Shirer WR(3), Desai N(2), Greicius MD(3).
+
+Author information:
+(1)Laboratory of Behavioral and Cognitive Neurology (LBCN), Stanford Human 
+Intracranial Cognitive Electrophysiology Program (SHICEP), Department of 
+Neurology & Neurological Sciences, Stanford University, Stanford, CA 94305, USA. 
+Electronic address: jparvizi@stanford.edu.
+(2)Laboratory of Behavioral and Cognitive Neurology (LBCN), Stanford Human 
+Intracranial Cognitive Electrophysiology Program (SHICEP), Department of 
+Neurology & Neurological Sciences, Stanford University, Stanford, CA 94305, USA.
+(3)Functional Imaging in Neuropsychiatric Disorders (FIND) Lab, Department of 
+Neurology & Neurological Sciences, Stanford University, Stanford, CA 94305, USA.
+
+Comment in
+    Neuron. 2013 Dec 18;80(6):1337-8. doi: 10.1016/j.neuron.2013.12.005.
+
+Anterior cingulate cortex (ACC) is known to be involved in functions such as 
+emotion, pain, and cognitive control. While studies in humans and nonhuman 
+mammals have advanced our understanding of ACC function, the subjective 
+correlates of ACC activity have remained largely unexplored. In the current 
+study, we show that electrical charge delivery in the anterior midcingulate 
+cortex (aMCC) elicits autonomic changes and the expectation of an imminent 
+challenge coupled with a determined attitude to overcome it. Seed-based, 
+resting-state connectivity analysis revealed that the site of stimulation in 
+both patients was at the core of a large-scale distributed network linking aMCC 
+to the frontoinsular and frontopolar as well as some subcortical regions. This 
+report provides compelling, first-person accounts of electrical stimulation of 
+this brain network and suggests its possible involvement in psychopathological 
+conditions that are characterized by a reduced capacity to endure psychological 
+or physical distress.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2013.10.057
+PMCID: PMC3877748
+PMID: 24316296 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: None

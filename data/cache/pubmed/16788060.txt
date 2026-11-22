@@ -1,0 +1,38 @@
+1. Proc Natl Acad Sci U S A. 2006 Jun 27;103(26):10046-51. doi: 
+10.1073/pnas.0604187103. Epub 2006 Jun 20.
+
+Spontaneous neuronal activity distinguishes human dorsal and ventral attention 
+systems.
+
+Fox MD(1), Corbetta M, Snyder AZ, Vincent JL, Raichle ME.
+
+Author information:
+(1)Department of Radiology, Washington University, St. Louis, MO 63110, USA. 
+foxm@npg.wustl.edu
+
+Erratum in
+    Proc Natl Acad Sci U S A. 2006 Sep 5;103(36):13560.
+
+On the basis of task-related imaging studies in normal human subjects, it has 
+been suggested that two attention systems exist in the human brain: a bilateral 
+dorsal attention system involved in top-down orienting of attention and a 
+right-lateralized ventral attention system involved in reorienting attention in 
+response to salient sensory stimuli. An important question is whether this 
+functional organization emerges only in response to external attentional demands 
+or is represented more fundamentally in the internal dynamics of brain activity. 
+To address this question, we examine correlations in spontaneous fluctuations of 
+the functional MRI blood oxygen level-dependent signal in the absence of task, 
+stimuli, or explicit attentional demands. We identify a bilateral dorsal 
+attention system and a right-lateralized ventral attention system solely on the 
+basis of spontaneous activity. Further, we observe regions in the prefrontal 
+cortex correlated with both systems, a potential mechanism for mediating the 
+functional interaction between systems. These findings demonstrate that the 
+neuroanatomical substrates of human attention persist in the absence of external 
+events, reflected in the correlation structure of spontaneous activity.
+
+DOI: 10.1073/pnas.0604187103
+PMCID: PMC1480402
+PMID: 16788060 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest statement: No conflicts 
+declared.

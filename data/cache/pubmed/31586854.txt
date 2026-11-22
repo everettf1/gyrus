@@ -1,0 +1,55 @@
+1. Clin Neurol Neurosurg. 2019 Nov;186:105530. doi:
+10.1016/j.clineuro.2019.105530.  Epub 2019 Sep 23.
+
+Neurosurgical anatomy of the insular cortex.
+
+Cunha-Cabral D(1), Silva SM(2), Alves H(1), Vaz RP(3), Pereira PA(2), Andrade 
+JP(4).
+
+Author information:
+(1)Department of Biomedicine, Unit of Anatomy, Faculty of Medicine, University 
+of Porto, Alameda Professor Hernâni Monteiro, 4200-319, Porto, Portugal.
+(2)Department of Biomedicine, Unit of Anatomy, Faculty of Medicine, University 
+of Porto, Alameda Professor Hernâni Monteiro, 4200-319, Porto, Portugal; Center 
+for Health Technology and Services Research (CINTESIS), Rua Dr. Plácido da 
+Costa, s/n, 4200-450, Porto, Portugal.
+(3)Department of Biomedicine, Unit of Anatomy, Faculty of Medicine, University 
+of Porto, Alameda Professor Hernâni Monteiro, 4200-319, Porto, Portugal; Center 
+for Health Technology and Services Research (CINTESIS), Rua Dr. Plácido da 
+Costa, s/n, 4200-450, Porto, Portugal; Otorhinolaryngology Department, Centro 
+Hospitalar Universitário S. João, EPE, Alameda Professor Hernâni Monteiro, 
+4200-319, Porto, Portugal.
+(4)Department of Biomedicine, Unit of Anatomy, Faculty of Medicine, University 
+of Porto, Alameda Professor Hernâni Monteiro, 4200-319, Porto, Portugal; Center 
+for Health Technology and Services Research (CINTESIS), Rua Dr. Plácido da 
+Costa, s/n, 4200-450, Porto, Portugal. Electronic address: jandrade@med.up.pt.
+
+OBJECTIVE: The purpose of this study was to clarify the morphology of the 
+insular cortex focusing not only on the shape of the insula, but also on sulcal 
+and gyral organization.
+PATIENTS AND METHODS: Sixty formalin-fixed adult brain hemispheres had their 
+insula exposed and photographed. The dimensions of each gyrus and sulcus were 
+measured using an image analysis software. The morphometric data obtained was 
+statistically analysed.
+RESULTS: The insular cortex shape alternates between triangular and trapezoid, 
+being the triangular shape the most common (75%). The angle between the 
+posterior and inferior peri-insular sulcus in the trapezoid insulae had a mean 
+range of 131.17° (SD = 12.277). A minimum of 3 and a maximum of 6 insular gyri 
+were observed, being 5 the most common total number of gyri observed. The 
+accessory gyrus was present in 66% of the insulae and well-developed in 38% of 
+the cases. A statistical association between the number of gyri in the posterior 
+lobe and the presence of a novel gyrus or a more developed accessory gyrus in 
+the anterior lobe was found (P = 0.006). The posterior short gyrus was the 
+longest of the short gyri (P <  0.001), followed by the anterior short gyrus (P 
+< 0.001). The anterior long gyrus was the largest of the long gyri (P = 0.003). 
+The contribution of each of the short gyri to the formation of the insular apex 
+was inconstant. The most common observed apex arrangement was the combination of 
+the anterior and of the middle short gyri.
+CONCLUSIONS: This study makes a strong contribution to the understanding of the 
+insular cortex anatomy, allowing neurosurgeons to be more capable to decide the 
+best approach to this cortical area.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.clineuro.2019.105530
+PMID: 31586854 [Indexed for MEDLINE]

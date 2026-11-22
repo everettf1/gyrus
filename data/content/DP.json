@@ -1,0 +1,1321 @@
+[
+ {
+  "id": "thalamus",
+  "aliases": [
+   "thalami",
+   "dorsal thalamus"
+  ],
+  "hint": "egg-shaped gray mass flanking the third ventricle",
+  "summary": "The thalamus is a paired, egg-shaped mass of gray matter in the diencephalon, located on either side of the third ventricle. It is composed of numerous nuclei separated into anterior, medial and lateral groups by the internal medullary lamina. It receives input from the spinal cord, brainstem, retina, cerebellum and basal ganglia, and projects to the cerebral cortex through the internal capsule. The thalamus relays sensory information to the cortex, with the exception of olfaction, and participates in motor, limbic and arousal circuits.",
+  "where": "The thalamus lies medial to the internal capsule and inferior to the body of the lateral ventricle. It is superior to the hypothalamus and midbrain and posterior to the head of the caudate nucleus. It is seen best in a medial section or in a superior view with the cortex removed.",
+  "does": "The thalamus relays nearly all sensory information to the cortex; olfaction is the exception. Each nucleus projects to a defined cortical area, so thalamic damage produces deficits resembling damage to that area. It also relays motor loops from the basal ganglia and cerebellum to motor cortex and participates in limbic circuits for memory and emotion. A large corticothalamic feedback projection allows the cortex to regulate the information it receives. The reticular and intralaminar nuclei contribute to the regulation of arousal and attention.",
+  "connects": "Afferents arrive from the spinal cord, brainstem, retina, cochlear pathway, cerebellum and basal ganglia, and efferents reach the cortex through the internal capsule. Specific nuclei project to specific cortical areas, whereas the intralaminar nuclei project diffusely to the cortex and striatum.",
+  "clinical": "A thalamic stroke can cause contralateral sensory loss, followed later by Dejerine-Roussy thalamic pain syndrome, a severe burning pain on the affected side. Bilateral paramedian thalamic infarcts cause coma or amnesia with vertical gaze impairment. Fatal familial insomnia and Korsakoff syndrome involve thalamic nuclei.",
+  "remember": "Every sensory system except olfaction synapses in the thalamus before reaching the cortex, so it is termed the gateway to the cortex.",
+  "facts": [
+   "Every sensory system except olfaction synapses in the thalamus before reaching cortex.",
+   "The internal medullary lamina divides the thalamus into anterior, medial and lateral groups.",
+   "The thalamus is the largest part of the diencephalon."
+  ],
+  "quiz": [
+   {
+    "q": "Which diencephalic structure relays nearly all sensory input to the cortex, with the exception of smell?",
+    "type": "function"
+   },
+   {
+    "q": "A stroke here leaves contralateral numbness followed months later by a burning pain syndrome named after Dejerine and Roussy. Which structure?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which paired gray mass flanks the third ventricle and lies medial to the internal capsule?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   3,
+   6
+  ],
+  "see_also": [
+   "lateral_geniculate_nucleus",
+   "ventral_posterolateral_nucleus",
+   "basal_ganglia"
+  ]
+ },
+ {
+  "id": "caudate_nucleus",
+  "aliases": [
+   "caudate",
+   "caudate head",
+   "nucleus caudatus"
+  ],
+  "hint": "comma-shaped arch that follows the ventricle's curve",
+  "summary": "The caudate nucleus is a C-shaped mass of gray matter that arches along the wall of the lateral ventricle. It consists of a head, a body and a tail, and together with the putamen it forms the dorsal striatum. It receives cortical input, principally from prefrontal and association areas, and projects to the globus pallidus and substantia nigra pars reticulata. The caudate nucleus participates in the associative basal ganglia loops underlying planning, action selection and goal-directed learning.",
+  "where": "The large head of the caudate nucleus bulges into the frontal horn of the lateral ventricle, the body runs along the dorsal surface of the thalamus, and the thin tail curves ventrally into the temporal lobe beside the amygdala. The anterior limb of the internal capsule separates the head from the putamen, although thin bridges of gray matter cross it. It is seen best in a lateral or superior view with the cortex removed.",
+  "does": "The caudate nucleus is the main input station of the associative basal ganglia loops. Its head receives input from prefrontal areas and is associated with planning, working memory, action selection and goal-directed learning. The body and tail receive input from association and visual cortex and contribute to the balance between habit and goal-directed learning and to learning the value of stimuli. Through projections that reach the superior colliculus by way of the substantia nigra pars reticulata, it also contributes to oculomotor control.",
+  "connects": "The caudate nucleus receives glutamatergic input from the cortex and intralaminar thalamus and dopaminergic input from the substantia nigra pars compacta. Its medium spiny neurons project to the globus pallidus and substantia nigra pars reticulata through the direct and indirect pathways.",
+  "clinical": "Caudate neurons degenerate early in Huntington's disease, enlarging the frontal horns of the lateral ventricles and flattening the caudate bulge on imaging. Caudate dysfunction is associated with obsessive-compulsive disorder, and caudate strokes can cause abulia and executive impairment.",
+  "remember": "Caudate derives from the Latin for tail, describing a large head tapering into a long tail along the ventricle.",
+  "facts": [
+   "The caudate head forms part of the lateral wall of the frontal horn of the lateral ventricle.",
+   "Together with the putamen it forms the dorsal striatum.",
+   "Caudate atrophy is an early imaging sign of Huntington's disease."
+  ],
+  "quiz": [
+   {
+    "q": "Which striatal structure has a head, body and tail that arch around the lateral ventricle?",
+    "type": "location"
+   },
+   {
+    "q": "Loss of its neurons early in Huntington's disease flattens the lateral wall of the frontal horns. Which structure?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which striatal part receives most of its cortical input from prefrontal association cortex and supports goal-directed action selection?",
+    "type": "function"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4
+  ],
+  "see_also": [
+   "putamen",
+   "striatum",
+   "lateral_ventricle",
+   "basal_ganglia"
+  ]
+ },
+ {
+  "id": "putamen",
+  "aliases": [
+   "putamen nucleus"
+  ],
+  "hint": "lateral lens-shaped part of the striatum, outside the pallidum",
+  "summary": "The putamen is a large, rounded nucleus on the lateral side of the globus pallidus, deep to the insula. Together with the globus pallidus it forms the lentiform nucleus, and together with the caudate nucleus it forms the dorsal striatum. It receives somatotopically organized input from motor, premotor and somatosensory cortex and projects to the globus pallidus and substantia nigra. The putamen is the principal striatal component of the basal ganglia motor loop.",
+  "where": "The putamen lies lateral to the globus pallidus and deep to the insula. The external capsule, claustrum and extreme capsule lie between it and the insular cortex, and the internal capsule lies medial to the pallidum. It is seen best in a lateral view with the cortex removed.",
+  "does": "The putamen is the main striatal input for the motor loop of the basal ganglia. It receives from motor, premotor and somatosensory cortex in a somatotopic map and contributes to the selection, scaling and automatic execution of learned movements. It is also involved in habit formation, motor skill learning and sequence learning. Dopamine from the substantia nigra pars compacta modulates its output.",
+  "connects": "Cortex and thalamus excite putamen medium spiny neurons, which inhibit the external and internal segments of the globus pallidus through D2 receptors (indirect pathway) and D1 receptors (direct pathway), respectively. The motor loop closes through the ventral lateral thalamus, which projects back to motor and premotor cortex.",
+  "clinical": "Loss of dopaminergic input to the putamen produces the bradykinesia, rigidity and rest tremor of Parkinson's disease, and putaminal degeneration is a feature of the parkinsonian type of multiple system atrophy. Hypertensive hemorrhage from putaminal arteries is a common site of deep intracerebral bleeding and causes contralateral hemiparesis.",
+  "remember": "Putamen is Latin for shell, and it forms the outer shell of the lentiform nucleus around the globus pallidus.",
+  "facts": [
+   "The putamen and globus pallidus together are called the lentiform nucleus.",
+   "It is part of the dorsal striatum with the caudate.",
+   "It is the most common site of hypertensive intracerebral hemorrhage."
+  ],
+  "quiz": [
+   {
+    "q": "Which striatal structure lies lateral to the globus pallidus, deep to the insula, and handles the motor loop?",
+    "type": "location"
+   },
+   {
+    "q": "Loss of dopamine terminals in this structure produces the bradykinesia and rigidity of Parkinson's disease. Which one?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which structure combines with the pallidum to form the lentiform nucleus?",
+    "type": "connection"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4
+  ],
+  "see_also": [
+   "globus_pallidus",
+   "caudate_nucleus",
+   "striatum",
+   "substantia_nigra"
+  ]
+ },
+ {
+  "id": "globus_pallidus",
+  "aliases": [
+   "pallidum",
+   "gpe",
+   "gpi",
+   "globus pallidus externus",
+   "globus pallidus internus",
+   "external globus pallidus",
+   "internal globus pallidus"
+  ],
+  "hint": "pale inner part of the lens, medial to the putamen",
+  "summary": "The globus pallidus is a wedge-shaped nucleus medial to the putamen and lateral to the internal capsule. It is divided by the medial medullary lamina into an external segment (GPe) and an internal segment (GPi). It receives GABAergic input from the striatum and projects to the subthalamic nucleus and thalamus. The GPi, together with the substantia nigra pars reticulata, constitutes the principal output of the basal ganglia.",
+  "where": "The globus pallidus lies medial to the putamen, with which it forms the lentiform nucleus, and lateral to the internal capsule. The GPi is the more medial segment and lies closest to the internal capsule. It is seen best in a lateral or coronal view with the putamen removed.",
+  "does": "GPi neurons, like those of the substantia nigra pars reticulata, fire tonically and inhibit the thalamus through GABA, which restrains movement. When the striatum inhibits the GPi through the direct pathway, the thalamus is released and movement proceeds. The GPe lies in the indirect pathway and inhibits the subthalamic nucleus, so striatal inhibition of the GPe disinhibits the subthalamic nucleus and increases GPi output.",
+  "connects": "The striatum projects to both segments, the GPe projects to the subthalamic nucleus, and the subthalamic nucleus excites the GPi. The GPi projects to the ventral anterior and ventral lateral thalamus and also reaches the pedunculopontine nucleus and the centromedian thalamic nucleus.",
+  "clinical": "Deep brain stimulation of the GPi or subthalamic nucleus reduces tremor, rigidity and dyskinesia in Parkinson's disease, and pallidotomy was an earlier treatment. Bilateral pallidal damage from carbon monoxide or manganese poisoning causes parkinsonism and dystonia.",
+  "remember": "Pallidum means pale; the GPi is the final inhibitory output of the basal ganglia to the thalamus.",
+  "facts": [
+   "GPi and substantia nigra pars reticulata are the two main output nuclei of the basal ganglia.",
+   "GPe is a relay in the indirect pathway.",
+   "Pallidal neurons use GABA and fire spontaneously at high rates."
+  ],
+  "quiz": [
+   {
+    "q": "Which structure's internal segment tonically inhibits the ventral anterior and ventral lateral thalamus?",
+    "type": "function"
+   },
+   {
+    "q": "Carbon monoxide poisoning often damages this pale structure, causing parkinsonism and dystonia. Which structure?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which structure lies medial to the putamen and has external and internal segments?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4
+  ],
+  "see_also": [
+   "putamen",
+   "striatum",
+   "substantia_nigra",
+   "ventral_lateral_nucleus"
+  ]
+ },
+ {
+  "id": "nucleus_accumbens",
+  "aliases": [
+   "accumbens",
+   "ventral striatum",
+   "nacc"
+  ],
+  "hint": "where the caudate head and putamen join at the base",
+  "summary": "The nucleus accumbens is the principal component of the ventral striatum, located where the head of the caudate nucleus and the anterior putamen meet. It is divided into a core, associated with motor and habit circuits, and a shell, associated with limbic and hypothalamic circuits. It receives dopaminergic input from the ventral tegmental area and glutamatergic input from the amygdala, hippocampus and prefrontal cortex. It integrates motivational and affective information to influence action, and is a central site of reward processing.",
+  "where": "The nucleus accumbens lies at the base of the striatum, inferior to the anterior limb of the internal capsule and beneath the frontal horn of the lateral ventricle. It is adjacent to the septal area. It is seen best in a medial or inferior view of the deep structures.",
+  "does": "The nucleus accumbens links motivation to action. Dopamine from the ventral tegmental area acts here to signal reward prediction and cue value, and it drives effort and approach toward rewards. It responds to natural rewards such as food and to drugs of abuse, and it also responds to aversive and novel events, so a simple pleasure-center account is incomplete. The core is tied to motor and habit circuits and the shell to limbic and hypothalamic circuits.",
+  "connects": "Afferents arrive from the ventral tegmental area (mesolimbic dopamine), amygdala, hippocampus and prefrontal cortex. Efferents reach the ventral pallidum, which projects to the mediodorsal thalamus and then to prefrontal cortex, and also the ventral tegmental area and hypothalamus.",
+  "clinical": "Addiction to cocaine, amphetamine, opioids and nicotine involves dopamine release in the nucleus accumbens. It is a deep brain stimulation target in treatment-resistant depression and obsessive-compulsive disorder, and blunted accumbens activity accompanies anhedonia.",
+  "remember": "The nucleus accumbens is the ventral striatum, the point at which the striatum interfaces with limbic reward circuitry.",
+  "facts": [
+   "It is the main part of the ventral striatum.",
+   "Mesolimbic dopamine from the VTA terminates here.",
+   "It has a core and a shell with different connections."
+  ],
+  "quiz": [
+   {
+    "q": "Which striatal region receives mesolimbic dopamine from the VTA and mediates motivation and reward?",
+    "type": "function"
+   },
+   {
+    "q": "Which structure is a deep brain stimulation target for treatment-resistant depression and OCD and shows blunted activity in anhedonia?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which structure sits where the head of the caudate and the putamen fuse below the anterior limb of the internal capsule?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4
+  ],
+  "see_also": [
+   "ventral_tegmental_area",
+   "striatum",
+   "caudate_nucleus",
+   "amygdala"
+  ]
+ },
+ {
+  "id": "hippocampus",
+  "aliases": [
+   "hippocampal formation",
+   "ammon's horn",
+   "cornu ammonis"
+  ],
+  "hint": "seahorse-shaped fold in the floor of the temporal horn",
+  "summary": "The hippocampus is a curved fold of archicortex in the medial temporal lobe, composed of the dentate gyrus, the cornu ammonis fields CA1 to CA3 and the subiculum. It lies in the floor of the temporal horn of the lateral ventricle and receives its principal input from the entorhinal cortex through the perforant path. Its main output travels in the fornix to the mammillary bodies, septal area and anterior thalamic nucleus, as part of the Papez circuit. The hippocampus is required for the formation of new declarative memories and contributes to spatial navigation.",
+  "where": "The hippocampus lies in the floor of the temporal horn of the lateral ventricle, with the amygdala at its anterior end and the parahippocampal gyrus inferior to it. Axons leaving along the fimbria form the fornix, which arches toward the mammillary bodies. It is seen best in a medial or lateral view with the temporal cortex removed.",
+  "does": "The hippocampus is required to form new declarative (episodic and semantic) memories and to bind items to their context. It supports spatial memory and navigation through place cells, with grid cells of the entorhinal cortex providing input. The dentate gyrus supports pattern separation and area CA3 supports pattern completion. Memories consolidate over time into neocortex, so the hippocampus is less necessary for remote memories, skills and priming. The anterior hippocampus is more closely associated with emotion and stress and the posterior hippocampus with spatial processing.",
+  "connects": "The main intrinsic circuit runs from the entorhinal cortex through the perforant path to the dentate gyrus, then by mossy fibers to CA3, by Schaffer collaterals to CA1, to the subiculum and back to the entorhinal cortex. Output also leaves in the fornix to the mammillary bodies and septal area, and the mammillary bodies in turn project to the anterior thalamic nucleus, as part of the Papez circuit.",
+  "clinical": "Bilateral hippocampal removal in patient H.M. caused profound anterograde amnesia with preserved skills and short-term memory. Alzheimer's disease begins in the entorhinal cortex and hippocampus, and CA1 neurons are particularly vulnerable to anoxia. Mesial temporal sclerosis is the most common cause of temporal lobe epilepsy.",
+  "remember": "Hippocampus is Greek for seahorse, which the curved shape of the structure resembles.",
+  "facts": [
+   "The dentate gyrus is one of the few sites of adult neurogenesis.",
+   "CA1 is highly vulnerable to ischemia.",
+   "Place cells were discovered here in rodents."
+  ],
+  "quiz": [
+   {
+    "q": "Which medial temporal structure was removed from patient H.M., leaving him unable to form new declarative memories?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which structure contains the dentate gyrus, CA3 and CA1 in a trisynaptic loop?",
+    "type": "connection"
+   },
+   {
+    "q": "Which seahorse-shaped cortex lies in the floor of the temporal horn and gives rise to the fornix?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3
+  ],
+  "see_also": [
+   "amygdala",
+   "anterior_nucleus_of_thalamus",
+   "lateral_ventricle"
+  ]
+ },
+ {
+  "id": "amygdala",
+  "aliases": [
+   "amygdaloid body",
+   "amygdaloid complex"
+  ],
+  "hint": "almond-shaped cluster at the tip of the temporal horn",
+  "summary": "The amygdala is an almond-shaped group of nuclei in the anterior medial temporal lobe, immediately anterior to the hippocampus and the tip of the temporal horn. It is composed of basolateral, central and corticomedial nuclear groups. The basolateral nuclei receive sensory and cortical input and interact with the hippocampus and prefrontal cortex, and the central nucleus projects to the hypothalamus and brainstem. The amygdala assigns emotional significance to stimuli and is central to fear learning and expression.",
+  "where": "The amygdala lies in the anterior medial temporal lobe, anterior to the hippocampus and the tip of the temporal horn. It is situated deep to the uncus and adjacent to the tail of the caudate nucleus. It is seen best in a medial or inferior view of the deep structures.",
+  "does": "The amygdala assigns emotional significance to stimuli and is central to fear learning and fear expression. The basolateral nuclei receive sensory and cortical input and form associations such as cue-shock pairings, and the central nucleus drives autonomic, hormonal and behavioral fear responses through the hypothalamus and brainstem. It also enhances memory for emotional events and contributes to the reading of emotional faces, particularly fearful ones. Human studies show responses to positive and uncertain stimuli as well, so fear is not its only function.",
+  "connects": "Sensory thalamus and cortex project to the basolateral amygdala, which interacts with the hippocampus and prefrontal cortex. The central nucleus projects to the hypothalamus, periaqueductal gray and brainstem autonomic nuclei, and output travels through the stria terminalis and the ventral amygdalofugal pathway.",
+  "clinical": "Bilateral amygdala damage, as in Urbach-Wiethe disease, impairs fear conditioning and the recognition of fearful faces. Bilateral temporal lobe lesions cause Kluver-Bucy syndrome, with placidity, hyperorality and hypersexuality. Amygdala hyperreactivity is reported in anxiety disorders and posttraumatic stress disorder.",
+  "remember": "Amygdala is Greek for almond; its central nucleus is the principal output for autonomic fear responses.",
+  "facts": [
+   "Urbach-Wiethe disease calcifies the amygdala and blunts fear.",
+   "The central nucleus is the main output for autonomic fear responses.",
+   "Kluver-Bucy syndrome follows bilateral temporal lobe lesions."
+  ],
+  "quiz": [
+   {
+    "q": "Which almond-shaped nuclear group in the anterior temporal lobe is central to fear conditioning?",
+    "type": "function"
+   },
+   {
+    "q": "A patient with Urbach-Wiethe disease cannot recognize fearful faces. Which structure is calcified?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which structure's central nucleus drives autonomic fear responses through the hypothalamus and periaqueductal gray?",
+    "type": "connection"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3
+  ],
+  "see_also": [
+   "hippocampus",
+   "nucleus_accumbens",
+   "thalamus"
+  ]
+ },
+ {
+  "id": "lateral_ventricle",
+  "aliases": [
+   "lateral ventricles",
+   "lv"
+  ],
+  "hint": "c-shaped fluid space inside each hemisphere",
+  "summary": "Each lateral ventricle is a C-shaped, cerebrospinal fluid-filled cavity within a cerebral hemisphere. It is divided into a frontal horn, a body, an atrium, an occipital horn and a temporal horn. The choroid plexus of the lateral ventricles produces most of the cerebrospinal fluid, which drains through the interventricular foramen to the third ventricle. The lateral ventricles are also used as landmarks for the deep structures that form their walls.",
+  "where": "The frontal horn lies anterior to the interventricular foramen (of Monro), the body lies superior to the thalamus, the atrium lies posteriorly, and the temporal horn curves inferiorly into the temporal lobe. The head of the caudate nucleus forms the lateral wall of the frontal horn, and the hippocampus lies in the floor of the temporal horn. It is seen best in a superior or lateral view with the cortex removed.",
+  "does": "The lateral ventricles contain the choroid plexus that produces most of the cerebrospinal fluid, which flows through each interventricular foramen to the third ventricle. The fluid cushions the brain, clears metabolic waste and provides a stable chemical environment. The septum pellucidum separates the two frontal horns, and the corpus callosum forms the roof.",
+  "connects": "Cerebrospinal fluid passes from each lateral ventricle through the foramen of Monro to the third ventricle, then through the cerebral aqueduct to the fourth ventricle and out to the subarachnoid space. The choroid plexus lines the floor of the body and the temporal horn.",
+  "clinical": "Obstruction of cerebrospinal fluid flow causes obstructive hydrocephalus with enlarged lateral ventricles. Normal pressure hydrocephalus presents with the triad of gait disturbance, dementia and urinary incontinence, and ex vacuo enlargement follows caudate or hemispheric atrophy, as in Huntington's disease.",
+  "remember": "The lateral ventricles are the first and second ventricles, the most rostral chambers of the cerebrospinal fluid pathway.",
+  "facts": [
+   "Each has a frontal horn, body, atrium, occipital horn and temporal horn.",
+   "The foramen of Monro connects each lateral ventricle to the third ventricle.",
+   "The choroid plexus here secretes CSF."
+  ],
+  "quiz": [
+   {
+    "q": "Which CSF cavities connect to the third ventricle through the foramen of Monro?",
+    "type": "connection"
+   },
+   {
+    "q": "A patient with gait problems, dementia and urinary incontinence has enlarged cavities of this type with normal pressure. Which structures?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which C-shaped chambers have a caudate head in the wall of their frontal horn and the hippocampus in the floor of their temporal horn?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   3,
+   4
+  ],
+  "see_also": [
+   "caudate_nucleus",
+   "hippocampus",
+   "thalamus"
+  ]
+ },
+ {
+  "id": "striatum",
+  "aliases": [
+   "corpus striatum",
+   "neostriatum",
+   "dorsal striatum"
+  ],
+  "hint": "striped input station that takes cortex into the loops",
+  "summary": "The striatum is the combined gray matter of the caudate nucleus, putamen and nucleus accumbens (ventral striatum). The anterior limb of the internal capsule traverses it, producing the striped appearance from which it is named, and bridges of gray matter link the caudate nucleus and putamen. It receives glutamatergic input from nearly all of the cortex and from the thalamus, and projects to the globus pallidus and substantia nigra pars reticulata. The striatum is the input station of the basal ganglia.",
+  "where": "The striatum lies lateral to the lateral ventricle and the thalamus. The anterior limb of the internal capsule separates the caudate head from the putamen, with cell bridges crossing between them.",
+  "does": "Cortex and thalamus send glutamatergic projections to the medium spiny neurons, which are GABAergic and constitute most striatal cells. Neurons bearing D1 receptors form the direct pathway, which facilitates movement, and neurons bearing D2 receptors form the indirect pathway, which suppresses competing movement. Dopamine from the substantia nigra pars compacta therefore facilitates direct pathway cells and inhibits indirect pathway cells. The dorsal striatum serves motor, cognitive and habit functions and the ventral striatum serves reward.",
+  "connects": "Afferents arrive from nearly all of the cortex, the thalamus and the substantia nigra pars compacta. Efferents project to the GPe, GPi and substantia nigra pars reticulata, which in turn reach the thalamus and, through it, the cortex.",
+  "clinical": "Loss of dopamine from the dorsal striatum causes Parkinson's disease, and loss of medium spiny neurons causes Huntington's disease with chorea. Striatal dysfunction is also associated with Tourette's syndrome and obsessive-compulsive disorder.",
+  "remember": "Striatum means striped, referring to the bands of internal capsule fibers that cross the caudate nucleus and putamen.",
+  "facts": [
+   "Medium spiny neurons are GABAergic and are about 90 percent of striatal neurons in rodents.",
+   "D1 neurons make up the direct pathway and D2 neurons make up the indirect pathway.",
+   "The striatum includes the caudate, putamen and nucleus accumbens."
+  ],
+  "quiz": [
+   {
+    "q": "Which group of structures contains D1 neurons of the direct pathway and D2 neurons of the indirect pathway?",
+    "type": "connection"
+   },
+   {
+    "q": "Which structure loses its dopamine in Parkinson's disease and its medium spiny neurons in Huntington's disease?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which combination of the caudate, putamen and nucleus accumbens is the input station of the basal ganglia?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4
+  ],
+  "see_also": [
+   "caudate_nucleus",
+   "putamen",
+   "nucleus_accumbens",
+   "basal_ganglia"
+  ]
+ },
+ {
+  "id": "basal_ganglia",
+  "aliases": [
+   "basal nuclei",
+   "bg"
+  ],
+  "hint": "deep motor-loop nuclei under the cortex that gate movement",
+  "summary": "The basal ganglia are a set of deep subcortical nuclei situated around the thalamus and internal capsule. On this model the grouping comprises the caudate nucleus, putamen, globus pallidus, nucleus accumbens and substantia nigra, with the subthalamic nucleus forming part of the circuit but not drawn here. They operate through loops from cortex to striatum, pallidum and thalamus and back to cortex. The basal ganglia select and scale actions and contribute to habit learning, reward and procedural memory.",
+  "where": "The basal ganglia lie deep to the cerebral cortex, flanking the thalamus and the internal capsule. They are seen best in a lateral or coronal view with the cortex removed.",
+  "does": "The basal ganglia select and scale actions and also contribute to habit learning, reward and procedural memory. In the direct pathway, cortex excites striatal D1 neurons, which inhibit the GPi and substantia nigra pars reticulata, releasing the thalamus and facilitating movement. In the indirect pathway, cortex excites striatal D2 neurons, which inhibit the GPe, releasing the subthalamic nucleus, which excites the GPi and substantia nigra pars reticulata and suppresses the thalamus. Dopamine from the substantia nigra pars compacta excites D1 cells and inhibits D2 cells, so that both pathways favor movement.",
+  "connects": "The input stations are the striatum and the subthalamic nucleus, and the output stations are the GPi and substantia nigra pars reticulata, which inhibit the ventral anterior and ventral lateral thalamus. The thalamus projects to motor, premotor and prefrontal cortex, closing the loop.",
+  "clinical": "Insufficient dopamine causes Parkinson's disease, with bradykinesia, rigidity and rest tremor, and the indirect pathway is relatively overactive. Huntington's disease affects the indirect pathway first and produces chorea, and a lesion of the subthalamic nucleus causes contralateral hemiballismus.",
+  "remember": "The direct pathway facilitates movement and the indirect pathway suppresses it, with dopamine biasing the balance toward facilitation.",
+  "facts": [
+   "Direct pathway: cortex, striatum (D1), GPi/SNr, thalamus, cortex.",
+   "Indirect pathway: cortex, striatum (D2), GPe, subthalamic nucleus, GPi/SNr, thalamus.",
+   "GPi and SNr output is inhibitory (GABA) to the thalamus."
+  ],
+  "quiz": [
+   {
+    "q": "Which group of nuclei includes the direct and indirect pathways that gate movement through the thalamus?",
+    "type": "connection"
+   },
+   {
+    "q": "Which set of structures shows rest tremor and rigidity when its dopamine input is lost, and hemiballismus when its subthalamic nucleus is hit?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which deep group includes the caudate, putamen, globus pallidus and substantia nigra?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4
+  ],
+  "see_also": [
+   "striatum",
+   "globus_pallidus",
+   "substantia_nigra",
+   "ventral_lateral_nucleus"
+  ]
+ },
+ {
+  "id": "anterior_nucleus_of_thalamus",
+  "aliases": [
+   "anterior nucleus",
+   "anterior nucleus of the thalamus",
+   "anterior thalamic nucleus",
+   "atn"
+  ],
+  "hint": "front tip of the thalamus, in the papez loop",
+  "summary": "The anterior nucleus is the most rostral nucleus of the thalamus, located at the anterior end of the Y-shaped internal medullary lamina. It forms the anterior tubercle of the thalamus. It receives input from the mammillary bodies through the mammillothalamic tract and from the hippocampal formation through the fornix, and it projects to the cingulate gyrus. It is a relay in the limbic Papez circuit and supports episodic memory.",
+  "where": "The anterior nucleus forms the anterior tubercle of the thalamus, posterior to the interventricular foramen (of Monro). It lies at the front end of the internal medullary lamina. It is seen best in a medial or superior view with the cortex removed.",
+  "does": "The anterior nucleus is a relay in the Papez circuit and supports episodic memory and spatial navigation. It receives from the hippocampal formation through the fornix and from the mammillary bodies, and it projects to the cingulate gyrus. Head direction signals are found in parts of the anterior thalamic group.",
+  "connects": "The mammillary bodies send the mammillothalamic tract to this nucleus, and the nucleus projects to the cingulate gyrus through the anterior limb of the internal capsule. Fornix fibers from the subiculum also reach it directly.",
+  "clinical": "Damage to the mammillary bodies and anterior thalamus produces the amnesia of Korsakoff syndrome after thiamine deficiency. Anterior thalamic infarcts cause memory loss, and the nucleus is a deep brain stimulation target for drug-resistant epilepsy.",
+  "remember": "The anterior nucleus is the thalamic station of the Papez circuit, between the mammillary bodies and the cingulate gyrus.",
+  "facts": [
+   "It is part of the Papez circuit.",
+   "It receives the mammillothalamic tract.",
+   "Deep brain stimulation here treats refractory epilepsy."
+  ],
+  "quiz": [
+   {
+    "q": "Which thalamic nucleus receives the mammillothalamic tract and projects to the cingulate gyrus?",
+    "type": "connection"
+   },
+   {
+    "q": "Thiamine deficiency and loss of mammillary and this thalamic nucleus cause which memory deficit? Name the nucleus.",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   3,
+   6
+  ],
+  "see_also": [
+   "hippocampus",
+   "thalamus",
+   "mediodorsal_nucleus"
+  ]
+ },
+ {
+  "id": "mediodorsal_nucleus",
+  "aliases": [
+   "dorsomedial nucleus",
+   "md nucleus",
+   "md",
+   "mediodorsal nucleus of thalamus"
+  ],
+  "hint": "large medial thalamic group tied to frontal planning",
+  "summary": "The mediodorsal nucleus is the large medial nuclear group of the thalamus, situated between the internal medullary lamina and the wall of the third ventricle. It receives input from the amygdala, ventral pallidum, olfactory cortex and basal ganglia output. It projects to the prefrontal cortex, especially the dorsolateral and orbitofrontal areas. It is the principal thalamic relay for the prefrontal cortex.",
+  "where": "The mediodorsal nucleus lies between the internal medullary lamina and the wall of the third ventricle, posterior to the anterior nucleus. It is seen best in a medial view of the thalamus.",
+  "does": "This nucleus is the thalamic relay for the prefrontal cortex. It supports executive functions, working memory, decision-making and emotion-related behavior, and it contributes to memory and learning. In humans, lesions produce deficits resembling prefrontal damage.",
+  "connects": "It receives from the amygdala, ventral pallidum, olfactory cortex and basal ganglia output, and projects to the prefrontal cortex, particularly the dorsolateral and orbitofrontal areas. It forms part of the limbic-prefrontal loop that includes the ventral striatum.",
+  "clinical": "Damage here contributes to the memory loss of Korsakoff syndrome and to apathy and executive deficits after thalamic infarcts. Reduced mediodorsal volume and activity are reported in schizophrenia.",
+  "remember": "Mediodorsal thalamus is the thalamic counterpart of the prefrontal cortex: its projections define the prefrontal cortex.",
+  "facts": [
+   "It projects to the prefrontal cortex.",
+   "Lesions contribute to Korsakoff amnesia.",
+   "It receives limbic input from the amygdala."
+  ],
+  "quiz": [
+   {
+    "q": "Which thalamic nucleus is the main relay to the prefrontal cortex?",
+    "type": "connection"
+   },
+   {
+    "q": "Reduced volume of this thalamic nucleus is reported in schizophrenia and its damage adds to Korsakoff syndrome. Which one?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   3,
+   6
+  ],
+  "see_also": [
+   "thalamus",
+   "anterior_nucleus_of_thalamus",
+   "amygdala"
+  ]
+ },
+ {
+  "id": "ventral_anterior_nucleus",
+  "aliases": [
+   "va nucleus",
+   "va"
+  ],
+  "hint": "front-lower thalamic relay for pallidal output",
+  "summary": "The ventral anterior nucleus is a motor relay nucleus in the anterior part of the lateral thalamus. It receives inhibitory input from the GPi and substantia nigra pars reticulata. It projects to premotor cortex, the supplementary motor area and prefrontal cortex. It conveys basal ganglia output to the cortex and contributes to the initiation and planning of movement.",
+  "where": "The ventral anterior nucleus lies in the anterior part of the lateral thalamus, immediately anterior to the ventral lateral nucleus and inferior to the mediodorsal nucleus. It is seen best in a lateral or coronal view of the thalamus.",
+  "does": "It is a motor relay nucleus that takes basal ganglia output and conveys it to the cortex. It contributes to the initiation and planning of movement through projections to premotor and prefrontal areas, and it also has roles in the control of eye movements and of attention.",
+  "connects": "It receives inhibitory input from the GPi and the substantia nigra pars reticulata, and projects to premotor cortex, the supplementary motor area and prefrontal cortex, closing the basal ganglia loop.",
+  "clinical": "Because it carries basal ganglia output, abnormal firing here contributes to the rigidity and slowness of Parkinson's disease. Thalamotomy and deep brain stimulation of this region and the ventral lateral nucleus have been used to treat tremor and dystonia.",
+  "remember": "The ventral anterior nucleus receives basal ganglia output and the ventral lateral nucleus receives cerebellar output; both project to motor cortex.",
+  "facts": [
+   "Its main input is the GPi and SNr.",
+   "It projects to premotor cortex.",
+   "It lies just in front of the ventral lateral nucleus."
+  ],
+  "quiz": [
+   {
+    "q": "Which thalamic nucleus receives GPi and substantia nigra pars reticulata output and projects to premotor cortex?",
+    "type": "connection"
+   },
+   {
+    "q": "Which thalamic relay in the motor loop is overinhibited by the pallidum in Parkinson's disease and sits in front of the ventral lateral nucleus?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   6
+  ],
+  "see_also": [
+   "ventral_lateral_nucleus",
+   "globus_pallidus",
+   "basal_ganglia"
+  ]
+ },
+ {
+  "id": "ventral_lateral_nucleus",
+  "aliases": [
+   "vl nucleus",
+   "vl"
+  ],
+  "hint": "cerebellar relay behind the thalamic front-lower group",
+  "summary": "The ventral lateral nucleus is the principal thalamic relay for motor control, located in the lateral thalamus. It receives output from the deep cerebellar nuclei, chiefly the dentate nucleus, through the superior cerebellar peduncle, and also receives input from the GPi. It projects to the primary motor cortex (area 4), the premotor cortex and the supplementary motor area. It contributes to the coordination and timing of voluntary movement.",
+  "where": "The ventral lateral nucleus lies in the lateral thalamus, posterior to the ventral anterior nucleus and anterior to the ventral posterior group. It is seen best in a lateral or coronal view of the thalamus.",
+  "does": "It is the main thalamic relay for motor control. It receives cerebellar and basal ganglia output and conveys it to the primary motor cortex, premotor cortex and supplementary motor area. It contributes to the coordination and timing of voluntary movement and to error correction.",
+  "connects": "The cerebellum sends output from the dentate (and interposed) nuclei through the superior cerebellar peduncle, which decussates in the midbrain, to this nucleus. The GPi also provides input, and the nucleus projects to the primary motor cortex (area 4) and the premotor areas.",
+  "clinical": "Deep brain stimulation or lesion of the ventral lateral region (the Vim) reduces essential tremor and parkinsonian tremor. Damage to the cerebellothalamic pathway causes ataxia and intention tremor on the side of the lesioned cerebellum.",
+  "remember": "The ventral lateral nucleus relays cerebellar output to motor cortex, whereas the ventral anterior nucleus relays basal ganglia output.",
+  "facts": [
+   "Cerebellar input arrives through the superior cerebellar peduncle after decussating.",
+   "Its output goes to primary motor cortex.",
+   "Stimulation of its Vim part treats essential tremor."
+  ],
+  "quiz": [
+   {
+    "q": "Which thalamic nucleus relays cerebellar output to primary motor and premotor cortex?",
+    "type": "connection"
+   },
+   {
+    "q": "A deep brain stimulator is placed in the thalamic Vim region to treat essential tremor. Which nucleus contains it?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   6
+  ],
+  "see_also": [
+   "ventral_anterior_nucleus",
+   "cerebellum",
+   "thalamus"
+  ]
+ },
+ {
+  "id": "ventral_posterolateral_nucleus",
+  "aliases": [
+   "vpl",
+   "vpl nucleus",
+   "ventral posterior lateral nucleus"
+  ],
+  "hint": "relay for body touch and pain, behind the motor relays",
+  "summary": "The ventral posterolateral nucleus is the lateral component of the ventral posterior group of the thalamus. It receives the medial lemniscus, carrying fine touch, vibration and proprioception, and the spinothalamic tract, carrying pain and temperature. It projects through the posterior limb of the internal capsule to the primary somatosensory cortex in the postcentral gyrus. It is the thalamic relay for somatic sensation from the body and limbs.",
+  "where": "The ventral posterolateral nucleus lies in the posterior part of the lateral thalamus, posterior to the ventral lateral nucleus. Its medial neighbor, the ventral posteromedial nucleus (VPM), serves the face and is not drawn on this model. It is seen best in a lateral or coronal view.",
+  "does": "This nucleus relays somatic sensation from the body and limbs to the primary somatosensory cortex. It carries fine touch, vibration and proprioception from the dorsal column pathway and pain and temperature from the spinothalamic tract. Its neurons preserve a body map, with the leg represented laterally and the arm medially.",
+  "connects": "Afferents arrive from the medial lemniscus (from the dorsal column nuclei) and the spinothalamic tract. Efferents travel through the posterior limb of the internal capsule to S1 (areas 3, 1 and 2) in the postcentral gyrus.",
+  "clinical": "A lacunar or thalamic stroke here causes contralateral loss of all body sensation, a pure sensory stroke. Dejerine-Roussy syndrome may follow, with severe burning contralateral pain.",
+  "remember": "The ventral posterolateral nucleus serves the body and limbs and the ventral posteromedial nucleus serves the face; both project to S1.",
+  "facts": [
+   "VPM takes the face through the trigeminal lemniscus.",
+   "It projects to S1 via the posterior limb of the internal capsule.",
+   "It receives both the medial lemniscus and the spinothalamic tract."
+  ],
+  "quiz": [
+   {
+    "q": "Which thalamic nucleus receives the medial lemniscus and the spinothalamic tract and projects to S1?",
+    "type": "connection"
+   },
+   {
+    "q": "A lacunar stroke in this thalamic nucleus leaves the contralateral body numb to touch and pain. Which nucleus?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   3,
+   6
+  ],
+  "see_also": [
+   "thalamus",
+   "ventral_lateral_nucleus",
+   "pulvinar"
+  ]
+ },
+ {
+  "id": "pulvinar",
+  "aliases": [
+   "pulvinar nucleus",
+   "pulvinar thalami"
+  ],
+  "hint": "large posterior thalamic mass over the geniculate bodies",
+  "summary": "The pulvinar is the large, rounded posterior nuclear group of the thalamus and the largest thalamic nucleus in humans. It receives input from the superior colliculus, visual cortex and association areas, and projects to parietal, temporal and occipital association cortex. Many of its connections are reciprocal with these cortical areas. It is a higher-order thalamic nucleus that links association cortices and contributes to visual attention.",
+  "where": "The pulvinar forms the posterior end of the thalamus, overhanging the superior colliculus and the geniculate bodies. It is seen best in a posterior or medial view.",
+  "does": "The pulvinar is a higher-order thalamic nucleus that links association cortices and supports visual attention and the filtering of distractors. It also contributes to saccades and to a subcortical route for visual threat. It coordinates communication between cortical areas in addition to relaying information from the superior colliculus.",
+  "connects": "It receives from the superior colliculus, visual cortex and association areas, and projects to parietal, temporal and occipital association cortex. Many of its connections are reciprocal with the same cortical areas.",
+  "clinical": "Pulvinar lesions can cause visual neglect and deficits in attention and visual spatial processing. Altered pulvinar findings are also reported in some chronic pain conditions and in schizophrenia.",
+  "remember": "Pulvinar is Latin for cushion, describing the bulging posterior end of the thalamus.",
+  "facts": [
+   "It is the largest thalamic nucleus in humans.",
+   "It projects to parietal, temporal and occipital association cortex.",
+   "It links the superior colliculus to cortex."
+  ],
+  "quiz": [
+   {
+    "q": "Which large posterior thalamic nucleus supports visual attention and projects to parietal, temporal and occipital association cortex?",
+    "type": "function"
+   },
+   {
+    "q": "Which thalamic nucleus, when lesioned, can cause visual neglect and attention deficits?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   4,
+   6
+  ],
+  "see_also": [
+   "lateral_geniculate_nucleus",
+   "thalamus",
+   "medial_geniculate_nucleus"
+  ]
+ },
+ {
+  "id": "lateral_geniculate_nucleus",
+  "aliases": [
+   "lgn",
+   "lateral geniculate body",
+   "lateral geniculate"
+  ],
+  "hint": "layered visual relay on the underside of the posterior thalamus",
+  "summary": "The lateral geniculate nucleus of the thalamus is a small, layered sensory nucleus on the inferior aspect of the posterior thalamus, adjacent to the medial geniculate nucleus. It is composed of six layers, with magnocellular layers 1 and 2, parvocellular layers 3 to 6 and koniocellular cells between them. It receives retinal ganglion cell axons through the optic tract and projects to the primary visual cortex (V1) through the optic radiations. It is the thalamic relay of the visual pathway.",
+  "where": "The lateral geniculate nucleus is a small, bent structure on the underside of the posterior thalamus, lateral to the medial geniculate nucleus and inferior to the pulvinar. It is seen best in an inferior or lateral view of the thalamus.",
+  "does": "The LGN is the thalamic relay for vision. Layers 1 and 2 are magnocellular and carry motion and coarse form, and layers 3 to 6 are parvocellular and carry color and fine detail, with koniocellular cells between them. Each LGN receives information from the contralateral visual hemifield, and its layers receive input from alternating eyes. Corticothalamic feedback to the LGN is larger than the retinal input.",
+  "connects": "Retinal ganglion cell axons reach the LGN through the optic tract. The LGN projects the optic radiations through the retrolenticular part of the internal capsule, with Meyer's loop carrying the upper visual field, to V1 in the banks of the calcarine sulcus.",
+  "clinical": "A lesion of the LGN or optic tract causes a contralateral homonymous hemianopia. A lesion of Meyer's loop in the temporal lobe causes a contralateral upper quadrantanopia, the pie in the sky defect.",
+  "remember": "Lateral geniculate: light (vision); medial geniculate: music (hearing).",
+  "facts": [
+   "It has six layers.",
+   "Layers 1 and 2 are magnocellular and layers 3 to 6 are parvocellular.",
+   "It sends the optic radiations to V1."
+  ],
+  "quiz": [
+   {
+    "q": "Which thalamic nucleus has six layers and sends the optic radiations to V1?",
+    "type": "connection"
+   },
+   {
+    "q": "A lesion of the optic tract or this thalamic relay causes a contralateral homonymous hemianopia. Which relay?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   6
+  ],
+  "see_also": [
+   "medial_geniculate_nucleus",
+   "pulvinar",
+   "thalamus"
+  ]
+ },
+ {
+  "id": "medial_geniculate_nucleus",
+  "aliases": [
+   "mgn",
+   "medial geniculate body",
+   "medial geniculate"
+  ],
+  "hint": "auditory relay beside the visual one, under the pulvinar",
+  "summary": "The medial geniculate nucleus is a small, oval sensory nucleus on the inferior aspect of the posterior thalamus, medial to the lateral geniculate nucleus. It receives auditory input from the inferior colliculus through the brachium of the inferior colliculus. It projects through the auditory radiation to the primary auditory cortex in the transverse temporal (Heschl's) gyrus. It is the thalamic relay of the auditory pathway.",
+  "where": "The medial geniculate nucleus is a small oval prominence on the underside of the posterior thalamus, medial to the lateral geniculate nucleus and inferior to the pulvinar. It is seen best in an inferior or posterior view of the thalamus.",
+  "does": "The MGN is the thalamic relay for hearing. Its ventral part preserves the tonotopic map, with low frequencies represented laterally and high frequencies medially, and passes it to the primary auditory cortex. Its dorsal and medial parts handle more complex and multimodal information, and a medial division also conveys sound information to the amygdala.",
+  "connects": "The inferior colliculus sends the brachium of the inferior colliculus to the MGN, which receives input from both ears. The MGN projects through the sublenticular part of the internal capsule as the auditory radiation to A1 in Heschl's gyrus.",
+  "clinical": "Because of the bilateral input, a unilateral lesion of the auditory pathway above the lower pons causes only mild hearing loss. Bilateral damage to the MGN or auditory cortex can cause cortical deafness or auditory agnosia.",
+  "remember": "Medial geniculate: music (hearing); lateral geniculate: light (vision).",
+  "facts": [
+   "It receives from the inferior colliculus.",
+   "It projects to A1 in Heschl's gyrus.",
+   "Its ventral part is tonotopic."
+  ],
+  "quiz": [
+   {
+    "q": "Which thalamic nucleus receives the brachium of the inferior colliculus and projects to the auditory cortex?",
+    "type": "connection"
+   },
+   {
+    "q": "Bilateral damage to this thalamic relay or its cortical target can cause cortical deafness. Which relay?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   6
+  ],
+  "see_also": [
+   "lateral_geniculate_nucleus",
+   "thalamus",
+   "pulvinar"
+  ]
+ },
+ {
+  "id": "substantia_nigra",
+  "aliases": [
+   "sn",
+   "snc",
+   "snr",
+   "substantia nigra pars compacta",
+   "substantia nigra pars reticulata",
+   "nigra"
+  ],
+  "hint": "dark band in the midbrain floor, lost in parkinson's disease",
+  "summary": "The substantia nigra is a pigmented band of cells in the midbrain, situated between the tegmentum and the cerebral peduncle (crus cerebri) on each side. It consists of a dorsal pars compacta (SNc), containing dopaminergic neurons, and a ventral pars reticulata (SNr), containing GABAergic neurons. The SNc projects to the striatum through the nigrostriatal pathway, and the SNr projects to the thalamus and superior colliculus. The SNc modulates the direct and indirect basal ganglia pathways, and the SNr serves as a basal ganglia output nucleus.",
+  "where": "The substantia nigra lies in the midbrain between the tegmentum and the cerebral peduncle (crus cerebri) on each side. It is seen best in an axial or lateral view of the midbrain.",
+  "does": "The SNc releases dopamine in the striatum through the nigrostriatal pathway and modulates the direct and indirect pathways: it excites D1 neurons and inhibits D2 neurons, thereby promoting movement. Dopamine from the SNc also signals reward prediction error and supports learning. The SNr functions like the GPi as an output nucleus of the basal ganglia, tonically inhibiting the thalamus and the superior colliculus, the latter contributing to the control of saccades.",
+  "connects": "The SNc projects to the striatum, mostly the putamen, and receives input from the striatum. The SNr receives from the striatum and the subthalamic nucleus and projects to the ventral anterior and ventral lateral thalamus, the superior colliculus and the brainstem.",
+  "clinical": "Degeneration of SNc dopamine neurons causes Parkinson's disease, with bradykinesia, rigidity, rest tremor and postural instability, and Lewy bodies containing alpha-synuclein form in surviving cells. Symptoms appear only after a large proportion of these neurons has been lost. MPTP poisoning causes parkinsonism by destroying them.",
+  "remember": "Nigra means black; neuromelanin pigment darkens the pars compacta.",
+  "facts": [
+   "The pigment is neuromelanin.",
+   "Parkinson's disease follows SNc degeneration.",
+   "SNr acts as a basal ganglia output nucleus."
+  ],
+  "quiz": [
+   {
+    "q": "Which midbrain structure contains the dopamine neurons that die in Parkinson's disease?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which dark midbrain structure sends the nigrostriatal dopamine pathway to the striatum?",
+    "type": "connection"
+   },
+   {
+    "q": "Which midbrain structure lies between the tegmentum and the cerebral peduncle and has compacta and reticulata parts?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   6
+  ],
+  "see_also": [
+   "ventral_tegmental_area",
+   "striatum",
+   "globus_pallidus",
+   "red_nucleus"
+  ]
+ },
+ {
+  "id": "ventral_tegmental_area",
+  "aliases": [
+   "vta",
+   "ventral tegmentum"
+  ],
+  "hint": "dopamine cluster medial to the nigra, sending reward signals forward",
+  "summary": "The ventral tegmental area is a group of neurons in the ventromedial midbrain tegmentum, medial to the substantia nigra and adjacent to the interpeduncular fossa. It is the principal source of dopamine for the mesolimbic and mesocortical pathways, and also contains GABAergic and glutamatergic neurons. It projects to the nucleus accumbens, amygdala, hippocampus and prefrontal cortex. Its dopamine neurons signal reward prediction error and support motivation and reinforcement learning.",
+  "where": "The ventral tegmental area lies in the midbrain tegmentum medial to the substantia nigra, adjacent to the interpeduncular fossa and ventral to the red nucleus. It is seen best in a medial or axial view of the midbrain.",
+  "does": "The VTA is the main source of dopamine for the mesolimbic and mesocortical pathways. Dopamine neurons here fire for unexpected rewards and for cues that predict them, and they signal reward prediction error. The mesolimbic pathway to the nucleus accumbens drives motivation and reinforcement, and the mesocortical pathway to prefrontal cortex supports working memory and executive control.",
+  "connects": "The VTA projects to the nucleus accumbens, amygdala, hippocampus and prefrontal cortex, and receives input from the lateral habenula, the pedunculopontine nucleus and prefrontal cortex.",
+  "clinical": "Drugs of abuse raise dopamine in the mesolimbic pathway, which underlies addiction. Excess mesolimbic dopamine is linked to the positive symptoms of schizophrenia, which accounts for the efficacy of D2 blockers, and reduced mesocortical dopamine is linked to its negative and cognitive symptoms.",
+  "remember": "Mesolimbic dopamine projects to the nucleus accumbens and mesocortical dopamine projects to the prefrontal cortex.",
+  "facts": [
+   "Mesolimbic dopamine goes to the nucleus accumbens.",
+   "Mesocortical dopamine goes to the prefrontal cortex.",
+   "It sits medial to the substantia nigra."
+  ],
+  "quiz": [
+   {
+    "q": "Which midbrain group provides dopamine for the mesolimbic and mesocortical pathways?",
+    "type": "connection"
+   },
+   {
+    "q": "Which dopamine structure drives addiction and reward prediction error, and lies medial to the substantia nigra?",
+    "type": "function"
+   },
+   {
+    "q": "Excess activity in the mesolimbic output of which midbrain area is linked to the positive symptoms of schizophrenia?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   6
+  ],
+  "see_also": [
+   "substantia_nigra",
+   "nucleus_accumbens",
+   "amygdala"
+  ]
+ },
+ {
+  "id": "red_nucleus",
+  "aliases": [
+   "nucleus ruber",
+   "rn"
+  ],
+  "hint": "iron-rich midbrain relay that receives cerebellar output",
+  "summary": "The red nucleus is a round nucleus in the midbrain tegmentum at the level of the superior colliculus. It consists of a magnocellular part, which gives rise to the rubrospinal tract, and a parvocellular part, which projects to the inferior olive. It receives input from the deep cerebellar nuclei through the superior cerebellar peduncle and from motor cortex. It is a motor relay nucleus whose rubrospinal output is small in humans.",
+  "where": "The red nucleus lies in the midbrain tegmentum at the level of the superior colliculus, dorsomedial to the substantia nigra. Oculomotor nerve fibers pass through or beside it. It is seen best in an axial section of the midbrain.",
+  "does": "The red nucleus is a motor relay nucleus. In humans its magnocellular part is small, and its parvocellular part links the cerebellum to the inferior olive. In other mammals it gives rise to the rubrospinal tract, which helps control flexor muscle tone and limb movement, whereas in humans this tract is small and the corticospinal tract predominates.",
+  "connects": "It receives from the dentate and interposed deep cerebellar nuclei through the superior cerebellar peduncle, and from motor cortex. The parvocellular part projects to the inferior olive through the central tegmental tract, and the magnocellular part gives rise to the rubrospinal tract, which decussates in the ventral tegmental decussation.",
+  "clinical": "Lesions of the midbrain tegmentum involving the red nucleus and the superior cerebellar peduncle cause contralateral coarse tremor and ataxia (Holmes tremor). Claude syndrome adds an ipsilateral oculomotor palsy, and Benedikt syndrome combines an ipsilateral oculomotor palsy with contralateral tremor or involuntary movements, with hemiparesis when the cerebral peduncle is also involved.",
+  "remember": "The red color derives from iron, and the nucleus is the red relay between the cerebellum and the inferior olive.",
+  "facts": [
+   "Its color comes from iron.",
+   "It lies at the level of the superior colliculus.",
+   "The rubrospinal tract crosses in the ventral tegmental decussation."
+  ],
+  "quiz": [
+   {
+    "q": "Which midbrain nucleus receives the superior cerebellar peduncle and gives rise to the rubrospinal tract?",
+    "type": "connection"
+   },
+   {
+    "q": "A midbrain tegmental lesion with an ipsilateral oculomotor palsy and contralateral ataxia is called Claude syndrome. Which nucleus is involved?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   3,
+   4,
+   6
+  ],
+  "see_also": [
+   "substantia_nigra",
+   "midbrain",
+   "cerebellum"
+  ]
+ },
+ {
+  "id": "locus_coeruleus",
+  "aliases": [
+   "locus ceruleus",
+   "lc",
+   "blue spot"
+  ],
+  "hint": "blue-tinged pontine cluster in the floor of the fourth ventricle",
+  "summary": "The locus coeruleus is a small group of pigmented noradrenergic neurons in the upper dorsolateral pons, just beneath the floor of the fourth ventricle at the level of the superior cerebellar peduncle. It is the principal source of norepinephrine in the brain. Its axons ascend in the dorsal noradrenergic bundle to the cortex, hippocampus, thalamus and cerebellum and descend to the spinal cord. It regulates arousal, vigilance and attention.",
+  "where": "The locus coeruleus lies in the upper dorsolateral pons, just beneath the surface of the floor of the fourth ventricle, at the level of the superior cerebellar peduncle. It is seen best in an axial or medial view of the pons.",
+  "does": "The locus coeruleus is the main source of norepinephrine in the brain. Its neurons send widespread axons to the cortex, hippocampus, thalamus, cerebellum and spinal cord. It regulates arousal, vigilance and attention, and its firing rises with novelty, stress and surprise. Firing is lowest in sleep, so the nucleus acts as a switch for wakefulness, and it also modulates pain and memory.",
+  "connects": "It receives from the nucleus paragigantocellularis, prefrontal cortex and hypothalamus, and sends output through a diffuse ascending dorsal noradrenergic bundle and through descending fibers to the spinal cord.",
+  "clinical": "Loss of locus coeruleus neurons is among the earliest changes in Alzheimer's and Parkinson's disease, and loss of its pigment is evident on pathology. Altered noradrenergic tone is linked to anxiety, PTSD, depression and ADHD, which is the rationale for drugs that raise norepinephrine.",
+  "remember": "Coeruleus means sky blue, and the pigmented nucleus is the main noradrenergic source of the brain.",
+  "facts": [
+   "It is the brain's main noradrenergic nucleus.",
+   "It lies in the pons beneath the floor of the fourth ventricle.",
+   "Firing is highest during stress and lowest in REM sleep."
+  ],
+  "quiz": [
+   {
+    "q": "Which pontine nucleus provides most of the brain's norepinephrine and regulates arousal?",
+    "type": "function"
+   },
+   {
+    "q": "Which tiny pigmented nucleus loses neurons early in Alzheimer's and Parkinson's disease?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which brainstem nucleus sits under the floor of the fourth ventricle at the level of the superior cerebellar peduncle and has a blue tint?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   3,
+   4,
+   6
+  ],
+  "see_also": [
+   "raphe_nuclei",
+   "pons",
+   "ventral_tegmental_area"
+  ]
+ },
+ {
+  "id": "raphe_nuclei",
+  "aliases": [
+   "raphe",
+   "dorsal raphe",
+   "median raphe",
+   "raphe nucleus"
+  ],
+  "hint": "midline column of serotonin cells running up the brainstem",
+  "summary": "The raphe nuclei are a column of nuclei along the midline of the brainstem, extending from the midbrain through the pons to the medulla. They are the main source of serotonin in the brain. The rostral group, including the dorsal and median raphe nuclei, projects widely to the forebrain, and the caudal group projects to the brainstem and spinal cord. They regulate mood, sleep and wake cycles, and pain.",
+  "where": "The raphe nuclei lie along the midline of the brainstem from the midbrain to the medulla. The dorsal and median raphe nuclei in the midbrain and upper pons give rise to most ascending serotonergic fibers, and the caudal group in the medulla sends fibers to the spinal cord. They are seen best in a medial view of the brainstem.",
+  "does": "The raphe nuclei are the main source of serotonin in the brain. The ascending fibers influence mood, anxiety, impulse control, appetite and sleep and wake cycles and modulate nearly all of the forebrain. Descending fibers from the nucleus raphe magnus modulate pain at the dorsal horn, as part of the periaqueductal gray pathway to the spinal cord. Raphe firing is high in waking and nearly absent in REM sleep.",
+  "connects": "The rostral raphe nuclei project widely to the cortex, hippocampus, amygdala, thalamus, striatum and hypothalamus, and the caudal raphe nuclei project to the brainstem and spinal cord. They receive input from the prefrontal cortex, lateral habenula and hypothalamus.",
+  "clinical": "Reduced serotonin signaling is linked to depression and anxiety, and selective serotonin reuptake inhibitors raise synaptic serotonin. Excess serotonin from drug combinations causes serotonin syndrome, with agitation, clonus, hyperthermia and autonomic instability.",
+  "remember": "Raphe is Greek for seam, and these nuclei form the serotonergic seam of the brainstem midline.",
+  "facts": [
+   "They are the main serotonin source.",
+   "The nucleus raphe magnus modulates pain.",
+   "SSRIs act on their serotonin signaling."
+  ],
+  "quiz": [
+   {
+    "q": "Which midline brainstem nuclei provide most of the brain's serotonin?",
+    "type": "function"
+   },
+   {
+    "q": "A patient on two serotonergic drugs develops agitation, clonus and fever. Which nuclei provide the transmitter involved?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which column of nuclei along the brainstem midline sends descending fibers that modulate pain at the dorsal horn?",
+    "type": "connection"
+   }
+  ],
+  "refs": [
+   3,
+   4,
+   6
+  ],
+  "see_also": [
+   "locus_coeruleus",
+   "ventral_tegmental_area",
+   "midbrain"
+  ]
+ },
+ {
+  "id": "midbrain",
+  "aliases": [
+   "mesencephalon"
+  ],
+  "hint": "short top segment of the brainstem with the colliculi and peduncles",
+  "summary": "The midbrain is the most rostral segment of the brainstem, bounded above by the diencephalon and below by the pontomesencephalic sulcus. Its dorsal tectum bears the superior and inferior colliculi, with the cerebral aqueduct passing through it, and its ventral surface bears the cerebral peduncles and the interpeduncular fossa. It contains the oculomotor and trochlear nuclei, the substantia nigra, the ventral tegmental area and the red nucleus. It controls eye movements and pupillary responses, relays visual and auditory reflexes, and conveys descending cortical fibers.",
+  "where": "The midbrain is bounded above by the diencephalon, roughly at the mammillary bodies and posterior commissure, and below by the pontomesencephalic sulcus, where it meets the pons. The model cuts the brainstem by height, so the boundaries shown are approximate. The cerebral peduncles and interpeduncular fossa lie anteriorly, and the four colliculi of the tectum lie posteriorly, with the cerebral aqueduct within.",
+  "does": "The midbrain controls eye movements and pupillary and lens responses, relays visual and auditory reflexes through the superior and inferior colliculi, and houses dopaminergic and motor nuclei. The superior colliculus directs saccades and orienting, the inferior colliculus relays hearing, and the substantia nigra and VTA supply dopamine. Descending cortical fibers run through the cerebral peduncles.",
+  "connects": "The oculomotor nucleus (CN III) lies at the level of the superior colliculus and the trochlear nucleus (CN IV) at the level of the inferior colliculus. Principal tracts are the corticospinal and corticobulbar fibers in the crus cerebri, the medial lemniscus, the spinothalamic tract and the superior cerebellar peduncle, which decussates at the level of the inferior colliculus.",
+  "clinical": "Weber syndrome, a midbrain infarct, causes an ipsilateral oculomotor palsy with contralateral hemiparesis. Parinaud syndrome, from a pineal tumor, causes upgaze palsy, and a trochlear palsy causes vertical diplopia that is worst on looking down and in.",
+  "remember": "The midbrain holds CN III and IV, with the colliculi dorsally and the cerebral peduncles ventrally.",
+  "facts": [
+   "It holds CN III and CN IV.",
+   "The cerebral aqueduct runs through it.",
+   "Its roof is the tectum with the superior and inferior colliculi."
+  ],
+  "quiz": [
+   {
+    "q": "Which brainstem segment holds the oculomotor and trochlear nuclei and the colliculi?",
+    "type": "location"
+   },
+   {
+    "q": "A stroke here causes an ipsilateral CN III palsy with contralateral hemiparesis, called Weber syndrome. Which segment?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which brainstem segment is bounded below by the pontomesencephalic sulcus and contains the cerebral aqueduct and the cerebral peduncles?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   3,
+   4
+  ],
+  "see_also": [
+   "pons",
+   "substantia_nigra",
+   "red_nucleus"
+  ]
+ },
+ {
+  "id": "pons",
+  "aliases": [
+   "pons varolii",
+   "pontine"
+  ],
+  "hint": "bulging middle segment of the brainstem below the midbrain",
+  "summary": "The pons is the bulging middle segment of the brainstem, bounded above by the pontomesencephalic sulcus and below by the pontomedullary junction. It consists of a ventral basis pontis, containing the pontine nuclei and corticospinal fibers, and a dorsal tegmentum that forms the floor of the fourth ventricle. It contains the nuclei of cranial nerves V to VIII and is connected to the cerebellum by the middle cerebellar peduncle. It relays cortical information to the cerebellum and participates in eye movement, facial function, respiration and sleep.",
+  "where": "The pons lies between the midbrain and the medulla; the model cuts by height, so these borders are approximate. Its base lies anteriorly, and the tegmentum posteriorly forms the floor of the fourth ventricle. The cerebellum lies posterior to it, joined by the middle cerebellar peduncle.",
+  "does": "The pons relays information from the cortex to the cerebellum through the pontine nuclei and the middle cerebellar peduncle. It also controls horizontal eye movements, chewing, facial movement and sensation, balance and hearing, and it contributes to respiratory rhythm through the pontine respiratory groups and to sleep, including REM generation.",
+  "connects": "Cranial nerve nuclei here are CN V (trigeminal motor and main sensory), VI (abducens), VII (facial) and VIII (vestibular and cochlear, entering at the pontomedullary junction). Tracts include the corticospinal fibers in the basis pontis, the medial lemniscus, the spinothalamic tract, the lateral lemniscus and the medial longitudinal fasciculus.",
+  "clinical": "A basal pontine infarct can cause locked-in syndrome, with quadriplegia but preserved vertical eye movement and blinking. A pontine lesion can cause horizontal gaze palsy and facial weakness (Millard-Gubler and Foville syndromes), and central pontine myelinolysis follows rapid correction of hyponatremia.",
+  "remember": "Pons is Latin for bridge; it carries cortical input to the cerebellum and contains the nuclei of CN V to VIII.",
+  "facts": [
+   "It holds CN V, VI, VII and the VIII entry.",
+   "The middle cerebellar peduncle is pontine.",
+   "Locked-in syndrome follows a basal pontine lesion."
+  ],
+  "quiz": [
+   {
+    "q": "Which brainstem segment is bridge-shaped, relays cortex to the cerebellum and holds the abducens and facial nuclei?",
+    "type": "location"
+   },
+   {
+    "q": "Quadriplegia with preserved vertical eye movements and blinking points to a lesion in the base of which segment?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which brainstem segment sends the middle cerebellar peduncle to the cerebellum and shares a border with the medulla at the pontomedullary junction?",
+    "type": "connection"
+   }
+  ],
+  "refs": [
+   1,
+   3,
+   4
+  ],
+  "see_also": [
+   "midbrain",
+   "medulla_oblongata",
+   "cerebellum",
+   "locus_coeruleus"
+  ]
+ },
+ {
+  "id": "medulla_oblongata",
+  "aliases": [
+   "medulla",
+   "myelencephalon"
+  ],
+  "hint": "lowest brainstem segment, continuous with the spinal cord",
+  "summary": "The medulla oblongata is the most caudal segment of the brainstem, bounded above by the pontomedullary junction and continuous below with the spinal cord at the foramen magnum. Its anterior surface bears the pyramids and olives, and its posterior part forms the lower floor of the fourth ventricle. It contains the nuclei of cranial nerves IX to XII, the nucleus solitarius and the dorsal motor nucleus of the vagus. It controls respiration, cardiovascular function, swallowing and related reflexes, and conveys all ascending and descending tracts between the spinal cord and brain.",
+  "where": "The medulla lies between the pontomedullary junction and the foramen magnum, near the decussation of the pyramids. The model cuts by height, so these borders are approximate. The pyramids and olives lie anteriorly, and the lower floor of the fourth ventricle lies posteriorly.",
+  "does": "The medulla controls vital autonomic functions: respiration, heart rate and blood pressure, swallowing, vomiting, coughing and sneezing. It carries ascending and descending tracts between the spinal cord and brain, and the pyramids hold the corticospinal tract, which decussates at the base of the medulla. The inferior olive sends climbing fibers to the cerebellum, and the dorsal column nuclei relay touch.",
+  "connects": "Cranial nerve nuclei here are CN IX, X, XI (cranial roots, from the nucleus ambiguus) and XII, together with the nucleus solitarius for taste and visceral input, the dorsal motor nucleus of the vagus and the spinal trigeminal nucleus. Tracts include the pyramids, medial lemniscus, spinothalamic tract and the inferior cerebellar peduncle.",
+  "clinical": "Lateral medullary (Wallenberg) syndrome, from a PICA or vertebral artery stroke, causes ipsilateral facial pain, Horner's syndrome, dysphagia and ataxia, with contralateral loss of pain and temperature in the body. Medial medullary syndrome causes contralateral hemiparesis and ipsilateral tongue weakness.",
+  "remember": "The medulla holds the vital reflex centers and the nuclei of CN IX to XII, and a lateral infarct produces the crossed sensory pattern of Wallenberg syndrome.",
+  "facts": [
+   "It holds CN IX, X, XI and XII nuclei.",
+   "The pyramids carry the corticospinal tract.",
+   "Wallenberg syndrome is a lateral medullary stroke."
+  ],
+  "quiz": [
+   {
+    "q": "Which brainstem segment houses the cardiorespiratory centers and the nuclei of CN IX to XII and continues into the spinal cord?",
+    "type": "location"
+   },
+   {
+    "q": "Ipsilateral facial pain and Horner's syndrome with contralateral loss of body pain and temperature is Wallenberg syndrome. Which segment?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which brainstem segment contains the pyramids, the olives and the decussation of the pyramids?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   3,
+   4
+  ],
+  "see_also": [
+   "pons",
+   "midbrain",
+   "cerebellum"
+  ]
+ },
+ {
+  "id": "cerebellum",
+  "aliases": [
+   "little brain",
+   "cerebellar"
+  ],
+  "hint": "folded structure behind the brainstem under the occipital lobes",
+  "summary": "The cerebellum, or little brain, is located in the posterior fossa behind the pons and medulla, inferior to the occipital lobes and the tentorium cerebelli. It consists of two hemispheres joined by the midline vermis, a highly folded cortex with molecular, Purkinje cell and granular layers, and a white matter core containing the deep cerebellar nuclei. It is attached to the brainstem by the superior, middle and inferior cerebellar peduncles. The cerebellum coordinates movement, timing, balance and motor learning, and contributes to cognition.",
+  "where": "The cerebellum lies in the posterior fossa behind the pons and medulla and forms the roof of the fourth ventricle. Fissures divide it into anterior, posterior and flocculonodular lobes.",
+  "does": "The cerebellum coordinates movement, timing, balance and motor learning. It compares the intended movement from the cortex with sensory feedback and corrects errors. The vestibulocerebellum (flocculonodular lobe) controls balance and eye movements, the spinocerebellum (vermis and intermediate zone) controls posture and the ongoing movement of the body and limbs, and the cerebrocerebellum (lateral hemispheres) plans and times skilled movement. It also contributes to cognition and language through connections with prefrontal and parietal cortex.",
+  "connects": "Mossy fibers from the pontine nuclei, spinal cord and vestibular system and climbing fibers from the inferior olive reach the Purkinje cells of the cortex. Purkinje cells inhibit the deep cerebellar nuclei (fastigial, interposed and dentate), which provide the sole output, projecting through the superior peduncle to the thalamus, red nucleus and brainstem.",
+  "clinical": "Cerebellar lesions cause ipsilateral signs: ataxia, dysmetria, intention tremor, dysdiadochokinesia and nystagmus. Vermis lesions cause truncal ataxia and a wide-based gait, hemisphere lesions cause ipsilateral limb ataxia, and alcohol damage typically affects the anterior vermis.",
+  "remember": "Cerebellar signs appear on the same side as the lesion, and the deep nuclei provide the output.",
+  "facts": [
+   "Purkinje cells are the only output of the cortex and they are inhibitory.",
+   "The deep nuclei are the fastigial, globose, emboliform and dentate.",
+   "Lesions cause ipsilateral deficits."
+  ],
+  "quiz": [
+   {
+    "q": "Which structure has Purkinje cells that inhibit the deep nuclei and shows ipsilateral ataxia and dysmetria when damaged?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which structure has vestibulocerebellar, spinocerebellar and cerebrocerebellar divisions?",
+    "type": "function"
+   },
+   {
+    "q": "Which structure sits behind the pons and medulla and forms the roof of the fourth ventricle?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4
+  ],
+  "see_also": [
+   "vermis",
+   "flocculonodular_lobe",
+   "pons",
+   "ventral_lateral_nucleus"
+  ]
+ },
+ {
+  "id": "anterior_lobe_of_cerebellum",
+  "aliases": [
+   "anterior lobe",
+   "cerebellar anterior lobe",
+   "anterior lobe of the cerebellum"
+  ],
+  "hint": "upper front region, in front of the primary fissure",
+  "summary": "The anterior lobe is the part of the cerebellum rostral to the primary fissure, on the superior surface facing the midbrain. It includes the rostral vermis and the adjacent hemisphere. It is composed mainly of spinocerebellum and receives proprioceptive input from the spinal cord through the spinocerebellar tracts. It controls muscle tone, posture and gait.",
+  "where": "The anterior lobe lies anterior to the primary fissure on the upper surface of the cerebellum, facing the midbrain. It includes the front of the vermis and the adjacent hemisphere. It is seen best in a superior or lateral view of the cerebellum.",
+  "does": "The anterior lobe is mostly spinocerebellum. It receives proprioceptive input from the spinal cord and controls muscle tone, posture and gait. It has a somatotopic map, with the legs represented anteriorly and the arms and face further posteriorly.",
+  "connects": "The dorsal and ventral spinocerebellar tracts carry limb position input to it, and its Purkinje cells project to the fastigial and interposed nuclei, which in turn reach the vestibular nuclei, the red nucleus and, through the thalamus, motor cortex.",
+  "clinical": "Damage to the anterior lobe vermis, as in chronic alcohol use, causes a wide-based gait and truncal and leg ataxia with little effect on the arms.",
+  "remember": "The anterior lobe lies rostral to the primary fissure and represents the legs, governing gait.",
+  "facts": [
+   "It lies in front of the primary fissure.",
+   "It is mostly spinocerebellum.",
+   "Alcohol damages its vermis."
+  ],
+  "quiz": [
+   {
+    "q": "Which cerebellar lobe lies in front of the primary fissure and receives spinocerebellar input for gait and posture?",
+    "type": "function"
+   },
+   {
+    "q": "Chronic alcohol use damages the vermis of which cerebellar lobe and causes a wide-based gait?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4
+  ],
+  "see_also": [
+   "posterior_lobe_of_cerebellum",
+   "vermis",
+   "cerebellum"
+  ]
+ },
+ {
+  "id": "posterior_lobe_of_cerebellum",
+  "aliases": [
+   "posterior lobe",
+   "cerebellar posterior lobe",
+   "posterior lobe of the cerebellum"
+  ],
+  "hint": "largest cerebellar division, behind the primary fissure",
+  "summary": "The posterior lobe is the largest division of the cerebellum, located between the primary fissure and the posterolateral fissure. It forms most of the two hemispheres on the inferior and posterior surfaces. It is composed mainly of cerebrocerebellum, receiving cortical input through the pontine nuclei and the middle cerebellar peduncle. Its output passes through the dentate nucleus to the thalamus and cortex, and it supports skilled movement and cognitive functions.",
+  "where": "The posterior lobe lies behind the primary fissure and in front of the posterolateral fissure, forming most of the two hemispheres on the lower and back surfaces. It is seen best in a posterior or inferior view of the cerebellum.",
+  "does": "The posterior lobe is mostly cerebrocerebellum. Its lateral parts plan and time skilled, coordinated movement, including fine control of the limbs, and also take part in cognitive functions such as language, working memory and executive function. Lesions of the lateral hemispheres produce the cerebellar cognitive affective syndrome.",
+  "connects": "The cerebral cortex sends input through the pontine nuclei and the middle cerebellar peduncle. Purkinje cells project to the dentate nucleus, which sends output through the superior peduncle to the contralateral ventral lateral thalamus and then to motor, premotor and prefrontal cortex.",
+  "clinical": "Hemisphere lesions cause ipsilateral limb ataxia, intention tremor, dysmetria and dysdiadochokinesia. Posterior lobe lesions can also cause cerebellar mutism and cognitive affective syndrome, which is described after posterior fossa tumor surgery in children.",
+  "remember": "The posterior lobe is the largest cerebellar lobe and communicates mainly with the cerebral cortex.",
+  "facts": [
+   "It is the largest cerebellar lobe.",
+   "Its output is mostly through the dentate nucleus.",
+   "It links with prefrontal cortex for cognition."
+  ],
+  "quiz": [
+   {
+    "q": "Which cerebellar lobe is the largest and works with the cerebral cortex through the pontine nuclei?",
+    "type": "function"
+   },
+   {
+    "q": "Which cerebellar lobe, lying behind the primary fissure and holding crus I and crus II, is most connected with prefrontal and parietal association cortex?",
+    "type": "connection"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4
+  ],
+  "see_also": [
+   "anterior_lobe_of_cerebellum",
+   "flocculonodular_lobe",
+   "cerebellum"
+  ]
+ },
+ {
+  "id": "flocculonodular_lobe",
+  "aliases": [
+   "flocculus",
+   "nodulus",
+   "vestibulocerebellum",
+   "archicerebellum",
+   "floccular lobe"
+  ],
+  "hint": "small lowest part on the underside that serves balance",
+  "summary": "The flocculonodular lobe is the small, caudal-most part of the cerebellum, separated from the posterior lobe by the posterolateral fissure. It consists of the nodulus at the midline, the lowest part of the vermis, and a flocculus on each side. Also referred to as the vestibulocerebellum, it receives primary vestibular afferents and input from the vestibular nuclei. It controls balance and eye position and is the phylogenetically oldest part of the cerebellum.",
+  "where": "The flocculonodular lobe lies on the anterior-inferior surface of the cerebellum, separated from the posterior lobe by the posterolateral fissure. The nodulus lies at the midline and a flocculus lies on each side. It is seen best in an inferior view of the cerebellum.",
+  "does": "The flocculonodular lobe is the vestibulocerebellum. It controls balance and eye position through connections with the vestibular nuclei, and it adjusts the vestibulo-ocular reflex, which keeps gaze stable during head movement. It is the oldest part of the cerebellum (archicerebellum) and also contributes to smooth pursuit eye movements.",
+  "connects": "It receives primary vestibular afferents and input from the vestibular nuclei through the inferior cerebellar peduncle, and its Purkinje cells project directly back to the vestibular nuclei, bypassing the deep nuclei.",
+  "clinical": "A lesion causes vertigo, truncal ataxia, nystagmus and a tendency to fall. Medulloblastomas arising in the nodulus and vermis of children cause truncal ataxia with hydrocephalus.",
+  "remember": "Flocculonodular is the vestibular lobe: it governs balance and eye position and lies on the inferior surface.",
+  "facts": [
+   "It is the vestibulocerebellum.",
+   "It is divided from the posterior lobe by the posterolateral fissure.",
+   "Its Purkinje cells project to the vestibular nuclei directly."
+  ],
+  "quiz": [
+   {
+    "q": "Which cerebellar lobe is vestibular and projects directly to the vestibular nuclei?",
+    "type": "connection"
+   },
+   {
+    "q": "A child with a midline cerebellar tumor has truncal ataxia, nystagmus and hydrocephalus. Which lobe is involved?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4
+  ],
+  "see_also": [
+   "vermis",
+   "posterior_lobe_of_cerebellum",
+   "medulla_oblongata"
+  ]
+ },
+ {
+  "id": "vermis",
+  "aliases": [
+   "cerebellar vermis",
+   "vermis cerebelli"
+  ],
+  "hint": "narrow midline strip between the two cerebellar hemispheres",
+  "summary": "The vermis is the narrow midline part of the cerebellum that joins the two cerebellar hemispheres. It extends from the lingula rostrally to the nodulus caudally. It belongs to the spinocerebellum and receives somatosensory and vestibular input concerning the axial body. Its Purkinje cells project to the fastigial nucleus, and the vermis controls the trunk, posture, gait and head and eye position.",
+  "where": "The vermis lies at the midline between the two cerebellar hemispheres, forming a ridge on the superior surface and lying in a groove on the inferior surface. It extends from the lingula at the front to the nodulus at the lowest end. It is seen best from behind or below.",
+  "does": "The vermis belongs to the spinocerebellum and controls the trunk, posture, gait and head and eye position. It receives somatosensory and vestibular input about the axial body and helps coordinate the proximal and axial muscles. Its output goes to the fastigial nucleus, which projects to the vestibular nuclei and reticular formation and thereby to the medial descending pathways.",
+  "connects": "The spinocerebellar tracts and the vestibular system send input, and Purkinje cells of the vermis project to the fastigial nucleus, the medial deep nucleus, which sends fibers to the vestibular nuclei and reticular formation.",
+  "clinical": "Vermis lesions, for example from a medulloblastoma or chronic alcohol damage, cause truncal ataxia and a wide-based staggering gait, with only mild limb signs. Patients may sway while sitting.",
+  "remember": "Vermis is Latin for worm; this midline strip controls the trunk, whereas the hemispheres control the limbs.",
+  "facts": [
+   "It is the midline of the cerebellum.",
+   "The fastigial nucleus receives its output.",
+   "Lesions cause truncal ataxia."
+  ],
+  "quiz": [
+   {
+    "q": "Which midline cerebellar part sends output to the fastigial nucleus and controls the trunk?",
+    "type": "function"
+   },
+   {
+    "q": "Truncal ataxia with a wide-based gait and little limb ataxia suggests a lesion of which cerebellar part?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which worm-like strip joins the two cerebellar hemispheres?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4
+  ],
+  "see_also": [
+   "flocculonodular_lobe",
+   "cerebellum",
+   "anterior_lobe_of_cerebellum"
+  ]
+ }
+]

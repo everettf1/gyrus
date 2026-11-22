@@ -1,0 +1,33 @@
+1. J Neurosurg. 2008 Feb;108(2):411-21. doi: 10.3171/JNS/2008/108/2/0411.
+
+Cortical language localization in left, dominant hemisphere. An electrical 
+stimulation mapping investigation in 117 patients. 1989.
+
+Ojemann G(1), Ojemann J, Lettich E, Berger M.
+
+Author information:
+(1)Department of Neurological Surgery, University of Washington, Seattle, 
+Washington 98195, USA.
+
+The localization of cortical sites essential for language was assessed by 
+stimulation mapping in the left, dominant hemispheres of 117 patients. Sites 
+were related to language when stimulation at a current below the threshold for 
+afterdischarge evoked repeated statistically significant errors in object 
+naming. The language center was highly localized in many patients to form 
+several mosaics of 1 to 2 sq cm, usually one in the frontal and one or more in 
+the temporoparietal lobe. The area of individual mosaics, and the total area 
+related to language was usually much smaller than the traditional Broca-Wernicke 
+areas. There was substantial individual variability in the exact location of 
+language function, some of which correlated with the patient's sex and verbal 
+intelligence. These features were present for patients as young as 4 years and 
+as old as 80 years, and for those with lesions acquired in early life or 
+adulthood. These findings indicate a need for revision of the classical model of 
+language localization. The combination of discrete localization in individual 
+patients but substantial individual variability between patients also has major 
+clinical implications for cortical resections of the dominant hemisphere, for it 
+means that language cannot be reliably localized on anatomic criteria alone. A 
+maximal resection with minimal risk of postoperative aphasia requires individual 
+localization of language with a technique like stimulation mapping.
+
+DOI: 10.3171/JNS/2008/108/2/0411
+PMID: 18240946 [Indexed for MEDLINE]

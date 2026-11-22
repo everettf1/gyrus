@@ -1,0 +1,23 @@
+1. Nat Rev Neurosci. 2012 Jul 4;13(8):587-97. doi: 10.1038/nrn3251.
+
+Concept cells: the building blocks of declarative memory functions.
+
+Quiroga RQ(1).
+
+Author information:
+(1)Department of Engineering, University of Leicester, UK. rqqg1@le.ac.uk
+
+Intracranial recordings in subjects suffering from intractable epilepsy - made 
+during their evaluation for an eventual surgical removal of the epileptic focus 
+- have allowed the extraordinary opportunity to study the firing of multiple 
+single neurons in awake and behaving human subjects. These studies have shown 
+that neurons in the human medial temporal lobe respond in a remarkably selective 
+and abstract manner to particular persons or objects, such as Jennifer Aniston, 
+Luke Skywalker or the Tower of Pisa. These neurons have been named 'Jennifer 
+Aniston neurons' or, more recently, 'concept cells'. I argue that the sparse, 
+explicit and abstract representation of these neurons is crucial for memory 
+functions, such as the creation of associations and the transition between 
+related concepts that leads to episodic memories and the flow of consciousness.
+
+DOI: 10.1038/nrn3251
+PMID: 22760181 [Indexed for MEDLINE]

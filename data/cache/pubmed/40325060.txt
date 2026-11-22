@@ -1,0 +1,46 @@
+1. NPJ Parkinsons Dis. 2025 May 5;11(1):109. doi: 10.1038/s41531-025-00947-8.
+
+Comparison of oscillatory activity in substantia nigra pars reticulata between 
+Parkinson's disease and dystonia.
+
+Shi L(#)(1)(2), Xu Y(#)(1), Fan S(3)(4), Yin Z(1), Qin G(1), Zhang J(5)(6), Yang 
+A(7).
+
+Author information:
+(1)Department of Functional Neurosurgery, Beijing Tiantan Hospital, Capital 
+Medical University, Beijing, China.
+(2)Beijing Neurosurgical Institute, Capital Medical University, Beijing, China.
+(3)Department of Pediatric Surgery, Children's Hospital, Capital Institute of 
+Pediatrics, Beijing, China.
+(4)Capital Center for Children's Health, Capital Medical University, Beijing, 
+China.
+(5)Department of Functional Neurosurgery, Beijing Tiantan Hospital, Capital 
+Medical University, Beijing, China. zjguo73@126.com.
+(6)Beijing Neurosurgical Institute, Capital Medical University, Beijing, China. 
+zjguo73@126.com.
+(7)Department of Functional Neurosurgery, Beijing Tiantan Hospital, Capital 
+Medical University, Beijing, China. yang.anchao@163.com.
+(#)Contributed equally
+
+Parkinson's disease (PD) is associated with disrupted neural activity in the 
+substantia nigra, but its electrophysiological changes remain underexplored. 
+This study investigates the oscillatory patterns of substantia nigra pars 
+reticulata (SNr) in PD, compared to dystonia (DT). Intraoperative recordings of 
+the SNr were obtained from 20 PD and 16 DT patients during DBS surgery. Spectral 
+power, neuronal firing rate, beta burst dynamics, and correlation analysis of 
+the SNr signal were analyzed. PD patients exhibited increased alpha and beta 
+power, elevated firing rates, and reduced aperiodic exponent values in SNr 
+compared to DT. PD beta bursts showed prolonged durations and fewer short 
+bursts. Beta power negatively correlated with motor symptom improvement rates in 
+PD but not in DT patients. These findings highlight pathological beta power in 
+SNr of PD, which indicates that SNr-DBS may offer a future therapeutic avenue 
+for PD.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41531-025-00947-8
+PMCID: PMC12053694
+PMID: 40325060
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests.

@@ -1,0 +1,1352 @@
+[
+ {
+  "id": "lateral_intraparietal_area",
+  "aliases": [
+   "lip",
+   "area lip",
+   "lateral intraparietal"
+  ],
+  "hint": "mid-way down the groove that splits the parietal lobe",
+  "summary": "The lateral intraparietal area is a patch of posterior parietal cortex in the lateral bank of the intraparietal sulcus, drawn on this model from the two HCP areas LIPv and LIPd. It was first defined in macaques, where its neurons fire for the location of a salient object and for a planned saccade to it. It receives visual input from the occipital cortex and sends output to the frontal eye field and the superior colliculus. It works as a priority map that decides where the eyes and attention go next. The human homologue is debated, and the region on the model is the best HCP match rather than a proven one.",
+  "where": "It sits in the middle part of the intraparietal sulcus, which runs front to back and splits the parietal lobe into the superior parietal lobule above and the inferior parietal lobule below. It lies behind the anterior intraparietal area and in front of the caudal intraparietal and occipital regions. Open the sulcus in a lateral or dorsal view to see the outline.",
+  "does": "In macaques, LIP neurons have retinotopic receptive fields and keep firing during a delay before a saccade, so they hold the location of a target. The usual reading is that LIP builds a priority map: it combines bottom-up salience and top-down relevance to say where to look or attend. Whether this is mainly attention or mainly saccade planning is still argued. In humans, fMRI shows a topographic map of remembered saccade targets in the intraparietal sulcus that probably corresponds to LIP. It is a core node of the dorsal attention network together with the frontal eye field.",
+  "connects": "It receives input from early visual areas, area MT and other dorsal-stream areas, and sends output to the frontal eye field, the superior colliculus and prefrontal cortex. It is reciprocally linked with the frontal eye field, so the pair forms the parietal and frontal ends of the saccade and attention circuit.",
+  "clinical": "Damage to the right posterior parietal cortex produces hemispatial neglect and visual extinction, and the lateral intraparietal region is one of the sites implicated. In monkeys, reversible inactivation of LIP reduces contralateral saccades when two targets compete. Reduced search toward the contralateral side is the lab version of what neglect patients show.",
+  "remember": "LIP is the eyes' to-do list: it holds where to look next.",
+  "facts": [
+   "LIP neurons keep firing during the delay between seeing a target and making a saccade to it.",
+   "Its human homologue is placed in the middle of the intraparietal sulcus, between AIP in front and CIP behind.",
+   "LIP is a node of the dorsal attention network, linked with the frontal eye field."
+  ],
+  "quiz": [
+   {
+    "q": "Which parietal area keeps a priority map of salient locations and plans the next saccade?",
+    "type": "function"
+   },
+   {
+    "q": "Which part of the intraparietal sulcus lies between the grasp-related anterior area and the caudal area, and shows retinotopic maps of remembered saccade targets?",
+    "type": "location"
+   },
+   {
+    "q": "Inactivating this parietal area in monkeys cut contralateral saccades when two targets competed. Which area?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   7,
+   8
+  ],
+  "see_also": [
+   "frontal_eye_field",
+   "anterior_intraparietal_area",
+   "intraparietal_sulcus",
+   "dorsal_attention_network"
+  ],
+  "how_we_know": "Most of what is known about LIP comes from single neurons in macaques, because the human homologue can only be placed with fMRI by its response to saccade tasks. Reversible inactivation in monkeys shows what the area is needed for, and human fMRI shows where a similar map lies but cannot prove the same cells are there. No human stimulation study isolates LIP.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "A human parietal region maps remembered saccade targets and may be the LIP homologue",
+    "finding": "Participants had fMRI while the polar angle of a peripheral target for a delayed saccade was changed step by step. A region in the superior parietal cortex showed a retinotopic map of the remembered target angle, and the map reversed when the direction of rotation reversed. The authors suggest it may correspond to macaque LIP. This is correlational.",
+    "quote": "A region in the superior parietal cortex showed robust retinotopic mapping of the remembered target angle.",
+    "pmid": "11701930",
+    "doi": "10.1126/science.1063695",
+    "cite": "Sereno MI, Pitzalis S, Martinez A. Mapping of contralateral space in retinotopic coordinates by a parietal cortical area in humans. Science. 2001;294(5545):1350-4.",
+    "year": 2001
+   },
+   {
+    "kind": "imaging",
+    "claim": "Saccade-related activity sits in the middle of the human intraparietal sulcus, as in monkeys",
+    "finding": "Using memory-guided saccades and surface-orientation tasks, the study mapped AIP, CIP and LIP in each person separately. The saccade-related area lay between the other two, in the middle of the sulcus, which matches the layout in nonhuman primates.",
+    "quote": "This area was located in the middle region of the IPS (most probably including LIP), i.e., similar to the location observed in nonhuman primates.",
+    "pmid": "17497631",
+    "doi": "10.1002/hbm.20396",
+    "cite": "Shikata E, McNamara A, Sprenger A, Hamzei F, et al. Localization of human intraparietal areas AIP, CIP, and LIP using surface orientation and saccadic eye movement tasks. Hum Brain Mapp. 2008;29(4):411-21.",
+    "year": 2008
+   },
+   {
+    "kind": "lesion",
+    "claim": "LIP is needed to choose saccade targets among competing stimuli",
+    "finding": "In macaques, muscimol was injected into LIP to inactivate it reversibly, and the effects were compared with inactivation of neighbouring VIP and with saline. Saccades to a single target were spared, but contralateral saccades fell sharply when two targets were present, and search for a contralateral target took longer. This is a causal test in monkeys, not in humans.",
+    "quote": "LIP inactivation failed to produce deficits in the latency or accuracy of saccades to single targets, but it dramatically reduced the frequency of contralateral saccades in the presence of bilateral targets, and it increased search time for a contralateral target during serial visual search.",
+    "pmid": "12427844",
+    "doi": "10.1523/JNEUROSCI.22-22-09877.2002",
+    "cite": "Wardak C, Olivier E, Duhamel JR. Saccadic target selection deficits after lateral intraparietal area inactivation in monkeys. J Neurosci. 2002;22(22):9877-84.",
+    "year": 2002
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "anterior_intraparietal_area",
+  "aliases": [
+   "aip",
+   "area aip",
+   "anterior intraparietal"
+  ],
+  "hint": "front end of the groove splitting the parietal lobe, near the hand",
+  "summary": "The anterior intraparietal area is a patch of posterior parietal cortex at the front of the intraparietal sulcus, drawn here from HCP area AIP. It was defined in macaques, where its neurons fire as the animal sees and grasps particular objects. It is linked with the ventral premotor cortex, and the two together turn the shape of an object into a hand shape. Damage to it in humans leaves reaching intact but spoils the way the fingers are shaped for grasping. In humans it also responds to tools and to watching other people grasp.",
+  "where": "It lies in the anterior part of the lateral bank of the intraparietal sulcus, close to where the sulcus meets the postcentral sulcus behind the hand area of the primary somatosensory cortex. It is in front of the lateral intraparietal area. A lateral view with the sulcus opened shows it best.",
+  "does": "AIP is the parietal end of the grasping circuit. Its neurons encode object properties such as size, shape and orientation that matter for choosing a grip, and some also fire when the animal sees another individual grasp. In humans, fMRI shows stronger activity in the anterior intraparietal sulcus for grasping an object than for reaching to it. TMS at this site disrupts the fast corrections of grip that follow a sudden change in an object. Its role in tool use and in recognizing tool actions is also reported but is less settled.",
+  "connects": "It receives visual input from the dorsal stream, including the caudal intraparietal area, and from the ventral stream for object identity. Its main output goes to the ventral premotor cortex (area F5 in monkeys) in the parieto-frontal grasping circuit.",
+  "clinical": "Lesions of the anterior intraparietal sulcus cause a selective grasping deficit with preserved reaching, sometimes called optic ataxia of the hand or a deficit in the pre-shaping of the fingers. Patients can still name and describe the object. Damage to this circuit also contributes to limb apraxia.",
+  "remember": "AIP is the parietal hand-shaper: it decides how the fingers will fit the object.",
+  "facts": [
+   "The anterior intraparietal area works with ventral premotor cortex in the grasp circuit.",
+   "Lesions here spoil finger coordination for grasping but leave reaching much better preserved.",
+   "In humans the anterior intraparietal sulcus responds more to grasping an object than to reaching toward it."
+  ],
+  "quiz": [
+   {
+    "q": "Which parietal area, working with ventral premotor cortex, turns the shape of an object into a grip?",
+    "type": "function"
+   },
+   {
+    "q": "A patient reaches accurately but cannot shape the fingers to a cup before touching it. Which parietal area is damaged?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which part of the intraparietal sulcus lies in the anterior lateral bank, in front of the saccade-related region?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   7
+  ],
+  "see_also": [
+   "lateral_intraparietal_area",
+   "premotor_cortex",
+   "intraparietal_sulcus",
+   "supramarginal_gyrus"
+  ],
+  "how_we_know": "Lesion studies and TMS show that this part of the intraparietal sulcus is needed for grasping, and fMRI shows that it is more active for grasping than for reaching. The human area is placed by its function and by the anatomy of the macaque, so its exact borders vary between people.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Lesions of the anterior intraparietal sulcus spoil grasping but spare reaching",
+    "finding": "Patients with parietal lesions were tested with optoelectronic movement recording. Those whose lesions involved the anterior lateral bank of the intraparietal sulcus had selective grasping deficits, while patients with parietal lesions that spared that cortex grasped normally. fMRI in control subjects showed activation of the same site during grasping.",
+    "quote": "patients with cortical lesions involving the anterior lateral bank of the intraparietal sulcus have selective deficits in the coordination of finger movements required for object grasping, whereas reaching is much less disturbed.",
+    "pmid": "9595971",
+    "doi": "10.1212/wnl.50.5.1253",
+    "cite": "Binkofski F, Dohle C, Posse S, Stephan KM, et al. Human anterior intraparietal area subserves prehension: a combined lesion and functional MRI activation study. Neurology. 1998;50(5):1253-9.",
+    "year": 1998
+   },
+   {
+    "kind": "stimulation",
+    "claim": "TMS over the anterior intraparietal sulcus disrupts on-line correction of grasp",
+    "finding": "In healthy volunteers, TMS over aIPS within 65 ms after an object changed size or orientation disrupted the grip or the forearm rotation, while reaching was preserved. TMS to a more caudal intraparietal site, the parieto-occipital area or the motor hand area did not cause the aperture deficit, so the effect was specific to aIPS.",
+    "quote": "Deficits were elicited by applying TMS within 65 ms after object perturbation, which attributes a rapid control process on the basis of visual feedback to aIPS.",
+    "pmid": "15778711",
+    "doi": "10.1038/nn1430",
+    "cite": "Tunik E, Frey SH, Grafton ST. Virtual lesions of the anterior intraparietal area disrupt goal-dependent on-line adjustments of grasp. Nat Neurosci. 2005;8(4):505-11.",
+    "year": 2005
+   },
+   {
+    "kind": "imaging",
+    "claim": "The human AIP homologue lies on the lateral bank of the anterior intraparietal sulcus",
+    "finding": "In an fMRI study that analysed each subject separately, the lateral bank of the anterior part of the sulcus responded to judgements of surface orientation, the pattern expected for AIP. A saccade-related area separated it from the caudal region.",
+    "quote": "Both the lateral bank of the anterior part of IPS, the putative human homolog of the area AIP, and the caudal part of the IPS (putative CIP) showed activation related to spatial discrimination of surface orientation.",
+    "pmid": "17497631",
+    "doi": "10.1002/hbm.20396",
+    "cite": "Shikata E, McNamara A, Sprenger A, Hamzei F, et al. Localization of human intraparietal areas AIP, CIP, and LIP using surface orientation and saccadic eye movement tasks. Hum Brain Mapp. 2008;29(4):411-21.",
+    "year": 2008
+   }
+  ],
+  "stimulation": {
+   "method": "transcranial magnetic stimulation (TMS) over the anterior intraparietal sulcus",
+   "effect": "A pulse within 65 ms after an object changed disrupted the corrected grip, while reaching stayed intact. Stimulating nearby sites did not produce the grip deficit.",
+   "quote": "Deficits were elicited by applying TMS within 65 ms after object perturbation, which attributes a rapid control process on the basis of visual feedback to aIPS.",
+   "pmid": "15778711",
+   "doi": "10.1038/nn1430",
+   "cite": "Tunik E, Frey SH, Grafton ST. Virtual lesions of the anterior intraparietal area disrupt goal-dependent on-line adjustments of grasp. Nat Neurosci. 2005;8(4):505-11.",
+   "year": 2005
+  }
+ },
+ {
+  "id": "temporoparietal_junction",
+  "aliases": [
+   "tpj",
+   "temporo-parietal junction",
+   "right tpj",
+   "rtpj"
+  ],
+  "hint": "where the sylvian fissure turns up between three lobes",
+  "summary": "The temporoparietal junction is the cortex where the posterior temporal lobe, the inferior parietal lobule and the lateral occipital cortex meet around the end of the lateral sulcus. On this model it is drawn from five HCP areas (TPOJ1, TPOJ2, TPOJ3, STV and PSL), so the outline is an approximation of a region with no sharp borders. It takes in the posterior superior temporal sulcus and the angular gyrus. It supports thinking about other people's beliefs and reorienting attention to unexpected events, and it takes part in how the body is placed in space. Damage or stimulation, mainly on the right, shifts attention, body perception and social judgement.",
+  "where": "It lies at the back end of the lateral sulcus, where the superior temporal gyrus and sulcus run into the angular gyrus and the supramarginal gyrus. It borders the occipital cortex behind and the temporal cortex below. This is an approximate region: the model draws it from HCP areas TPOJ1 to TPOJ3, STV and PSL, and published definitions differ in whether they put it more in the temporal or the parietal lobe.",
+  "does": "The right TPJ is active when people think about what another person believes or knows, and it responds more to mental states than to other facts about a person. It also responds when something unexpected appears away from the attended place, so it is tied to reorienting attention as part of the ventral attention network. These two roles may share one computation, or may sit in neighbouring patches, which is still argued. Stimulation near it can disturb the sense that the self is in the body.",
+  "connects": "It links the superior temporal sulcus, the inferior parietal lobule, the medial prefrontal cortex, the precuneus and the inferior frontal cortex. It is part of the default mode network in its social role and of the ventral attention network in its reorienting role.",
+  "clinical": "Right-hemisphere damage in this region is a cause of hemispatial neglect. Focal stimulation of the right angular gyrus in an epilepsy patient produced out-of-body experiences, illusory limb transformations and whole-body displacements. Differences in TPJ activity are studied in autism, where theory of mind is affected, though the evidence is not specific.",
+  "remember": "Three lobes meet here, and the right side is where other people's minds and unexpected events are tracked.",
+  "facts": [
+   "The right TPJ is recruited selectively when people reason about another person's mental states.",
+   "TMS over the right TPJ made people rely less on an actor's beliefs when judging attempted harms.",
+   "Stimulating the right angular gyrus near this junction triggered an out-of-body experience in one epilepsy patient."
+  ],
+  "quiz": [
+   {
+    "q": "Which junction between three lobes is the main cortical site for reasoning about what another person believes?",
+    "type": "function"
+   },
+   {
+    "q": "In an epilepsy patient, stimulation of the right angular gyrus near this junction repeatedly produced an out-of-body experience. Which region?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which region sits at the back end of the lateral sulcus, where the temporal, parietal and occipital lobes meet?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   7,
+   8,
+   13
+  ],
+  "see_also": [
+   "angular_gyrus",
+   "supramarginal_gyrus",
+   "default_mode_network",
+   "superior_temporal_sulcus"
+  ],
+  "how_we_know": "The social role comes mostly from fMRI, which is correlational, and from TMS, which shows that disrupting the right TPJ changes judgements. The out-of-body result is a single patient with stimulation near but not exactly at the HCP outline. Meta-analyses show that the area active across social tasks is in the posterior TPJ.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The right TPJ responds selectively to thinking about another person's mental states",
+    "finding": "In an fMRI study of four regions linked with theory of mind, the right TPJ responded to the attribution of mental states and not to other socially relevant facts about a person. No other region tested, including the left TPJ, posterior cingulate and medial prefrontal cortex, showed an equally selective profile. This is correlational.",
+    "quote": "The right temporo-parietal junction (RTPJ) was recruited selectively for the attribution of mental states, and not for other socially relevant facts about a person, and the response of the RTPJ was modulated by the congruence or incongruence of multiple relevant facts about the target's mind.",
+    "pmid": "15936784",
+    "doi": "10.1016/j.neuropsychologia.2005.02.013",
+    "cite": "Saxe R, Wexler A. Making sense of another mind: the role of the right temporo-parietal junction. Neuropsychologia. 2005;43(10):1391-9.",
+    "year": 2005
+   },
+   {
+    "kind": "stimulation",
+    "claim": "TMS over the right TPJ makes people rely less on beliefs when judging others",
+    "finding": "In two experiments, TMS was used to disrupt the right TPJ before or during moral judgement. Participants then relied less on the actor's mental states, and judged attempted harms as less forbidden and more permissible than after TMS to a control site.",
+    "quote": "In both experiments, TMS to the RTPJ led participants to rely less on the actor's mental states.",
+    "pmid": "20351278",
+    "doi": "10.1073/pnas.0914826107",
+    "cite": "Young L, Camprodon JA, Hauser M, Pascual-Leone A, et al. Disruption of the right temporoparietal junction with transcranial magnetic stimulation reduces the role of beliefs in moral judgments. Proc Natl Acad Sci U S A. 2010;107(15):6753-8.",
+    "year": 2010
+   },
+   {
+    "kind": "meta-analysis",
+    "claim": "The bilateral posterior TPJ is active across all kinds of theory of mind task",
+    "finding": "A meta-analysis of imaging studies grouped theory of mind tasks by stimulus and instruction. Activation overlapped across every group in the medial prefrontal cortex and the bilateral posterior TPJ, which supports a core network that engages whenever people reason about mental states.",
+    "quote": "Overlap in brain activation between all task groups was found in the mPFC and in the bilateral posterior TPJ.",
+    "pmid": "24486722",
+    "doi": "10.1016/j.neubiorev.2014.01.009",
+    "cite": "Schurz M, Radua J, Aichhorn M, Richlan F, et al. Fractionating theory of mind: a meta-analysis of functional brain imaging studies. Neurosci Biobehav Rev. 2014;42:9-34.",
+    "year": 2014
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Stimulating the right angular gyrus near the TPJ can cause an out-of-body experience",
+    "finding": "In one patient being evaluated for epilepsy surgery, focal electrical stimulation of the right angular gyrus repeatedly induced an out-of-body experience. It also produced illusory transformations of the arm and legs and whole-body displacements, which suggests a failure to integrate somatosensory and vestibular information.",
+    "quote": "Here we describe the repeated induction of this experience by focal electrical stimulation of the brain's right angular gyrus in a patient who was undergoing evaluation for epilepsy treatment.",
+    "pmid": "12239558",
+    "doi": "10.1038/419269a",
+    "cite": "Blanke O, Ortigue S, Landis T, Seeck M. Stimulating illusory own-body perceptions. Nature. 2002;419(6904):269-70.",
+    "year": 2002
+   }
+  ],
+  "stimulation": {
+   "method": "direct electrical stimulation of the right angular gyrus in an epilepsy patient",
+   "effect": "Stimulation repeatedly induced an out-of-body experience, as well as illusory changes in the arm and legs and a sense of whole-body displacement.",
+   "quote": "Here we describe the repeated induction of this experience by focal electrical stimulation of the brain's right angular gyrus in a patient who was undergoing evaluation for epilepsy treatment.",
+   "pmid": "12239558",
+   "doi": "10.1038/419269a",
+   "cite": "Blanke O, Ortigue S, Landis T, Seeck M. Stimulating illusory own-body perceptions. Nature. 2002;419(6904):269-70.",
+   "year": 2002
+  }
+ },
+ {
+  "id": "auditory_belt",
+  "aliases": [
+   "belt",
+   "belt areas",
+   "auditory belt areas",
+   "auditory association cortex"
+  ],
+  "hint": "ring of cortex wrapped around the first stop for sound",
+  "summary": "The auditory belt is the strip of auditory cortex that wraps around the primary auditory core on the superior temporal plane and the upper surface of the superior temporal gyrus. It is drawn here from three HCP areas, the medial belt, the lateral belt and the parabelt (MBelt, LBelt, PBelt). It is the second stage of cortical sound processing and receives its input mainly from the core. Belt neurons prefer more complex sounds than core neurons, such as noise bands and calls, and the belt feeds the parabelt and onward streams for sound identity and sound location.",
+  "where": "It lies around Heschl's gyrus, which holds the core, on the superior temporal plane and the upper bank of the superior temporal gyrus. The medial belt is toward the insula, the lateral belt lies along the lateral edge of the plane, and the parabelt reaches onto the lateral surface of the superior temporal gyrus. It is easiest to see in a lateral view with the temporal lobe slightly opened.",
+  "does": "Core neurons respond best to pure tones and are arranged by frequency. Belt neurons respond better to bands of noise and to complex sounds, so spectral and temporal features are combined here. In monkeys, the lateral belt contains a new frequency-organized field and neurons that prefer particular species calls. In humans, imaging shows frequency maps in and around Heschl's gyrus, and the anterior lateral belt seems to be more engaged by spectrally complex sounds. Belt processing is the stage that leads toward sound identity in the anterior stream and sound location in the posterior stream.",
+  "connects": "The belt receives most input from the core, and also from the medial geniculate nucleus, and projects to the parabelt. The parabelt goes on to the temporal pole, superior temporal sulcus and frontal cortex in two streams, one for what a sound is and one for where it is.",
+  "clinical": "Bilateral damage to auditory cortex can cause cortical deafness or auditory agnosia, where hearing for tones is preserved but sounds are not recognized. Damage on the left near this region contributes to pure word deafness. Because the belt is not drawn in a single standard way, lesion studies rarely isolate it.",
+  "remember": "A belt wraps around the core: primary cortex hears tones, the belt hears sounds.",
+  "facts": [
+   "The belt surrounds the auditory core on the superior temporal plane.",
+   "Belt neurons respond better to band-passed noise than to pure tones.",
+   "In primates the belt projects to the parabelt, which feeds the sound identity and sound location streams."
+  ],
+  "quiz": [
+   {
+    "q": "Which auditory strip, around the first cortical stop for sound, prefers noise bands and complex sounds over pure tones?",
+    "type": "function"
+   },
+   {
+    "q": "Which cortical ring wraps around Heschl's gyrus on the superior temporal plane?",
+    "type": "location"
+   },
+   {
+    "q": "Which auditory region is the second cortical stage, receiving mainly from the core and projecting to the parabelt?",
+    "type": "connection"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   7
+  ],
+  "see_also": [
+   "primary_auditory_cortex",
+   "heschls_gyrus",
+   "planum_temporale",
+   "wernickes_area"
+  ],
+  "how_we_know": "The belt was defined in monkeys with single-neuron recordings and tracing, and the human version is inferred from architecture and from fMRI maps. These methods show what the cortex responds to but not what it is needed for, and no human stimulation or lesion study isolates the belt.",
+  "evidence": [
+   {
+    "kind": "recording",
+    "claim": "Belt neurons prefer noise bands and complex sounds over pure tones",
+    "finding": "In anaesthetized rhesus monkeys, neurons in the superior temporal gyrus responded much more strongly to band-passed noise bursts than to pure tones. This led to the discovery of at least one new frequency-organized area in the lateral belt, whose neurons also preferred some monkey calls over others. This is a monkey result.",
+    "quote": "Bandpassed noise bursts with defined center frequencies evoked responses that were greatly enhanced over those evoked by pure tones.",
+    "pmid": "7701330",
+    "doi": "10.1126/science.7701330",
+    "cite": "Rauschecker JP, Tian B, Hauser M. Processing of complex sounds in the macaque nonprimary auditory cortex. Science. 1995;268(5207):111-4.",
+    "year": 1995
+   },
+   {
+    "kind": "tracing",
+    "claim": "The belt is a second stage of cortical processing that surrounds the core",
+    "finding": "A review of the primate auditory system describes a core of three primary-like areas that project to a surrounding array of eight proposed belt areas, which in turn project to a lateral parabelt. Chimpanzee and human cores resemble the monkey core.",
+    "quote": "These areas interconnect and project to the homotopic and other locations in the opposite cerebral hemisphere and to a surrounding array of eight proposed belt areas as a second stage of cortical processing.",
+    "pmid": "11050211",
+    "doi": "10.1073/pnas.97.22.11793",
+    "cite": "Kaas JH, Hackett TA. Subdivisions of auditory cortex and processing streams in primates. Proc Natl Acad Sci U S A. 2000;97(22):11793-9.",
+    "year": 2000
+   },
+   {
+    "kind": "imaging",
+    "claim": "Human frequency gradients run across and beyond Heschl's gyrus, into belt territory",
+    "finding": "Participants heard multi-tone sequences centred at six frequencies from 200 to 6400 Hz while in the scanner. Two mirror-symmetric frequency gradients ran roughly perpendicular to Heschl's gyrus, from a low-frequency zone on its lateral side to high-frequency zones in front of and behind it.",
+    "quote": "Two mirror-symmetric frequency gradients were found extending along an anterior-posterior axis from a zone on the lateral aspect of Heschl's gyrus (HG), which responds preferentially to lower frequencies, toward zones posterior and anterior to HG that are sensitive to higher frequencies.",
+    "pmid": "20096790",
+    "doi": "10.1016/j.neuroimage.2010.01.046",
+    "cite": "Humphries C, Liebenthal E, Binder JR. Tonotopic organization of human auditory cortex. Neuroimage. 2010;50(3):1202-11.",
+    "year": 2010
+   },
+   {
+    "kind": "imaging",
+    "claim": "The human antero-lateral belt responds to spectral complexity",
+    "finding": "In fMRI with noise-like sounds whose spectral and temporal complexity could be varied separately, responses in Heschl's gyrus and the superior temporal gyrus rose with the number of spectral components. The asymmetric region corresponds to the antero-lateral belt, so the result supports a similar spectral integration role to that seen in animals.",
+    "quote": "The portion of superior temporal gyrus in which asymmetrical responses are apparent corresponds to the antero-lateral auditory belt cortex, which has been implicated with spectral integration in animal studies.",
+    "pmid": "16190905",
+    "doi": "10.1111/j.1460-9568.2005.04315.x",
+    "cite": "Schönwiesner M, Rübsamen R, von Cramon DY. Hemispheric asymmetry for spectral and temporal processing in the human antero-lateral auditory belt cortex. Eur J Neurosci. 2005;22(6):1521-8.",
+    "year": 2005
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "inferior_temporal_cortex",
+  "aliases": [
+   "it cortex",
+   "area te",
+   "inferotemporal cortex",
+   "it"
+  ],
+  "hint": "lower side of the temporal lobe, end of the what pathway",
+  "summary": "The inferior temporal cortex is the last cortical stage of the ventral visual stream, the pathway for recognizing what an object is. It was defined in monkeys as area TE and in humans is drawn on this model from the HCP areas TE1 and TE2 (subdivisions anterior, middle and posterior), so the outline is an approximation. Its neurons respond to complex shapes, textures and faces and ignore changes in size and position. It sits on the lower and lateral surface of the temporal lobe. It feeds the perirhinal cortex and the medial temporal lobe for memory of objects, and prefrontal cortex.",
+  "where": "It occupies the lateral and inferior surface of the temporal lobe, mainly the inferior temporal gyrus and the neighbouring lower part of the middle temporal gyrus. Behind it lies the lateral occipital complex, above it the superior temporal sulcus, and in front of it the temporal pole. It is drawn here from the HCP TE areas and is an approximation of TE, whose borders are defined from monkey cytoarchitecture.",
+  "does": "IT neurons are tuned to moderately complex features that are shared by many objects, and a given object is coded by a combination of active cells. Posterior IT neurons respond to simpler features than anterior IT neurons, and selectivity holds across changes in position and size. A separate group of IT neurons responds selectively to faces, and these cells are clustered deep in the superior temporal sulcus and in face patches. It supports object recognition and visual categorization, and learning can retune it.",
+  "connects": "Its main input comes from V4 and the posterior inferior temporal cortex, through the ventral stream. It projects to the perirhinal and entorhinal cortices, the amygdala and the ventrolateral prefrontal cortex.",
+  "clinical": "Damage to the ventral occipitotemporal cortex causes visual agnosia, in which a patient sees an object but cannot say what it is. Bilateral damage to the occipitotemporal cortex can cause prosopagnosia, achromatopsia or alexia, depending on which part is lost. In monkeys, IT lesions impair learning of visual object discriminations.",
+  "remember": "IT is the end of the what pathway: after V4 comes IT, and recognition comes with it.",
+  "facts": [
+   "In macaque IT, posterior neurons prefer simpler features and anterior neurons need more complex features.",
+   "Microstimulation of face-selective IT sites biased monkeys' decisions toward the face category.",
+   "IT lies at the end of the ventral visual stream and projects to perirhinal cortex."
+  ],
+  "quiz": [
+   {
+    "q": "Which cortex ends the ventral visual stream and holds neurons tuned to complex shapes and faces?",
+    "type": "function"
+   },
+   {
+    "q": "A patient sees an object clearly but cannot say what it is after damage to the ventral occipitotemporal cortex. Which stream and region are affected?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which cortex lies on the lower lateral temporal lobe, in front of the lateral occipital complex?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   7
+  ],
+  "see_also": [
+   "area_v4",
+   "fusiform_face_area",
+   "perirhinal_cortex",
+   "inferior_temporal_gyrus"
+  ],
+  "how_we_know": "The core evidence for IT comes from macaque recordings and microstimulation, because IT in humans is hard to isolate and rarely recorded from directly. These monkey experiments include causal tests, but they apply to humans only through the homology of TE. Human evidence comes from nearby regions such as the fusiform gyrus.",
+  "evidence": [
+   {
+    "kind": "recording",
+    "claim": "Anterior IT neurons need complex features, and objects are coded by cell combinations",
+    "finding": "In anaesthetized macaques, the best stimulus was found for individual IT cells. Most cells in the posterior part could be driven by simple bars or disks, while in the anterior part most needed more complex features. The authors propose that objects are coded by combinations of active cells, each signalling a partial feature.",
+    "quote": "In the remaining anterior two-thirds or three-quarters of IT, most cells required more complex features for their maximal activation.",
+    "pmid": "1919665",
+    "doi": "10.1152/jn.1991.66.1.170",
+    "cite": "Tanaka K, Saito H, Fukada Y, Moriya M, et al. Coding visual images of objects in the inferotemporal cortex of the macaque monkey. J Neurophysiol. 1991;66(1):170-89.",
+    "year": 1991
+   },
+   {
+    "kind": "recording",
+    "claim": "A separate population of IT cells responds selectively to faces",
+    "finding": "In a survey of IT neurons in macaques with simple and complex stimuli, most responsive neurons were not detectors for single objects. A separate set responded selectively to faces and kept their selectivity over changes in size and position, with a high incidence deep in the superior temporal sulcus.",
+    "quote": "Although most IT neurons do not appear to be \"detectors\" for complex objects, we did find a separate population of cells that responded selectively to faces.",
+    "pmid": "6470767",
+    "doi": "10.1523/JNEUROSCI.04-08-02051.1984",
+    "cite": "Desimone R, Albright TD, Gross CG, Bruce C, et al. Stimulus-selective properties of inferior temporal neurons in the macaque. J Neurosci. 1984;4(8):2051-62.",
+    "year": 1984
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Microstimulating face-selective IT sites biases face decisions in monkeys",
+    "finding": "Macaques judged whether noisy images were faces or non-faces while small IT clusters were stimulated. Stimulating face-selective sites, but not other sites, strongly biased decisions toward the face category, with a larger effect at more selective sites. This is a causal result in monkeys.",
+    "quote": "Here we show that microstimulation of face-selective sites, but not other sites, strongly biased the monkeys' decisions towards the face category.",
+    "pmid": "16878143",
+    "doi": "10.1038/nature04982",
+    "cite": "Afraz SR, Kiani R, Esteky H. Microstimulation of inferotemporal cortex influences face categorization. Nature. 2006;442(7103):692-5.",
+    "year": 2006
+   }
+  ],
+  "stimulation": {
+   "method": "electrical microstimulation of macaque inferior temporal cortex (not human)",
+   "effect": "Stimulating face-selective IT sites pushed the monkeys' choices toward calling an image a face, while stimulating other sites did not.",
+   "quote": "Here we show that microstimulation of face-selective sites, but not other sites, strongly biased the monkeys' decisions towards the face category.",
+   "pmid": "16878143",
+   "doi": "10.1038/nature04982",
+   "cite": "Afraz SR, Kiani R, Esteky H. Microstimulation of inferotemporal cortex influences face categorization. Nature. 2006;442(7103):692-5.",
+   "year": 2006
+  }
+ },
+ {
+  "id": "entorhinal_cortex",
+  "aliases": [
+   "ec",
+   "area 28",
+   "entorhinal area"
+  ],
+  "hint": "front of the parahippocampal gyrus, gateway to the hippocampus",
+  "summary": "The entorhinal cortex is a six-layered cortical area at the front of the parahippocampal gyrus, in Brodmann area 28, and it is the main gateway between the neocortex and the hippocampus. Layer II sends the perforant path to the dentate gyrus and CA3, and layer IV receives the return output from the hippocampus. It contains grid cells, whose firing forms a repeating triangular lattice across space. It is among the first places hit by neurofibrillary tangles and cell loss in Alzheimer's disease. It supports spatial navigation and the formation of memory.",
+  "where": "It lies on the medial surface of the temporal lobe at the anterior end of the parahippocampal gyrus, next to the uncus and in front of the perirhinal cortex. It borders the temporal pole in front and the amygdala and hippocampus above. A medial or ventral view shows it best.",
+  "does": "The entorhinal cortex carries nearly all the cortical input to the hippocampus and returns hippocampal output to the cortex. In rodents, its medial part holds grid cells, head-direction cells and border cells. In humans, fMRI shows a six-fold directional signal of grid-like firing as people move in a virtual environment, and single cells with grid-like firing have been recorded from neurosurgical patients. The strength of the signal in right entorhinal cortex tracked spatial memory performance. Stimulation during learning can improve later memory for locations.",
+  "connects": "Layer II neurons send the perforant path to the dentate gyrus, CA3 and CA2, and layer III neurons project to CA1 and the subiculum through the temporoammonic path. Layers V and VI receive return output from CA1 and the subiculum, and project back to the neocortex. Input arrives from the perirhinal, parahippocampal, retrosplenial and association cortices.",
+  "clinical": "The entorhinal cortex is among the earliest sites of neurofibrillary tangles in Alzheimer's disease, and entorhinal neuron loss is large even in very mild disease. Loss of its input to the hippocampus helps explain early memory failure and impaired path integration in people at risk. It is also an origin site of seizures in medial temporal lobe epilepsy.",
+  "remember": "The hippocampus does not work alone: the entorhinal cortex is the doorway in and the doorway out.",
+  "facts": [
+   "Entorhinal layer II gives rise to the perforant path to the dentate gyrus.",
+   "Grid cells in the entorhinal cortex fire in a repeating triangular pattern across space.",
+   "Entorhinal cortex is a very early site of neuronal loss in Alzheimer's disease."
+  ],
+  "quiz": [
+   {
+    "q": "Which cortical area contains grid cells and is the main doorway to and from the hippocampus?",
+    "type": "function"
+   },
+   {
+    "q": "Which cortex shows layer II neuron loss in very mild Alzheimer's disease and is the origin of the perforant path?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which Brodmann area 28 cortex lies at the front of the parahippocampal gyrus next to the uncus?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   7
+  ],
+  "see_also": [
+   "hippocampus",
+   "parahippocampal_gyrus",
+   "perirhinal_cortex",
+   "dentate_gyrus"
+  ],
+  "how_we_know": "Grid cells were found in rats, and human evidence combines fMRI, single-cell recordings in neurosurgical patients and stimulation. Stimulation shows that this area can change memory, while the pathology data show what is lost in disease. The human grid signal in fMRI is indirect and is an inference from the six-fold symmetry of activity.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Human entorhinal cortex shows a grid-like six-fold signal during virtual navigation",
+    "finding": "Participants explored a virtual reality arena while in fMRI. Activity showed a speed-modulated six-fold rotational symmetry with running direction, strongest in right entorhinal cortex, and its coherence across entorhinal cortex correlated with spatial memory performance. This is correlational.",
+    "quote": "The effect was strongest in right entorhinal cortex, and the coherence of the directional signal across entorhinal cortex correlated with spatial memory performance.",
+    "pmid": "20090680",
+    "doi": "10.1038/nature08704",
+    "cite": "Doeller CF, Barry C, Burgess N. Evidence for grid cells in a human memory network. Nature. 2010;463(7281):657-61.",
+    "year": 2010
+   },
+   {
+    "kind": "recording",
+    "claim": "Single neurons with grid-like firing exist in the human entorhinal cortex",
+    "finding": "Neurosurgical patients performed a virtual-navigation task while single neurons were recorded. Some cells had grid-like spiking patterns, which suggests humans and simpler animals share a spatial coding scheme.",
+    "quote": "Recording neuronal activity from neurosurgical patients performing a virtual-navigation task, we identified cells exhibiting grid-like spiking patterns in the human brain, suggesting that humans and simpler animals rely on homologous spatial-coding schemes.",
+    "pmid": "23912946",
+    "doi": "10.1038/nn.3466",
+    "cite": "Jacobs J, Weidemann CT, Miller JF, Solway A, et al. Direct recordings of grid-like neuronal activity in human spatial navigation. Nat Neurosci. 2013;16(9):1188-90.",
+    "year": 2013
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Stimulating the entorhinal area during learning improves memory for locations",
+    "finding": "In seven epilepsy patients with depth electrodes, subthreshold stimulation was given on half of the learning trials in a virtual spatial task. After entorhinal stimulation, patients reached landmarks faster and by shorter routes. Hippocampal stimulation was not effective.",
+    "quote": "Entorhinal stimulation applied while the subjects learned locations of landmarks enhanced their subsequent memory of these locations: the subjects reached these landmarks more quickly and by shorter routes, as compared with locations learned without stimulation.",
+    "pmid": "22316444",
+    "doi": "10.1056/NEJMoa1107212",
+    "cite": "Suthana N, Haneef Z, Stern J, Mukamel R, et al. Memory enhancement and deep-brain stimulation of the entorhinal area. N Engl J Med. 2012;366(6):502-10.",
+    "year": 2012
+   },
+   {
+    "kind": "histology",
+    "claim": "Entorhinal layer II neurons are lost in very mild Alzheimer's disease",
+    "finding": "Stereological neuron counts were made on 20 brains graded by Clinical Dementia Rating. In the very mild group the entorhinal cortex had 32% fewer neurons than in controls, with 60% fewer in layer II and 40% fewer in layer IV. The loss was larger still in the severe group.",
+    "quote": "The group with the mildest clinically detectable dementia (CDR = 0.5), all of whom had sufficient neurofibrillary tangles (NFTs) and senile plaques for the neuropathological diagnosis of AD, had 32% fewer EC neurons than controls. Decreases in individual lamina were even more dramatic, with the number of neurons in layer II decreasing by 60% and in layer IV by 40% compared with controls.",
+    "pmid": "8699259",
+    "doi": "10.1523/JNEUROSCI.16-14-04491.1996",
+    "cite": "Gómez-Isla T, Price JL, McKeel DW, Morris JC, et al. Profound loss of layer II entorhinal cortex neurons occurs in very mild Alzheimer's disease. J Neurosci. 1996;16(14):4491-500.",
+    "year": 1996,
+    "data": {
+     "title": "Neuron loss vs controls in very mild AD (CDR 0.5)",
+     "unit": "%",
+     "items": [
+      [
+       "Whole entorhinal cortex",
+       32
+      ],
+      [
+       "Layer II",
+       60
+      ],
+      [
+       "Layer IV",
+       40
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": {
+   "method": "deep-brain electrical stimulation of the entorhinal area through depth electrodes",
+   "effect": "Stimulation applied while patients learned landmark locations in a virtual environment improved their later memory of those locations. It also reset the phase of the hippocampal theta rhythm.",
+   "quote": "Entorhinal stimulation applied while the subjects learned locations of landmarks enhanced their subsequent memory of these locations: the subjects reached these landmarks more quickly and by shorter routes, as compared with locations learned without stimulation.",
+   "pmid": "22316444",
+   "doi": "10.1056/NEJMoa1107212",
+   "cite": "Suthana N, Haneef Z, Stern J, Mukamel R, et al. Memory enhancement and deep-brain stimulation of the entorhinal area. N Engl J Med. 2012;366(6):502-10.",
+   "year": 2012
+  }
+ },
+ {
+  "id": "perirhinal_cortex",
+  "aliases": [
+   "prc",
+   "areas 35 and 36",
+   "perirhinal"
+  ],
+  "hint": "strip along the collateral sulcus beside the gateway to memory",
+  "summary": "The perirhinal cortex is a strip of cortex made of Brodmann areas 35 and 36 along the collateral sulcus in the medial temporal lobe. It is drawn on this model from HCP area PeEc, so the outline is an approximation of its borders. It receives highly processed object information from the inferior temporal cortex and passes it to the entorhinal cortex and hippocampus. It supports recognizing objects as familiar and perceiving complex objects. It is among the first cortical regions to degenerate in Alzheimer's disease.",
+  "where": "It lies along the medial bank of the collateral sulcus and the adjoining parahippocampal gyrus, next to and just behind the entorhinal cortex. The model draws it from HCP area PeEc (the perirhinal and entorhinal transition), so the outline is an approximation: true perirhinal cortex is areas 35 and 36, and the border with entorhinal cortex is not sharp on the surface. A ventral or medial view shows it best.",
+  "does": "The perirhinal cortex combines visual features into a representation of a whole object that is the same across viewpoints. It helps decide whether an object has been seen before, which is the familiarity form of recognition, and the hippocampus is more important for recollecting the context. It also helps in perceiving complex objects and discriminating similar ones, so the old line between memory and perception does not hold cleanly. Whether this is two roles or one is argued.",
+  "connects": "It receives object input from the ventral stream, especially the inferior temporal cortex, as well as from the olfactory and auditory cortex. It projects to the entorhinal cortex, which carries information to the hippocampus, and back to the inferotemporal cortex.",
+  "clinical": "Damage to the perirhinal cortex impairs familiarity-based recognition with relatively preserved recollection. It impairs discrimination of complex objects in a patient with perirhinal atrophy, and in monkeys after lesions. Its degeneration contributes to early object-recognition problems in people at risk for Alzheimer's disease.",
+  "remember": "Perirhinal means around the rhinal fissure: it is the object memory stage just before the entorhinal door.",
+  "facts": [
+   "Perirhinal cortex is Brodmann areas 35 and 36.",
+   "A left anterior temporal resection that spared the hippocampus left recollection intact but impaired familiarity.",
+   "Perirhinal activation is seen when a task needs whole-object, view-invariant representations."
+  ],
+  "quiz": [
+   {
+    "q": "Which medial temporal cortex, comprising areas 35 and 36, supports familiarity-based object recognition?",
+    "type": "function"
+   },
+   {
+    "q": "A patient has impaired familiarity but preserved recollection after a left anterior temporal resection sparing the hippocampus. Which cortex lost the most?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which cortex lies beside the collateral sulcus, just behind the entorhinal cortex?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   7
+  ],
+  "see_also": [
+   "entorhinal_cortex",
+   "inferior_temporal_cortex",
+   "hippocampus",
+   "collateral_sulcus"
+  ],
+  "how_we_know": "Human evidence comes from patients with lesions that include perirhinal cortex, which can show causal loss but rarely hit this area alone, and from fMRI of healthy people. Monkey lesion studies are the main causal evidence. The family of results supports an object role for the area, and the exact split between memory and perception is still debated.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Perirhinal damage impairs familiarity but leaves recollection intact",
+    "finding": "A woman, NB, had left anterior temporal lobe resection that included a large portion of perirhinal cortex but spared the hippocampus. Four experiments with three procedures showed impaired familiarity with preserved recollection, which supports separate roles within the medial temporal lobe.",
+    "quote": "The results of four experiments based on three different experimental procedures (remember-know paradigm, receiver operating characteristics, and response-deadline procedure) indicate that NB exhibits impaired familiarity with preserved recollection.",
+    "pmid": "17905870",
+    "doi": "10.1073/pnas.0705273104",
+    "cite": "Bowles B, Crupi C, Mirsattari SM, Pigott SE, et al. Impaired familiarity with preserved recollection after anterior temporal-lobe resection that spares the hippocampus. Proc Natl Acad Sci U S A. 2007;104(41):16382-7.",
+    "year": 2007
+   },
+   {
+    "kind": "lesion",
+    "claim": "Perirhinal atrophy impairs perception of single objects",
+    "finding": "Two amnesic patients were chosen by lesion location. In a task with minimal working memory demands, in which they judged whether a novel object was structurally coherent, only the patient with perirhinal atrophy was impaired, and imaging showed the deficit was not due to damage in visual cortex.",
+    "quote": "Critically, only the patient with perirhinal atrophy was impaired.",
+    "pmid": "20463221",
+    "doi": "10.1523/JNEUROSCI.0116-10.2010",
+    "cite": "Lee AC, Rudebeck SR. Human medial temporal lobe damage can disrupt the perception of single objects. J Neurosci. 2010;30(19):6588-94.",
+    "year": 2010
+   },
+   {
+    "kind": "imaging",
+    "claim": "Perirhinal cortex activates when objects must be seen as whole, view-invariant forms",
+    "finding": "Healthy volunteers did a perceptual discrimination task adapted from monkeys while in fMRI. Perirhinal cortex was active when the task needed integration of features into a view-invariant representation, but not when simple features such as colour and shape were enough.",
+    "quote": "This revealed perirhinal activation when the task required the integration of visual features into a view-invariant representation but not when it could be accomplished on the basis of simple features (e.g., color and shape).",
+    "pmid": "17764947",
+    "doi": "10.1016/j.cub.2007.07.066",
+    "cite": "Devlin JT, Price CJ. Perirhinal contributions to human visual perception. Curr Biol. 2007;17(17):1484-8.",
+    "year": 2007
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "parahippocampal_place_area",
+  "aliases": [
+   "ppa",
+   "place area",
+   "scene area"
+  ],
+  "hint": "scene-selective patch on the underside, beside the hippocampal gyrus",
+  "summary": "The parahippocampal place area is a patch of cortex on the ventral surface of the temporal lobe that responds more strongly to scenes, rooms and buildings than to faces or single objects. It lies in and around the collateral sulcus and the posterior parahippocampal gyrus, and is drawn on this model from HCP areas PHA1 to PHA3, so the outline is an approximation of a functionally defined area. It carries information about the layout of the local space, such as the walls and openings that make up a room. It connects with the retrosplenial cortex and the hippocampal formation to support navigation and scene memory. Stimulation of this area can make a person see a scene that is not there.",
+  "where": "It lies on the underside of the temporal lobe, in the posterior parahippocampal gyrus and the neighbouring collateral sulcus, partly extending onto the medial fusiform gyrus and lingual cortex. It sits behind the entorhinal and perirhinal cortices and beside the fusiform face area, which is lateral to it. It is a functionally defined region, so the HCP outline (PHA1 to PHA3) approximates it, and its exact borders differ between people. A ventral view shows it best.",
+  "does": "The PPA responds to scenes such as rooms, landscapes and city streets, and only weakly to isolated objects and not at all to faces. The critical factor appears to be information about the spatial layout of the scene: an empty room drives it as strongly as a furnished room, and it responds less if the surfaces are rearranged into an incoherent space. It is therefore proposed to represent the geometry of the local environment and to support recognizing places. Whether it mainly carries scene layout or also objects with fixed locations is still argued.",
+  "connects": "It receives input from the ventral visual stream and from the occipital scene-selective area, and communicates with the retrosplenial cortex, which is more tied to orientation and memory. It also sends information to the hippocampal formation through the entorhinal cortex, as part of the medial temporal navigation network.",
+  "clinical": "Lesions of ventral occipitotemporal cortex including this region can cause landmark agnosia, a form of topographical disorientation in which a patient cannot recognize buildings and places. Stimulating the place-selective cortex in a patient with epilepsy electrodes produced a topographic visual hallucination of scenes. It is among the regions showing early change in some people at risk for Alzheimer's disease.",
+  "remember": "The PPA is the place detector: rooms and streets switch it on, faces do not.",
+  "facts": [
+   "The PPA responds as strongly to an empty room as to a furnished one.",
+   "Stimulating place-selective cortex made an epilepsy patient see scenes of his own neighbourhood.",
+   "Landmark agnosia is the loss of the ability to use buildings and places to find the way."
+  ],
+  "quiz": [
+   {
+    "q": "Which ventral temporal patch responds to rooms and buildings and encodes the layout of the local environment, but not to faces?",
+    "type": "function"
+   },
+   {
+    "q": "Stimulating this ventral area in an epilepsy patient produced vivid hallucinations of indoor and outdoor scenes. Which area?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which scene-selective cortex lies in and around the collateral sulcus, medial to the fusiform face area?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   7
+  ],
+  "see_also": [
+   "retrosplenial_cortex",
+   "fusiform_face_area",
+   "parahippocampal_gyrus",
+   "collateral_sulcus"
+  ],
+  "how_we_know": "The PPA was found with fMRI, which is correlational, and has since been tested with intracranial stimulation, which shows cause in single patients. Lesion evidence for place and landmark recognition comes from case reports. The region is defined by function in each person, so atlas outlines are approximate.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "A parahippocampal area responds to scenes and local layout, not to faces",
+    "finding": "In the study that named the PPA, an area in human parahippocampal cortex responded selectively and automatically in fMRI to passively viewed scenes. It responded only weakly to single objects and not at all to faces, and an empty room drove it as strongly as the furnished room. The authors propose it encodes the geometry of the local environment.",
+    "quote": "This region, which we name the 'parahippocampal place area' (PPA), responds selectively and automatically in functional magnetic resonance imaging (fMRI) to passively viewed scenes, but only weakly to single objects and not at all to faces.",
+    "pmid": "9560155",
+    "doi": "10.1038/33402",
+    "cite": "Epstein R, Kanwisher N. A cortical representation of the local visual environment. Nature. 1998;392(6676):598-601.",
+    "year": 1998
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Electrical stimulation of place-selective cortex evokes visual hallucinations of scenes",
+    "finding": "In a patient with stereo-EEG electrodes for epilepsy surgery, fMRI and iEEG located place-selective cortex in the collateral sulcus and medial fusiform gyrus. Bipolar stimulation there produced a topographic hallucination: the patient saw indoor and outdoor scenes, including views of his neighbourhood. Stimulating more lateral cortex distorted faces instead.",
+    "quote": "Bipolar direct electrical stimulation of a cortical area in the collateral sulcus and medial fusiform gyrus, which was place-selective according to both fMRI and iEEG, induced a topographic visual hallucination: the patient described seeing indoor and outdoor scenes that included views of the neighborhood he lives in.",
+    "pmid": "24741031",
+    "doi": "10.1523/JNEUROSCI.5202-13.2014",
+    "cite": "Mégevand P, Groppe DM, Goldfinger MS, Hwang ST, et al. Seeing scenes: topographic visual hallucinations evoked by direct electrical stimulation of the parahippocampal place area. J Neurosci. 2014;34(16):5399-405.",
+    "year": 2014
+   },
+   {
+    "kind": "imaging",
+    "claim": "A ventral region is specialized for buildings, matching landmark agnosia lesions",
+    "finding": "The study started from the fact that isolated ventral lesions can impair the use of landmarks, particularly buildings, for way-finding. fMRI then found, across subjects, a region straddling the right lingual sulcus with the properties of a specialized building area. Several controls discounted alternative explanations.",
+    "quote": "Isolated, ventral brain lesions in humans occasionally produce specific impairments in the ability to use landmarks, particularly buildings, for way-finding.",
+    "pmid": "9728918",
+    "doi": "10.1016/s0896-6273(00)80546-2",
+    "cite": "Aguirre GK, Zarahn E, D'Esposito M. An area within human ventral cortex sensitive to \"building\" stimuli: evidence and implications. Neuron. 1998;21(2):373-83.",
+    "year": 1998
+   }
+  ],
+  "stimulation": {
+   "method": "direct electrical stimulation through stereo-EEG electrodes",
+   "effect": "Stimulating place-selective cortex in the collateral sulcus and medial fusiform gyrus made the patient see scenes, indoor and outdoor, including his own neighbourhood.",
+   "quote": "Bipolar direct electrical stimulation of a cortical area in the collateral sulcus and medial fusiform gyrus, which was place-selective according to both fMRI and iEEG, induced a topographic visual hallucination: the patient described seeing indoor and outdoor scenes that included views of the neighborhood he lives in.",
+   "pmid": "24741031",
+   "doi": "10.1523/JNEUROSCI.5202-13.2014",
+   "cite": "Mégevand P, Groppe DM, Goldfinger MS, Hwang ST, et al. Seeing scenes: topographic visual hallucinations evoked by direct electrical stimulation of the parahippocampal place area. J Neurosci. 2014;34(16):5399-405.",
+   "year": 2014
+  }
+ },
+ {
+  "id": "retrosplenial_cortex",
+  "aliases": [
+   "rsc",
+   "retrosplenial complex",
+   "brodmann areas 29 and 30"
+  ],
+  "hint": "wraps around the back end of the callosum on the medial wall",
+  "summary": "The retrosplenial cortex lies on the medial surface, curved around the splenium of the corpus callosum, and corresponds to Brodmann areas 29 and 30. On this model it is drawn from HCP area RSC. It is closely tied to the hippocampal formation, the parahippocampal cortex, the anterior thalamus and the posterior cingulate. It helps convert views of the environment into a stable sense of direction and location, and it supports episodic memory, imagining scenes and planning. Damage causes a topographical disorientation in which patients cannot find their way despite recognizing landmarks.",
+  "where": "It lies on the medial wall of the hemisphere, behind and below the splenium of the corpus callosum, and runs along the callosal sulcus into the posterior cingulate and the precuneus. It is behind the ventral posterior cingulate and above the parieto-occipital sulcus and parahippocampal cortex. A medial view shows the surface part, while much of the area is buried in the callosal sulcus.",
+  "does": "The retrosplenial cortex links the way the self sees a scene to the larger map of the surroundings. In fMRI it responds to scenes and to places that are familiar, and encodes heading direction relative to the environment. It is involved in recalling the location of landmarks and in navigating from memory, and also in episodic memory, imagining the future and scene construction. Why a single area does this is still argued, and the left and right sides appear to differ, with the right more tied to spatial memory.",
+  "connects": "It is reciprocally connected with the hippocampus, subiculum, parahippocampal cortex, anterior thalamic nuclei and posterior cingulate and precuneus. It is a component of the default mode network, and of the Papez circuit through the cingulum bundle.",
+  "clinical": "Case reports of retrosplenial lesions, mostly of the right side, describe topographical disorientation: patients recognize landmarks but cannot use them to orient, and cannot learn new routes. The deficit often resolves within weeks. Retrosplenial strokes can also mimic transient global amnesia, and the area shows early metabolic decline in Alzheimer's disease.",
+  "remember": "Retrosplenial means behind the splenium: the cortex that curls round the back of the callosum.",
+  "facts": [
+   "The retrosplenial cortex corresponds to Brodmann areas 29 and 30.",
+   "Most reported cases of retrosplenial topographical disorientation involve the right side.",
+   "Patients with retrosplenial damage recognize landmarks but cannot use them to find their way."
+  ],
+  "quiz": [
+   {
+    "q": "Which medial cortex, wrapped behind the splenium, encodes heading direction relative to landmarks?",
+    "type": "function"
+   },
+   {
+    "q": "A patient recognizes buildings but cannot use them to orient or learn new routes after a right medial posterior stroke. Which cortex is damaged?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which cortex corresponds to Brodmann areas 29 and 30, behind and below the callosal splenium?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   7
+  ],
+  "see_also": [
+   "parahippocampal_place_area",
+   "posterior_cingulate_cortex",
+   "precuneus",
+   "cingulum"
+  ],
+  "how_we_know": "Evidence for this region comes mostly from case reports of lesions, which are rare and often large, and from fMRI of navigation, which is correlational. No stimulation study isolates it. The human area is partly buried in the callosal sulcus, which makes it hard to study directly.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Retrosplenial lesions cause topographical disorientation, mostly on the right",
+    "finding": "A review collated published cases of relatively pure topographical disorientation with a retrosplenial lesion. Most followed damage to the right side, with Brodmann area 30 affected, and the patients could not learn new routes or use landmarks to orient. The deficit generally resolved within eight weeks. Neuroimaging studies of navigation also activate the region.",
+    "quote": "The majority of cases follow damage to the right retrosplenial cortex, with Brodmann's area 30 apparently compromised in most cases. All patients displayed impaired learning of new routes, and defective navigation in familiar environments complaining they could not use preserved landmark recognition to aid orientation.",
+    "pmid": "11501737",
+    "doi": "10.1111/1467-9450.00233",
+    "cite": "Maguire EA. The retrosplenial contribution to human navigation: a review of lesion and neuroimaging findings. Scand J Psychol. 2001;42(3):225-38.",
+    "year": 2001
+   },
+   {
+    "kind": "imaging",
+    "claim": "Medial parietal cortex next to the retrosplenial area encodes learned heading direction",
+    "finding": "Participants learned a virtual maze, then saw pairs of landmark images in the scanner. Adaptation in medial parietal cortex, specifically Brodmann area 31, tracked the learned heading direction. The authors link this to case reports of medial posterior lesions that disrupt landmark and direction links. It is correlational, and area 31 lies next to the retrosplenial cortex.",
+    "quote": "These results are consistent with clinical case reports of patients with acquired lesions of medial posterior brain regions, who exhibit deficits in forming and recalling links between landmarks and directional information.",
+    "pmid": "20881108",
+    "doi": "10.1523/JNEUROSCI.3077-10.2010",
+    "cite": "Baumann O, Mattingley JB. Medial parietal cortex encodes perceived heading direction in humans. J Neurosci. 2010;30(39):12897-901.",
+    "year": 2010
+   },
+   {
+    "kind": "review",
+    "claim": "The retrosplenial cortex supports memory, navigation and imagining the future",
+    "finding": "A review of anatomy, animal work and neuroimaging describes the retrosplenial cortex as a member of a core network for episodic memory, navigation, imagination and planning. It also notes that the area is consistently compromised in the common disorders that impair memory, and that its precise function remains hard to specify.",
+    "quote": "This cortical area has emerged as a key member of a core network of brain regions that underpins a range of cognitive functions, including episodic memory, navigation, imagination and planning for the future.",
+    "pmid": "19812579",
+    "doi": "10.1038/nrn2733",
+    "cite": "Vann SD, Aggleton JP, Maguire EA. What does the retrosplenial cortex do? Nat Rev Neurosci. 2009;10(11):792-802.",
+    "year": 2009
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "fusiform_face_area",
+  "aliases": [
+   "ffa",
+   "fusiform face complex",
+   "ffc",
+   "face area"
+  ],
+  "hint": "underside of the temporal lobe, face-selective, mostly on the right",
+  "summary": "The fusiform face area is a patch on the underside of the temporal lobe, in the mid fusiform gyrus, that responds more to faces than to other objects. It is drawn on this model from HCP area FFC, an approximation of a functionally defined region whose borders vary between people. It is usually larger in the right hemisphere. It sits within a face network that includes the occipital face area behind it and the superior temporal sulcus and anterior temporal cortex. Stimulating it distorts the look of faces, and damage in this network causes prosopagnosia.",
+  "where": "It lies on the ventral surface of the temporal lobe in the mid fusiform gyrus, between the occipitotemporal sulcus and the collateral sulcus. The occipital face area lies behind it and the parahippocampal place area is more medial. The HCP area FFC on the model approximates it, because the FFA is defined in each person by a face-versus-object scan. A ventral view shows it best.",
+  "does": "The FFA responds more to faces than to objects, houses or hands, and responds to intact more than scrambled faces. In the original study, the area was found in 12 of 15 people and was tested for face specificity against attention, subordinate-level classification and general animate-form accounts. Whether it is a face module or a general expert area for fine discrimination of familiar categories is debated. Stimulation shows that activity here changes the conscious perception of faces.",
+  "connects": "It receives input from V4 and the occipital face area on the lateral occipital surface, and communicates with the face-responsive superior temporal sulcus, the anterior temporal cortex, amygdala and prefrontal cortex. The right fusiform face area is thought to receive some input from the occipital face area, and may send feedback to it.",
+  "clinical": "Bilateral or right-sided damage to the ventral occipitotemporal cortex causes prosopagnosia, in which a person cannot recognize familiar faces and may need other cues such as voice or clothing. Stimulating the right fusiform gyrus made faces look distorted, while left stimulation produced non-face changes such as phosphenes. Developmental prosopagnosia occurs without a clear lesion.",
+  "remember": "The FFA is the face spot in the fusiform gyrus: faces light it up, and stimulating it makes faces melt.",
+  "facts": [
+   "The FFA was found in 12 of the 15 subjects in the first fMRI study.",
+   "Stimulating right fusiform face sites distorted the appearance of faces, but not other objects.",
+   "The occipital face area, behind the FFA, is needed for normal face perception in a lesion study."
+  ],
+  "quiz": [
+   {
+    "q": "Which fusiform patch responds more to faces than to objects and houses, mostly on the right?",
+    "type": "function"
+   },
+   {
+    "q": "Stimulating this ventral temporal region made a patient say the people in the room looked metamorphosed. Which region?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which functionally defined area lies in the mid fusiform gyrus, lateral to the place-selective cortex?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   7,
+   13
+  ],
+  "see_also": [
+   "fusiform_gyrus",
+   "parahippocampal_place_area",
+   "lateral_occipital_complex",
+   "inferior_temporal_cortex"
+  ],
+  "how_we_know": "The FFA was defined with fMRI, which shows that it responds to faces but not that it is needed. Intracranial stimulation and lesion cases show cause in a few patients, and the stimulation results differ between left and right. Debate continues over whether the area is a face module or an expert area.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "An area in the fusiform gyrus responds more to faces than to objects",
+    "finding": "Using fMRI, the study found an area in the fusiform gyrus in 12 of 15 subjects that was more active for faces than for assorted objects. In further tests on separate subjects it also preferred intact over scrambled faces, and faces over houses or hands, which ruled out attention and general animate-form accounts.",
+    "quote": "Using functional magnetic resonance imaging (fMRI), we found an area in the fusiform gyrus in 12 of the 15 subjects tested that was significantly more active when the subjects viewed faces than when they viewed assorted common objects.",
+    "pmid": "9151747",
+    "doi": "10.1523/JNEUROSCI.17-11-04302.1997",
+    "cite": "Kanwisher N, McDermott J, Chun MM. The fusiform face area: a module in human extrastriate cortex specialized for face perception. J Neurosci. 1997;17(11):4302-11.",
+    "year": 1997
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Electrical stimulation of face-selective fusiform sites distorts perceived faces",
+    "finding": "In one patient with subdural electrodes in the right inferior temporal lobe, fMRI and ECoG found face-selective sites in the mid and posterior fusiform gyrus. Stimulating this pair of electrodes made faces of people in the room look metamorphosed. Naming famous faces on a screen and the look of non-face objects were not affected, and sham stimulation did nothing.",
+    "quote": "Moreover, electrical charge delivered to this pair of electrodes induced a profound face-specific perceptual distortion during viewing of real faces. Specifically, the subject reported a \"metamorphosed\" appearance of faces of people in the room.",
+    "pmid": "23100414",
+    "doi": "10.1523/JNEUROSCI.2609-12.2012",
+    "cite": "Parvizi J, Jacques C, Foster BL, Witthoft N, et al. Electrical stimulation of human fusiform face-selective regions distorts face perception. J Neurosci. 2012;32(43):14915-20.",
+    "year": 2012
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Right, but not left, fusiform stimulation changes conscious face perception",
+    "finding": "Ten patients with intracranial electrodes in the left (5 participants, 30 sites) or right (5 participants, 26 sites) fusiform gyrus were tested. Face-selective ECoG responses were found on both sides, but only stimulation of the right fusiform changed conscious face perception. Left-sided stimulation of face-selective sites produced phosphenes and other non-face changes.",
+    "quote": "Only EBS of the right FG caused changes in the conscious perception of faces, whereas EBS of strongly face-selective regions in the left FG produced non-face-related visual changes, such as phosphenes.",
+    "pmid": "25232118",
+    "doi": "10.1523/JNEUROSCI.0527-14.2014",
+    "cite": "Rangarajan V, Hermes D, Foster BL, Weiner KS, et al. Electrical stimulation of the left and right human fusiform gyrus causes different effects in conscious face perception. J Neurosci. 2014;34(38):12828-36.",
+    "year": 2014
+   },
+   {
+    "kind": "lesion",
+    "claim": "The occipital face area is needed for normal face perception even if the FFA is intact",
+    "finding": "A patient with a deficit restricted to face perception had bilateral occipito-temporal lesions that damaged the left mid fusiform gyrus and the right inferior occipital cortex but spared the right mid fusiform gyrus. fMRI showed a normal right FFA response to faces despite the lost input from the right occipital face area, so the intact FFA was not enough.",
+    "quote": "Together, these findings show that the integrity of the right OFA is necessary for normal face perception and suggest that the face-sensitive responses observed at this level in normal subjects may arise from feedback connections from the right FFA.",
+    "pmid": "12876150",
+    "doi": "10.1093/brain/awg241",
+    "cite": "Rossion B, Caldara R, Seghier M, Schuller AM, et al. A network of occipito-temporal face-sensitive areas besides the right middle fusiform gyrus is necessary for normal face processing. Brain. 2003;126(Pt 11):2381-95.",
+    "year": 2003
+   }
+  ],
+  "stimulation": {
+   "method": "electrical brain stimulation through subdural electrodes over face-selective fusiform sites",
+   "effect": "Stimulation of a face-selective pair of electrodes made faces of people in the room look metamorphosed. It did not change the look of other objects or the ability to name pictured famous faces.",
+   "quote": "Moreover, electrical charge delivered to this pair of electrodes induced a profound face-specific perceptual distortion during viewing of real faces. Specifically, the subject reported a \"metamorphosed\" appearance of faces of people in the room.",
+   "pmid": "23100414",
+   "doi": "10.1523/JNEUROSCI.2609-12.2012",
+   "cite": "Parvizi J, Jacques C, Foster BL, Witthoft N, et al. Electrical stimulation of human fusiform face-selective regions distorts face perception. J Neurosci. 2012;32(43):14915-20.",
+   "year": 2012
+  }
+ },
+ {
+  "id": "secondary_visual_cortex",
+  "aliases": [
+   "v2",
+   "area 18",
+   "prestriate cortex",
+   "area v2"
+  ],
+  "hint": "thin band folded around the first visual cortex, stripes inside",
+  "summary": "The secondary visual cortex, V2 or Brodmann area 18, forms a band of cortex that surrounds the primary visual cortex on the medial and lateral occipital surface. It is drawn here from HCP area V2. It receives its main input from V1 and projects to V3, V4 and MT. Its upper and lower field halves are split, so the lower half of the contralateral field lies above V1 and the upper half below. It combines edges into contours and borders, including illusory contours, and divides information into streams for form, colour and depth.",
+  "where": "It wraps around V1 (the calcarine banks) as a strip on the medial occipital surface, above the calcarine cortex in the cuneus and below it in the lingual gyrus, and continues onto the lateral surface near the occipital pole. Dorsal V2 sees the lower visual field and ventral V2 the upper. It is easiest to see on a medial view of the occipital lobe, where it borders the calcarine cortex.",
+  "does": "V2 has a retinotopic map like V1 but its cells respond to more complex features, such as contours that are not drawn but implied. In monkeys, V2 contains thick, thin and pale cytochrome oxidase stripes that carry channels for depth and motion, colour and form. Its cells also signal figure and border ownership. In humans, V2 activates for real and illusory contours, and its borders were mapped by fMRI.",
+  "connects": "V2 gets input from V1, the pulvinar and, to a smaller degree, the lateral geniculate nucleus. It projects to V3, V4, V5 (MT) and the other extrastriate areas, and sends feedback to V1.",
+  "clinical": "A lesion in V2 and V3 can cause a quadrantic visual field defect with a sharp horizontal edge, because the upper and lower quadrants are represented on opposite sides of V1. A lesion of the cuneus or lingual gyrus is another cause of quadrantanopia. Damage restricted to V2 is rare.",
+  "remember": "V2 is the strip around V1: area 18 wraps around area 17, and its split halves explain the horizontal edge of quadrantanopia.",
+  "facts": [
+   "V2 is Brodmann area 18 and surrounds V1.",
+   "In area 18 of monkeys, cells respond to illusory contours that V1 cells do not signal.",
+   "Lesions in V2 and V3 can produce a quadrantanopia with a sharp horizontal border."
+  ],
+  "quiz": [
+   {
+    "q": "Which visual area, Brodmann area 18, wraps around V1 and responds to illusory contours?",
+    "type": "function"
+   },
+   {
+    "q": "A tumour in the upper peristriate cortex gives a left lower quadrantanopia with a sharp horizontal edge. Which extrastriate areas fit?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which visual area forms a band surrounding the calcarine cortex, with split upper and lower field halves?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   7
+  ],
+  "see_also": [
+   "primary_visual_cortex",
+   "area_v3",
+   "area_v4",
+   "cuneus"
+  ],
+  "how_we_know": "The properties of V2 come mostly from monkey recordings and anatomy, while human fMRI maps its borders and lesion cases show the effects of damage on the visual field. V2 lesions are almost never limited to V2, so human lesion evidence is shared with V3.",
+  "evidence": [
+   {
+    "kind": "recording",
+    "claim": "V2 cells respond to illusory contours, which V1 cells do not signal",
+    "finding": "In alert monkeys, figures that people see as having illusory contours evoked responses in cells of area 18. The cells responded as if the contours were real lines, and weakening the perceived contour reduced the response. Cells in area 17 did not see these contours. This is a monkey recording result.",
+    "quote": "Figures in which human observers perceive \"illusory contours\" were found to evoke responses in cells of area 18 in the visual cortex of alert monkeys. The cells responded as if the contours were formed by real lines or edges.",
+    "pmid": "6539501",
+    "doi": "10.1126/science.6539501",
+    "cite": "von der Heydt R, Peterhans E, Baumgartner G. Illusory contours and cortical neuron responses. Science. 1984;224(4654):1260-2.",
+    "year": 1984
+   },
+   {
+    "kind": "histology",
+    "claim": "V2 cells are segregated into stripes for colour, depth, movement and orientation",
+    "finding": "A review of monkey anatomy and physiology proposes that cells in cortical visual areas 1 and 2 and higher areas are segregated into three interdigitating subdivisions. The subdivisions differ in how selective they are for colour, stereopsis, movement and orientation, and human perceptual experiments match the predictions.",
+    "quote": "Anatomical and physiological observations in monkeys indicate that the primate visual system consists of several separate and independent subdivisions that analyze different aspects of the same retinal image: cells in cortical visual areas 1 and 2 and higher visual areas are segregated into three interdigitating subdivisions that differ in their selectivity for color, stereopsis, movement, and orientation.",
+    "pmid": "3283936",
+    "doi": "10.1126/science.3283936",
+    "cite": "Livingstone M, Hubel D. Segregation of form, color, movement, and depth: anatomy, physiology, and perception. Science. 1988;240(4853):740-9.",
+    "year": 1988
+   },
+   {
+    "kind": "lesion",
+    "claim": "A V2 and V3 lesion can cause a quadrantic field defect with a horizontal edge",
+    "finding": "Two patients had homonymous quadrantic field defects with sharp horizontal borders, one after removal of a cuneus astrocytoma and one after removal of an upper peristriate astrocytoma. The authors explain this by the split layout of V2 and V3, whose upper and lower quadrants flank V1 on opposite sides.",
+    "quote": "Consequently, the upper and lower quadrants in extrastriate cortex are physically isolated on opposite sides of striate cortex. We propose that a lesion involving V2/V3 may be sufficient to create a visual field defect.",
+    "pmid": "1884174",
+    "doi": "10.1093/brain/114.4.1703",
+    "cite": "Horton JC, Hoyt WF. Quadrantic visual field defects. A hallmark of lesions in extrastriate (V2/V3) cortex. Brain. 1991;114(Pt 4):1703-18.",
+    "year": 1991
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "area_v3",
+  "aliases": [
+   "v3",
+   "visual area 3",
+   "third visual area",
+   "v3 and vp"
+  ],
+  "hint": "third strip out from the occipital pole, dorsal and ventral halves",
+  "summary": "Area V3 is the third retinotopic visual area, a strip of cortex outside V2 whose dorsal half sees the lower visual field and whose ventral half (VP or V3v) sees the upper visual field. It is drawn on this model from HCP area V3. Its map is a mirror image of the V2 map, so field borders alternate between V1, V2 and V3. It sends output to V3A, V4 and MT. It contributes to form and motion analysis, though its exact role in humans differs from monkeys.",
+  "where": "It forms a band just outside V2 on the medial and lateral occipital surface, above V2 in the cuneus region (dorsal) and below it in the lingual gyrus (ventral). V3A lies further forward and dorsal. It is seen best in a medial or posterior view of the occipital lobe.",
+  "does": "V3 has a retinotopic map in which the dorsal and ventral halves are split like those of V2. In humans, the neighbouring V3A is relatively motion-selective whereas V3 is less so, which is the reverse of what is reported in macaques. V3 is thought to take part in analysing form, and in the dorsal stream it sends signals toward the parietal cortex. Its precise role in humans is uncertain because it is hard to separate from V2 and V3A.",
+  "connects": "It receives input from V1 and V2, and sends output to V3A, V4, MT (V5) and the posterior parietal cortex. Ventral V3 feeds the ventral stream, and dorsal V3 feeds the dorsal stream.",
+  "clinical": "Lesions of V2 and V3 together can cause a quadrantic visual field defect with a sharp horizontal border, as the upper and lower quadrants are carried on opposite sides of V1. A pure V3 lesion is not described, so the clinical picture is shared with V2.",
+  "remember": "V3 is the third strip: the map flips again, so field borders alternate across V1, V2 and V3.",
+  "facts": [
+   "V3 has dorsal and ventral halves that map the lower and upper visual field.",
+   "Human V3A is more motion-selective than human V3, the reverse of the macaque.",
+   "A lesion of V2 and V3 can produce a quadrantanopia with a sharp horizontal border."
+  ],
+  "quiz": [
+   {
+    "q": "Which retinotopic area, outside V2, has a dorsal half for the lower field and a ventral half called VP for the upper field?",
+    "type": "location"
+   },
+   {
+    "q": "In humans, which area is less motion-selective than its neighbour V3A, the reverse of the macaque pattern?",
+    "type": "function"
+   },
+   {
+    "q": "Which extrastriate area sends output to V3A, V4 and MT, and whose map flips again relative to V2?",
+    "type": "connection"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   7
+  ],
+  "see_also": [
+   "secondary_visual_cortex",
+   "area_v4",
+   "area_mt",
+   "cuneus"
+  ],
+  "how_we_know": "Human V3 was mapped with fMRI retinotopy, which finds borders from the flipping of the field map. Lesion evidence comes from field defects that involve V2 and V3 together. No stimulation or lesion study isolates V3.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "fMRI retinotopy defines the borders of V1, V2, VP, V3 and V4 in humans",
+    "finding": "Phase-encoded retinal stimulation was recorded with fMRI and the data were sampled on a reconstructed cortical surface. The mirror image or non-mirror image layout of the field map was used to outline the borders between adjacent areas objectively. The study also found a greater emphasis on the center of gaze than in monkeys.",
+    "quote": "The borders of human visual areas V1, V2, VP, V3, and V4 were precisely and noninvasively determined.",
+    "pmid": "7754376",
+    "doi": "10.1126/science.7754376",
+    "cite": "Sereno MI, Dale AM, Reppas JB, Kwong KK, et al. Borders of multiple visual areas in humans revealed by functional magnetic resonance imaging. Science. 1995;268(5212):889-93.",
+    "year": 1995
+   },
+   {
+    "kind": "imaging",
+    "claim": "Human V3A is more motion-selective than V3, unlike the macaque",
+    "finding": "The study mapped retinotopy and motion sensitivity of human V3A and compared it with V1, V2, V3, VP, V4v and MT. Human V3A was relatively motion-selective and human V3 less so. In the macaque the pattern is reversed, with V3 reported to be the more motion-selective.",
+    "quote": "However, in other aspects human V3A appears quite different from its macaque counterpart: human V3A is relatively motion-selective, whereas human V3 is less so.",
+    "pmid": "9278542",
+    "doi": "10.1523/JNEUROSCI.17-18-07060.1997",
+    "cite": "Tootell RB, Mendola JD, Hadjikhani NK, Ledden PJ, et al. Functional analysis of V3A and related areas in human visual cortex. J Neurosci. 1997;17(18):7060-78.",
+    "year": 1997
+   },
+   {
+    "kind": "lesion",
+    "claim": "Lesions in V2 and V3 cause quadrantic field defects with a horizontal edge",
+    "finding": "Two patients with astrocytomas in extrastriate cortex had quadrantic field defects that respected the horizontal meridian. The authors argue that V2 and V3 are each split along the horizontal meridian, so a lesion that crosses it produces a quadrantanopia.",
+    "quote": "Areas V2 and V3 are each divided along the horizontal meridian into separate halves flanking striate cortex.",
+    "pmid": "1884174",
+    "doi": "10.1093/brain/114.4.1703",
+    "cite": "Horton JC, Hoyt WF. Quadrantic visual field defects. A hallmark of lesions in extrastriate (V2/V3) cortex. Brain. 1991;114(Pt 4):1703-18.",
+    "year": 1991
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "area_v4",
+  "aliases": [
+   "v4",
+   "visual area 4",
+   "colour area",
+   "color area"
+  ],
+  "hint": "ventral occipitotemporal patch tied to colour vision",
+  "summary": "Area V4 is a visual area on the ventral occipitotemporal surface, in the posterior fusiform and lingual region, that is tied to colour and to the shape of surfaces. It is drawn on this model from HCP area V4. It receives from V2 and V3 and sends to the inferior temporal cortex in the ventral stream. In monkeys V4 cells are tuned to colour, orientation and curvature, and attention changes their response. Damage to the ventral occipital cortex can cause cerebral achromatopsia, in which colour is lost but form and motion are largely kept.",
+  "where": "It lies on the ventral occipital surface, on the lingual and posterior fusiform gyri, beyond ventral V3 (VP) and in front of it. fMRI places human V4 on the lateral side of the collateral sulcus on the fusiform gyrus. A ventral view shows it best, and its exact position varies between people.",
+  "does": "V4 is the best-known colour area. PET and fMRI show a ventral occipital area that responds to colour Mondrians more than to grey equivalents, and which contains a map of the upper and lower fields. Cerebral lesions in this region can abolish colour vision, though the deficit is usually not restricted to colour. In monkeys V4 also codes shape features such as curvature and is strongly modulated by attention. Whether human V4 is the exact homologue of macaque V4 is debated.",
+  "connects": "It receives input from V2, V3 and V3A, and sends output to the inferior temporal cortex and to the parietal cortex. It is a stage in the ventral stream toward object recognition.",
+  "clinical": "Cerebral achromatopsia, loss of colour vision from lesions in the ventral occipital cortex, is the main syndrome. Patients see the world in shades of grey, and nearly all show some loss of spatial vision as well. Lesions are often in the lingual and fusiform gyri, near V4, and the lesion region lies next to the one for prosopagnosia.",
+  "remember": "V4 is the colour spot: lose it and the world turns grey.",
+  "facts": [
+   "Human V4 lies on the lateral side of the collateral sulcus on the fusiform gyrus.",
+   "Cerebral achromatopsia follows ventral occipital lesions, and almost never leaves spatial vision untouched.",
+   "A colour Mondrian activates human V4 more than the same display in greys."
+  ],
+  "quiz": [
+   {
+    "q": "Which ventral occipitotemporal area responds to colour Mondrians and, when lesioned, is linked to cerebral achromatopsia?",
+    "type": "function"
+   },
+   {
+    "q": "A patient sees the world in grey after a stroke in the ventral occipital cortex. Which area is the likely damaged site?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which area lies on the fusiform gyrus lateral to the collateral sulcus, beyond ventral V3?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   7
+  ],
+  "see_also": [
+   "area_v3",
+   "inferior_temporal_cortex",
+   "fusiform_face_area",
+   "fusiform_gyrus"
+  ],
+  "how_we_know": "The human colour area was found with PET and fMRI, which show correlation, and lesion case series show that ventral occipital damage removes colour vision. There is no clean human stimulation result for V4. Lesions are rarely limited to V4 and nearly always affect other functions.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "PET shows a colour-selective area, V4, in the lingual and fusiform gyri",
+    "finding": "Using PET and statistical parametric mapping, the study compared a coloured Mondrian with an equiluminous grey version. A unique prestriate area, V4, was found in the lingual and fusiform gyri. A separate comparison of moving and stationary patterns found area V5.",
+    "quote": "The comparison identified a unique area (area V4) located in the lingual and fusiform gyri of the prestriate cortex.",
+    "pmid": "2002358",
+    "doi": "10.1523/JNEUROSCI.11-03-00641.1991",
+    "cite": "Zeki S, Watson JD, Lueck CJ, Friston KJ, et al. A direct demonstration of functional specialization in human visual cortex. J Neurosci. 1991;11(3):641-9.",
+    "year": 1991
+   },
+   {
+    "kind": "imaging",
+    "claim": "Human V4 is on the lateral side of the collateral sulcus on the fusiform gyrus",
+    "finding": "Twelve subjects viewed a colour Mondrian and its achromatic version in fMRI. Colour activated an area in the ventral occipitotemporal cortex, human V4, whose position varied between people but was always on the fusiform gyrus lateral to the collateral sulcus. It contained a map of both upper and lower fields.",
+    "quote": "The position of human V4, as defined on functional grounds, varies between individuals in absolute terms but is invariably found on the lateral aspect of the collateral sulcus on the fusiform gyrus.",
+    "pmid": "9448578",
+    "doi": "10.1093/brain/120.12.2229",
+    "cite": "McKeefry DJ, Zeki S. The position and topography of the human colour centre as revealed by functional magnetic resonance imaging. Brain. 1997;120(Pt 12):2229-42.",
+    "year": 1997
+   },
+   {
+    "kind": "meta-analysis",
+    "claim": "Ventral occipital lesions cause cerebral achromatopsia, with other visual loss",
+    "finding": "A meta-analysis of 92 case reports found that nearly all cases showed some deficit in colour discrimination and almost all showed some loss of spatial vision. Lesion overlap was highest in a small region of ventral occipital cortex, near sites that imaging links to colour.",
+    "quote": "To address these issues, we performed a meta-analysis of 92 case reports from the literature. The severity of color vision deficits of the cases varied greatly, although nearly all showed some deficit in color discrimination.",
+    "pmid": "15858161",
+    "doi": "10.1093/cercor/bhi096",
+    "cite": "Bouvier SE, Engel SA. Behavioral deficits and cortical damage loci in cerebral achromatopsia. Cereb Cortex. 2006;16(2):183-91.",
+    "year": 2006
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "area_mt",
+  "aliases": [
+   "mt",
+   "v5",
+   "area v5",
+   "middle temporal area",
+   "mt v5",
+   "mt/v5"
+  ],
+  "hint": "motion area near where the temporal, parietal and occipital lobes meet",
+  "summary": "Area MT, also called V5, is a small visual area at the border of the occipital and temporal lobes, near the temporo-parieto-occipital junction, that is specialized for visual motion. It is drawn here from HCP area MT. Most of its neurons are direction-selective, and they are organized in columns for direction of motion. It receives from V1, V2 and V3 and sends to the parietal cortex and the frontal eye field. Damage causes akinetopsia, the loss of motion perception.",
+  "where": "It lies on the lateral occipitotemporal surface, near the junction of the inferior temporal sulcus and the lateral occipital sulcus, in the region of the temporo-parieto-occipital junction. It sits just in front of the lateral occipital complex, which abuts it behind. On the model it lies on the lateral surface at the back, and is found best in a lateral view.",
+  "does": "MT is the motion area of the dorsal stream. Its neurons respond to the direction and speed of moving stimuli, and activity in MT matches perceived motion, even when motion is illusory, as in the waterfall illusion. Stimulating directionally tuned clusters in monkey MT biases the animal's judgement of motion direction, which shows that MT activity helps cause motion perception. In humans, TMS over V5 abolishes motion perception at a short, precise delay.",
+  "connects": "It receives input from V1 (layer 4B), V2 and V3, as well as a direct route from the pulvinar and the lateral geniculate nucleus. It projects to the neighbouring medial superior temporal area, the lateral intraparietal area and the frontal eye field, which use motion for eye movements.",
+  "clinical": "Bilateral lesions that include the lateral temporo-occipital cortex cause akinetopsia, as in the patient who could not see movement in depth, and saw moving things as a series of still frames. She also had trouble pouring a cup of tea, because she could not track the rising level. Movement perception by sound and touch was unaffected.",
+  "remember": "V5 and MT are one: the motion spot, whose loss makes the world a stack of snapshots.",
+  "facts": [
+   "MT is also called V5, and its neurons are strongly direction-selective.",
+   "TMS to V5 abolishes motion perception at a delay near the onset of the stimulus.",
+   "Akinetopsia was described in a patient with bilateral lateral temporo-occipital lesions."
+  ],
+  "quiz": [
+   {
+    "q": "Which small occipitotemporal area, called V5, holds neurons tuned to the direction of visual motion?",
+    "type": "function"
+   },
+   {
+    "q": "A patient with bilateral lateral temporo-occipital damage sees moving objects as still frames. Which area is lost?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which area near the temporo-parieto-occipital junction lies just in front of the lateral occipital complex?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   7
+  ],
+  "see_also": [
+   "lateral_occipital_complex",
+   "area_v3",
+   "lateral_intraparietal_area",
+   "frontal_eye_field"
+  ],
+  "how_we_know": "MT is among the best-supported areas because lesion, imaging, TMS and monkey stimulation all agree. The human lesions are large and bilateral and rarely limited to MT, but TMS offers a reversible causal test in healthy people.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Bilateral lateral temporo-occipital damage selectively disturbs the perception of movement",
+    "finding": "A patient with bilateral posterior brain damage had a nearly pure loss of movement vision. She had no impression of movement in depth, and could only tell stationary from moving targets in the periphery. Movement perceived through sound and touch was normal, and the damage affected the lateral temporo-occipital cortex.",
+    "quote": "A patient who suffered bilateral posterior brain damage exhibited disturbance of movement vision in a rather pure form.",
+    "pmid": "6850272",
+    "doi": "10.1093/brain/106.2.313",
+    "cite": "Zihl J, von Cramon D, Mai N. Selective disturbance of movement vision after bilateral brain damage. Brain. 1983;106(Pt 2):313-40.",
+    "year": 1983
+   },
+   {
+    "kind": "imaging",
+    "claim": "PET picks out V5 near the temporo-parieto-occipital junction for visual motion",
+    "finding": "PET compared moving with stationary black and white patterns. A unique area was identified in the region of the temporo-parieto-occipital junction, area V5, while a colour contrast found V4 elsewhere. This is correlational.",
+    "quote": "The comparison identified a unique area located in the region of the temporo-parieto-occipital junction (area V5).",
+    "pmid": "2002358",
+    "doi": "10.1523/JNEUROSCI.11-03-00641.1991",
+    "cite": "Zeki S, Watson JD, Lueck CJ, Friston KJ, et al. A direct demonstration of functional specialization in human visual cortex. J Neurosci. 1991;11(3):641-9.",
+    "year": 1991
+   },
+   {
+    "kind": "imaging",
+    "claim": "MT activity tracks the illusory motion of the waterfall illusion",
+    "finding": "In fMRI, human MT responded better to moving than to stationary stimuli, and activity rose when subjects viewed a stationary stimulus that appeared to move after adaptation. The fMRI time course matched the time course of the aftereffect measured in parallel, and the effect was smaller or absent in five other retinotopic areas.",
+    "quote": "Here we demonstrate a clear increase in activity in MT when subjects viewed a stationary stimulus undergoing illusory motion, following adaptation to stimuli moving in a single local direction.",
+    "pmid": "7753168",
+    "doi": "10.1038/375139a0",
+    "cite": "Tootell RB, Reppas JB, Dale AM, Look RB, et al. Visual motion aftereffect in human cortical area MT revealed by functional magnetic resonance imaging. Nature. 1995;375(6527):139-41.",
+    "year": 1995
+   },
+   {
+    "kind": "stimulation",
+    "claim": "TMS over V5 abolishes motion perception much more than TMS over V1 does",
+    "finding": "In healthy people, TMS over V5 at a delay near the visual stimulus onset abolished the ability to discriminate motion direction, while TMS over V1 abolished it only marginally and at later delays. The timing suggests signals reach V5 before V1 through a fast route that bypasses V1.",
+    "quote": "We conclude (i) that stimulation of V5 is a much more potent way of inducing akinetopsia (motion imperception) than stimulation of V1;",
+    "pmid": "7895014",
+    "doi": "10.1093/brain/118.1.49",
+    "cite": "Beckers G, Zeki S. The consequences of inactivating areas V1 and V5 on visual motion perception. Brain. 1995;118(Pt 1):49-60.",
+    "year": 1995
+   }
+  ],
+  "stimulation": {
+   "method": "transcranial magnetic stimulation (TMS) over V5 in healthy volunteers",
+   "effect": "A pulse over V5 at the right moment abolished the perception of motion direction, a temporary akinetopsia. A pulse over V1 had only a marginal effect at later delays.",
+   "quote": "We conclude (i) that stimulation of V5 is a much more potent way of inducing akinetopsia (motion imperception) than stimulation of V1;",
+   "pmid": "7895014",
+   "doi": "10.1093/brain/118.1.49",
+   "cite": "Beckers G, Zeki S. The consequences of inactivating areas V1 and V5 on visual motion perception. Brain. 1995;118(Pt 1):49-60.",
+   "year": 1995
+  }
+ },
+ {
+  "id": "lateral_occipital_complex",
+  "aliases": [
+   "loc",
+   "lo",
+   "lateral occipital cortex",
+   "object area"
+  ],
+  "hint": "side of the occipital lobe, behind MT, responds to objects",
+  "summary": "The lateral occipital complex is a region of lateral occipital and posterior ventral temporal cortex that responds more to objects than to textures or scrambled images. It lies just behind area MT and is drawn here from HCP areas LO1, LO2 and LO3, which are retinotopic visual field maps, so the outline approximates the functionally defined LOC. It sits in the ventral stream between early visual areas and the temporal cortex. It carries information about object shape that does not depend on the exact contours. TMS to this region impairs object recognition but not recognition of faces or bodies.",
+  "where": "It lies on the lateral surface of the occipital lobe, extending into the posterior parts of the inferior temporal and fusiform gyri, just behind and below area MT. The model uses HCP areas LO1, LO2 and LO3, which are visual field maps on the lateral occipital cortex, so the outline approximates the functional LOC, which also reaches the ventral surface. A lateral view shows it best.",
+  "does": "The LOC responds more to images of objects than to textures, even when power spectra match, and its response does not change with size or with whether the eyes scan the object. Its adaptation tracks perceived shape, not the contours drawn, and its activity follows how recognizable an object is. It is not tied to the semantic stage of recognition, because famous faces, common objects and unfamiliar sculptures activate it about equally. It is an intermediate step between feature analysis and recognition.",
+  "connects": "It receives input from V1 to V4 and the retinotopic lateral occipital maps, and projects to the fusiform gyrus, the inferior temporal cortex and the parietal cortex. It lies in the ventral stream, and parts of it also communicate with dorsal stream regions.",
+  "clinical": "Bilateral lesions of lateral occipital cortex cause visual form agnosia: in patient D.F., fMRI showed no object-selective response in the LO, and her lesion matched the LO location, yet the grasp network in the dorsal stream still worked. Damage here leaves colour and motion perception better preserved. TMS over right LO impairs object discrimination.",
+  "remember": "LOC is the object spot behind MT: shapes light it up, textures do not.",
+  "facts": [
+   "The LOC responds more to objects than to textures matched in power spectra.",
+   "TMS over right LO impaired object discrimination but not discrimination of faces or bodies.",
+   "Patient D.F. had bilateral lesions where LO lies, and form agnosia with preserved visually guided grasping."
+  ],
+  "quiz": [
+   {
+    "q": "Which lateral occipital region responds more to objects than to textures and represents perceived shape?",
+    "type": "function"
+   },
+   {
+    "q": "Patient D.F. could not recognize drawings but grasped objects well. Which region, lesioned bilaterally, lacked object-selective activation?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which object-selective cortex abuts the back of area MT on the lateral occipital surface?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   7
+  ],
+  "see_also": [
+   "area_mt",
+   "fusiform_face_area",
+   "inferior_temporal_cortex",
+   "middle_occipital_gyrus"
+  ],
+  "how_we_know": "The LOC was found with fMRI, and then tested with TMS and with the lesion in patient D.F. The three methods agree that it supports object shape, but the HCP outline is a retinotopic approximation of a region defined by function.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "A lateral occipital region responds more to objects than to textures",
+    "finding": "In the fMRI study that named the lateral occipital complex, activation was at the lateral-posterior occipital lobe just behind MT/V5. It was stronger for objects than for textures, including textures matched in power spectra but randomized in phase, and it was not changed by size or eye movements.",
+    "quote": "LO showed preferential activation to images of objects, compared to a wide range of texture patterns.",
+    "pmid": "7667258",
+    "doi": "10.1073/pnas.92.18.8135",
+    "cite": "Malach R, Reppas JB, Benson RR, Kwong KK, et al. Object-related activity revealed by functional magnetic resonance imaging in human occipital cortex. Proc Natl Acad Sci U S A. 1995;92(18):8135-9.",
+    "year": 1995
+   },
+   {
+    "kind": "imaging",
+    "claim": "The LOC represents perceived object shape, not simple image contours",
+    "finding": "An event-related fMRI adaptation experiment showed adaptation in the LOC when perceived shape was the same but the contours differed. There was no adaptation when contours were the same but the perceived shape differed. This means the LOC represents higher level shape information.",
+    "quote": "We found adaptation in the LOC when perceived shape was identical but contours differed, but not when contours were identical but perceived shape differed.",
+    "pmid": "11520991",
+    "doi": "10.1126/science.1061133",
+    "cite": "Kourtzi Z, Kanwisher N. Representation of perceived object shape by the human lateral occipital complex. Science. 2001;293(5534):1506-9.",
+    "year": 2001
+   },
+   {
+    "kind": "lesion",
+    "claim": "A bilateral lesion at LO leaves object recognition impaired and grasping spared",
+    "finding": "Patient D.F. has severe visual form agnosia. In fMRI she showed no difference between line drawings of objects and scrambled drawings in the lateral occipital cortex, which responded in healthy people, and high-resolution MRI showed her lesion matched the LO location on both sides. Her dorsal stream activated normally for grasping.",
+    "quote": "Moreover, high-resolution anatomical MRI showed that her lesion corresponded bilaterally with the location of LO in healthy participants.",
+    "pmid": "14506065",
+    "doi": "10.1093/brain/awg248",
+    "cite": "James TW, Culham J, Humphrey GK, Milner AD, et al. Ventral occipital lesions impair object recognition but not object-directed grasping: an fMRI study. Brain. 2003;126(Pt 11):2463-75.",
+    "year": 2003
+   },
+   {
+    "kind": "stimulation",
+    "claim": "TMS over right LO impairs object discrimination but not faces or bodies",
+    "finding": "TMS was delivered over three adjacent functionally localized areas while participants discriminated faces, bodies and objects. Stimulation of right LO impaired objects but not faces or bodies, over the occipital face area impaired faces only, and over the extrastriate body area impaired bodies only.",
+    "quote": "TMS over rLO impaired discrimination of objects but not faces or bodies.",
+    "pmid": "19200723",
+    "doi": "10.1016/j.cub.2009.01.007",
+    "cite": "Pitcher D, Charles L, Devlin JT, Walsh V, et al. Triple dissociation of faces, bodies, and objects in extrastriate cortex. Curr Biol. 2009;19(4):319-24.",
+    "year": 2009
+   }
+  ],
+  "stimulation": {
+   "method": "transcranial magnetic stimulation (TMS) over right lateral occipital area (rLO)",
+   "effect": "TMS over right LO impaired discrimination of objects, but not of faces or bodies.",
+   "quote": "TMS over rLO impaired discrimination of objects but not faces or bodies.",
+   "pmid": "19200723",
+   "doi": "10.1016/j.cub.2009.01.007",
+   "cite": "Pitcher D, Charles L, Devlin JT, Walsh V, et al. Triple dissociation of faces, bodies, and objects in extrastriate cortex. Curr Biol. 2009;19(4):319-24.",
+   "year": 2009
+  }
+ }
+]

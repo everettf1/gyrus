@@ -1,0 +1,40 @@
+1. J Neurosci. 2014 Apr 16;34(16):5399-405. doi: 10.1523/JNEUROSCI.5202-13.2014.
+
+Seeing scenes: topographic visual hallucinations evoked by direct electrical 
+stimulation of the parahippocampal place area.
+
+Mégevand P(1), Groppe DM, Goldfinger MS, Hwang ST, Kingsley PB, Davidesco I, 
+Mehta AD.
+
+Author information:
+(1)Departments of Neurosurgery, Feinstein Institute for Medical Research, 
+Neurology, and Radiology, Hofstra North Shore-LIJ School of Medicine, Manhasset, 
+New York 11030, and Neuroscience Institute, Princeton University, Princeton, New 
+Jersey 08540.
+
+Comment in
+    J Neurosci. 2014 Sep 3;34(36):11865-7. doi: 10.1523/JNEUROSCI.2429-14.2014.
+
+In recent years, functional neuroimaging has disclosed a network of cortical 
+areas in the basal temporal lobe that selectively respond to visual scenes, 
+including the parahippocampal place area (PPA). Beyond the observation that 
+lesions involving the PPA cause topographic disorientation, there is little 
+causal evidence linking neural activity in that area to the perception of 
+places. Here, we combined functional magnetic resonance imaging (fMRI) and 
+intracranial EEG (iEEG) recordings to delineate place-selective cortex in a 
+patient implanted with stereo-EEG electrodes for presurgical evaluation of 
+drug-resistant epilepsy. Bipolar direct electrical stimulation of a cortical 
+area in the collateral sulcus and medial fusiform gyrus, which was 
+place-selective according to both fMRI and iEEG, induced a topographic visual 
+hallucination: the patient described seeing indoor and outdoor scenes that 
+included views of the neighborhood he lives in. By contrast, stimulating the 
+more lateral aspect of the basal temporal lobe caused distortion of the 
+patient's perception of faces, as recently reported (Parvizi et al., 2012). Our 
+results support the causal role of the PPA in the perception of visual scenes, 
+demonstrate that electrical stimulation of higher order visual areas can induce 
+complex hallucinations, and also reaffirm direct electrical brain stimulation as 
+a tool to assess the function of the human cerebral cortex.
+
+DOI: 10.1523/JNEUROSCI.5202-13.2014
+PMCID: PMC6608225
+PMID: 24741031 [Indexed for MEDLINE]

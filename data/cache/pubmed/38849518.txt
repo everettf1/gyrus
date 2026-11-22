@@ -1,0 +1,74 @@
+1. Commun Biol. 2024 Jun 7;7(1):700. doi: 10.1038/s42003-024-06399-9.
+
+Fronto-thalamic networks and the left ventral thalamic nuclei play a key role in 
+aphasia after thalamic stroke.
+
+Rangus I(#)(1)(2), Rios AS(#)(3), Horn A(3)(4)(5)(6)(7), Fritsch M(8), Khalil 
+A(3)(9), Villringer K(3)(9), Udke B(10), Ihrke M(10), Grittner U(11)(12), 
+Galinovic I(3)(9), Al-Fatly B(4), Endres M(3)(9)(12)(13)(14)(15), Kufner 
+A(3)(9), Nolte CH(3)(9)(12)(13).
+
+Author information:
+(1)Charité - Universitätsmedizin Berlin, corporate member of Freie Universität 
+Berlin and Humboldt-Universität zu Berlin, Klinik für Neurologie mit 
+Experimenteller Neurologie, Berlin, Germany. ida.rangus@charite.de.
+(2)Charité - Universitätsmedizin Berlin, corporate member of Freie Universität 
+Berlin and Humboldt-Universität zu Berlin, Center for Stroke Research Berlin 
+(CSB), Berlin, Germany. ida.rangus@charite.de.
+(3)Charité - Universitätsmedizin Berlin, corporate member of Freie Universität 
+Berlin and Humboldt-Universität zu Berlin, Klinik für Neurologie mit 
+Experimenteller Neurologie, Berlin, Germany.
+(4)Charité - Universitätsmedizin Berlin, corporate member of Freie Universität 
+Berlin and Humboldt-Universität zu Berlin, Klinik für Neurologie mit 
+experimenteller Neurologie, Movement Disorder and Neuromodulation Unit, Berlin, 
+Germany.
+(5)Department of Neurology, Harvard Medical School, Boston, MA, USA.
+(6)Center for Brain Circuit Therapeutics, Brigham and Women's Hospital, Boston, 
+MA, USA.
+(7)Department of Neurology, Brigham and Women's Hospital, Boston, MA, USA.
+(8)Charité - Universitätsmedizin Berlin, corporate member of Freie Universität 
+Berlin and Humboldt-Universität zu Berlin, Klinik für Psychiatrie und 
+Psychotherapie, Berlin, Germany.
+(9)Charité - Universitätsmedizin Berlin, corporate member of Freie Universität 
+Berlin and Humboldt-Universität zu Berlin, Center for Stroke Research Berlin 
+(CSB), Berlin, Germany.
+(10)Charité - Universitätsmedizin Berlin, corporate member of Freie Universität 
+Berlin and Humboldt-Universität zu Berlin, Klinik für Audiologie und Phoniatrie, 
+Berlin, Germany.
+(11)Charité - Universitätsmedizin Berlin, corporate member of Freie Universität 
+Berlin and Humboldt-Universität zu Berlin, Institut für Biometrie und klinische 
+Epidemiologie, Berlin, Germany.
+(12)Berlin Institute of Health at Charité - Universitätsmedizin Berlin, Berlin, 
+Germany.
+(13)German Center for Cardiovascular Research (Deutsches Zentrum für Herz 
+Kreislauferkrankungen, DZHK), Partner Site Berlin, Berlin, Germany.
+(14)Charité - Universitätsmedizin Berlin, corporate member of Freie Universität 
+Berlin and Humboldt-Universität zu Berlin, NeuroCure Cluster of Excellence, 
+NeuroCure Clinical Research Center (NCRC), Berlin, Germany.
+(15)German Center for Neurodegenerative Diseases (Deutsches Zentrum für 
+Neurodegenerative Erkrankungen, DZNE), Partner Site Berlin, Berlin, Germany.
+(#)Contributed equally
+
+Thalamic aphasia results from focal thalamic lesions that cause dysfunction of 
+remote but functionally connected cortical areas due to language network 
+perturbation. However, specific local and network-level neural substrates of 
+thalamic aphasia remain incompletely understood. Using lesion symptom mapping, 
+we demonstrate that lesions in the left ventrolateral and ventral anterior 
+thalamic nucleus are most strongly associated with aphasia in general and with 
+impaired semantic and phonemic fluency and complex comprehension in particular. 
+Lesion network mapping (using a normative connectome based on fMRI data from 
+1000 healthy individuals) reveals a Thalamic aphasia network encompassing 
+widespread left-hemispheric cerebral connections, with Broca's area showing the 
+strongest associations, followed by the superior and middle frontal gyri, 
+precentral and paracingulate gyri, and globus pallidus. Our results imply the 
+critical involvement of the left ventrolateral and left ventral anterior 
+thalamic nuclei in engaging left frontal cortical areas, especially Broca's 
+area, during language processing.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s42003-024-06399-9
+PMCID: PMC11161613
+PMID: 38849518 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

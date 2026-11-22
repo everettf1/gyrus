@@ -1,0 +1,31 @@
+1. Science. 2005 Sep 30;309(5744):2226-8. doi: 10.1126/science.1116251.
+
+Direct evidence for a parietal-frontal pathway subserving spatial awareness in 
+humans.
+
+Thiebaut de Schotten M(1), Urbanski M, Duffau H, Volle E, Lévy R, Dubois B, 
+Bartolomeo P.
+
+Author information:
+(1)INSERM Unit 610, Assistance Publique-Hôpitaux de Paris, Hôpital de la 
+Salpêtrière, 75013 Paris, France.
+
+Erratum in
+    Science. 2007 Aug 3;317(5838):597.
+
+Comment in
+    Science. 2005 Sep 30;309(5744):2172-3. doi: 10.1126/science.1119445.
+
+Intraoperative electrical stimulation, which temporarily inactivates restricted 
+regions during brain surgery, can map cognitive functions in humans with 
+spatiotemporal resolution unmatched by other methods. Using this technique, we 
+found that stimulation of the right inferior parietal lobule or the caudal 
+superior temporal gyrus, but not of its rostral portion, determined rightward 
+deviations on line bisection. However, the strongest shifts occurred with 
+subcortical stimulation. Fiber tracking identified the stimulated site as a 
+section of the superior occipitofrontal fasciculus, a poorly known 
+parietal-frontal pathway. These findings suggest that parietal-frontal 
+communication is necessary for the symmetrical processing of the visual scene.
+
+DOI: 10.1126/science.1116251
+PMID: 16195465 [Indexed for MEDLINE]

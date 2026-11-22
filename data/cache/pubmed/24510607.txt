@@ -1,0 +1,36 @@
+1. Hum Brain Mapp. 2014 Aug;35(8):4140-54. doi: 10.1002/hbm.22466. Epub 2014 Feb
+7.
+
+Pupil diameter covaries with BOLD activity in human locus coeruleus.
+
+Murphy PR(1), O'Connell RG, O'Sullivan M, Robertson IH, Balsters JH.
+
+Author information:
+(1)Trinity College Institute of Neuroscience and School of Psychology, Trinity 
+College Dublin, Dublin 2, Ireland.
+
+The locus coeruleus-noradrenergic (LC-NA) neuromodulatory system has been 
+implicated in a broad array of cognitive processes, yet scope for investigating 
+this system's function in humans is currently limited by an absence of reliable 
+non-invasive measures of LC activity. Although pupil diameter has been employed 
+as a proxy measure of LC activity in numerous studies, empirical evidence for a 
+relationship between the two is lacking. In the present study, we sought to 
+rigorously probe the relationship between pupil diameter and BOLD activity 
+localized to the human LC. Simultaneous pupillometry and fMRI revealed a 
+relationship between continuous pupil diameter and BOLD activity in a dorsal 
+pontine cluster overlapping with the LC, as localized via neuromelanin-sensitive 
+structural imaging and an LC atlas. This relationship was present both at rest 
+and during performance of a two-stimulus oddball task, with and without spatial 
+smoothing of the fMRI data, and survived retrospective image correction for 
+physiological noise. Furthermore, the spatial extent of this pupil/LC 
+relationship guided a volume-of-interest analysis in which we provide the first 
+demonstration in humans of a fundamental characteristic of animal LC activity: 
+phasic modulation by oddball stimulus relevance. Taken together, these findings 
+highlight the potential for utilizing pupil diameter to achieve a more 
+comprehensive understanding of the role of the LC-NA system in human cognition.
+
+Copyright © 2014 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hbm.22466
+PMCID: PMC6869043
+PMID: 24510607 [Indexed for MEDLINE]

@@ -1,0 +1,42 @@
+1. Soc Cogn Affect Neurosci. 2017 May 1;12(5):707-717. doi: 10.1093/scan/nsx002.
+
+The dorsomedial prefrontal cortex mediates the interaction between moral and 
+aesthetic valuation: a TMS study on the beauty-is-good stereotype.
+
+Ferrari C(1), Nadal M(2), Schiavi S(1), Vecchi T(3)(4), Cela-Conde CJ(2), 
+Cattaneo Z(1)(4).
+
+Author information:
+(1)Department of Psychology, University of Milano-Bicocca, Milan, Italy.
+(2)Human Evolution and Cognition Group (EvoCog), University of the Balearic 
+Islands and IFISC, Associated Unit to CSIC, Palma de Mallorca, Spain.
+(3)Department of Brain and Behavioral Sciences, University of Pavia, Pavia, 
+Italy.
+(4)Brain Connectivity Center, C. Mondino National Neurological Institute, Pavia, 
+Italy.
+
+Attractive individuals are perceived as possessing more positive personal traits 
+than unattractive individuals. This reliance on aesthetic features to infer 
+moral character suggests a close link between aesthetic and moral valuation. 
+Here we aimed to investigate the neural underpinnings of the interaction between 
+aesthetic and moral valuation by combining transcranial magnetic stimulation 
+(TMS) with a priming paradigm designed to assess the Beauty-is-Good stereotype. 
+Participants evaluated the trustworthiness of a series of faces (targets), each 
+of which was preceded by an adjective describing desirable, undesirable, or 
+neutral aesthetic qualities (primes). TMS was applied between prime and target 
+to interfere with activity in two regions known to be involved in aesthetic and 
+moral valuation: the dorsomedial prefrontal cortex (dmPFC, a core region in 
+social cognition) and the dorsolateral prefrontal cortex (dlPFC, critical in 
+decision making). Our results showed that when TMS was applied over vertex 
+(control) and over the dlPFC, participants judged faces as more trustworthy when 
+preceded by positive than by negative aesthetic primes (as also shown in two 
+behavioral experiments). However, when TMS was applied over the dmPFC, primes 
+had no effect on trustworthiness judgments. A second Experiment corroborated 
+this finding. Our results suggest that mPFC plays a causal role linking moral 
+and aesthetic valuation.
+
+© The Author (2017). Published by Oxford University Press.
+
+DOI: 10.1093/scan/nsx002
+PMCID: PMC5460046
+PMID: 28158864 [Indexed for MEDLINE]

@@ -1,0 +1,29 @@
+1. Science. 2009 May 8;324(5928):811-3. doi: 10.1126/science.1169896.
+
+Movement intention after parietal cortex stimulation in humans.
+
+Desmurget M(1), Reilly KT, Richard N, Szathmari A, Mottolese C, Sirigu A.
+
+Author information:
+(1)Centre de Neuroscience Cognitive, CNRS, UMR 5229, 69500 Bron, France.
+
+Comment in
+    Science. 2009 May 8;324(5928):731-3. doi: 10.1126/science.1173827.
+    Science. 2010 Mar 5;327(5970):1200; author reply 1200. doi: 
+10.1126/science.1183758.
+
+Parietal and premotor cortex regions are serious contenders for bringing motor 
+intentions and motor responses into awareness. We used electrical stimulation in 
+seven patients undergoing awake brain surgery. Stimulating the right inferior 
+parietal regions triggered a strong intention and desire to move the 
+contralateral hand, arm, or foot, whereas stimulating the left inferior parietal 
+region provoked the intention to move the lips and to talk. When stimulation 
+intensity was increased in parietal areas, participants believed they had really 
+performed these movements, although no electromyographic activity was detected. 
+Stimulation of the premotor region triggered overt mouth and contralateral limb 
+movements. Yet, patients firmly denied that they had moved. Conscious intention 
+and motor awareness thus arise from increased parietal activity before movement 
+execution.
+
+DOI: 10.1126/science.1169896
+PMID: 19423830 [Indexed for MEDLINE]

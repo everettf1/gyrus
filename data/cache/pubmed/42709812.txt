@@ -1,0 +1,51 @@
+1. Proc Natl Acad Sci U S A. 2026 Sep 15;123(37):e2604933123. doi: 
+10.1073/pnas.2604933123. Epub 2026 Sep 8.
+
+Neuromotor modules revealed by direct electrical stimulation of the human 
+primary motor cortex.
+
+Xie JJ(1), Huang S(2), Lau KYS(1), Kong AHS(3), Chan RHM(2), Woo PYM(4)(5), 
+Cheung VCK(1)(6)(7).
+
+Author information:
+(1)School of Biomedical Sciences, and The Gerald Choa Neuroscience Institute, 
+The Chinese University of Hong Kong, Hong Kong, China.
+(2)Department of Electrical Engineering, City University of Hong Kong, Hong 
+Kong, China.
+(3)Department of Anaesthesiology and Operating Theatre Services, Kwong Wah 
+Hospital, Hong Kong, China.
+(4)Department of Neurosurgery, Prince of Wales Hospital, Hong Kong, China.
+(5)Department of Neurosurgery, Kwong Wah Hospital, Hong Kong, China.
+(6)Joint Laboratory of Bioresources and Molecular Research of Common Diseases, 
+The Chinese University of Hong Kong and Kunming Institute of Zoology of the 
+Chinese Academy of Sciences, Hong Kong, China.
+(7)The Gerald Choa Neuroscience Institute-Oujiang Laboratory Joint Laboratory 
+for Neuroscience and Neurology, The Chinese University of Hong Kong, Hong Kong, 
+China.
+
+Muscle synergies extracted from multimuscle electromyographic (EMG) signals are 
+widely interpreted as fundamental building blocks of motor control that 
+coordinate groups of muscles during movement. Whether EMG-derived muscle 
+synergies represent genuine neurally encoded modules or motor regularities 
+arising from task or biomechanical constraints has been hotly debated because 
+neurophysiological data that definitively demonstrate the neural basis of muscle 
+synergies in humans have been lacking. Here, we seek to validate the potential 
+neural origin of upper limb muscle synergies by exploiting direct electrical 
+stimulation (DES) of the primary motor cortex (M1) routinely delivered by 
+neurosurgeons during awake craniotomy surgery for glioma excision. Across 13 
+patients, 69% of the muscle synergies observed during preoperative voluntary 
+behaviors could be matched to DES-evoked muscle synergies or their combination. 
+Analysis of the synergies' cortical activity maps further revealed that the 
+cortical representations of the sparser muscle synergies were more anterior and 
+distributed, and those of the nonsparse synergies, more posterior and localized. 
+Our results not only provide direct causal evidence arguing for the neural 
+origin of most behavioral muscle synergies in humans but also demonstrate the 
+potential existence of two M1 subdivisions with distinct patterns of muscle 
+synergy organization.
+
+DOI: 10.1073/pnas.2604933123
+PMCID: PMC13578996
+PMID: 42709812 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests statement:The authors 
+declare no competing interest.

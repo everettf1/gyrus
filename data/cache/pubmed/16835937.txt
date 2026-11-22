@@ -1,0 +1,35 @@
+1. Anat Rec A Discov Mol Cell Evol Biol. 2006 Aug;288(8):867-76. doi: 
+10.1002/ar.a.20362.
+
+Looking for the lunate sulcus: a magnetic resonance imaging study in modern 
+humans.
+
+Allen JS(1), Bruss J, Damasio H.
+
+Author information:
+(1)Dornsife Cognitive Neuroscience Imaging Center, University of Southern 
+California, Los Angeles, 90089, USA. jsallen@usc.edu
+
+The position of the lunate sulcus in fossil endocasts (when it can be 
+determined) may serve as a potential marker of cognitive development in extinct 
+hominid species. While the lunate sulcus is reliably present in the brains of 
+great apes and forms the anterolateral boundary of the primary visual cortex, in 
+humans its presentation is much more variable, and even if present, it does not 
+correspond to a functional region. Grafton Elliot Smith, who named the lunate 
+sulcus, claimed that it was homologous in humans and the great apes. Using 
+high-resolution MRI, we assessed the presence/absence and course of the lunate 
+sulcus in 110 adult subjects. We found that in the vast majority of cases, 
+lunate sulci identified on the surface of the occipital lobe are actually 
+composed of smaller sulcal segments that converge into an apparently continuous 
+composite lunate sulcus. We found only 3 examples in 220 hemispheres (1.4%) of 
+continuous lunate sulci that resembled ape lunates in form (albeit in a more 
+posterior position). Composite lunate sulci were found in 32.7% of left 
+hemispheres and 26.4% of right hemispheres. These results, combined with those 
+from histological and functional imaging studies, indicate that human and ape 
+lunate sulci are not homologous structures. We suggest that the extent of 
+functional reorganization of the occipital region during hominid evolution has 
+been underestimated, and that changes in this region were not just passively 
+shaped by expansion of parietal association cortex.
+
+DOI: 10.1002/ar.a.20362
+PMID: 16835937 [Indexed for MEDLINE]

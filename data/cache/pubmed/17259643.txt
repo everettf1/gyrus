@@ -1,0 +1,31 @@
+1. Cereb Cortex. 2007 Nov;17(11):2669-74. doi: 10.1093/cercor/bhl176. Epub 2007
+Jan  27.
+
+The role of ventromedial prefrontal cortex in decision making: judgment under 
+uncertainty or judgment per se?
+
+Fellows LK(1), Farah MJ.
+
+Author information:
+(1)Department of Neurology and Neurosurgery, McGill University, Montreal 
+Neurological Institute, Montreal, Quebec, Canada.
+
+Ventromedial prefrontal cortex (VMF) is thought to be important in human 
+decision making, but studies to date have focused on decision making under 
+conditions of uncertainty, including risky or ambiguous decisions. Other lines 
+of evidence suggest that this area of the brain represents quite basic 
+information about the relative "economic" value of options, predicting a role 
+for this region in value-based decision making even in the absence of 
+uncertainty. We tested this prediction in human subjects with VMF damage. 
+Preference judgment is a simple form of value-based decision making under 
+certainty. We asked whether VMF damage in humans would lead to inconsistent 
+preference judgments in a simple pairwise choice task. Twenty-one participants 
+with focal damage to the frontal lobes were compared with 19 age- and 
+education-matched control subjects. Subjects with VMF damage were significantly 
+more inconsistent in their preferences than controls, whereas those with frontal 
+damage that spared the VMF performed normally. These results argue that VMF 
+plays a necessary role in certain as well as uncertain decision making in 
+humans.
+
+DOI: 10.1093/cercor/bhl176
+PMID: 17259643 [Indexed for MEDLINE]

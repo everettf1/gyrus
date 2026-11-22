@@ -1,0 +1,25 @@
+1. Nat Rev Neurosci. 2002 Mar;3(3):201-15. doi: 10.1038/nrn755.
+
+Control of goal-directed and stimulus-driven attention in the brain.
+
+Corbetta M(1), Shulman GL.
+
+Author information:
+(1)Department of Neurology, Washington University School of Medicine, St Louis, 
+Missouri 63110, USA. mau@npg.wustl.edu
+
+We review evidence for partially segregated networks of brain areas that carry 
+out different attentional functions. One system, which includes parts of the 
+intraparietal cortex and superior frontal cortex, is involved in preparing and 
+applying goal-directed (top-down) selection for stimuli and responses. This 
+system is also modulated by the detection of stimuli. The other system, which 
+includes the temporoparietal cortex and inferior frontal cortex, and is largely 
+lateralized to the right hemisphere, is not involved in top-down selection. 
+Instead, this system is specialized for the detection of behaviourally relevant 
+stimuli, particularly when they are salient or unexpected. This ventral 
+frontoparietal network works as a 'circuit breaker' for the dorsal system, 
+directing attention to salient events. Both attentional systems interact during 
+normal vision, and both are disrupted in unilateral spatial neglect.
+
+DOI: 10.1038/nrn755
+PMID: 11994752 [Indexed for MEDLINE]

@@ -1,0 +1,47 @@
+1. Neurosurgery. 2013 Nov;73(5):797-807; discussion 806-7. doi: 
+10.1227/NEU.0000000000000087.
+
+Is intraoperative diffusion tensor imaging at 3.0T comparable to subcortical 
+corticospinal tract mapping?
+
+Ostrý S(1), Belšan T, Otáhal J, Beneš V, Netuka D.
+
+Author information:
+(1)*Department of Neurosurgery, First Medical Faculty, Charles University in 
+Prague, Central Military Hospital-Military University Hospital Prague, Czech 
+Republic; ‡Department of Radiology, Central Military Hospital-Military 
+University Hospital Prague, Czech Republic; and §Department of Developmental 
+Epileptology, Institute of Physiology, Academy of Sciences of the Czech 
+Republic, Prague, Czech Republic.
+
+BACKGROUND: Primary brain tumors in motor eloquent areas are associated with 
+high-risk surgical procedures because of potentially permanent and often 
+disabling motor deficits. Intraoperative primary motor cortex mapping and 
+corticospinal tract (CST) monitoring are well-developed and reliable techniques. 
+Imaging of the CST by diffusion tensor tractography (DTT) is also feasible.
+OBJECTIVE: To evaluate the practical value of 3.0T intraoperative MRI (iMRI) 
+with intraoperative DTT (iDTT) in surgery close to the CST, and to compare 
+high-field iDTT with intraoperative neurophysiological CST mapping during glioma 
+and metastasis resection in a routine setting.
+METHODS: Twenty-five patients (13 males, 12 females, median 47 years) were 
+enrolled prospectively from June 2010 to June 2012. Patients were included if 
+they had a solitary supratentorial intracerebral lesion compressing or 
+infiltrating the CST according to preoperative MRI. Subcortical CST mapping was 
+performed by monopolar (cathodal) stimulation (500 Hz, 400 μs, 5 pulses). CST 
+DTT was made both at preoperative and intraoperative 3.0T MRI. Subcortical 
+motor-evoked potential threshold current and probe-CST distance were recorded at 
+155 points before and at 103 points after iMRI. Current-distance correlations 
+were performed both for pre-iMRI and for post-iMRI data.
+RESULTS: The correlation coefficient pre-iMRI was R = 0.470 (P < .001); 
+post-iMRI, the correlation coefficient was R = 0.338 (P < .001). MRI radical 
+resection was achieved in 17 patients (68%), subtotal in 5 (24%), and partial in 
+3 (12%). Postoperative paresis developed in 8 patients (32%); the paresis was 
+permanent in 1 case (4%).
+CONCLUSION: The linear current-distance correlation was found both in pre-iMRI 
+and in post-iMRI data. Intraoperative image distortion appeared in 36%. 
+Neurophysiological subcortical mapping remains superior to DTT. Combining these 
+2 methods in selected cases can help increase the safety of tumor resection 
+close to the CST.
+
+DOI: 10.1227/NEU.0000000000000087
+PMID: 23863765 [Indexed for MEDLINE]

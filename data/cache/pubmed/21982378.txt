@@ -1,0 +1,31 @@
+1. Neuron. 2011 Oct 6;72(1):178-87. doi: 10.1016/j.neuron.2011.08.010.
+
+Olfactory predictive codes and stimulus templates in piriform cortex.
+
+Zelano C(1), Mohanty A, Gottfried JA.
+
+Author information:
+(1)Department of Neurology, Feinberg School of Medicine, Northwestern 
+University, Chicago, IL 60611, USA. c-zelano@northwestern.edu
+
+Neuroscientific models of sensory perception suggest that the brain utilizes 
+predictive codes in advance of a stimulus encounter, enabling organisms to infer 
+forthcoming sensory events. However, it is poorly understood how such mechanisms 
+are implemented in the olfactory system. Combining high-resolution functional 
+magnetic resonance imaging with multivariate (pattern-based) analyses, we 
+examined the spatiotemporal evolution of odor perception in the human brain 
+during an olfactory search task. Ensemble activity patterns in anterior piriform 
+cortex (APC) and orbitofrontal cortex (OFC) reflected the attended odor target 
+both before and after stimulus onset. In contrast, prestimulus ensemble 
+representations of the odor target in posterior piriform cortex (PPC) gave way 
+to poststimulus representations of the odor itself. Critically, the robustness 
+of target-related patterns in PPC predicted subsequent behavioral performance. 
+Our findings directly show that the brain generates predictive templates or 
+"search images" in PPC, with physical correspondence to odor-specific pattern 
+representations, to augment olfactory perception.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2011.08.010
+PMCID: PMC3190127
+PMID: 21982378 [Indexed for MEDLINE]

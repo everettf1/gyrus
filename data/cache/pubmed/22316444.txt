@@ -1,0 +1,44 @@
+1. N Engl J Med. 2012 Feb 9;366(6):502-10. doi: 10.1056/NEJMoa1107212.
+
+Memory enhancement and deep-brain stimulation of the entorhinal area.
+
+Suthana N(1), Haneef Z, Stern J, Mukamel R, Behnke E, Knowlton B, Fried I.
+
+Author information:
+(1)Department of Neurosurgery, David Geffen School of Medicine and Semel 
+Institute for Neuroscience and Human Behavior, University of California, Los 
+Angeles, CA 90095-7039, USA.
+
+Comment in
+    N Engl J Med. 2012 Feb 9;366(6):563-5. doi: 10.1056/NEJMe1114531.
+    N Engl J Med. 2012 May 17;366(20):1945; author reply 1946. doi: 
+10.1056/NEJMc1203204.
+    N Engl J Med. 2012 May 17;366(20):1945; author reply 1946. doi: 
+10.1056/NEJMc1203204.
+    N Engl J Med. 2012 May 17;366(20):1945-6; author reply 1946. doi: 
+10.1056/NEJMc1203204.
+
+BACKGROUND: The medial temporal structures, including the hippocampus and the 
+entorhinal cortex, are critical for the ability to transform daily experience 
+into lasting memories. We tested the hypothesis that deep-brain stimulation of 
+the hippocampus or entorhinal cortex alters memory performance.
+METHODS: We implanted intracranial depth electrodes in seven subjects to 
+identify seizure-onset zones for subsequent epilepsy surgery. The subjects 
+completed a spatial learning task during which they learned destinations within 
+virtual environments. During half the learning trials, focal electrical 
+stimulation was given below the threshold that elicits an afterdischarge (i.e., 
+a neuronal discharge that occurs after termination of the stimulus).
+RESULTS: Entorhinal stimulation applied while the subjects learned locations of 
+landmarks enhanced their subsequent memory of these locations: the subjects 
+reached these landmarks more quickly and by shorter routes, as compared with 
+locations learned without stimulation. Entorhinal stimulation also resulted in a 
+resetting of the phase of the theta rhythm, as shown on the hippocampal 
+electroencephalogram. Direct hippocampal stimulation was not effective. In this 
+small series, no adverse events associated with the procedure were observed.
+CONCLUSIONS: Stimulation of the entorhinal region enhanced memory of spatial 
+information when applied during learning. (Funded by the National Institutes of 
+Health and the Dana Foundation.).
+
+DOI: 10.1056/NEJMoa1107212
+PMCID: PMC3447081
+PMID: 22316444 [Indexed for MEDLINE]

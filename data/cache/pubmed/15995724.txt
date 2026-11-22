@@ -1,0 +1,26 @@
+1. Nat Rev Neurosci. 2005 Jul;6(7):533-44. doi: 10.1038/nrn1704.
+
+Pain and emotion interactions in subregions of the cingulate gyrus.
+
+Vogt BA(1).
+
+Author information:
+(1)Cingulum NeuroSciences Institute and SUNY Upstate Medical University, 
+Department of Neuroscience and Physiology, 4435 Stephanie Drive, Manlius, New 
+York 13104, USA. bvogt@twcny.rr.com
+
+Acute pain and emotion are processed in two forebrain networks, and the 
+cingulate cortex is involved in both. Although Brodmann's cingulate gyrus had 
+two divisions and was not based on any functional criteria, functional imaging 
+studies still use this model. However, recent cytoarchitectural studies of the 
+cingulate gyrus support a four-region model, with subregions, that is based on 
+connections and qualitatively unique functions. Although the activity evoked by 
+pain and emotion has been widely reported, some view them as emergent products 
+of the brain rather than of small aggregates of neurons. Here, we assess pain 
+and emotion in each cingulate subregion, and assess whether pain is co-localized 
+with negative affect. Amazingly, these activation patterns do not simply 
+overlap.
+
+DOI: 10.1038/nrn1704
+PMCID: PMC2659949
+PMID: 15995724 [Indexed for MEDLINE]

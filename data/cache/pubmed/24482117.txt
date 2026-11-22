@@ -1,0 +1,31 @@
+1. Science. 2014 Feb 28;343(6174):1006-10. doi: 10.1126/science.1245994. Epub
+2014  Jan 30.
+
+Phonetic feature encoding in human superior temporal gyrus.
+
+Mesgarani N(1), Cheung C, Johnson K, Chang EF.
+
+Author information:
+(1)Department of Neurological Surgery, Department of Physiology, and Center for 
+Integrative Neuroscience, University of California, San Francisco, CA 94143, 
+USA.
+
+Comment in
+    Science. 2014 Feb 28;343(6174):978-9. doi: 10.1126/science.1251495.
+
+During speech perception, linguistic elements such as consonants and vowels are 
+extracted from a complex acoustic speech signal. The superior temporal gyrus 
+(STG) participates in high-order auditory processing of speech, but how it 
+encodes phonetic information is poorly understood. We used high-density direct 
+cortical surface recordings in humans while they listened to natural, continuous 
+speech to reveal the STG representation of the entire English phonetic 
+inventory. At single electrodes, we found response selectivity to distinct 
+phonetic features. Encoding of acoustic properties was mediated by a distributed 
+population response. Phonetic features could be directly related to tuning for 
+spectrotemporal acoustic cues, some of which were encoded in a nonlinear fashion 
+or by integration of multiple cues. These findings demonstrate the 
+acoustic-phonetic representation of speech in human STG.
+
+DOI: 10.1126/science.1245994
+PMCID: PMC4350233
+PMID: 24482117 [Indexed for MEDLINE]

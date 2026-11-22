@@ -1,0 +1,30 @@
+1. Neuroimage. 2002 Sep;17(1):77-94. doi: 10.1006/nimg.2002.1136.
+
+Virtual in vivo interactive dissection of white matter fasciculi in the human 
+brain.
+
+Catani M(1), Howard RJ, Pajevic S, Jones DK.
+
+Author information:
+(1)Section of Old Age Psychiatry, Institute of Psychiatry, De Crespigny Park, 
+London SE5 8AF, United Kingdom.
+
+This work reports the use of diffusion tensor magnetic resonance tractography to 
+visualize the three-dimensional (3D) structure of the major white matter 
+fasciculi within living human brain. Specifically, we applied this technique to 
+visualize in vivo (i) the superior longitudinal (arcuate) fasciculus, (ii) the 
+inferior longitudinal fasciculus, (iii) the superior fronto-occipital 
+(subcallosal) fasciculus, (iv) the inferior frontooccipital fasciculus, (v) the 
+uncinate fasciculus, (vi) the cingulum, (vii) the anterior commissure, (viii) 
+the corpus callosum, (ix) the internal capsule, and (x) the fornix. These 
+fasciculi were first isolated and were then interactively displayed as a 
+3D-rendered object. The virtual tract maps obtained in vivo using this approach 
+were faithful to the classical descriptions of white matter anatomy that have 
+previously been documented in postmortem studies. Since we have been able to 
+interactively delineate and visualize white matter fasciculi over their entire 
+length in vivo, in a manner that has only previously been possible by 
+histological means, "virtual in vivo interactive dissection" (VIVID) adds a new 
+dimension to anatomical descriptions of the living human brain.
+
+DOI: 10.1006/nimg.2002.1136
+PMID: 12482069 [Indexed for MEDLINE]

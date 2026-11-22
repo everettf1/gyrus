@@ -1,0 +1,32 @@
+1. Brain. 1997 Dec;120 ( Pt 12):2229-42. doi: 10.1093/brain/120.12.2229.
+
+The position and topography of the human colour centre as revealed by functional 
+magnetic resonance imaging.
+
+McKeefry DJ(1), Zeki S.
+
+Author information:
+(1)Wellcome Department of Cognitive Neurology, University College, London, UK.
+
+We used a colour Mondrian--an abstract scene with no recognizable objects--and 
+its achromatic version to image the change in blood oxygenation in the brains of 
+12 human subjects, with the aim of learning more about the position and 
+variability of the colour centre in the human brain. The results showed a 
+consistent association of colour stimulation with activation of an area that is 
+distinct from the primary visual areas, and lies in the ventral occipitotemporal 
+cortex; we refer to it as human V4. The position of human V4, as defined on 
+functional grounds, varies between individuals in absolute terms but is 
+invariably found on the lateral aspect of the collateral sulcus on the fusiform 
+gyrus. There was no indication of lingual gyral activation. In further studies 
+designed to reveal the topographic map within V4, we stimulated the superior and 
+inferior visual fields separately, using the same stimuli. We found that human 
+V4 contains a representation of both the superior and inferior visual fields. In 
+addition, there appears to be retinotopic organization of V4 with the superior 
+visual field being represented more medially on the fusiform gyrus and the 
+inferior field more laterally, the two areas abutting on one another. We find no 
+evidence that suggests the existence of a separate representation of the 
+inferior hemifield for colour in more dorsolateral regions of the occipital 
+lobe.
+
+DOI: 10.1093/brain/120.12.2229
+PMID: 9448578 [Indexed for MEDLINE]

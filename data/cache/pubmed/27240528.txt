@@ -1,0 +1,53 @@
+1. Mol Psychiatry. 2017 Feb;22(2):202-208. doi: 10.1038/mp.2016.81. Epub 2016 May
+ 31.
+
+Disrupted habenula function in major depression.
+
+Lawson RP(1)(2), Nord CL(1), Seymour B(3)(4), Thomas DL(5), Dayan P(6), Pilling 
+S(7), Roiser JP(1).
+
+Author information:
+(1)Institute of Cognitive Neuroscience, University College London, London, UK.
+(2)Wellcome Trust Centre for Neuroimaging, University College London, London, 
+UK.
+(3)Computational and Biological Learning Lab, University of Cambridge, 
+Cambridge, UK.
+(4)Centre for Information and Neural Networks, National Institute for 
+Information and Communications Technology, Osaka, Japan.
+(5)Department of Brain Repair and Rehabilitation, University College London, 
+London, UK.
+(6)Gatsby Computational Neuroscience Unit, University College London, London, 
+UK.
+(7)Research Department of Clinical, Educational and Health Psychology, 
+University College London, London, UK.
+
+The habenula is a small, evolutionarily conserved brain structure that plays a 
+central role in aversive processing and is hypothesised to be hyperactive in 
+depression, contributing to the generation of symptoms such as anhedonia. 
+However, habenula responses during aversive processing have yet to be reported 
+in individuals with major depressive disorder (MDD). Unmedicated and currently 
+depressed MDD patients (N=25, aged 18-52 years) and healthy volunteers (N=25, 
+aged 19-52 years) completed a passive (Pavlovian) conditioning task with 
+appetitive (monetary gain) and aversive (monetary loss and electric shock) 
+outcomes during high-resolution functional magnetic resonance imaging; data were 
+analysed using computational modelling. Arterial spin labelling was used to 
+index resting-state perfusion and high-resolution anatomical images were used to 
+assess habenula volume. In healthy volunteers, habenula activation increased as 
+conditioned stimuli (CSs) became more strongly associated with electric shocks. 
+This pattern was significantly different in MDD subjects, for whom habenula 
+activation decreased significantly with increasing association between CSs and 
+electric shocks. Individual differences in habenula volume were negatively 
+associated with symptoms of anhedonia across both groups. MDD subjects exhibited 
+abnormal negative task-related (phasic) habenula responses during primary 
+aversive conditioning. The direction of this effect is opposite to that 
+predicted by contemporary theoretical accounts of depression based on findings 
+in animal models. We speculate that the negative habenula responses we observed 
+may result in the loss of the capacity to actively avoid negative cues in MDD, 
+which could lead to excessive negative focus.
+
+DOI: 10.1038/mp.2016.81
+PMCID: PMC5285459
+PMID: 27240528 [Indexed for MEDLINE]
+
+Conflict of interest statement: JPR consults for Cambridge Cognition. The other 
+authors declare no conflict of interest.

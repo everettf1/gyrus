@@ -1,0 +1,19 @@
+1. J Neurosci. 2006 Oct 4;26(40):10232-4. doi: 10.1523/JNEUROSCI.2101-06.2006.
+
+Sparse representation in the human medial temporal lobe.
+
+Waydo S(1), Kraskov A, Quian Quiroga R, Fried I, Koch C.
+
+Author information:
+(1)Control and Dynamical Systems, California Institute of Technology, Pasadena, 
+California 91125, USA. waydo@cds.caltech.edu
+
+Recent experiments characterized individual neurons in the human medial temporal 
+lobe with remarkably selective, invariant, and explicit responses to images of 
+famous individuals or landmark buildings. Here, we used a probabilistic analysis 
+to show that these data are consistent with a sparse code in which neurons 
+respond in a selective manner to a small fraction of stimuli.
+
+DOI: 10.1523/JNEUROSCI.2101-06.2006
+PMCID: PMC6674629
+PMID: 17021178 [Indexed for MEDLINE]

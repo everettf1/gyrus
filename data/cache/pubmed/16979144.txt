@@ -1,0 +1,34 @@
+1. Brain Res. 2006 Nov 6;1118(1):75-83. doi: 10.1016/j.brainres.2006.08.013. Epub
+ 2006 Sep 18.
+
+Hearing suppression induced by electrical stimulation of human auditory cortex.
+
+Fenoy AJ(1), Severson MA, Volkov IO, Brugge JF, Howard MA 3rd.
+
+Author information:
+(1)Department of Neurosurgery, University of Iowa College of Medicine, Iowa 
+City, IA 52242, USA. albert-fenoy@uiowa.edu
+
+In the course of performing electrical stimulation functional mapping (ESFM) in 
+neurosurgery patients, we identified three subjects who experienced hearing 
+suppression during stimulation of sites within the superior temporal gyrus 
+(STG). One of these patients had long standing tinnitus that affected both ears. 
+In all subjects, auditory event related potentials (ERPs) were recorded from 
+chronically implanted intracranial electrodes and the results were used to 
+localize auditory cortical fields within the STG. Hearing suppression sites were 
+identified within anterior lateral Heschl's gyrus (HG) and posterior lateral 
+STG, in what may be auditory belt and parabelt fields. Cortical stimulation 
+suppressed hearing in both ears, which persisted beyond the period of electrical 
+stimulation. Subjects experienced other stimulation-evoked perceptions at some 
+of these same sites, including symptoms of vestibular activation and alteration 
+of audio-visual speech processing. In contrast, stimulation of presumed core 
+auditory cortex within posterior medial HG evoked sound perceptions, or in one 
+case an increase in tinnitus intensity, that affected the contralateral ear and 
+did not persist beyond the period of stimulation. The current results confirm a 
+rarely reported experimental observation, and correlate the cortical sites 
+associated with hearing suppression with physiologically identified auditory 
+cortical fields.
+
+DOI: 10.1016/j.brainres.2006.08.013
+PMCID: PMC3816378
+PMID: 16979144 [Indexed for MEDLINE]

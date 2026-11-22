@@ -1,0 +1,24 @@
+1. Science. 1995 Aug 11;269(5225):853-5. doi: 10.1126/science.7638604.
+
+Parietal contributions to visual feature binding: evidence from a patient with 
+bilateral lesions.
+
+Friedman-Hill SR(1), Robertson LC, Treisman A.
+
+Author information:
+(1)Center for Neuroscience, University of California, Davis 95616, USA.
+
+Neurophysiologists have documented the existence of multiple cortical areas 
+responsive to different visual features. This modular organization has sparked 
+theoretical interest in how the "binding problem" is solved. Recent data from a 
+neurological patient (R.M.) with bilateral parietal-occipital lesions 
+demonstrates that the binding problem is not just a hypothetical construct; it 
+can be a practical problem, as rare as the selective inability to perceive 
+motion or color. R.M. miscombines colors and shapes even under free viewing 
+conditions and is unable to judge either relative or absolute visual locations. 
+The evidence suggests that a single explanation--an inadequate spatial 
+representation--can account for R.M.'s spatial judgment and feature-binding 
+deficits.
+
+DOI: 10.1126/science.7638604
+PMID: 7638604 [Indexed for MEDLINE]

@@ -1,0 +1,47 @@
+1. Brain. 2019 Oct 1;142(10):2930-2937. doi: 10.1093/brain/awz254.
+
+Caudate stimulation enhances learning.
+
+Bick SK(1), Patel SR(2), Katnani HA(1), Peled N(3), Widge A(4), Cash SS(5), 
+Eskandar EN(6).
+
+Author information:
+(1)Massachusetts General Hospital, Department of Neurosurgery, Boston, MA, USA.
+(2)McCance Center for Brain Health, Genetics and Aging Research Unit, Department 
+of Neurology, Massachusetts General Hospital, Harvard Medical School, Boston, 
+MA, USA.
+(3)Department of Radiology, MBGH/HST Martinos Center for Biomedical Imaging and 
+Harvard Medical School, Boston, MA, USA.
+(4)Department of Psychiatry, University of Minnesota, Minneapolis, MN, USA.
+(5)Massachusetts General Hospital, Department of Neurology, Boston, MA, USA.
+(6)Albert Einstein College of Medicine, Montefiore Medical Center, Department of 
+Neurosurgery, Bronx, NY, USA.
+
+Erratum in
+    Brain. 2019 Dec 1;142(12):e74. doi: 10.1093/brain/awz312.
+
+Neuromodulation is a promising treatment modality for disorders of learning and 
+memory, offering the possibility of precise alteration of disordered neural 
+circuits. Studies to date have failed to identify an optimal target and 
+stimulation paradigm. Six epilepsy patients with depth electrodes implanted for 
+seizure localization participated in our study. We recorded local field 
+potentials from implanted electrodes while subjects participated in an 
+associative learning task requiring them to learn an association between 
+presented images and a button press. Three subjects participated in stimulation 
+sessions during which caudate or putamen stimulation was delivered for some 
+images during feedback after correct responses. Caudate stimulation enhanced 
+learning. Both caudate and dorsolateral prefrontal cortex demonstrated a beta 
+power increase during the feedback period of the learning task that was greater 
+following correct than incorrect trials. In dorsolateral prefrontal cortex, this 
+difference increased with learning and persisted beyond the end of the feedback 
+period. Caudate stimulation was associated with increased dorsolateral 
+prefrontal cortex beta power following feedback. These findings suggest that 
+temporally specific caudate stimulation is a promising neuromodulation strategy 
+to improve learning in disorders of learning and memory.
+
+© The Author(s) (2019). Published by Oxford University Press on behalf of the 
+Guarantors of Brain. All rights reserved. For Permissions, please email: 
+journals.permissions@oup.com.
+
+DOI: 10.1093/brain/awz254
+PMID: 31504220 [Indexed for MEDLINE]

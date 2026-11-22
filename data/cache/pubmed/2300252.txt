@@ -1,0 +1,23 @@
+1. Neurology. 1990 Feb;40(2):296-9. doi: 10.1212/wnl.40.2.296.
+
+Versive eye movements elicited by cortical stimulation of the human brain.
+
+Godoy J(1), Lüders H, Dinner DS, Morris HH, Wyllie E.
+
+Author information:
+(1)Section of Epilepsy and Clinical Neurophysiology, Cleveland Clinic 
+Foundation, OH.
+
+We studied the eye movements (EM) elicited by electrical stimulation of the 
+frontal lobe in 19 awake patients evaluated with subdural electrodes for 
+epilepsy surgery. All patients had only contralateral conjugated EM. They were 
+saccadic in 16 patients (84%). Head version, always following the eye deviation, 
+occurred in 11 patients (58%). We also determined the eye field somatotopic 
+distribution analyzing the responses obtained from the electrodes adjacent to 
+the eye fields. All patients had motor cortex contiguous to the eye fields. In 
+17 patients (90%) the eye fields were located in front or at the level of the 
+motor representation. There was no silent cortex between the motor strip and the 
+eye fields.
+
+DOI: 10.1212/wnl.40.2.296
+PMID: 2300252 [Indexed for MEDLINE]

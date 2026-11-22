@@ -1,0 +1,51 @@
+1. Brain Struct Funct. 2023 May;228(3-4):997-1017. doi:
+10.1007/s00429-023-02641-y.  Epub 2023 Apr 24.
+
+Accurate localization and coactivation profiles of the frontal eye field and 
+inferior frontal junction: an ALE and MACM fMRI meta-analysis.
+
+Bedini M(1)(2), Olivetti E(3)(4), Avesani P(3)(4), Baldauf D(3).
+
+Author information:
+(1)Center for Mind/Brain Sciences (CIMeC), University of Trento, Via delle 
+Regole 101, 38123, Trento, Italy. marco.bedini@unitn.it.
+(2)Department of Psychology, University of California, San Diego, McGill Hall 
+9500 Gilman Dr, La Jolla, CA, 92093-0109, USA. marco.bedini@unitn.it.
+(3)Center for Mind/Brain Sciences (CIMeC), University of Trento, Via delle 
+Regole 101, 38123, Trento, Italy.
+(4)NILab, Bruno Kessler Foundation (FBK), Via delle Regole 101, 38123, Trento, 
+Italy.
+
+The frontal eye field (FEF) and the inferior frontal junction (IFJ) are 
+prefrontal structures involved in mediating multiple aspects of goal-driven 
+behavior. Despite being recognized as prominent nodes of the networks underlying 
+spatial attention and oculomotor control, and working memory and cognitive 
+control, respectively, the limited quantitative evidence on their precise 
+localization has considerably impeded the detailed understanding of their 
+structure and connectivity. In this study, we performed an activation likelihood 
+estimation (ALE) fMRI meta-analysis by selecting studies that employed standard 
+paradigms to accurately infer the localization of these regions in stereotaxic 
+space. For the FEF, we found the highest spatial convergence of activations for 
+prosaccade and antisaccade paradigms at the junction of the precentral sulcus 
+and superior frontal sulcus. For the IFJ, we found consistent activations across 
+oddball/attention, working memory, task-switching and Stroop paradigms at the 
+junction of the inferior precentral sulcus and inferior frontal sulcus. We 
+related these clusters to previous meta-analyses, sulcal/gyral neuroanatomy, and 
+a comprehensive brain parcellation, highlighting important differences compared 
+to their results and taxonomy. Finally, we leveraged the ALE peak coordinates as 
+seeds to perform a meta-analytic connectivity modeling (MACM) analysis, which 
+revealed systematic coactivation patterns spanning the frontal, parietal, and 
+temporal cortices. We decoded the behavioral domains associated with these 
+coactivations, suggesting that these may allow FEF and IFJ to support their 
+specialized roles in flexible behavior. Our study provides the meta-analytic 
+groundwork for investigating the relationship between functional specialization 
+and connectivity of two crucial control structures of the prefrontal cortex.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s00429-023-02641-y
+PMCID: PMC10147761
+PMID: 37093304 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no relevant financial or 
+non-financial interests to disclose.

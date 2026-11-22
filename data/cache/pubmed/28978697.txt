@@ -1,0 +1,43 @@
+1. J Neurosci. 2017 Oct 4;37(40):9603-9613. doi: 10.1523/JNEUROSCI.3218-16.2017.
+
+Are the Neural Correlates of Consciousness in the Front or in the Back of the 
+Cerebral Cortex? Clinical and Neuroimaging Evidence.
+
+Boly M(1)(2), Massimini M(3)(4), Tsuchiya N(5)(6), Postle BR(2)(7), Koch C(8), 
+Tononi G(9).
+
+Author information:
+(1)Department of Neurology, University of Wisconsin, Madison, Wisconsin 53705, 
+boly@wisc.edu gtononi@wisc.edu.
+(2)Department of Psychiatry, University of Wisconsin, Madison, Wisconsin 53719.
+(3)Department of Biomedical and Clinical Sciences Luigi Sacco, University of 
+Milan, Milan 20157, Italy.
+(4)Instituto Di Ricovero e Cura a Carattere Scientifico, Fondazione Don Carlo 
+Gnocchi, Milan 20148, Italy.
+(5)School of Psychological Sciences, Faculty of Medicine, Nursing, and Health 
+Sciences, Monash University, Melbourne, 3800 Victoria, Australia.
+(6)Monash Institute of Cognitive and Clinical Neuroscience, Monash University, 
+Melbourne, 3800 Victoria, Australia.
+(7)Department of Psychology, University of Wisconsin, Madison, Wisconsin 53705, 
+and.
+(8)Allen Institute for Brain Science, Seattle, Washington 98109.
+(9)Department of Psychiatry, University of Wisconsin, Madison, Wisconsin 53719, 
+boly@wisc.edu gtononi@wisc.edu.
+
+Comment in
+    Should a Few Null Findings Falsify Prefrontal Theories of Conscious 
+Perception?, by Brian Odegaard, Robert T. Knight, and Hakwan Lau.
+
+The role of the frontal cortex in consciousness remains a matter of debate. In 
+this Perspective, we will critically review the clinical and neuroimaging 
+evidence for the involvement of the front versus the back of the cortex in 
+specifying conscious contents and discuss promising research avenues.Dual 
+Perspectives Companion Paper: Should a Few Null Findings Falsify Prefrontal 
+Theories of Conscious Perception?, by Brian Odegaard, Robert T. Knight, and 
+Hakwan Lau.
+
+Copyright © 2017 the authors 0270-6474/17/379603-11$15.00/0.
+
+DOI: 10.1523/JNEUROSCI.3218-16.2017
+PMCID: PMC5628406
+PMID: 28978697 [Indexed for MEDLINE]

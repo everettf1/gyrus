@@ -1,0 +1,36 @@
+1. Cereb Cortex. 1994 Sep-Oct;4(5):544-54. doi: 10.1093/cercor/4.5.544.
+
+Human extrastriate visual cortex and the perception of faces, words, numbers, 
+and colors.
+
+Allison T(1), McCarthy G, Nobre A, Puce A, Belger A.
+
+Author information:
+(1)Neuropsychology Laboratory, VA Medical Center, West Haven, Connecticut 06516.
+
+Electrophysiological correlates of the processing of visual information were 
+studied in epileptic patients with electrodes chronically implanted on the 
+surface of striate and extrastriate cortex. In separate experiments patients 
+viewed faces, letter strings (words and non-words), numbers, and control 
+stimuli. A negative potential, N200, was evoked by faces, letter strings, and 
+numbers, but not by the control stimuli. N200 was recorded bilaterally from 
+discrete regions of the fusiform and inferior temporal gyri. These 
+category-specific face, letter-string, and number "modules" vary in location. In 
+most cases there was no overlap in the location of face and letter-string 
+modules, suggesting a mosaic of functionally discrete regions. In some cases 
+letter-string and number N200s were recorded from the same location, suggesting 
+that these modules may be less spatially and functionally discrete. Face 
+N200-like potentials can be recorded from temporal scalp, allowing the 
+possibility of studying early face processing in normal subjects. Longer-latency 
+face-specific potentials were recorded from the inferior surface of the anterior 
+temporal lobe. Potentials evoked by colored checkerboards were recorded from a 
+region of the fusiform gyrus posterior to the fusiform region from which 
+category-specific N200s were recorded. These results suggest that there are 
+several processing streams in inferior extrastriate cortex. In addition to 
+object recognition systems previously proposed for faces and words, our 
+preliminary results suggest a separate system dealing with numbers. Postulated 
+systems dealing with larger manipulable objects and animals have not been 
+detected.
+
+DOI: 10.1093/cercor/4.5.544
+PMID: 7833655 [Indexed for MEDLINE]

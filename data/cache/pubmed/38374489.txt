@@ -1,0 +1,55 @@
+1. Brain Topogr. 2024 Sep;37(5):748-763. doi: 10.1007/s10548-024-01035-5. Epub
+2024  Feb 19.
+
+An MRI Study of Morphology, Asymmetry, and Sex Differences of Inferior 
+Precentral Sulcus.
+
+Zhao X(1)(2)(3)(4), Wang Y(2)(3), Wu X(1)(2)(3), Liu S(5)(6).
+
+Author information:
+(1)Department of Clinical Medicine, The Second Hospital, Cheeloo College of 
+Medicine, Shandong University, Jinan, 250033, Shandong, China.
+(2)Institute for Sectional Anatomy and Digital Human, Department of Anatomy and 
+Neurobiology, Shandong Provincial Key Laboratory of Mental Disorder, Shandong 
+Key Laboratory of Digital Human and Clinical Anatomy, School of Basic Medical 
+Sciences, Cheeloo College of Medicine, Shandong University, Jinan, 250012, 
+Shandong, China.
+(3)Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, 
+250012, Shandong, China.
+(4)Department of Neurology, Tongji Medical College, Union Hospital, Huazhong 
+University of Science and Technology, Wuhan, 430022, China.
+(5)Institute for Sectional Anatomy and Digital Human, Department of Anatomy and 
+Neurobiology, Shandong Provincial Key Laboratory of Mental Disorder, Shandong 
+Key Laboratory of Digital Human and Clinical Anatomy, School of Basic Medical 
+Sciences, Cheeloo College of Medicine, Shandong University, Jinan, 250012, 
+Shandong, China. liusw@sdu.edu.cn.
+(6)Institute of Brain and Brain-Inspired Science, Shandong University, Jinan, 
+250012, Shandong, China. liusw@sdu.edu.cn.
+
+Numerous studies utilizing magnetic resonance imaging (MRI) have observed sex 
+and interhemispheric disparities in sulcal morphology, which could potentially 
+underpin certain functional disparities in the human brain. Most of the existing 
+research examines the precentral sulcus comprehensively, with a rare focus on 
+its subsections. To explore the morphology, asymmetry, and sex disparities 
+within the inferior precentral sulcus (IPCS), we acquired 3.0T magnetic 
+resonance images from 92 right-handed Chinese adolescents. Brainvisa was used to 
+reconstruct the IPCS structure and calculate its mean depth (MD). Based on the 
+morphological patterns of IPCS, it was categorized into five distinct types. 
+Additionally, we analyzed four different types of spatial relationships between 
+IPCS and inferior frontal sulcus (IFS). There was a statistically significant 
+sex disparity in the MD of IPCS, primarily observed in the right hemisphere. 
+Females exhibited significantly greater asymmetry in the MD of IPCS compared to 
+males. No statistically significant sex or hemispheric variations were 
+identified in sulcal patterns. Our findings expand the comprehension of 
+inconsistencies in sulcal structure, while also delivering an anatomical 
+foundation for the study of related regions' function.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s10548-024-01035-5
+PMCID: PMC11393153
+PMID: 38374489 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

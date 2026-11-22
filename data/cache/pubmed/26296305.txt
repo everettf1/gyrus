@@ -1,0 +1,40 @@
+1. Eur J Neurosci. 2016 May;43(10):1268-83. doi: 10.1111/ejn.13049. Epub 2015 Sep
+ 28.
+
+The postcentral sulcal complex and the transverse postcentral sulcus and their 
+relation to sensorimotor functional organization.
+
+Zlatkina V(1), Amiez C(2), Petrides M(1).
+
+Author information:
+(1)Cognitive Neuroscience Unit, Montreal Neurological Institute, McGill 
+University, Montreal, QC, H3A 2B4, Canada.
+(2)Stem Cell and Brain Research Institute, INSERM U846, Bron, France.
+
+Comment in
+    Eur J Neurosci. 2016 May;43(10):1266-7. doi: 10.1111/ejn.13072.
+
+It has been demonstrated that the postcentral sulcus, which forms the posterior 
+boundary of the sensorimotor region, is a complex of distinct sulcal segments. 
+Although the general somatotopic arrangement in the human sensorimotor cortex is 
+relatively well known, we do not know whether the different segments of the 
+postcentral sulcus relate in a systematic way to the sensorimotor functional 
+representations. Participants were scanned with functional magnetic resonance 
+imaging while they made movements of different body parts and the location of 
+functional activity was examined on a subject-by-subject basis with respect to 
+the morphological features of the postcentral sulcus. The findings demonstrate 
+that the postcentral sulcus of each subject may be divided into five segments 
+and there is a tight relationship between sensorimotor representations of 
+different body parts and specific segments of the postcentral sulcus. The 
+results also addressed the issue of the transverse postcentral sulcus, a short 
+sulcus that is present within the ventral part of the postcentral gyrus in some 
+brains. It was shown that, when present, this sulcus is functionally related to 
+the oral (mouth and tongue) sensorimotor representation. When this sulcus is not 
+present, the inferior postcentral sulcus which is also related to the oral 
+representation is longer. Thus, the sulcal morphology provides an improved 
+framework for functional assignments in individual subjects.
+
+© 2015 Federation of European Neuroscience Societies and John Wiley & Sons Ltd.
+
+DOI: 10.1111/ejn.13049
+PMID: 26296305 [Indexed for MEDLINE]

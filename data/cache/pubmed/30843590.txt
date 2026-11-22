@@ -1,0 +1,45 @@
+1. Soc Cogn Affect Neurosci. 2019 May 17;14(4):339-351. doi: 10.1093/scan/nsz015.
+
+Intensity of affective experience is modulated by magnitude of intracranial 
+electrical stimulation in human orbitofrontal, cingulate and insular cortices.
+
+Yih J(1), Beam DE(1), Fox KCR(1)(2), Parvizi J(1)(2).
+
+Author information:
+(1)Department of Neurology and Neurological Sciences, Stanford University, 
+Stanford, CA, USA.
+(2)School of Medicine, Stanford University, Stanford, CA, USA.
+
+The subjective and behavioral effects of intracranial electrical stimulation 
+(iES) have been studied for decades, but there is a knowledge gap regarding the 
+relationship between the magnitude of electric current and the type, intensity 
+and valence of evoked subjective experiences. We report on rare iES data from 18 
+neurosurgical patients with implanted intracranial electrodes in the 
+orbitofrontal cortex (OFC), the insula (INS) and the anterior portion of 
+cingulate cortex (ACC). ACC stimulation elicited somatic and visceral 
+sensations, whereas OFC stimulation predominantly elicited olfactory and 
+gustatory responses, and INS stimulation elicited a mix of effects involving 
+somatic and visceral sensations, olfaction and gustation. Further, we found 
+striking evidence that the magnitude of electric current delivered 
+intracranially correlated positively with the perceived intensity of subjective 
+experience and the evoked emotional state, a relationship observed across all 
+three regions. Finally, we observed that the majority of reported experiences 
+were negatively valenced and unpleasant, especially those elicited by ACC 
+stimulation. The present study provides novel case studies from the human brain 
+confirming that these structures contribute causally to the creation of 
+affective states and demonstrates a direct relationship between the magnitude of 
+electrical stimulation of these structures and the qualia of elicited subjective 
+experience. Summary: This study provides critical knowledge about the effect of 
+electrical charge magnitude on the intensity of human subjective experiences and 
+emotional states. We shed light on the fundamental relationship between the 
+electrical (physical) state of cortical tissue and the modality and intensity of 
+human (subjective) experience. As electroceutical interventions are increasingly 
+employed to treat neurological and psychiatric disorders, these findings 
+highlight the importance of electrical stimulation magnitude for eliciting 
+specific changes in human subjective experience.
+
+© The Author(s) 2019. Published by Oxford University Press.
+
+DOI: 10.1093/scan/nsz015
+PMCID: PMC6537947
+PMID: 30843590 [Indexed for MEDLINE]

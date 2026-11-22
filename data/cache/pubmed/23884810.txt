@@ -1,0 +1,49 @@
+1. Brain. 2013 Aug;136(Pt 8):2419-31. doi: 10.1093/brain/awt192.
+
+Disease duration and the integrity of the nigrostriatal system in Parkinson's 
+disease.
+
+Kordower JH(1), Olanow CW, Dodiya HB, Chu Y, Beach TG, Adler CH, Halliday GM, 
+Bartus RT.
+
+Author information:
+(1)Department of Neurological Sciences, Rush University Medical Centre, Chicago, 
+Illinois 60612, USA. jkordowe@rush.edu
+
+The pace of nigrostriatal degeneration, both with regards to striatal 
+denervation and loss of melanin and tyrosine hydroxylase-positive neurons, is 
+poorly understood especially early in the Parkinson's disease process. This 
+study investigated the extent of nigrostriatal degeneration in patients with 
+Parkinson's disease at different disease durations from time of diagnosis. 
+Brains of patients with Parkinson's disease (n=28) with post-diagnostic 
+intervals of 1-27 years and normal elderly control subjects (n=9) were examined. 
+Sections of the post-commissural putamen and substantia nigra pars compacta were 
+processed for tyrosine hydroxylase and dopamine transporter 
+immunohistochemistry. The post-commissural putamen was selected due to tissue 
+availability and the fact that dopamine loss in this region is associated with 
+motor disability in Parkinson's disease. Quantitative assessments of putaminal 
+dopaminergic fibre density and stereological estimates of the number of 
+melanin-containing and tyrosine hydroxylase-immunoreactive neurons in the 
+substantia nigra pars compacta (both in total and in subregions) were performed 
+by blinded investigators in cases where suitable material was available (n=17). 
+Dopaminergic markers in the dorsal putamen showed a modest loss at 1 year after 
+diagnosis in the single case available for study. There was variable (moderate 
+to marked) loss, at 3 years. At 4 years post-diagnosis and thereafter, there was 
+virtually complete loss of staining in the dorsal putamen with only an 
+occasional abnormal dopaminergic fibre detected. In the substantia nigra pars 
+compacta, there was a 50-90% loss of tyrosine hydroxylase-positive neurons from 
+the earliest time points studied with only marginal additional loss thereafter. 
+There was only a ∼10% loss of melanized neurons in the one case evaluated 1 year 
+post-diagnosis, and variable (30 to 60%) loss during the first several years 
+post-diagnosis with more gradual and subtle loss in the second decade. At all 
+time points, there were more melanin-containing than tyrosine 
+hydroxylase-positive cells. Loss of dopaminergic markers in the dorsal putamen 
+occurs rapidly and is virtually complete by 4 years post-diagnosis. Loss of 
+melanized nigral neurons lags behind the loss of dopamine markers. These 
+findings have important implications for understanding the nature of Parkinson's 
+disease neurodegeneration and for studies of putative 
+neuroprotective/restorative therapies.
+
+DOI: 10.1093/brain/awt192
+PMCID: PMC3722357
+PMID: 23884810 [Indexed for MEDLINE]

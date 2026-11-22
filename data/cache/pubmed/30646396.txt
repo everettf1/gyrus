@@ -1,0 +1,67 @@
+1. JAMA Netw Open. 2018 Nov 2;1(7):e185275. doi:
+10.1001/jamanetworkopen.2018.5275.
+
+Assessment of Safety and Outcome of Lateral Hypothalamic Deep Brain Stimulation 
+for Obesity in a Small Series of Patients With Prader-Willi Syndrome.
+
+Franco RR(1), Fonoff ET(2), Alvarenga PG(3), Alho EJL(2), Lopes AC(3), Hoexter 
+MQ(3), Batistuzzo MC(3), Paiva RR(3), Taub A(3), Shavitt RG(3), Miguel EC(3), 
+Teixeira MJ(2), Damiani D(1), Hamani C(2)(4).
+
+Author information:
+(1)Children's Institute, Division of Pediatric Endocrinology, University of São 
+Paulo Medical School, São Paulo, Brazil.
+(2)Division of Functional Neurosurgery of Institute of Psychiatry, Department of 
+Neurology, University of São Paulo Medical School, São Paulo, Brazil.
+(3)Institute of Psychiatry, Department of Psychiatry, University of São Paulo 
+Medical School, São Paulo, Brazil.
+(4)Harquail Centre for Neuromodulation, Division of Neurosurgery, Sunnybrook 
+Health Sciences Centre, University of Toronto, Toronto, Ontario, Canada.
+
+IMPORTANCE: Deep brain stimulation (DBS) has been investigated for treatment of 
+morbid obesity with variable results. Patients with Prader-Willi syndrome (PWS) 
+present with obesity that is often difficult to treat.
+OBJECTIVE: To test the safety and study the outcome of DBS in patients with PWS.
+DESIGN, SETTING, AND PARTICIPANTS: This case series was conducted in the 
+Hospital das Clínicas, University of São Paulo, Brazil. Four patients with 
+genetically confirmed PWS presenting with severe obesity were included.
+EXPOSURE: Deep brain stimulation electrodes were bilaterally implanted in the 
+lateral hypothalamic area. After DBS implantation, the treatment included the 
+following phases: titration (1-2 months), stimulation off (2 months), 
+low-frequency DBS (40 Hz; 1 month), washout (15 days), high-frequency DBS (130 
+Hz; 1 month), and long-term follow-up (6 months).
+MAIN OUTCOMES AND MEASURES: Primary outcome measures were adverse events 
+recorded during stimulation and long-term DBS treatment. Secondary outcomes 
+consisted of changes in anthropometric measures (weight, body mass index 
+[calculated as weight in kilograms divided by height in meters squared], and 
+abdominal and neck circumference), bioimpedanciometry, and calorimetry after 6 
+months of treatment compared with baseline. The following evaluations and 
+measurements were conducted before and after DBS: clinical, neurological, 
+psychiatric, neuropsychological, anthropometry, calorimetry, blood workup, 
+hormonal levels, and sleep studies. Adverse effects were monitored during all 
+follow-up visits.
+RESULTS: Four patients with PWS were included (2 male and 2 female; ages 18-28 
+years). Baseline mean (SD) body mass index was 39.6 (11.1). Two patients had 
+previous bariatric surgery, and all presented with psychiatric comorbidity, 
+which was well controlled with the use of medications. At 6 months after 
+long-term DBS, patients had a mean 9.6% increase in weight, 5.8% increase in 
+body mass index, 8.4% increase in abdominal circumference, 4.2% increase in neck 
+circumference, 5.3% increase in the percentage of body fat, and 0% change in 
+calorimetry compared with baseline. Also unchanged were hormonal levels and 
+results of blood workup, sleep studies, and neuropsychological evaluations. Two 
+patients developed stimulation-induced manic symptoms. Discontinuation of DBS 
+controlled this symptom in 1 patient. The other required adjustments in 
+medication dosage. Two infections were documented, 1 associated with skin 
+picking.
+CONCLUSIONS AND RELEVANCE: Safety of lateral hypothalamic area stimulation was 
+in the range of that demonstrated in patients with similar psychiatric 
+conditions receiving DBS. In the small cohort of patients with PWS treated in 
+our study, DBS was largely ineffective.
+
+DOI: 10.1001/jamanetworkopen.2018.5275
+PMCID: PMC6324383
+PMID: 30646396 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Hamani 
+received honoraria from Medtronic unrelated to this work. No other disclosures 
+were reported.

@@ -1,0 +1,42 @@
+1. Exp Brain Res. 1994;102(1):110-20. doi: 10.1007/BF00232443.
+
+Eye movement disorders after frontal eye field lesions in humans.
+
+Rivaud S(1), Müri RM, Gaymard B, Vermersch AI, Pierrot-Deseilligny C.
+
+Author information:
+(1)Laboratoire INSERM 289, Hôpital de la Salpêtrière, Paris, France.
+
+Eye movements were recorded electro-oculographically in three patients with a 
+small ischemic lesion affecting the left frontal eye field (FEF) and in 12 
+control subjects. Reflexive visually guided saccades (gap and overlap tasks), 
+antisaccades, predictive saccades, memory-guided saccades, smooth pursuit and 
+optokinetic nystagmus (OKN) were studied in the three patients. Staircase 
+saccades and double step saccades were also studied in one of the three 
+patients. For both leftward and rightward saccades, latency in the overlap task 
+(but not in the gap task) and that of correct antisaccades and of memory-guided 
+saccades was significantly increased, compared with the results of controls. 
+There was a significant decrease in the amplitude gain of all rightward saccades 
+programmed using retinotopic coordinates (gap and overlap tasks, predictive and 
+memory-guided saccades), whereas the amplitude gain of corresponding leftward 
+saccades was preserved. Such an asymmetry between leftward and rightward 
+saccades was significant. In the staircase paradigm as well as for the first 
+saccade in the double step paradigm (with the use of retinotopic coordinates in 
+both cases), the amplitude gain of rightward saccades was also significantly 
+lower than that of leftward saccades. Moreover, in the double step paradigm, the 
+amplitude gain of the first rightward saccade was significantly lower than that 
+of the second rightward saccade (programmed using extraretinal signals), which 
+was preserved. The percentage of errors in the antisaccade task did not differ 
+significantly from that of normal subjects. In the predictive saccade paradigm, 
+the percentage of predictive rightward saccades was significantly decreased. The 
+left smooth pursuit gain for all tested velocities, the right smooth pursuit 
+gain for higher velocities, and the left OKN gain were significantly decreased. 
+The results show, for the first time in humans, that the FEF plays an important 
+role in (1) the disengagement from central fixation, (2) the control of 
+contralateral saccades programmed using retinotopic coordinates, (3) saccade 
+prediction and (4) the control of smooth pursuit and OKN, mainly ipsilaterally. 
+In contrast, the left FEF did not appear to be crucial for the control of the 
+only type of saccades programmed using extraretinal signals studied here.
+
+DOI: 10.1007/BF00232443
+PMID: 7895787 [Indexed for MEDLINE]

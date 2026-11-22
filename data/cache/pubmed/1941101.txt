@@ -1,0 +1,35 @@
+1. J Neurosci. 1991 Nov;11(11):3656-66. doi: 10.1523/JNEUROSCI.11-11-03656.1991.
+
+Functional organization of human supplementary motor cortex studied by 
+electrical stimulation.
+
+Fried I(1), Katz A, McCarthy G, Sass KJ, Williamson P, Spencer SS, Spencer DD.
+
+Author information:
+(1)Section of Neurosurgery, Yale University School of Medicine, New Haven, 
+Connecticut 06510.
+
+The presence of somatotopic organization in the human supplementary motor area 
+(SMA) remains a controversial issue. In this study, subdural electrode grids 
+were placed on the medial surface of the cerebral hemispheres in 13 patients 
+with intractable epilepsy undergoing evaluation for surgical treatment. 
+Electrical stimulation mapping with currents below the threshold of 
+afterdischarges showed somatotopic organization of supplementary motor cortex 
+with the lower extremities represented posteriorly, head and face most 
+anteriorly, and the upper extremities between these two regions. Electrical 
+stimulation often elicited synergistic and complex movements involving more than 
+one joint. In transitional areas between neighboring somatotopic 
+representations, stimulation evoked combined movements involving the body parts 
+represented in these adjacent regions. Anterior to the supplementary motor 
+representation of the face, vocalization and speech arrest or slowing of speech 
+were evoked. Various sensations were elicited by electrical stimulation of SMA. 
+In some cases a preliminary sensation of "urge" to perform a movement or 
+anticipation that a movement was about to occur were evoked. Most responses were 
+contralateral to the stimulated hemisphere. Ipsilateral and bilateral responses 
+were elicited almost exclusively from the right (nondominant) hemisphere. These 
+data suggest the presence of combined somatotopic organization and left-right 
+specialization in human supplementary motor cortex.
+
+DOI: 10.1523/JNEUROSCI.11-11-03656.1991
+PMCID: PMC6575551
+PMID: 1941101 [Indexed for MEDLINE]

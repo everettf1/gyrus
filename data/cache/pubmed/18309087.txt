@@ -1,0 +1,26 @@
+1. Science. 2008 Feb 29;319(5867):1264-7. doi: 10.1126/science.1150605.
+
+BOLD responses reflecting dopaminergic signals in the human ventral tegmental 
+area.
+
+D'Ardenne K(1), McClure SM, Nystrom LE, Cohen JD.
+
+Author information:
+(1)Department of Chemistry, Princeton University, Princeton, NJ 08544, USA. 
+dardenne@princeton.edu
+
+Current theories hypothesize that dopamine neuronal firing encodes reward 
+prediction errors. Although studies in nonhuman species provide direct support 
+for this theory, functional magnetic resonance imaging (fMRI) studies in humans 
+have focused on brain areas targeted by dopamine neurons [ventral striatum 
+(VStr)] rather than on brainstem dopaminergic nuclei [ventral tegmental area 
+(VTA) and substantia nigra]. We used fMRI tailored to directly image the 
+brainstem. When primary rewards were used in an experiment, the VTA blood oxygen 
+level-dependent (BOLD) response reflected a positive reward prediction error, 
+whereas the VStr encoded positive and negative reward prediction errors. When 
+monetary gains and losses were used, VTA BOLD responses reflected positive 
+reward prediction errors modulated by the probability of winning. We detected no 
+significant VTA BOLD response to nonrewarding events.
+
+DOI: 10.1126/science.1150605
+PMID: 18309087 [Indexed for MEDLINE]

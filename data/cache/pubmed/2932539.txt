@@ -1,0 +1,29 @@
+1. J Neuropathol Exp Neurol. 1985 Nov;44(6):559-77. doi: 
+10.1097/00005072-198511000-00003.
+
+Neuropathological classification of Huntington's disease.
+
+Vonsattel JP, Myers RH, Stevens TJ, Ferrante RJ, Bird ED, Richardson EP Jr.
+
+In postmortem brain specimens from 163 clinically diagnosed cases of 
+Huntington's disease (HD) the striatum exhibited marked variation in the 
+severity of neuropathological involvement. A system for grading this severity 
+was established by macroscopic and microscopic criteria, resulting in five 
+grades (0-4) designated in ascending order of severity. The grade correlates 
+closely with the extent of clinical disability as assessed by a rating scale. In 
+five cases of clinically diagnosed HD there were no discernible 
+neuropathological abnormalities (grade 0), suggesting that the anatomical 
+changes lag behind the development of clinical abnormalities. In eight cases, 
+neuropathological changes could only be recognized microscopically (grade 1). 
+The earliest changes were seen in the medial paraventricular portions of the 
+caudate nucleus (CN), in the tail of the CN, and in the dorsal part of the 
+putamen. Counts of neurons in the CN reveal that 50% are lost in grade 1 and 
+that 95% are lost in grade 4; astrocytes are greatly increased in grades 2-4. 
+These studies indicate that analyses of the CN in grade 4 would reflect mainly 
+its astrocytic composition with a component of remote neurons projecting to the 
+striatum. Because of the relative preservation of the lateral half of the head 
+of the CN in grades 1-2, these regions would reflect early cellular and 
+biochemical changes in HD.
+
+DOI: 10.1097/00005072-198511000-00003
+PMID: 2932539 [Indexed for MEDLINE]

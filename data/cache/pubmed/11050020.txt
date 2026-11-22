@@ -1,0 +1,42 @@
+1. Brain. 2000 Nov;123 ( Pt 11):2189-202. doi: 10.1093/brain/123.11.2189.
+
+Characterization of the decision-making deficit of patients with ventromedial 
+prefrontal cortex lesions.
+
+Bechara A(1), Tranel D, Damasio H.
+
+Author information:
+(1)Department of Neurology, Division of Behavioral Neurology and Cognitive 
+Neuroscience, University of Iowa College of Medicine, Iowa City, Iowa, USA. 
+abechara@blue.weeg.uiowa.edu
+
+Erratum in
+    Brain. 2009 Jul;132(Pt 7):1993.
+
+On a gambling task that models real-life decisions, patients with bilateral 
+lesions of the ventromedial prefrontal cortex (VM) opt for choices that yield 
+high immediate gains in spite of higher future losses. In this study, we 
+addressed three possibilities that may account for this behaviour: (i) 
+hypersensitivity to reward; (ii) insensitivity to punishment; and (iii) 
+insensitivity to future consequences, such that behaviour is always guided by 
+immediate prospects. For this purpose, we designed a variant of the original 
+gambling task in which the advantageous decks yielded high immediate punishment 
+but even higher future reward. The disadvantageous decks yielded low immediate 
+punishment but even lower future reward. We measured the skin conductance 
+responses (SCRs) of subjects after they had received a reward or punishment. 
+Patients with VM lesions opted for the disadvantageous decks in both the 
+original and variant versions of the gambling task. The SCRs of VM lesion 
+patients after they had received a reward or punishment were not significantly 
+different from those of controls. In a second experiment, we investigated 
+whether increasing the delayed punishment in the disadvantageous decks of the 
+original task or decreasing the delayed reward in the disadvantageous decks of 
+the variant task would shift the behaviour of VM lesion patients towards an 
+advantageous strategy. Both manipulations failed to shift the behaviour of VM 
+lesion patients away from the disadvantageous decks. These results suggest that 
+patients with VM lesions are insensitive to future consequences, positive or 
+negative, and are primarily guided by immediate prospects. This 'myopia for the 
+future' in VM lesion patients persists in the face of severe adverse 
+consequences, i.e. rising future punishment or declining future reward.
+
+DOI: 10.1093/brain/123.11.2189
+PMID: 11050020 [Indexed for MEDLINE]

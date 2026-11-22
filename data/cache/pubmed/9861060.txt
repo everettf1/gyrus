@@ -1,0 +1,29 @@
+1. Proc Natl Acad Sci U S A. 1998 Dec 22;95(26):15855-60. doi: 
+10.1073/pnas.95.26.15855.
+
+Verb generation in patients with focal frontal lesions: a neuropsychological 
+test of neuroimaging findings.
+
+Thompson-Schill SL(1), Swick D, Farah MJ, D'Esposito M, Kan IP, Knight RT.
+
+Author information:
+(1)Department of Psychology, 3815 Walnut Street, University of Pennsylvania, 
+Philadelphia, PA 19104, USA. thompson@psych.upenn.edu
+
+What are the neural bases of semantic memory? Traditional beliefs that the 
+temporal lobes subserve the retrieval of semantic knowledge, arising from lesion 
+studies, have been recently called into question by functional neuroimaging 
+studies finding correlations between semantic retrieval and activity in left 
+prefrontal cortex. Has neuroimaging taught us something new about the neural 
+bases of cognition that older methods could not reveal or has it merely 
+identified brain activity that is correlated with but not causally related to 
+the process of semantic retrieval? We examined the ability of patients with 
+focal frontal lesions to perform a task commonly used in neuroimaging 
+experiments, the generation of semantically appropriate action words for 
+concrete nouns, and found evidence of the necessity of the left inferior frontal 
+gyrus for certain components of the verb generation task. Notably, these 
+components did not include semantic retrieval per se.
+
+DOI: 10.1073/pnas.95.26.15855
+PMCID: PMC28134
+PMID: 9861060 [Indexed for MEDLINE]

@@ -1,0 +1,54 @@
+1. Elife. 2026 Jan 30;13:RP94576. doi: 10.7554/eLife.94576.
+
+Causal evidence for a domain-specific role of left superior frontal sulcus in 
+human perceptual decision-making.
+
+Barretto-Garcia M(#)(1)(2), Grueschow M(#)(1), Moisa M(1), Polania R(3), Ruff 
+CC(1).
+
+Author information:
+(1)Zurich Center for Neuroeconomics (ZNE), Department of Economics, University 
+of Zurich, Zurich, Switzerland.
+(2)Department of Neuroscience, Washington University in St. Louis, St. Louis, 
+United States.
+(3)Decision Neuroscience Lab, Department of Health Sciences and Technology, ETH 
+Zurich, Zurich, Switzerland.
+(#)Contributed equally
+
+Update of
+    doi: 10.1101/2021.10.04.462977.
+    doi: 10.7554/eLife.94576.1.
+    doi: 10.7554/eLife.94576.2.
+    doi: 10.7554/eLife.94576.3.
+
+Humans and animals can flexibly choose their actions based on different 
+information, ranging from objective states of the environment (e.g., apples are 
+bigger than cherries) to subjective preferences (e.g., cherries are tastier than 
+apples). Whether the brain instantiates these different choices by recruiting 
+either specialised or shared neural circuitry remains debated. Specifically, 
+domain-general accounts of prefrontal cortex (PFC) function propose that 
+prefrontal areas flexibly process either perceptual or value-based evidence 
+depending on what is required for the present choice, whereas domain-specific 
+theories posit that PFC sub-areas, such as the left superior frontal sulcus 
+(SFS), selectively integrate evidence relevant for perceptual decisions. Here, 
+we comprehensively test the functional role of the left SFS for choices based on 
+perceptual- and value-based evidence, by combining functional magnetic resonance 
+imaging with a behavioural paradigm, computational modelling, and transcranial 
+magnetic stimulation (TMS). Confirming predictions by a sequential sampling 
+model, we show that TMS-induced excitability reduction of the left SFS 
+selectively changes the processing of decision-relevant perceptual information 
+and associated neural processes. In contrast, value-based decision-making and 
+associated neural processes remain unaffected. This specificity of SFS function 
+is evident at all levels of analysis (behavioural, computational, and neural, 
+including functional connectivity), demonstrating that the left SFS causally 
+contributes to evidence integration for perceptual but not value-based 
+decisions.
+
+© 2024, Barretto-Garcia, Grueschow et al.
+
+DOI: 10.7554/eLife.94576
+PMCID: PMC12858167
+PMID: 41612818 [Indexed for MEDLINE]
+
+Conflict of interest statement: MB, MG, MM, RP, CR No competing interests 
+declared

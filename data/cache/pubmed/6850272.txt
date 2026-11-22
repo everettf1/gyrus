@@ -1,0 +1,25 @@
+1. Brain. 1983 Jun;106 (Pt 2):313-40. doi: 10.1093/brain/106.2.313.
+
+Selective disturbance of movement vision after bilateral brain damage.
+
+Zihl J, von Cramon D, Mai N.
+
+A patient who suffered bilateral posterior brain damage exhibited disturbance of 
+movement vision in a rather pure form. The patient had no impression of movement 
+in depth, and could only discriminate between a stationary and a moving target 
+in the periphery of her otherwise intact visual fields. She had some movement 
+vision in the central part of her visual fields, provided that target velocity 
+did not exceed 10 deg/s. Neither did she possess visual movement after effects 
+nor apparent (phi) visual movement. In addition, visually guided eye and finger 
+movements were impaired. In contrast to the disturbance of movement perception 
+in the visual modality, movement perception elicited by acoustic and tactile 
+stimuli was not impaired. On the basis of the localization of the cerebral 
+damage (as judged by CT scanning and neuropsychological testing) it is concluded 
+that the observed disorder in movement vision is due to bilateral cerebral 
+lesions affecting the lateral temporo-occipital cortex and the underlying white 
+matter. The selectivity of the visual disturbance supports the idea that 
+movement vision is a separate visual function depending on neuronal mechanisms 
+beyond the primary visual cortex.
+
+DOI: 10.1093/brain/106.2.313
+PMID: 6850272 [Indexed for MEDLINE]

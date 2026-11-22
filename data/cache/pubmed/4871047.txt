@@ -1,0 +1,32 @@
+1. J Physiol. 1968 May;196(2):479-93. doi: 10.1113/jphysiol.1968.sp008519.
+
+The sensations produced by electrical stimulation of the visual cortex.
+
+Brindley GS, Lewin WS.
+
+1. An array of radio receivers, connected to electrodes in contact with the 
+occipital pole of the right cerebral hemisphere, has been implanted into a 
+52-year-old blind patient. By giving appropriate radio signals, the patient can 
+be caused to experience sensations of light (;phosphenes') in the left half of 
+the visual field.2. The sensation caused by stimulation through a single 
+electrode is commonly a single very small spot of white light at a constant 
+position in the visual field; but for some electrodes it is two or several such 
+spots, or a small cloud.3. For weak stimuli the map of the visual field on the 
+cortex agrees roughly with the classical maps of Holmes and others derived from 
+war wounds. With stronger stimuli, additional phosphenes appear; these follow a 
+map that is roughly the classical map inverted about the horizontal meridian.4. 
+The phosphenes produced by stimulation through electrodes 2.4 mm apart can be 
+easily distinguished. By stimulation through several electrodes simultaneously, 
+the patient can be caused to see predictable simple patterns.5. The effects of 
+the duration and frequency of stimulating pulses on the threshold have been 
+explored.6. For cortical phosphenes there is no sharp flicker fusion frequency, 
+and probably no flicker fusion frequency at all.7. During voluntary eye 
+movements, the phosphenes move with the eyes. During vestibular reflex eye 
+movements they remain fixed in space.8. Phosphenes ordinarily cease immediately 
+when stimulation ceases, but after strong stimulation they sometimes persist for 
+up to 2 min.9. Our findings strongly suggest that it will be possible, by 
+improving our prototype, to make a useful prosthesis.
+
+DOI: 10.1113/jphysiol.1968.sp008519
+PMCID: PMC1351724
+PMID: 4871047 [Indexed for MEDLINE]

@@ -1,0 +1,787 @@
+[
+ {
+  "id": "frontal_lobe",
+  "aliases": [
+   "frontal cortex",
+   "lobus frontalis"
+  ],
+  "hint": "anterior to the central sulcus, above the lateral sulcus",
+  "summary": "The frontal lobe is the largest lobe of the cerebral cortex and occupies the anterior part of each hemisphere. It is bounded posteriorly by the central sulcus, which separates it from the parietal lobe, and inferiorly by the lateral sulcus, which separates it from the temporal lobe. It is composed of the precentral gyrus, the superior, middle and inferior frontal gyri, the orbital surface and the medial frontal cortex. It generates voluntary movement through the motor cortices and supports executive control, language production and the evaluation of outcomes through the prefrontal cortex.",
+  "where": "On the lateral surface the precentral gyrus is followed anteriorly by the superior, middle and inferior frontal gyri, which are separated by the superior and inferior frontal sulci. The inferior frontal gyrus has three parts: opercularis, triangularis and orbitalis. The orbital surface bears the orbital gyri and the gyrus rectus, and the medial surface bears the medial superior frontal gyrus and the paracentral lobule.",
+  "does": "The precentral gyrus and premotor cortex produce voluntary movement, the left inferior frontal gyrus supports speech production, and the frontal eye fields control voluntary eye movements. The prefrontal part underlies working memory, planning, attentional control, response inhibition and flexible rule use. The orbital and medial prefrontal regions assign value to outcomes and contribute to emotion regulation and social behavior. The prefrontal cortex is the last region to complete myelination, and executive control continues to mature into the mid-twenties.",
+  "connects": "Motor areas give rise to the corticospinal and corticobulbar tracts, which descend through the internal capsule, and form loops with the basal ganglia and thalamus (ventral anterior and ventral lateral nuclei). The prefrontal cortex is reciprocally connected with the mediodorsal thalamus, the parietal association cortex and the limbic system.",
+  "clinical": "The deficit depends on the site of damage: contralateral weakness follows precentral gyrus lesions, non-fluent aphasia follows lesions of the left inferior frontal gyrus, and abulia, disinhibition or impaired planning follow prefrontal injury. Phineas Gage is the classic case of altered personality after frontal injury. Frontotemporal dementia, frontal tumors and frontal lobe epilepsy produce similar patterns.",
+  "remember": "Motor strip behind, prefrontal cortex in front: the frontal lobe executes (precentral gyrus) and plans (prefrontal cortex).",
+  "facts": [
+   "The frontal lobe is the largest lobe of the human cerebral cortex.",
+   "Its posterior border on the lateral surface is the central sulcus.",
+   "The prefrontal cortex completes myelination later than any other cortical region."
+  ],
+  "quiz": [
+   {
+    "q": "Which lobe lies anterior to the central sulcus and superior to the lateral sulcus, and contains both the motor strip and the planning cortex?",
+    "type": "location"
+   },
+   {
+    "q": "Which lobe contains the areas for voluntary movement, speech production and executive control?",
+    "type": "function"
+   },
+   {
+    "q": "After a tamping iron passed through his head, Phineas Gage changed personality. Which lobe was damaged?",
+    "type": "clinical"
+   }
+  ],
+  "see_also": [
+   "prefrontal_cortex",
+   "primary_motor_cortex",
+   "parietal_lobe",
+   "temporal_lobe"
+  ],
+  "refs": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "id": "parietal_lobe",
+  "aliases": [
+   "parietal cortex",
+   "lobus parietalis"
+  ],
+  "hint": "posterior to the central sulcus, beneath the upper skull",
+  "summary": "The parietal lobe lies posterior to the central sulcus and superior to the lateral sulcus. It is bounded posteriorly by the parieto-occipital sulcus on the medial surface and by an arbitrary line to the preoccipital notch on the lateral surface. It consists of the postcentral gyrus, the superior and inferior parietal lobules and, medially, the precuneus. It receives somatosensory input, integrates it with vision and body position to construct spatial representations, and guides attention and action in space.",
+  "where": "The postcentral gyrus lies immediately behind the central sulcus. Posterior to it, the intraparietal sulcus separates the superior parietal lobule from the inferior parietal lobule. The inferior parietal lobule contains the supramarginal gyrus, which arches over the end of the lateral sulcus, and the angular gyrus, which arches over the end of the superior temporal sulcus. The precuneus is the main gyrus of the medial surface.",
+  "does": "The postcentral gyrus (areas 3, 1 and 2) is the primary somatosensory cortex and processes body sensation. The posterior parietal cortex integrates vision, touch and body position into spatial maps, guides reaching and grasping, and directs spatial attention. The inferior parietal lobule contributes to number processing, reading and language comprehension. The right inferior parietal and temporoparietal region supports awareness of space and of the body. Evidence for the precuneus is mixed, but it is active during self-referential thought and memory retrieval.",
+  "connects": "Somatosensory input arrives from the ventral posterior nuclei of the thalamus. The dorsal visual stream (where and how pathway) projects from the occipital lobe to the posterior parietal cortex, which in turn projects to the premotor and prefrontal cortex.",
+  "clinical": "Right parietal lesions, especially of the inferior parietal region, cause hemispatial neglect of the left side of space. Left parietal lesions can cause Gerstmann syndrome (finger agnosia, left-right confusion, agraphia, acalculia) and apraxia. Bilateral posterior parietal lesions cause Balint syndrome, which comprises simultanagnosia and optic ataxia.",
+  "remember": "Parietal cortex answers where: it maps the body and the space around it.",
+  "facts": [
+   "The intraparietal sulcus divides the superior and inferior parietal lobules.",
+   "The supramarginal and angular gyri together form the inferior parietal lobule.",
+   "Right parietal lesions classically cause neglect of the left side of space."
+  ],
+  "quiz": [
+   {
+    "q": "Which lobe lies between the central sulcus and the parieto-occipital sulcus, with the intraparietal sulcus running through it?",
+    "type": "location"
+   },
+   {
+    "q": "A patient ignores the left half of a drawing and the left side of her body after a right-sided stroke. Which lobe is the usual culprit?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which lobe integrates touch, body position and vision into spatial maps for reaching and attention?",
+    "type": "function"
+   }
+  ],
+  "see_also": [
+   "primary_somatosensory_cortex",
+   "occipital_lobe",
+   "frontal_lobe",
+   "temporal_lobe"
+  ],
+  "refs": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "id": "temporal_lobe",
+  "aliases": [
+   "temporal cortex",
+   "lobus temporalis"
+  ],
+  "hint": "inferior to the lateral sulcus, beside the ear",
+  "summary": "The temporal lobe lies inferior to the lateral sulcus and extends anteriorly to the temporal pole. Posteriorly it merges with the parietal and occipital lobes along the line to the preoccipital notch. It is composed of the superior, middle and inferior temporal gyri, the transverse temporal gyri on the superior temporal plane, and the fusiform and parahippocampal gyri on the inferior and medial surfaces. It contains the primary auditory cortex, the ventral visual stream for object recognition, language comprehension areas and, medially, the hippocampus and amygdala.",
+  "where": "The lateral surface consists of the superior, middle and inferior temporal gyri, separated by the superior and inferior temporal sulci. The superior temporal plane within the lateral sulcus bears the transverse temporal gyri (of Heschl), the planum temporale and the planum polare. On the inferior surface the fusiform gyrus lies between the occipitotemporal and collateral sulci, and medially the parahippocampal gyrus leads to the hippocampus and amygdala.",
+  "does": "The temporal lobe processes hearing (primary auditory cortex in Heschl's gyrus), language comprehension (left posterior superior temporal region), and the recognition of objects, faces and words (ventral visual stream, fusiform gyrus). The medial temporal lobe, including the hippocampus, forms new declarative memories. The anterior temporal lobe stores semantic knowledge about concepts and people. The amygdala, at the anterior medial end, attaches emotional significance to perceived stimuli.",
+  "connects": "Auditory input reaches Heschl's gyrus from the medial geniculate nucleus. The ventral visual stream conveys object information anteriorly from the occipital lobe, and the hippocampus is connected to the cortex through the entorhinal cortex and returns output through the fornix.",
+  "clinical": "Bilateral medial temporal damage causes anterograde amnesia (patient H.M.). Left temporal damage can cause Wernicke's aphasia, and right fusiform damage can cause prosopagnosia. Bilateral anterior temporal damage produces Kluver-Bucy syndrome, and temporal lobe epilepsy produces auras of deja vu, olfactory sensations and fear. Semantic dementia is a degeneration of the anterior temporal lobes.",
+  "remember": "Temporal lies at the temple: hearing, language, face recognition and memory are all processed near the ear.",
+  "facts": [
+   "The temporal lobe is separated from the frontal and parietal lobes by the lateral sulcus.",
+   "Heschl's gyrus (areas 41 and 42) on its upper surface is the primary auditory cortex.",
+   "The hippocampus and amygdala lie in its medial part."
+  ],
+  "quiz": [
+   {
+    "q": "Which lobe lies below the lateral sulcus and holds the hippocampus, the amygdala and the fusiform gyrus?",
+    "type": "location"
+   },
+   {
+    "q": "Which lobe is the main site for auditory processing, comprehension of speech and formation of new declarative memories?",
+    "type": "function"
+   },
+   {
+    "q": "A patient with epilepsy reports a rising feeling, a strange smell and deja vu before seizures. Surgery removes the anterior part of which lobe?",
+    "type": "clinical"
+   }
+  ],
+  "see_also": [
+   "primary_auditory_cortex",
+   "wernickes_area",
+   "hippocampus",
+   "insula"
+  ],
+  "refs": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "id": "occipital_lobe",
+  "aliases": [
+   "occipital cortex",
+   "lobus occipitalis"
+  ],
+  "hint": "posterior pole of the hemisphere, caudal to the parietal lobe",
+  "summary": "The occipital lobe is the smallest lobe and forms the posterior pole of the cerebral hemisphere. On the medial surface it is separated from the parietal lobe by the parieto-occipital sulcus, and the calcarine sulcus divides the cuneus above from the lingual gyrus below. It contains the primary visual cortex (V1, area 17) and the surrounding extrastriate visual areas. It is devoted to vision and gives rise to the ventral and dorsal visual streams.",
+  "where": "The lateral surface has no sharp anterior border. The lobe is delimited by an imaginary line from the parieto-occipital sulcus to the preoccipital notch, and it contains the superior, middle and inferior occipital gyri, with the lunate and transverse occipital sulci. The occipital pole forms its tip. The medial view shows its organization best.",
+  "does": "Primary visual cortex (V1, area 17), which lines the calcarine sulcus, receives the visual field in a retinotopic map, and the surrounding areas V2 to V5 extract orientation, color, depth and motion. Two streams leave this region: the ventral stream to the temporal lobe, which identifies what an object is, and the dorsal stream to the parietal lobe, which specifies where it is and how to act on it. The cuneus represents the lower visual field and the lingual gyrus represents the upper visual field.",
+  "connects": "Input arrives from the lateral geniculate nucleus through the optic radiations (Meyer's loop and the parietal pathway). Output passes through the ventral stream to the inferotemporal cortex and through the dorsal stream to the posterior parietal cortex.",
+  "clinical": "Occipital lesions produce contralateral homonymous hemianopia, often with macular sparing when the posterior cerebral artery supply is involved. Bilateral damage causes cortical blindness, sometimes with Anton syndrome (denial of blindness). Occipital seizures produce flashing colored lights, and extrastriate lesions can cause achromatopsia or akinetopsia.",
+  "remember": "Vision is processed at the opposite end of the head from the eyes: the retinal image is mapped onto the occipital pole.",
+  "facts": [
+   "The calcarine sulcus lies on the medial occipital surface and contains the primary visual cortex.",
+   "The parieto-occipital sulcus marks its anterior boundary on the medial surface.",
+   "A lesion of one occipital lobe causes a contralateral homonymous hemianopia."
+  ],
+  "quiz": [
+   {
+    "q": "Which lobe is the posterior-most lobe, divided on its medial surface into cuneus and lingual gyrus by the calcarine sulcus?",
+    "type": "location"
+   },
+   {
+    "q": "Which lobe processes visual information and gives rise to both the ventral and dorsal visual streams?",
+    "type": "function"
+   },
+   {
+    "q": "A stroke in the posterior cerebral artery territory leaves a patient blind in the right half of both visual fields with the macula spared. Which lobe is damaged?",
+    "type": "clinical"
+   }
+  ],
+  "see_also": [
+   "primary_visual_cortex",
+   "parietal_lobe",
+   "temporal_lobe",
+   "lateral_geniculate_nucleus"
+  ],
+  "refs": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "id": "insula",
+  "aliases": [
+   "insular cortex",
+   "insular lobe",
+   "island of reil"
+  ],
+  "hint": "cortex buried within the lateral sulcus, beneath the opercula",
+  "summary": "The insula is a region of cortex folded deep within the lateral sulcus and concealed by the frontal, parietal and temporal opercula. It is encircled by the circular sulcus, and a central sulcus of the insula divides a larger anterior part, bearing short gyri, from a posterior part bearing long gyri. It receives visceral, gustatory and pain-related afferents, with the anterior portion connected to limbic and prefrontal regions. It is concerned with interoception, taste and the representation of bodily states.",
+  "where": "The circular sulcus (with superior, anterior and inferior parts) borders the insula. It is visible when the opercula are retracted, or in coronal and axial sections. The extreme capsule, the claustrum and the basal ganglia lie deep to it.",
+  "does": "The posterior insula receives interoceptive input about the body (pain, temperature, itch and visceral sensation), and the anterior insula integrates this input into subjective feeling states. The anterior insula contributes to taste (the primary gustatory cortex lies in the anterior insula and frontal operculum), disgust, empathy and the sense of bodily self. With the anterior cingulate cortex it forms the salience network and helps switch between large-scale networks. A role in speech motor planning has been attributed to the left anterior insula, but this remains debated.",
+  "connects": "The posterior insula receives thalamic input from the ventral posteromedial nucleus (taste and visceral sensation) and the posterior part of the ventral medial nucleus (pain and temperature). The anterior insula is connected with the anterior cingulate cortex, amygdala and orbitofrontal cortex.",
+  "clinical": "Insular stroke can cause loss of taste, altered pain perception, dysphagia or apraxia of speech. Insular lesions have been associated with loss of nicotine craving, as smokers with insular strokes quit with ease. Disgust deficits occur in Huntington's disease, and the anterior insula is affected in frontotemporal dementia with loss of empathy.",
+  "remember": "Insula is Latin for island: the island of cortex hidden within the lateral sulcus.",
+  "facts": [
+   "The insula lies deep to the frontal, parietal and temporal opercula.",
+   "It has an anterior group of short gyri and a posterior group of long gyri.",
+   "The primary gustatory cortex lies in the anterior insula and the adjacent frontal operculum."
+  ],
+  "quiz": [
+   {
+    "q": "Which cortical region is hidden inside the lateral sulcus and covered by the opercula?",
+    "type": "location"
+   },
+   {
+    "q": "Which region integrates body-state signals such as pain, taste and visceral feeling and is a hub of the salience network?",
+    "type": "function"
+   },
+   {
+    "q": "Smokers who suffer a stroke in this cortex often lose the urge to smoke. Which region?",
+    "type": "clinical"
+   }
+  ],
+  "see_also": [
+   "anterior_cingulate_cortex",
+   "temporal_lobe",
+   "subcentral_gyrus",
+   "orbitofrontal_cortex"
+  ],
+  "refs": [
+   1,
+   3,
+   4
+  ]
+ },
+ {
+  "id": "limbic_lobe",
+  "aliases": [
+   "limbic cortex",
+   "great limbic lobe",
+   "limbic system"
+  ],
+  "hint": "ring of medial cortex encircling the corpus callosum",
+  "summary": "The limbic lobe is the ring of cortex on the medial surface of the hemisphere that borders the corpus callosum and the diencephalon, described by Broca as le grand lobe limbique. From anterior to posterior it comprises the subcallosal area, the cingulate gyrus above the corpus callosum, the isthmus behind the splenium, and the parahippocampal gyrus, which curves inferiorly and anteriorly to the uncus. It is interconnected with the hippocampus, amygdala and hypothalamus through the Papez circuit and the cingulum bundle. It links emotion, memory and autonomic control.",
+  "where": "The pericallosal and callosal sulci lie adjacent to it. It is best seen in a midsagittal view.",
+  "does": "The cingulate part monitors conflict, pain and motivation, the parahippocampal gyrus relays information to the hippocampus through the entorhinal cortex, and the subcallosal area regulates mood and autonomic state. These regions relate internal state to learning and behavior. The wider limbic system is an imprecisely defined concept that also includes the hippocampus, amygdala, hypothalamus, mammillary bodies and anterior thalamus.",
+  "connects": "The Papez circuit runs from the hippocampus through the fornix to the mammillary bodies, then by the mammillothalamic tract to the anterior thalamic nucleus, to the cingulate gyrus, to the parahippocampal gyrus and back to the hippocampus. The cingulum bundle carries fibers along the cingulate gyrus.",
+  "clinical": "Damage to components of the circuit causes amnesia (Korsakoff syndrome, medial temporal lesions) and emotional blunting. Cingulotomy has been used for intractable pain and obsessive-compulsive disorder, and the subcallosal cingulate is a target for deep brain stimulation in treatment-resistant depression. Alzheimer's disease begins in the parahippocampal and entorhinal cortex.",
+  "remember": "Limbus is Latin for border or rim: the limbic lobe forms the rim around the corpus callosum.",
+  "facts": [
+   "Paul Broca described the great limbic lobe in 1878.",
+   "It includes the cingulate and parahippocampal gyri, joined by the isthmus.",
+   "The subcallosal cingulate is a deep brain stimulation target for depression."
+  ],
+  "quiz": [
+   {
+    "q": "Which lobe forms a ring around the corpus callosum on the medial surface, combining the cingulate and parahippocampal gyri?",
+    "type": "location"
+   },
+   {
+    "q": "Which lobe, named by Broca, contains the Papez circuit and links emotion to memory and autonomic state?",
+    "type": "connection"
+   },
+   {
+    "q": "Deep brain stimulation of the subcallosal part of which lobe is used for treatment-resistant depression?",
+    "type": "clinical"
+   }
+  ],
+  "see_also": [
+   "anterior_cingulate_cortex",
+   "posterior_cingulate_cortex",
+   "parahippocampal_gyrus",
+   "hippocampus"
+  ],
+  "refs": [
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "id": "prefrontal_cortex",
+  "aliases": [
+   "pfc",
+   "prefrontal",
+   "frontal association cortex"
+  ],
+  "hint": "anterior third of the hemisphere, rostral to the motor areas",
+  "summary": "The prefrontal cortex is the anterior part of the frontal lobe, rostral to the premotor cortex and the precentral gyrus. It is composed of dorsolateral, ventrolateral, orbitofrontal and medial divisions, corresponding to Brodmann areas 8 to 14, 24, 32 and 44 to 47. It is defined by its reciprocal connections with the mediodorsal nucleus of the thalamus and is further connected with the parietal, temporal and limbic cortices. It supports executive function, including working memory, planning, response inhibition and the monitoring of outcomes.",
+  "where": "It covers the superior, middle and inferior frontal gyri, the frontal pole, and the orbital and medial surfaces as far as the gyrus rectus. A lateral view shows the dorsolateral and ventrolateral parts, and an inferior view shows the orbital part.",
+  "does": "Dorsolateral parts support working memory and cognitive control, ventrolateral parts select and retrieve information, orbitofrontal parts evaluate rewards and punishments, and medial parts contribute to social cognition and self-referential thought. The prefrontal cortex also supports rule switching and the inhibition of inappropriate responses. It is disproportionately large in primates and continues to develop into the mid-twenties. Functional specialization within it is graded rather than strictly segregated.",
+  "connects": "It receives input from the mediodorsal nucleus of the thalamus and projects back through frontostriatal loops via the caudate, globus pallidus and thalamus. It is also connected with the parietal association cortex, the temporal lobe, the amygdala and the hippocampus.",
+  "clinical": "Prefrontal damage causes dysexecutive syndrome, perseveration, impulsivity, apathy and loss of social judgment. Phineas Gage and the frontal lobotomy are the classic examples. Altered prefrontal function is reported in schizophrenia, ADHD, depression and frontotemporal dementia.",
+  "remember": "Prefrontal means in front of the frontal motor areas: it is the executive region of the frontal lobe.",
+  "facts": [
+   "It is defined by its connection with the mediodorsal nucleus of the thalamus.",
+   "It matures later than other cortical regions, into the mid-twenties.",
+   "Its subdivisions include the dorsolateral, ventrolateral, orbitofrontal and medial parts."
+  ],
+  "quiz": [
+   {
+    "q": "Which region, in front of the premotor areas, is defined by input from the mediodorsal thalamus?",
+    "type": "connection"
+   },
+   {
+    "q": "Which region supports working memory, planning and inhibition, and is the seat of executive control?",
+    "type": "function"
+   },
+   {
+    "q": "A patient with a frontal injury becomes impulsive, apathetic and socially inappropriate while movement and speech stay normal. Which region is damaged?",
+    "type": "clinical"
+   }
+  ],
+  "see_also": [
+   "dorsolateral_prefrontal_cortex",
+   "orbitofrontal_cortex",
+   "anterior_cingulate_cortex",
+   "frontal_lobe"
+  ],
+  "refs": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "id": "dorsolateral_prefrontal_cortex",
+  "aliases": [
+   "dlpfc",
+   "dorsolateral prefrontal",
+   "dorsolateral pfc"
+  ],
+  "hint": "upper side of the anterior hemisphere, around the middle gyrus",
+  "summary": "The dorsolateral prefrontal cortex is the superior lateral part of the prefrontal cortex, centered on the middle frontal gyrus and corresponding to Brodmann areas 9 and 46, with parts of areas 8 and 10. It is reciprocally connected with the mediodorsal thalamus and with the parietal association cortex through the superior longitudinal fasciculus. It holds and manipulates information in working memory. It also supports planning, rule use and top-down cognitive control.",
+  "where": "It lies above the inferior frontal sulcus and anterior to the premotor cortex, and is seen best from the lateral surface. On the 3D model the outline is approximate: it is drawn as the middle frontal gyrus with the middle and inferior frontal sulci, whereas the true region is the cytoarchitectonic areas 9 and 46, which have indistinct borders.",
+  "does": "The dorsolateral prefrontal cortex maintains and manipulates information in working memory, as shown by delay-period activity in monkey neurons and by human imaging. It also supports selective attention, planning, rule use, abstract reasoning and top-down cognitive control. The left side favors verbal material and the right favors spatial and monitoring tasks, although lateralization is partial. It is thought to operate on information rather than to store it.",
+  "connects": "It is connected with the parietal association cortex through the superior longitudinal fasciculus, forming the frontoparietal control network. Its output passes through the dorsolateral prefrontal loop of the basal ganglia (caudate, globus pallidus, mediodorsal and ventral anterior thalamus).",
+  "clinical": "Lesions cause dysexecutive syndrome with poor planning, perseveration and failure on the Wisconsin Card Sorting Task. Hypofunction is associated with schizophrenia and depression, and repetitive transcranial magnetic stimulation of the left dorsolateral prefrontal cortex is an approved treatment for depression.",
+  "remember": "Dorsal is superior and lateral is toward the side: this is the upper lateral prefrontal cortex, the site of working memory.",
+  "facts": [
+   "It corresponds to Brodmann areas 9 and 46.",
+   "Left dorsolateral prefrontal rTMS is an approved treatment for depression.",
+   "Failure on the Wisconsin Card Sorting Task is a classic sign of damage here."
+  ],
+  "quiz": [
+   {
+    "q": "Which prefrontal subregion, mostly Brodmann areas 9 and 46, holds information in working memory?",
+    "type": "function"
+   },
+   {
+    "q": "Which cortical target is stimulated by rTMS for depression, on the left side of the head over the middle frontal gyrus?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which region joins the parietal association cortex in the frontoparietal control network through the superior longitudinal fasciculus?",
+    "type": "connection"
+   }
+  ],
+  "see_also": [
+   "prefrontal_cortex",
+   "middle_frontal_gyrus",
+   "orbitofrontal_cortex",
+   "anterior_cingulate_cortex"
+  ],
+  "refs": [
+   1,
+   2,
+   5
+  ]
+ },
+ {
+  "id": "orbitofrontal_cortex",
+  "aliases": [
+   "ofc",
+   "orbital frontal cortex",
+   "orbitofrontal"
+  ],
+  "hint": "ventral surface of the anterior hemisphere, above the eye sockets",
+  "summary": "The orbitofrontal cortex is the ventral surface of the frontal lobe, lying on the orbital roof above the eyes. It comprises the orbital gyri, the gyrus rectus and the pars orbitalis of the inferior frontal gyrus, corresponding in part to Brodmann areas 10, 11, 13, 14 and 47. It receives gustatory, olfactory and visceral input together with projections from the amygdala and mediodorsal thalamus. It represents the value of stimuli and outcomes and guides choice and social behavior.",
+  "where": "The olfactory sulcus separates the gyrus rectus from the orbital gyri, and the H-shaped orbital sulcus divides the orbital gyri. It is seen from an inferior view, or on a medial slice at the base of the frontal lobe.",
+  "does": "The orbitofrontal cortex represents the value of stimuli and the outcomes of choices, and updates these representations when conditions change (reversal learning). It contributes to reward processing, decision making under uncertainty and the expectation of outcomes, and it helps regulate social and emotional behavior. Human data suggest that the medial part tracks reward value and the lateral part responds to punishment, but this division is debated.",
+  "connects": "It receives input from the olfactory and gustatory systems, the amygdala, the mediodorsal thalamus and the sensory association cortices. It projects to the striatum, hypothalamus, amygdala and other prefrontal regions.",
+  "clinical": "Orbitofrontal damage causes disinhibition, impulsivity, inappropriate social behavior and poor decisions despite intact IQ, as in Phineas Gage and in patients tested on the Iowa Gambling Task. Anosmia can follow orbital trauma through damage to the olfactory tract. Orbitofrontal overactivity is implicated in obsessive-compulsive disorder.",
+  "remember": "Orbito- refers to the orbit, the bony roof of the eye socket on which this cortex rests; it encodes the value of stimuli.",
+  "facts": [
+   "It lies directly over the orbital roof, above the eye sockets.",
+   "Reversal learning is impaired by orbitofrontal lesions.",
+   "The olfactory sulcus and olfactory bulb lie along its medial edge."
+  ],
+  "quiz": [
+   {
+    "q": "Which prefrontal region lies on the orbital roof and tracks the value of rewards and outcomes?",
+    "type": "function"
+   },
+   {
+    "q": "After injury here a patient makes poor choices on the Iowa Gambling Task and acts without social restraint. Which region?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which cortex on the underside of the frontal lobe, next to the olfactory sulcus, receives taste and smell input?",
+    "type": "location"
+   }
+  ],
+  "see_also": [
+   "prefrontal_cortex",
+   "orbital_gyri",
+   "gyrus_rectus",
+   "amygdala"
+  ],
+  "refs": [
+   1,
+   2,
+   5
+  ]
+ },
+ {
+  "id": "brocas_area",
+  "aliases": [
+   "brocas area",
+   "broca area",
+   "broca",
+   "broca's region",
+   "brodmann 44 and 45"
+  ],
+  "hint": "left inferior gyrus, just anterior to the face motor strip",
+  "summary": "Broca's area is located on the lateral surface of the left inferior frontal gyrus and consists of the pars opercularis (Brodmann area 44) and the pars triangularis (area 45). It lies immediately anterior to the inferior part of the precentral gyrus and above the lateral sulcus and its anterior rami. It is connected with Wernicke's area through the arcuate fasciculus and projects to the face region of the primary motor cortex. It is associated with speech production, including articulatory sequencing, syntax and grammar.",
+  "where": "The pars orbitalis (area 47) lies anterior to it and is sometimes grouped with it, but the classic definition comprises areas 44 and 45. It is best seen on the left lateral view.",
+  "does": "Broca's area supports the sequencing of articulation, syntax and grammar. Area 44 is closer to motor planning, and area 45 is closer to semantic retrieval and selection. Current models treat it as part of a wider left frontal network rather than a single speech center, and it is also active during sign language and action understanding. The right homologue contributes to prosody. The classic picture has been revised by direct tests: cortical recordings show Broca's area is quiet while a known word is spoken and active while a new sequence is planned, stimulation mapping in 165 awake patients placed speech arrest in the ventral premotor cortex rather than Broca's area, and in 64 stroke patients lesions here did not significantly predict sentence comprehension scores.",
+  "connects": "It is connected to Wernicke's area through the arcuate fasciculus (the dorsal route) and the extreme capsule fibers (the ventral route). It projects to the adjacent face region of the primary motor cortex, which drives the muscles of speech.",
+  "clinical": "Damage causes Broca's (non-fluent, expressive) aphasia: effortful, halting speech with agrammatism, preserved comprehension of simple sentences, impaired repetition and awareness of the deficit. The usual cause is a stroke of the superior division of the left middle cerebral artery, and right arm weakness frequently accompanies it. Paul Broca described the syndrome in 1861 in the patient Tan.",
+  "remember": "Broca: broken speech, with comprehension intact; Wernicke: fluent speech, with comprehension lost.",
+  "facts": [
+   "It corresponds to Brodmann areas 44 and 45, the pars opercularis and pars triangularis.",
+   "It lies in the left hemisphere in most right-handed people and in the majority of left-handers.",
+   "Broca's patient Tan could say only that one syllable."
+  ],
+  "quiz": [
+   {
+    "q": "Which left frontal region, Brodmann areas 44 and 45, is linked to the production of speech and grammar?",
+    "type": "function"
+   },
+   {
+    "q": "A patient understands speech but talks in slow, effortful, telegraphic phrases, and has weakness of the right arm. Which region is damaged?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which region at the anterior end of the arcuate fasciculus sits on the pars opercularis and pars triangularis?",
+    "type": "connection"
+   }
+  ],
+  "see_also": [
+   "wernickes_area",
+   "pars_opercularis",
+   "pars_triangularis",
+   "primary_motor_cortex"
+  ],
+  "refs": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "id": "primary_motor_cortex",
+  "aliases": [
+   "m1",
+   "motor cortex",
+   "motor strip",
+   "brodmann area 4",
+   "ba4",
+   "area 4"
+  ],
+  "hint": "gyrus anterior to the central sulcus that issues movement commands",
+  "summary": "The primary motor cortex is the precentral gyrus, Brodmann area 4, which extends from the lateral sulcus over the superior margin of the hemisphere. It lies immediately anterior to the central sulcus and posterior to the premotor and supplementary motor cortices, and continues on the medial surface into the paracentral lobule. Its layer V pyramidal neurons, including the giant Betz cells, give rise to the corticospinal and corticobulbar tracts. It generates commands for voluntary, skilled movement of the contralateral body.",
+  "where": "The anterior bank of the central sulcus is included. On the lateral view it appears as the gyrus immediately anterior to the central sulcus.",
+  "does": "It is organized somatotopically (the motor homunculus): the foot and leg are represented on the medial surface in the paracentral lobule, the trunk, arm and hand over the dorsal convexity, and the face, tongue and larynx laterally near the lateral sulcus. The hand and face representations are the largest, in proportion to the fine control they require rather than to body size. Population activity encodes movement direction and force.",
+  "connects": "Layer V pyramidal neurons send the corticospinal tract through the internal capsule, cerebral peduncle, medullary pyramids and pyramidal decussation to the spinal cord, and the corticobulbar tract to the cranial nerve nuclei. It receives input from the premotor cortex, supplementary motor area, somatosensory cortex and ventral lateral thalamus.",
+  "clinical": "A lesion causes contralateral weakness or paralysis, initially flaccid and later spastic with hyperreflexia and a Babinski sign. A stroke in the middle cerebral artery territory affects the face and arm, and one in the anterior cerebral artery territory affects the leg. Focal seizures arising here spread as a Jacksonian march. Penfield mapped the region by cortical stimulation.",
+  "remember": "Motor is anterior and sensory is posterior to the central sulcus: the precentral gyrus moves, the postcentral gyrus feels.",
+  "facts": [
+   "It is Brodmann area 4 and contains the giant Betz cells in layer V.",
+   "The leg is represented on the medial surface and the face laterally.",
+   "Penfield mapped the motor homunculus using cortical stimulation."
+  ],
+  "quiz": [
+   {
+    "q": "Which cortex, Brodmann area 4, contains giant Betz cells and gives rise to the corticospinal tract?",
+    "type": "connection"
+   },
+   {
+    "q": "Which gyrus has a homunculus with the foot on the medial surface and the face near the lateral sulcus, and drives voluntary movement?",
+    "type": "function"
+   },
+   {
+    "q": "A middle cerebral artery stroke causes contralateral weakness of the face and arm. Which cortex is damaged?",
+    "type": "clinical"
+   }
+  ],
+  "see_also": [
+   "precentral_gyrus",
+   "primary_somatosensory_cortex",
+   "paracentral_lobule",
+   "ventral_lateral_nucleus"
+  ],
+  "refs": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "id": "primary_somatosensory_cortex",
+  "aliases": [
+   "s1",
+   "somatosensory cortex",
+   "sensory strip",
+   "brodmann areas 3 1 2",
+   "ba3",
+   "ba1",
+   "ba2"
+  ],
+  "hint": "gyrus just posterior to the central sulcus that receives touch",
+  "summary": "The primary somatosensory cortex is the postcentral gyrus, Brodmann areas 3, 1 and 2, lying immediately posterior to the central sulcus. It extends from the lateral sulcus over the superior margin of the hemisphere and continues on the medial surface into the paracentral lobule. It receives touch, vibration, proprioception, temperature and pain from the contralateral body by way of the ventral posterior nuclei of the thalamus. It is organized as a somatosensory homunculus.",
+  "where": "Area 3 (3a and 3b) lies in the posterior bank of the central sulcus, area 1 on the crest of the gyrus and area 2 on its posterior slope toward the postcentral sulcus. A lateral view shows it best.",
+  "does": "The homunculus places the leg and foot on the medial surface, then the trunk, arm and hand, with the face, lips and tongue laterally, and the genitals and intra-abdominal sensation at the far medial and inferior ends. Area size follows receptor density, so the lips and fingertips have disproportionately large representations. Area 3b responds to cutaneous touch, area 3a to proprioception, area 1 to texture and area 2 to size and shape, and these inputs are combined to recognize objects by touch.",
+  "connects": "The ventral posterolateral nucleus (body) and the ventral posteromedial nucleus (face) of the thalamus relay the dorsal column-medial lemniscus and spinothalamic inputs to area 3. The primary somatosensory cortex projects to the posterior parietal cortex, the secondary somatosensory cortex and the motor cortex.",
+  "clinical": "Lesions cause contralateral loss of fine touch, vibration, proprioception and two-point discrimination, while crude touch and pain are partly preserved. Damage to the adjacent parietal association cortex causes astereognosis and agraphesthesia. Focal sensory seizures spread across the body as a Jacksonian march. Phantom limb sensation has been linked to remapping within the primary somatosensory cortex.",
+  "remember": "Sensory lies posterior to the central sulcus: the postcentral gyrus is the sensory strip.",
+  "facts": [
+   "It is Brodmann areas 3, 1 and 2, in that order from the central sulcus backward.",
+   "The face and hand have a large area on its homunculus.",
+   "Its thalamic input comes from the ventral posterior nuclei."
+  ],
+  "quiz": [
+   {
+    "q": "Which cortex, Brodmann areas 3, 1 and 2, sits directly behind the central sulcus and receives touch from the contralateral body?",
+    "type": "location"
+   },
+   {
+    "q": "Which cortex has a homunculus with enormous lips and fingertips, reflecting receptor density?",
+    "type": "function"
+   },
+   {
+    "q": "A stroke leaves a patient unable to recognize a coin by touch alone, with lost vibration and position sense on the opposite side. Which cortex?",
+    "type": "clinical"
+   }
+  ],
+  "see_also": [
+   "postcentral_gyrus",
+   "primary_motor_cortex",
+   "ventral_posterolateral_nucleus",
+   "supramarginal_gyrus"
+  ],
+  "refs": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "id": "primary_auditory_cortex",
+  "aliases": [
+   "a1",
+   "auditory cortex",
+   "brodmann areas 41 and 42",
+   "ba41",
+   "ba42"
+  ],
+  "hint": "oblique ridge hidden on the top of the temporal lobe",
+  "summary": "The primary auditory cortex is the transverse temporal gyrus of Heschl (Brodmann area 41, with area 42 as surrounding belt cortex) on the superior surface of the temporal lobe. It lies within the lateral sulcus and runs obliquely from the lateral margin of the insula toward the temporal lobe, with the planum polare anterior to it and the planum temporale posterior to it. It receives input from the medial geniculate nucleus through the auditory radiations. It is the first cortical stage of hearing and is organized tonotopically.",
+  "where": "It is concealed in a surface view, so it requires an opened or sectioned lateral sulcus.",
+  "does": "Neurons for low frequencies lie at the anterolateral end and those for high frequencies at the posteromedial end. The region contributes to pitch perception and sound timing, while the surrounding belt and parabelt regions (areas 42 and 22) process complex sounds, including speech and music. Input from both ears reaches each hemisphere, with a contralateral bias.",
+  "connects": "Inputs come from the medial geniculate nucleus of the thalamus through the auditory radiations in the sublenticular part of the internal capsule. Output goes to the auditory association cortex of the superior temporal gyrus, including Wernicke's area, and then to the frontal lobe.",
+  "clinical": "Because input from each ear reaches both hemispheres, a unilateral lesion causes only subtle deficits (difficulty localizing sound), and bilateral lesions cause cortical deafness. Left-sided damage together with adjacent areas can cause pure word deafness, and right-sided damage can cause amusia. Auditory hallucinations in schizophrenia are associated with activation of this region.",
+  "remember": "Heschl's gyrus is the first cortical station for sound, after the medial geniculate nucleus.",
+  "facts": [
+   "It is Brodmann area 41, with area 42 as surrounding belt cortex.",
+   "It is organized by sound frequency (tonotopy).",
+   "It receives its input from the medial geniculate nucleus."
+  ],
+  "quiz": [
+   {
+    "q": "Which cortex, Heschl's gyrus, is hidden on the superior surface of the temporal lobe and is organized by pitch?",
+    "type": "location"
+   },
+   {
+    "q": "Which cortex receives auditory radiations from the medial geniculate nucleus?",
+    "type": "connection"
+   },
+   {
+    "q": "Which cortex, when damaged on both sides, causes cortical deafness despite intact ears and brainstem?",
+    "type": "clinical"
+   }
+  ],
+  "see_also": [
+   "heschls_gyrus",
+   "medial_geniculate_nucleus",
+   "planum_temporale",
+   "wernickes_area"
+  ],
+  "refs": [
+   1,
+   2,
+   5
+  ]
+ },
+ {
+  "id": "wernickes_area",
+  "aliases": [
+   "wernickes area",
+   "wernicke area",
+   "wernicke",
+   "wernicke's region",
+   "ba22",
+   "brodmann area 22"
+  ],
+  "hint": "left posterior upper temporal lobe, where speech gains meaning",
+  "summary": "Wernicke's area is classically the posterior part of the left superior temporal gyrus (Brodmann area 22), at its junction with the parietal lobe. Definitions vary and frequently extend into the adjacent supramarginal and angular gyri (areas 39 and 40). It receives input from the primary auditory cortex and association cortex and projects through the arcuate fasciculus to Broca's area. It is associated with language comprehension.",
+  "where": "On the 3D model the outline is approximate: it is drawn as the planum temporale, the flat surface posterior to Heschl's gyrus within the lateral sulcus, whereas the true region is the posterior superior temporal gyrus and surrounding cortex. The planum temporale is larger on the left in most people.",
+  "does": "Wernicke's area converts heard and read words into meaning and supports the selection of appropriate word forms. It belongs to a network in the left posterior superior temporal and temporoparietal cortex that maps sounds to words. More recent models hold that comprehension depends on a broader distributed network, in which the posterior superior temporal gyrus supports phonological processing and the middle and anterior temporal cortex support meaning. The right homologue contributes to prosody. Lesion mapping tests this directly: in 64 stroke patients, damage to Wernicke's area did not significantly predict sentence comprehension scores, while damage to the posterior middle temporal gyrus and nearby regions did.",
+  "connects": "It receives from the primary auditory cortex and association cortex and sends the arcuate fasciculus anteriorly to Broca's area, with a ventral route through the extreme capsule. The angular gyrus supplies written language.",
+  "clinical": "Damage causes Wernicke's (fluent, receptive) aphasia: fluent speech with normal rhythm but empty or jumbled content (paraphasias, neologisms), poor comprehension, poor repetition and often no awareness of the deficit. The usual cause is a stroke of the inferior division of the left middle cerebral artery. A superior quadrantanopia can accompany it, and motor weakness is usually absent.",
+  "remember": "Wernicke: fluent but empty speech with poor comprehension; Broca: effortful speech with comprehension intact.",
+  "facts": [
+   "It lies in the left posterior superior temporal gyrus, Brodmann area 22.",
+   "It is linked to Broca's area by the arcuate fasciculus.",
+   "Carl Wernicke described it in 1874."
+  ],
+  "quiz": [
+   {
+    "q": "Which left temporal region, in the posterior superior temporal gyrus, is linked to understanding spoken language?",
+    "type": "function"
+   },
+   {
+    "q": "A patient speaks fluently with normal rhythm but the words are jumbled, and he cannot understand questions and has no weakness. Which region is damaged?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which region sends the arcuate fasciculus to the pars opercularis and pars triangularis?",
+    "type": "connection"
+   }
+  ],
+  "see_also": [
+   "brocas_area",
+   "planum_temporale",
+   "superior_temporal_gyrus",
+   "angular_gyrus"
+  ],
+  "refs": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "id": "primary_visual_cortex",
+  "aliases": [
+   "v1",
+   "visual cortex",
+   "striate cortex",
+   "area 17",
+   "brodmann area 17",
+   "ba17",
+   "calcarine cortex"
+  ],
+  "hint": "banks of the deep furrow on the medial side of the back of the brain",
+  "summary": "The primary visual cortex is Brodmann area 17, lining the banks of the calcarine sulcus on the medial surface of the occipital lobe and extending slightly onto the occipital pole. The cuneus lies above the sulcus and the lingual gyrus below it. It is named striate cortex for the stripe of Gennari, a white band visible in layer 4 in cross section. It receives input from the lateral geniculate nucleus and is the first cortical stage of vision.",
+  "where": "A midsagittal view shows it best.",
+  "does": "V1 contains a retinotopic map: the upper bank (cuneus) represents the lower visual field and the lower bank (lingual gyrus) represents the upper visual field, and the fovea occupies a disproportionately large posterior portion (cortical magnification). V1 neurons respond to orientation, edges, spatial frequency, motion direction, eye of origin and color, and are arranged in columns (orientation and ocular dominance columns, described by Hubel and Wiesel). Its output proceeds to V2 and to the ventral and dorsal streams.",
+  "connects": "Input arrives from the lateral geniculate nucleus through the optic radiations, which terminate in layer 4C. V1 projects to V2, V3, V4 and V5/MT, which feed the ventral stream (what) toward the temporal lobe and the dorsal stream (where and how) toward the parietal lobe.",
+  "clinical": "A V1 lesion causes contralateral homonymous hemianopia, and macular sparing may occur because of dual blood supply from the posterior and middle cerebral arteries. Upper bank lesions cause lower quadrantanopia and lower bank lesions cause upper quadrantanopia. Bilateral damage causes cortical blindness, and some patients show blindsight, responding to stimuli they do not consciously see.",
+  "remember": "Striate means striped: the stripe of Gennari in layer 4 gives V1 its name, and the calcarine sulcus is its location.",
+  "facts": [
+   "It is Brodmann area 17 and contains the stripe of Gennari.",
+   "The fovea has the largest cortical representation (cortical magnification).",
+   "The cuneus represents the lower visual field and the lingual gyrus the upper visual field."
+  ],
+  "quiz": [
+   {
+    "q": "Which cortex lines the calcarine sulcus and shows the stripe of Gennari?",
+    "type": "location"
+   },
+   {
+    "q": "Which cortex shows orientation and ocular dominance columns, studied by Hubel and Wiesel?",
+    "type": "function"
+   },
+   {
+    "q": "A posterior cerebral artery stroke blinds a patient in the right visual field of both eyes but spares the macula. Which cortex is damaged?",
+    "type": "clinical"
+   }
+  ],
+  "see_also": [
+   "calcarine_sulcus",
+   "cuneus",
+   "lingual_gyrus",
+   "lateral_geniculate_nucleus"
+  ],
+  "refs": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "id": "anterior_cingulate_cortex",
+  "aliases": [
+   "acc",
+   "anterior cingulate",
+   "dorsal anterior cingulate",
+   "area 24",
+   "ba24",
+   "ba32"
+  ],
+  "hint": "medial strip wrapping the front of the corpus callosum",
+  "summary": "The anterior cingulate cortex is the anterior part of the cingulate gyrus on the medial surface, curving around the genu of the corpus callosum. It lies below the cingulate sulcus and above the callosal sulcus and comprises Brodmann areas 24, 32 and 33, with subcallosal area 25 below the genu. It is connected with the lateral prefrontal cortex, amygdala, hypothalamus and anterior insula. It detects conflict and errors and links motivation and emotion to action.",
+  "where": "The model includes the anterior and anterior mid parts of the cingulate gyrus. It is shown best in a midsagittal view.",
+  "does": "The dorsal part is cognitive and subserves conflict monitoring, error detection and decisions about effort. The ventral (rostral and subgenual) part is affective and contributes to emotion regulation and autonomic control. The anterior cingulate cortex also participates in the affective, unpleasant component of pain and in empathy. Whether it signals conflict, the expected value of control or surprise remains debated.",
+  "connects": "It forms the salience network with the anterior insula. It is connected with the lateral prefrontal cortex, amygdala, hypothalamus, periaqueductal gray and nucleus accumbens, and sends fibers along the cingulum to the posterior cingulate cortex and hippocampus.",
+  "clinical": "Bilateral damage causes akinetic mutism and apathy. Cingulotomy has been used for intractable pain and obsessive-compulsive disorder. Subgenual area 25 is overactive in depression and is a target for deep brain stimulation. Hypoactivity is reported in ADHD, and altered activity in anxiety and schizophrenia.",
+  "remember": "Cingulum means girdle: the cingulate gyrus is a belt around the corpus callosum, and its anterior part monitors conflict.",
+  "facts": [
+   "It includes Brodmann areas 24 and 32, and subgenual area 25.",
+   "The error-related negativity in EEG arises from it.",
+   "It forms the salience network together with the anterior insula."
+  ],
+  "quiz": [
+   {
+    "q": "Which region curves around the genu of the corpus callosum and signals conflict and errors?",
+    "type": "function"
+   },
+   {
+    "q": "Which region, when damaged on both sides, produces akinetic mutism and apathy?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which cortex is the partner of the anterior insula in the salience network?",
+    "type": "connection"
+   }
+  ],
+  "see_also": [
+   "posterior_cingulate_cortex",
+   "anterior_cingulate_gyrus",
+   "anterior_midcingulate_gyrus",
+   "insula"
+  ],
+  "refs": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "id": "posterior_cingulate_cortex",
+  "aliases": [
+   "pcc",
+   "posterior cingulate",
+   "area 23",
+   "area 31",
+   "ba23",
+   "ba31"
+  ],
+  "hint": "medial strip over the back of the callosum, ahead of the precuneus",
+  "summary": "The posterior cingulate cortex is the posterior part of the cingulate gyrus on the medial surface, curving over the body and splenium of the corpus callosum and lying anterior to the precuneus. It corresponds to Brodmann areas 23 and 31, and the retrosplenial cortex (areas 29 and 30) lies immediately behind the splenium. It is connected through the cingulum bundle with the hippocampal formation and the medial prefrontal cortex. It is a hub of the default mode network.",
+  "where": "The model includes the dorsal and ventral posterior cingulate gyri. It is best seen in a midsagittal view.",
+  "does": "Activity is high at rest and during autobiographical memory, self-referential thought and mind wandering, and decreases during demanding external tasks. The region has a high metabolic rate and extensive connectivity. It contributes to memory retrieval, to spatial orientation (through the retrosplenial part) and to the monitoring of environmental change, although its precise function remains debated. Its role is inferred mostly from imaging: in 885 electrical stimulations of the posteromedial cortex in 25 patients, sites inside it produced no observable or reported effects.",
+  "connects": "It is connected through the cingulum bundle to the parahippocampal gyrus and hippocampus, and to the anterior cingulate cortex, precuneus and medial prefrontal cortex. It is part of the Papez circuit and receives input from the anterior thalamic nucleus.",
+  "clinical": "Early Alzheimer's disease shows reduced metabolism and amyloid deposition in the posterior cingulate cortex and precuneus, detectable on FDG-PET before symptoms appear. Retrosplenial damage causes topographical disorientation and amnesia. Altered default mode connectivity is reported in depression, schizophrenia and autism.",
+  "remember": "Posterior cingulate: the default mode hub, most active when attention is directed inward rather than at a task.",
+  "facts": [
+   "It corresponds to Brodmann areas 23 and 31.",
+   "It is a core node of the default mode network.",
+   "Hypometabolism here is one of the earliest FDG-PET signs of Alzheimer's disease."
+  ],
+  "quiz": [
+   {
+    "q": "Which cingulate region, in front of the precuneus and above the splenium, is a hub of the default mode network?",
+    "type": "connection"
+   },
+   {
+    "q": "Reduced glucose metabolism in which medial cortex is an early PET sign of Alzheimer's disease?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which region is more active during rest and self-referential thought and less active during demanding external tasks?",
+    "type": "function"
+   }
+  ],
+  "see_also": [
+   "anterior_cingulate_cortex",
+   "precuneus",
+   "dorsal_posterior_cingulate_gyrus",
+   "ventral_posterior_cingulate_gyrus"
+  ],
+  "refs": [
+   1,
+   2,
+   3
+  ]
+ }
+]

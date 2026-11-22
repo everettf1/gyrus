@@ -1,0 +1,38 @@
+1. Hum Brain Mapp. 2024 Apr;45(5):e26635. doi: 10.1002/hbm.26635.
+
+The superior frontal sulcus in the human brain: Morphology and probability maps.
+
+Drudik K(1)(2), Petrides M(1)(2).
+
+Author information:
+(1)Department of Neurology and Neurosurgery, McGill University, Montreal 
+Neurological Institute/Hospital, Montreal, Quebec, Canada.
+(2)Department of Psychology, McGill University, Montreal, Quebec, Canada.
+
+The superior frontal sulcus (SFS) is the major sulcus on the dorsolateral 
+frontal cortex that defines the lateral limit of the superior frontal gyrus. 
+Caudally, it originates near the superior precentral sulcus (SPRS) and, 
+rostrally, it terminates near the frontal pole. The advent of structural 
+neuroimaging has demonstrated significant variability in this sulcus that is not 
+captured by the classic sulcal maps. The present investigation examined the 
+morphological variability of the SFS in 50 individual magnetic resonance imaging 
+(MRI) scans of the human brain that were registered to the Montreal Neurological 
+Institute (MNI) standard stereotaxic space. Two primary morphological patterns 
+were identified: (i) the SFS was classified as a continuous sulcus or (ii) the 
+SFS was a complex of sulcal segments. The SFS showed a high probability of 
+merging with neighbouring sulci on the superior and middle frontal gyri and 
+these patterns were documented. In addition, the morphological variability and 
+spatial extent of the SFS were quantified using volumetric and surface spatial 
+probability maps. The results from the current investigation provide an 
+anatomical framework for understanding the morphology of the SFS, which is 
+critical for the interpretation of structural and functional neuroimaging data 
+in the dorsolateral frontal region, as well as for improving the accuracy of 
+neurosurgical interventions.
+
+© 2024 The Authors. Human Brain Mapping published by Wiley Periodicals LLC.
+
+DOI: 10.1002/hbm.26635
+PMCID: PMC10973775
+PMID: 38544425 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

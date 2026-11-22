@@ -1,0 +1,38 @@
+1. J Cogn Neurosci. 2020 Dec;32(12):2303-2319. doi: 10.1162/jocn_a_01628. Epub
+2020  Sep 9.
+
+Network Localization of Executive Function Deficits in Patients with Focal 
+Thalamic Lesions.
+
+Hwang K(1)(2), Bruss J(1)(2), Tranel D(1)(2), Boes AD(1)(2).
+
+Author information:
+(1)The University of Iowa.
+(2)The University of Iowa Hospitals and Clinics.
+
+The human thalamus has been suggested to be involved in executive function, 
+based on animal studies and correlational evidence from functional neuroimaging 
+in humans. Human lesion studies, examining behavioral deficits associated with 
+focal brain injuries, can directly test the necessity of the human thalamus for 
+executive function. The goal of our study was to determine the specific lesion 
+location within the thalamus as well as the potential disruption of specific 
+thalamocortical functional networks, related to executive dysfunction. We 
+assessed executive function in 15 patients with focal thalamic lesions and 34 
+comparison patients with lesions that spared the thalamus. We found that 
+patients with mediodorsal thalamic lesions exhibited more severe impairment in 
+executive function when compared to both patients with thalamic lesions that 
+spared the mediodorsal nucleus and to comparison patients with lesions outside 
+the thalamus. Furthermore, we employed a lesion network mapping approach to map 
+cortical regions that show strong functional connectivity with the lesioned 
+thalamic subregions in the normative functional connectome. We found that 
+thalamic lesion sites associated with more severe deficits in executive function 
+showed stronger functional connectivity with ACC, dorsomedial PFC, and 
+frontoparietal network, compared to thalamic lesions not associated with 
+executive dysfunction. These are brain regions and functional networks whose 
+dysfunction could contribute to impaired executive functioning. In aggregate, 
+our findings provide new evidence that delineates a thalamocortical network for 
+executive function.
+
+DOI: 10.1162/jocn_a_01628
+PMCID: PMC7606569
+PMID: 32902335 [Indexed for MEDLINE]

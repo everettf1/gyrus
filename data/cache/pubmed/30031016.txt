@@ -1,0 +1,46 @@
+1. Neuropsychologia. 2018 Aug;117:551-557. doi: 
+10.1016/j.neuropsychologia.2018.07.021. Epub 2018 Jul 18.
+
+Absence of associative motor learning and impaired time perception in a rare 
+case of complete cerebellar agenesis.
+
+Wu B(1), Yao J(1), Wu GY(1), Li X(1), Gao WJ(2), Zhang RW(3), Sui JF(4).
+
+Author information:
+(1)Department of Physiology, College of Basic Medical Sciences, Third Military 
+Medical University, Chongqing 400038, China.
+(2)Department of Neurobiology and Anatomy, Drexel University College of 
+Medicine, Philadelphia, PA 19129, USA. Electronic address: wg38@drexel.edu.
+(3)Department of Neurosurgery, Qianfoshan Hospital, 16766 Jingshi Road, Jinan 
+250001, Shandong Province, China. Electronic address: zrw90@163.com.
+(4)Department of Physiology, College of Basic Medical Sciences, Third Military 
+Medical University, Chongqing 400038, China. Electronic address: 
+jfsui2003@163.com.
+
+Primary cerebellar agenesis (PCA), a brain disease where the cerebellum does not 
+develop, is an extremely rare congenital disease with only eleven living cases 
+reported thus far. Studies of the PCA case will thus provide valuable insights 
+into the necessity of cerebellar development for controlling and modulating 
+cognitive functions of the brain. In this follow-up study, we further 
+investigated the performance of associative learning and time perception of a 
+26-year-old female complete PCA case. We assessed whether delayed eyeblink 
+conditioning (EBC), which represents prototypical associative motor learning 
+function of the cerebellum, could be partially compensated by the 
+extracerebellar brain regions in complete absence of the cerebellum. We also 
+assessed whether the cerebellum, a critical brain region for millisecond-range 
+interval timing, is essential for perception of the second-range time interval. 
+Twelve neurotypical age-matched individuals were used as controls. We found that 
+although the complete PCA patient had only mild to moderate motor deficits, she 
+was unable to perform the delayed EBC even after 1-week of extensive training. 
+Additionally, the PCA patient also performed poorly during time reproduction 
+experiments in which she overproduced the millisecond-range time intervals, 
+while underproduced the second-range time intervals. The PCA patient also failed 
+to perform the temporal eyeblink conditioning with a 5 s fixed interval as the 
+conditioned stimulus. These results indicate that the cerebellum is 
+indispensable for associative motor learning and involved in timing of 
+sub-second intervals, as well as in the perception of second-range intervals.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.neuropsychologia.2018.07.021
+PMID: 30031016 [Indexed for MEDLINE]

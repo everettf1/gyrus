@@ -1,0 +1,24 @@
+1. Science. 2001 Aug 24;293(5534):1506-9. doi: 10.1126/science.1061133.
+
+Representation of perceived object shape by the human lateral occipital complex.
+
+Kourtzi Z(1), Kanwisher N.
+
+Author information:
+(1)Department of Brain and Cognitive Science, Massachusetts Institute of 
+Technology, Cambridge, MA 02139, USA. zoe.kourtzi@tuebingen.mpg.de
+
+The human lateral occipital complex (LOC) has been implicated in object 
+recognition, but it is unknown whether this region represents low-level image 
+features or perceived object shape. We used an event-related functional magnetic 
+resonance imaging adaptation paradigm in which the response to pairs of 
+successively presented stimuli is lower when they are identical than when they 
+are different. Adaptation across a change between the two stimuli in a pair 
+provides evidence for a common neural representation invariant to that change. 
+We found adaptation in the LOC when perceived shape was identical but contours 
+differed, but not when contours were identical but perceived shape differed. 
+These data indicate that the LOC represents not simple image features, but 
+rather higher level shape information.
+
+DOI: 10.1126/science.1061133
+PMID: 11520991 [Indexed for MEDLINE]

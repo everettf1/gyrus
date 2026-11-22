@@ -1,0 +1,29 @@
+1. Neuron. 2006 May 18;50(4):655-63. doi: 10.1016/j.neuron.2006.03.040.
+
+Dissociable medial prefrontal contributions to judgments of similar and 
+dissimilar others.
+
+Mitchell JP(1), Macrae CN, Banaji MR.
+
+Author information:
+(1)Department of Psychology, Harvard University, William James Hall, 33 Kirkland 
+Street, Cambridge, Massachusetts 02138, USA. mitchell@wjh.harvard.edu
+
+Comment in
+    Neuron. 2006 May 18;50(4):531-4. doi: 10.1016/j.neuron.2006.05.001.
+
+Human social interaction requires the recognition that other people are governed 
+by the same types of mental states-beliefs, desires, intentions-that guide one's 
+own behavior. We used functional neuroimaging to examine how perceivers make 
+mental state inferences when such self-other overlap can be assumed (when the 
+other is similar to oneself) and when it cannot (when the other is dissimilar 
+from oneself). We observed a double dissociation such that mentalizing about a 
+similar other engaged a region of ventral mPFC linked to self-referential 
+thought, whereas mentalizing about a dissimilar other engaged a more dorsal 
+subregion of mPFC. The overlap between judgments of self and similar others 
+suggests the plausibility of "simulation" accounts of social cognition, which 
+posit that perceivers can use knowledge about themselves to infer the mental 
+states of others.
+
+DOI: 10.1016/j.neuron.2006.03.040
+PMID: 16701214 [Indexed for MEDLINE]

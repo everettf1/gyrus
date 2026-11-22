@@ -1,0 +1,122 @@
+[
+ {
+  "region": "lateral_occipital_complex",
+  "pmid": "7667258",
+  "from": "Figure 1",
+  "caption": "A 3D rendering of one right hemisphere with the object-responsive region (LO, red) drawn next to motion area MT/V5 (green) in the lateral occipital cortex.",
+  "notice": "The red patch is the area that responded to pictures of objects in the fMRI scan, so this shows where activity tracks objects, which is a correlation.",
+  "short": "Malach et al. 1995, Proc Natl Acad Sci U S A",
+  "license": "",
+  "file": "lateral_occipital_complex_7667258.webp"
+ },
+ {
+  "region": "secondary_somatosensory_cortex",
+  "pmid": "11313298",
+  "from": "Figure 4",
+  "caption": "Group fMRI results on brain slices for touching the second finger versus the fifth finger (a) and the second finger versus the big toe (b); the color shows which stimulated body part contributed more to each activated voxel.",
+  "notice": "Activation shows up around the lateral sulcus (LS) on both sides of the brain, which fits the card's point that S2 has a coarse body map that also appears on the ipsilateral side; this is a correlation.",
+  "short": "Ruben et al. 2001, Cereb Cortex",
+  "license": "",
+  "file": "secondary_somatosensory_cortex_11313298.webp"
+ },
+ {
+  "region": "limbic_lobe",
+  "pmid": "10678523",
+  "from": "Figure 1",
+  "caption": "A drawing of the area removed from both medial temporal lobes, showing a medial view with the cingulate gyrus, corpus callosum, fornix, hippocampal gyrus, uncus and hippocampus, and the 5 cm and 8 cm removals.",
+  "notice": "This marks which limbic structures were taken out in the operations after which memory was lost, so the link between this damage and amnesia is causal.",
+  "short": "Scoville et al. 2000, J Neuropsychiatry Clin Neurosci",
+  "license": "",
+  "file": "limbic_lobe_10678523.webp"
+ },
+ {
+  "region": "corticospinal_tract",
+  "pmid": "16236527",
+  "from": "Figure 7",
+  "caption": "Probabilistic maps of the corticospinal tract in coronal (a to g), horizontal (h to n) and sagittal (o to u) slices of a standard brain; warmer colors mean more of the postmortem brains had the tract at that spot.",
+  "notice": "The red and yellow core shows where the tract reliably runs, and the blue edge shows how much its position varies between brains.",
+  "short": "Bürgel et al. 2006, Neuroimage",
+  "license": "",
+  "file": "corticospinal_tract_16236527.webp"
+ },
+ {
+  "region": "dentate_gyrus",
+  "pmid": "18356518",
+  "from": "Figure 3",
+  "caption": "Bias scores for areas of the medial temporal lobe; scores near 0 mean pattern separation and scores near 1 mean pattern completion.",
+  "notice": "Only the CA3/DG bar sits near 0, so this region's activity leaned toward telling similar items apart while the other areas did not; this is a correlation from fMRI.",
+  "short": "Bakker et al. 2008, Science",
+  "license": "",
+  "file": "dentate_gyrus_18356518.webp"
+ },
+ {
+  "region": "gyrus_rectus",
+  "pmid": "22908286",
+  "from": "Figure 1B",
+  "caption": "Lesion overlap map for the Iowa Gambling Task (IGT), a value-based decision task, with the peak region circled and a bar graph comparing lesioned and normal participants.",
+  "notice": "Patients with lesions in the circled ventromedial prefrontal spot scored lower than those with lesions elsewhere, so damage there causes the decision-making deficit.",
+  "short": "Gläscher et al. 2012, Proc Natl Acad Sci U S A",
+  "license": "",
+  "file": "gyrus_rectus_22908286.webp"
+ },
+ {
+  "region": "middle_occipital_gyrus",
+  "pmid": "9697863",
+  "from": "Figure 6",
+  "caption": "Activation maps on brain slices from individual subjects: voxels preferring objects defined by motion (light blue) or by texture (yellow), with the overlap in red.",
+  "notice": "The red overlap in the lateral occipital region on both sides shows the same area responds to objects whichever cue defines them; this is a correlation.",
+  "short": "Grill-Spector et al. 1998, Neuron",
+  "license": "",
+  "file": "middle_occipital_gyrus_9697863.webp"
+ },
+ {
+  "region": "precentral_gyrus",
+  "pmid": "9055804",
+  "from": "Figure 6A",
+  "caption": "An axial cut through a brain specimen with arrows on the precentral knob, which looks like an inverted omega.",
+  "notice": "The omega-shaped bulge of the precentral gyrus is the landmark the card describes for finding the hand area and the central sulcus.",
+  "short": "Yousry et al. 1997, Brain",
+  "license": "",
+  "file": "precentral_gyrus_9055804.webp"
+ },
+ {
+  "region": "superior_temporal_gyrus",
+  "pmid": "24482117",
+  "from": "Figure 1A to D",
+  "caption": "Electrodes over one participant's superior temporal gyrus (A), the sentence heard with its spectrogram (B), responses across electrodes over time (C), and one electrode's response to each phoneme (D).",
+  "notice": "Electrode e1 responds mostly to the stop sounds (d, b, g, p, k, t), so a recording site is tuned to a group of speech sounds; this is a correlation.",
+  "short": "Mesgarani et al. 2014, Science",
+  "license": "",
+  "file": "superior_temporal_gyrus_24482117.webp"
+ },
+ {
+  "region": "sulcus_of_jensen",
+  "pmid": "39417046",
+  "from": "Figure 1E",
+  "caption": "Brain specimens with the intermediate sulcus of Jensen traced in red, shown in bayonet, T or Y, and arcuate forms; the intraparietal sulcus is green and the superior temporal sulcus is blue.",
+  "notice": "The red line has a different shape in different hemispheres and runs on from the intraparietal sulcus, matching the card's point that it branches from it and varies.",
+  "short": "Oğlin et al. 2024, Front Neuroanat",
+  "license": "",
+  "file": "sulcus_of_jensen_39417046.webp"
+ },
+ {
+  "region": "anterior_nucleus_of_thalamus",
+  "pmid": "20331461",
+  "from": "Figure 2",
+  "caption": "Median change in seizure frequency from baseline over the three-month blinded phase for the stimulated (active) and control groups.",
+  "notice": "The stimulated line falls to -40.4% while the control line rises back to -14.5%, so stimulation of the anterior nucleus is what reduced seizures; this is a randomized trial, which tests cause.",
+  "short": "Fisher et al. 2010, Epilepsia",
+  "license": "",
+  "file": "anterior_nucleus_of_thalamus_20331461.webp"
+ },
+ {
+  "region": "pulvinar",
+  "pmid": "18669494",
+  "from": "Figure 6",
+  "caption": "Second-target accuracy against the delay between targets for three patients with pulvinar lesions, with separate lines for the Contra and Ipsi sides.",
+  "notice": "For patients DG and CR the Contra line lies below the Ipsi line, so lesion damage is tied to worse performance on one side; this is a lesion result, which tests cause.",
+  "short": "Arend et al. 2008, Brain",
+  "license": "",
+  "file": "pulvinar_18669494.webp"
+ }
+]

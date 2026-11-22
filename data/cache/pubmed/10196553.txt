@@ -1,0 +1,26 @@
+1. Nat Neurosci. 1998 Oct;1(6):529-33. doi: 10.1038/2245.
+
+Maintaining internal representations: the role of the human superior parietal 
+lobe.
+
+Wolpert DM(1), Goodbody SJ, Husain M.
+
+Author information:
+(1)Sobell Department of Neurophysiology, Institute of Neurology, University 
+College London, UK.
+
+In sensorimotor integration, sensory input and motor output signals are combined 
+to provide an internal estimate of the state of both the world and one's own 
+body. Although a single perceptual and motor snapshot can provide information 
+about the current state, computational models show that the state can be 
+optimally estimated by a recursive process in which an internal estimate is 
+maintained and updated by the current sensory and motor signals. These models 
+predict that an internal state estimate is maintained or stored in the brain. 
+Here we report a patient with a lesion of the superior parietal lobe who shows 
+both sensory and motor deficits consistent with an inability to maintain such an 
+internal representation between updates. Our findings suggest that the superior 
+parietal lobe is critical for sensorimotor integration, by maintaining an 
+internal representation of the body's state.
+
+DOI: 10.1038/2245
+PMID: 10196553 [Indexed for MEDLINE]

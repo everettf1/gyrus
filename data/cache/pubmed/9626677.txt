@@ -1,0 +1,31 @@
+1. Neuroimage. 1998 May;7(4 Pt 1):377-86. doi: 10.1006/nimg.1998.0332.
+
+Somatosensory homunculus as drawn by MEG.
+
+Nakamura A(1), Yamada T, Goto A, Kato T, Ito K, Abe Y, Kachi T, Kakigi R.
+
+Author information:
+(1)Department of Biofunctional Research, National Institute for Longevity 
+Sciences, Aichi, Japan. nakamura@nils.go.jp
+
+We studied a detailed somatosensory representation map of the human primary 
+somatosensory cortex using magnetoencephalography. Somatosensory-evoked magnetic 
+fields following tactile stimulation of multiple points in the right hemibody 
+(including the tongue, lips, fingers, arm, trunk, leg, and foot) were analyzed 
+in five normal subjects. We were able to estimate equivalent current dipoles 
+(ECDs) following stimulation of the tongue, lips, fingers, palm, forearm, elbow, 
+upper arm, and toes in most subjects and those following the stimulation of the 
+chest, ankle, and thigh in one subject. The ECDs were located in the postcentral 
+gyrus and generally arranged in order along the central sulcus, which is 
+compatible with the somatosensory "homunculus." Linear distances, averaged in 
+five subjects, from the receptive area of the thumb to that of the tongue, 
+little finger, forearm, upper arm, and toes were estimated to be 2.42 +/- 0.28, 
+1.25 +/- 0.28, 2.21 +/- 0.72, 2.75 +/- 0.63, and 5.29 +/- 0.48 cm, respectively. 
+The moment of each ECD, which suggested the size of the cortical areas 
+responsive to the stimulation, was also compatible with the bizarre proportion 
+of the homunculus with a large tongue, lips, and fingers. According to these 
+results, we were able to reproduce a large part of the somatosensory homunculus 
+quantitatively on an individual brain MRI.
+
+DOI: 10.1006/nimg.1998.0332
+PMID: 9626677 [Indexed for MEDLINE]

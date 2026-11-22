@@ -1,0 +1,51 @@
+1. N Engl J Med. 2006 Aug 31;355(9):896-908. doi: 10.1056/NEJMoa060281.
+
+A randomized trial of deep-brain stimulation for Parkinson's disease.
+
+Deuschl G(1), Schade-Brittinger C, Krack P, Volkmann J, Schäfer H, Bötzel K, 
+Daniels C, Deutschländer A, Dillmann U, Eisner W, Gruber D, Hamel W, Herzog J, 
+Hilker R, Klebe S, Kloss M, Koy J, Krause M, Kupsch A, Lorenz D, Lorenzl S, 
+Mehdorn HM, Moringlane JR, Oertel W, Pinsker MO, Reichmann H, Reuss A, Schneider 
+GH, Schnitzler A, Steude U, Sturm V, Timmermann L, Tronnier V, Trottenberg T, 
+Wojtecki L, Wolf E, Poewe W, Voges J; German Parkinson Study Group, 
+Neurostimulation Section.
+
+Author information:
+(1)Christian Albrechts University, Kiel, Germany. 
+g.deuschl@neurologie.uni-kiel.de
+
+Erratum in
+    N Engl J Med. 2006 Sep 21;355(12):1289.
+
+Comment in
+    N Engl J Med. 2006 Nov 23;355(21):2256; author reply 2256. doi: 
+10.1056/NEJMc062545.
+
+BACKGROUND: Neurostimulation of the subthalamic nucleus reduces levodopa-related 
+motor complications in advanced Parkinson's disease. We compared this treatment 
+plus medication with medical management.
+METHODS: In this randomized-pairs trial, we enrolled 156 patients with advanced 
+Parkinson's disease and severe motor symptoms. The primary end points were the 
+changes from baseline to six months in the quality of life, as assessed by the 
+Parkinson's Disease Questionnaire (PDQ-39), and the severity of symptoms without 
+medication, according to the Unified Parkinson's Disease Rating Scale, part III 
+(UPDRS-III).
+RESULTS: Pairwise comparisons showed that neurostimulation, as compared with 
+medication alone, caused greater improvements from baseline to six months in the 
+PDQ-39 (50 of 78 pairs, P=0.02) and the UPDRS-III (55 of 78, P<0.001), with mean 
+improvements of 9.5 and 19.6 points, respectively. Neurostimulation resulted in 
+improvements of 24 to 38 percent in the PDQ-39 subscales for mobility, 
+activities of daily living, emotional well-being, stigma, and bodily discomfort. 
+Serious adverse events were more common with neurostimulation than with 
+medication alone (13 percent vs. 4 percent, P<0.04) and included a fatal 
+intracerebral hemorrhage. The overall frequency of adverse events was higher in 
+the medication group (64 percent vs. 50 percent, P=0.08).
+CONCLUSIONS: In this six-month study of patients under 75 years of age with 
+severe motor complications of Parkinson's disease, neurostimulation of the 
+subthalamic nucleus was more effective than medical management alone. 
+(ClinicalTrials.gov number, NCT00196911 [ClinicalTrials.gov].).
+
+Copyright 2006 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa060281
+PMID: 16943402 [Indexed for MEDLINE]

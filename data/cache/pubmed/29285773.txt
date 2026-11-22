@@ -1,0 +1,55 @@
+1. J Physiol. 2018 Mar 1;596(5):941-956. doi: 10.1113/JP275243. Epub 2018 Jan 19.
+
+Functional architecture of the somatosensory homunculus detected by 
+electrostimulation.
+
+Roux FE(1)(2), Djidjeli I(1)(2), Durand JB(1).
+
+Author information:
+(1)CNRS (CERCO) UMR Unité 5549, Université Paul Sabatier, Toulouse, 31059, 
+France.
+(2)Pôle NeuroSciences (Neurochirurgie), Centres Hospitalo-Universitaires, 
+Toulouse, 31059, France.
+
+KEY POINTS: We performed a prospective electrostimulation study, based on 50 
+operated intact patients, to acquire accurate MNI coordinates of the functional 
+areas of the somatosensory homunculus. In the contralateral BA1, the hand 
+representation displayed not only medial-to-lateral, little-finger-to-thumb, but 
+also rostral-to-caudal discrete somatotopy, with the tip of each finger located 
+more caudally than the proximal phalanx. The analysis of the MNI body 
+coordinates showed rare inter-individual variations in the medial-to-lateral 
+somatotopic organization in these patients with rather different intensity 
+thresholds needed to elicit sensations in different body parts. We found some 
+similarities but also substantial differences with the previous, seminal works 
+of Penfield and his colleagues. We propose a new drawing of the human 
+somatosensory homunculus according to MNI space.
+ABSTRACT: In this prospective electrostimulation study, based on 50 operated 
+patients with no sensory deficit and no brain lesion in the postcentral gyrus, 
+we acquired coordinates in the standard MNI space of the functional areas of the 
+somatosensory homunculus. The 3D brain volume of each patient was normalized to 
+that space to obtain the MNI coordinates of the stimulation site locations. For 
+647 sites stimulated on Brodmann Area 1 (and 1025 in gyri nearby), 258 positive 
+points for somatosensory response (40%) were found in the postcentral gyrus. In 
+the contralateral BA1, the hand representation displayed not only 
+medial-to-lateral and little-finger-to-thumb somatotopy, but also 
+rostral-to-caudal discrete somatotopy, with the tip of each finger located more 
+caudally than the proximal phalanx. We detected a medial-to-lateral, tip-to-base 
+tongue organization but no rostral-to-caudal functional organization. The 
+analysis of the MNI body coordinates showed rare inter-individual variations in 
+the medial-to-lateral somatotopic organization in these patients with intact 
+somatosensory cortex. Positive stimulations were detected through the 'on/off' 
+outbreak effect and discriminative touch sensations were the sensations reported 
+almost exclusively by all patients during stimulation. Mean hand (2.39 mA) and 
+tongue (2.60 mA) positive intensity thresholds were lower (P < 0.05) than the 
+intensities required to elicit sensations in the other parts of the body. Unlike 
+the previous, seminal works of Penfield and colleagues, we detected no 
+sensations such as sense of movement or desire to move, no somatosensory 
+responses outside the postcentral gyrus, and no bilateral responses for 
+face/tongue stimulations. We propose a rationalization of the standard drawing 
+of the somatosensory homunculus according to MNI space.
+
+© 2017 The Authors. The Journal of Physiology © 2017 The Physiological Society.
+
+DOI: 10.1113/JP275243
+PMCID: PMC5830421
+PMID: 29285773 [Indexed for MEDLINE]

@@ -1,0 +1,24 @@
+1. Science. 1997 Aug 15;277(5328):968-71. doi: 10.1126/science.277.5328.968.
+
+Pain affect encoded in human anterior cingulate but not somatosensory cortex.
+
+Rainville P(1), Duncan GH, Price DD, Carrier B, Bushnell MC.
+
+Author information:
+(1)D-epartement de Psychologie and Centre de Recherche en Sciences 
+Neurologiques, Université de Montréal, Montréal, Québec, Canada H3C 3J7.
+
+Recent evidence demonstrating multiple regions of human cerebral cortex 
+activated by pain has prompted speculation about their individual contributions 
+to this complex experience. To differentiate cortical areas involved in pain 
+affect, hypnotic suggestions were used to alter selectively the unpleasantness 
+of noxious stimuli, without changing the perceived intensity. Positron emission 
+tomography revealed significant changes in pain-evoked activity within anterior 
+cingulate cortex, consistent with the encoding of perceived unpleasantness, 
+whereas primary somatosensory cortex activation was unaltered. These findings 
+provide direct experimental evidence in humans linking frontal-lobe limbic 
+activity with pain affect, as originally suggested by early clinical lesion 
+studies.
+
+DOI: 10.1126/science.277.5328.968
+PMID: 9252330 [Indexed for MEDLINE]

@@ -1,0 +1,32 @@
+1. Nat Neurosci. 2009 Jul;12(7):932-8. doi: 10.1038/nn.2324. Epub 2009 May 31.
+
+Odor quality coding and categorization in human posterior piriform cortex.
+
+Howard JD(1), Plailly J, Grueschow M, Haynes JD, Gottfried JA.
+
+Author information:
+(1)Cognitive Neurology & Alzheimer's Disease Center, Northwestern University 
+Feinberg School of Medicine, Chicago, Illinois, USA.
+
+Comment in
+    Nat Neurosci. 2009 Jul;12(7):813-4. doi: 10.1038/nn0709-813.
+
+Efficient recognition of odorous objects universally shapes animal behavior and 
+is crucial for survival. To distinguish kin from nonkin, mate from nonmate and 
+food from nonfood, organisms must be able to create meaningful perceptual 
+representations of odor qualities and categories. It is currently unknown where 
+and in what form the brain encodes information about odor quality. By combining 
+functional magnetic resonance imaging (fMRI) with multivariate (pattern-based) 
+techniques, we found that spatially distributed ensemble activity in human 
+posterior piriform cortex (PPC) coincides with perceptual ratings of odor 
+quality, such that odorants with more (or less) similar fMRI patterns were 
+perceived as more (or less) alike. We did not observe these effects in anterior 
+piriform cortex, amygdala or orbitofrontal cortex, indicating that ensemble 
+coding of odor categorical perception is regionally specific for PPC. These 
+findings substantiate theoretical models emphasizing the importance of 
+distributed piriform templates for the perceptual reconstruction of odor object 
+quality.
+
+DOI: 10.1038/nn.2324
+PMCID: PMC2834563
+PMID: 19483688 [Indexed for MEDLINE]

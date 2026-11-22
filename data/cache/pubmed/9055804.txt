@@ -1,0 +1,28 @@
+1. Brain. 1997 Jan;120 ( Pt 1):141-57. doi: 10.1093/brain/120.1.141.
+
+Localization of the motor hand area to a knob on the precentral gyrus. A new 
+landmark.
+
+Yousry TA(1), Schmid UD, Alkadhi H, Schmidt D, Peraud A, Buettner A, Winkler P.
+
+Author information:
+(1)Department of Neuroradiology, Klinikum Grosshadern, Ludwig-Maximilian 
+University, Munich, Germany.
+
+Using functional magnetic resonance imaging (fMRI) we have evaluated the 
+anatomical location of the motor hand area. The segment of the precentral gyrus 
+that most often contained motor hand function was a knob-like structure, that is 
+shaped like an omega or epsilon in the axial plane and like a hook in the 
+sagittal plane. On the cortical surface of cadaver specimens this precentral 
+knob corresponded precisely to the characteristic 'middle knee' of the central 
+sulcus that has been described by various anatomists in the last century. We 
+were then able to show that this knob is a reliable landmark for identifying the 
+precentral gyrus directly. We therefore conclude that neural elements involved 
+in motor hand function are located in a characteristic 'precentral knob' which 
+is a reliable landmark for identifying the precentral gyrus under normal and 
+pathological conditions. It faces and forms the 'middle knee' of the central 
+sulcus, is located just at the cross point between the precentral sulcus and the 
+central sulcus, and is therefore also visible on the cortical surface.
+
+DOI: 10.1093/brain/120.1.141
+PMID: 9055804 [Indexed for MEDLINE]

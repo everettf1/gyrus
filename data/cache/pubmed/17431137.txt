@@ -1,0 +1,25 @@
+1. Science. 2007 May 11;316(5826):904-6. doi: 10.1126/science.1140459. Epub 2007 
+Apr 12.
+
+How the brain translates money into force: a neuroimaging study of subliminal 
+motivation.
+
+Pessiglione M(1), Schmidt L, Draganski B, Kalisch R, Lau H, Dolan RJ, Frith CD.
+
+Author information:
+(1)Wellcome Trust Centre for NeuroImaging, Institute of Neurology, University 
+College London, 12 Queen Square London WC1N 3BG, UK. pessigli@ccr.jussieu.fr
+
+Unconscious motivation in humans is often inferred but rarely demonstrated 
+empirically. We imaged motivational processes, implemented in a paradigm that 
+varied the amount and reportability of monetary rewards for which subjects 
+exerted physical effort. We show that, even when subjects cannot report how much 
+money is at stake, they nevertheless deploy more force for higher amounts. Such 
+a motivational effect is underpinned by engagement of a specific basal forebrain 
+region. Our findings thus reveal this region as a key node in brain circuitry 
+that enables expected rewards to energize behavior, without the need for the 
+subjects;awareness.
+
+DOI: 10.1126/science.1140459
+PMCID: PMC2631941
+PMID: 17431137 [Indexed for MEDLINE]

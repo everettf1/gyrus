@@ -1,0 +1,27 @@
+1. Nat Med. 1996 Nov;2(11):1217-24. doi: 10.1038/nm1196-1217.
+
+The cortical topography of human swallowing musculature in health and disease.
+
+Hamdy S(1), Aziz Q, Rothwell JC, Singh KD, Barlow J, Hughes DG, Tallis RC, 
+Thompson DG.
+
+Author information:
+(1)Department of Gastroenterology, Hope Hospital, University of Manchester, UK.
+
+Comment in
+    Nat Med. 1996 Nov;2(11):1190-1. doi: 10.1038/nm1196-1190.
+
+Because no detailed information exists regarding the topographic representation 
+of swallowing musculature on the human cerebral cortex in health or disease, we 
+used transcranial magnetic stimulation to study the cortical topography of human 
+oral, pharyngeal and esophageal musculature in 20 healthy individuals and the 
+topography of pharyngeal musculature in two stroke patients, one with and one 
+without dysphagia. Our results demonstrate that swallowing musculature is 
+discretely and somatotopically represented on the motor and premotor cortex of 
+both hemispheres but displays interhemispheric asymmetry, independent of 
+handedness. Following stroke, dysphagia appeared to be associated with smaller 
+pharyngeal representation on the intact hemisphere, which increases in size with 
+recovery of swallowing.
+
+DOI: 10.1038/nm1196-1217
+PMID: 8898748 [Indexed for MEDLINE]

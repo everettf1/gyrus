@@ -1,0 +1,28 @@
+1. Neuron. 1998 Jul;21(1):191-202. doi: 10.1016/s0896-6273(00)80526-7.
+
+Cue-invariant activation in object-related areas of the human occipital lobe.
+
+Grill-Spector K(1), Kushnir T, Edelman S, Itzchak Y, Malach R.
+
+Author information:
+(1)Weizmann Institute of Science, Rehovot, Israel.
+
+The extent to which primary visual cues such as motion or luminance are 
+segregated in different cortical areas is a subject of controversy. To address 
+this issue, we examined cortical activation in the human occipital lobe using 
+functional magnetic resonance imaging (fMRI) while subjects performed a fixed 
+visual task, object recognition, using three different primary visual cues: 
+motion, texture, or luminance contrast. In the first experiment, a region 
+located on the lateral aspect of the occipital lobe (LO complex) was 
+preferentially activated in all 11 subjects both by luminance and motion-defined 
+object silhouettes compared to full-field moving and stationary noise (ratios, 
+2.00+/-0.19 and 1.86+/-0.65, respectively). In the second experiment, all 
+subjects showed enhanced activation in the LO complex to objects defined both by 
+luminance and texture contrast compared to full-field texture patterns (ratios, 
+1.43+/-0.08 and 1.32+/-0.08, respectively). An additional smaller dorsal focus 
+that exhibited convergence of object-related cues appeared to correspond to area 
+V3a or a region slightly anterior to it. These results show convergence of 
+visual cues in LO and provide strong evidence for its role in object processing.
+
+DOI: 10.1016/s0896-6273(00)80526-7
+PMID: 9697863 [Indexed for MEDLINE]

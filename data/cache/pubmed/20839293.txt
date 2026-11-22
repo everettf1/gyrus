@@ -1,0 +1,42 @@
+1. Hum Brain Mapp. 2010 Sep;31(9):1339-47. doi: 10.1002/hbm.20934.
+
+Hippocampal atrophy patterns in mild cognitive impairment and Alzheimer's 
+disease.
+
+Mueller SG(1), Schuff N, Yaffe K, Madison C, Miller B, Weiner MW.
+
+Author information:
+(1)Center for Imaging of Neurodegenerative Diseases, Department of Veterans 
+Affairs Medical Center, San Francisco, California 94121, USA.
+
+BACKGROUND: Histopathological studies and animal models suggest that hippocampal 
+subfields may be differently affected by aging, Alzheimer's disease (AD), and 
+other diseases. High-resolution images at 4 Tesla depict details of the internal 
+structure of the hippocampus allowing for in vivo volumetry of different 
+subfields. The aims of this study were as follows: (1) to determine patterns of 
+volume loss in hippocampal subfields in normal aging, AD, and amnestic mild 
+cognitive impairment (MCI). (2) To determine if measurements of hippocampal 
+subfields provide advantages over total hippocampal volume for differentiation 
+between groups.
+METHODS: Ninety-one subjects (53 controls (mean age: 69.3 ± 7.3), 20 MCI (mean 
+age: 73.6 ± 7.1), and 18 AD (mean age: 69.1 ± 9.5) were studied with a 
+high-resolution T2 weighted imaging sequence aimed at the hippocampus. 
+Entorhinal cortex (ERC), subiculum, CA1, CA1-CA2 transition zone (CA1-2), CA3 & 
+dentate gyrus (CA3&DG) were manually marked in the anterior third of the 
+hippocampal body. Hippocampal volume was obtained from the Freesurfer and 
+manually edited.
+RESULTS: Compared to controls, AD had smaller volumes of ERC, subiculum, CA1, 
+CA1-2, and total hippocampal volumes. MCI had smaller CA1-2 volumes. 
+Discriminant analysis and power analysis showed that CA1-2 was superior to total 
+hippocampal volume for distinction between controls and MCI.
+CONCLUSION: The patterns of subfield atrophy in AD and MCI were consistent with 
+patterns of neuronal cell loss/reduced synaptic density described by 
+histopathology. These preliminary findings suggest that hippocampal subfield 
+volumetry might be a better measure for diagnosis of early AD and for detection 
+of other disease effects than measurement of total hippocampus.
+
+Hum Brain Mapp, 2010. © 2010 Wiley-Liss, Inc.
+
+DOI: 10.1002/hbm.20934
+PMCID: PMC2943433
+PMID: 20839293 [Indexed for MEDLINE]

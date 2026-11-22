@@ -1,0 +1,38 @@
+1. Neuroimage. 2012 Feb 15;59(4):3829-37. doi: 10.1016/j.neuroimage.2011.11.051. 
+Epub 2011 Dec 1.
+
+Functional organization of the left inferior precentral sulcus: dissociating the 
+inferior frontal eye field and the inferior frontal junction.
+
+Derrfuss J(1), Vogt VL, Fiebach CJ, von Cramon DY, Tittgemeyer M.
+
+Author information:
+(1)Radboud University Nijmegen, Donders Institute for Brain, Cognition, and 
+Behaviour, Nijmegen, The Netherlands. j.derrfuss@donders.ru.nl
+
+Two eye fields have been described in the human lateral frontal cortex: the 
+frontal eye field (FEF) and the inferior frontal eye field (iFEF). The FEF has 
+been extensively studied and has been found to lie at the ventral part of the 
+superior precentral sulcus. Much less research, however, has focused on the 
+iFEF. Recently, it was suggested that the iFEF is located at the dorsal part of 
+the inferior precentral sulcus. A similar location was proposed for the inferior 
+frontal junction area (IFJ), an area thought to be involved in cognitive control 
+processes. The present study used fMRI to clarify the topographical and 
+functional relationship of the iFEF and the IFJ in the left hemispheres of 
+individual participants. The results show that both the iFEF and the IFJ are 
+indeed located at the dorsal part of the inferior precentral sulcus. 
+Nevertheless, the activations were spatially dissociable in every individual 
+examined. The IFJ was located more towards the depth of the inferior precentral 
+sulcus, close to the junction with the inferior frontal sulcus, whereas the iFEF 
+assumed a more lateral, posterior and superior position. Furthermore, the 
+results provided evidence for a functional double dissociation: the iFEF was 
+activated only in a comparison of saccades vs. button presses, but not in a 
+comparison of incongruent vs. congruent Stroop conditions, while the opposite 
+pattern was found at the IFJ. These results provide evidence for a spatial and 
+functional dissociation of two directly adjacent areas in the left posterior 
+frontal lobe.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2011.11.051
+PMID: 22155041 [Indexed for MEDLINE]

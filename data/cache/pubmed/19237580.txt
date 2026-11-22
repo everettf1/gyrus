@@ -1,0 +1,32 @@
+1. Proc Natl Acad Sci U S A. 2009 Mar 10;106(10):4054-9. doi: 
+10.1073/pnas.0810086106. Epub 2009 Feb 23.
+
+Impaired attentional selection following lesions to human pulvinar: evidence for 
+homology between human and monkey.
+
+Snow JC(1), Allen HA, Rafal RD, Humphreys GW.
+
+Author information:
+(1)School of Psychology, Behavioural Brain Sciences, University of Birmingham, 
+Edgbaston, Birmingham B15 2TT, United Kingdom. jacqueline.c.snow@gmail.com
+
+We examined the contributions of the human pulvinar to goal directed selection 
+of visual targets in 3 patients with chronic, unilateral lesions involving 
+topographic maps in the ventral pulvinar. Observers completed 2 psychophysical 
+tasks in which they discriminated the orientation of a lateralized target 
+grating in the presence of vertically-aligned distracters. In experiment 1, 
+where distracter contrast was varied while target contrast remained constant, 
+the patients' contralesional contrast thresholds for discriminating the 
+orientation of grating stimuli were elevated only when the task required 
+selection of a visual target in the face of competition from a salient 
+distracter. Attentional selectivity was restored in the patients in experiment 2 
+where target contrast was varied while distracter contrast remained constant. 
+These observations provide the first evidence that the human pulvinar plays a 
+necessary role in modulating physical saliency in attentional selection, and 
+supports a homology in global pulvinar structure between humans and monkey.
+
+DOI: 10.1073/pnas.0810086106
+PMCID: PMC2656203
+PMID: 19237580 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

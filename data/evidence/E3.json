@@ -1,0 +1,1352 @@
+[
+ {
+  "id": "frontomarginal_gyrus",
+  "how_we_know": "No study has isolated this gyrus. What is known comes from work on the whole frontal pole (Brodmann area 10), mostly from fMRI and a few lesion studies, which show where activity rises and which deficits follow damage but cannot separate this gyrus from its neighbours. Treat the claims below as claims about anterior prefrontal cortex.",
+  "evidence": [
+   {
+    "kind": "meta-analysis",
+    "claim": "Rostral prefrontal cortex splits by task: memory laterally, multiple-task coordination rostrally",
+    "finding": "The authors pooled 104 PET and fMRI studies and mapped where activation peaks fell in rostral area 10. Working memory and episodic retrieval studies fell on the lateral side, and studies of multiple-task coordination fell most rostrally. A classifier given only the peak coordinates predicted the task correctly 74% of the time for the three most common tasks and 45% across all eight, well above chance. This is imaging, so it shows association, not necessity.",
+    "quote": "Performance was well above chance levels (74% for the three most common tasks; 45% across all eight tasks investigated) and generalized to data not included in the training set.",
+    "pmid": "16839301",
+    "doi": "10.1162/jocn.2006.18.6.932",
+    "cite": "Gilbert SJ, Spengler S, Simons JS, et al. Functional specialization within rostral prefrontal cortex (area 10): a meta-analysis. J Cogn Neurosci. 2006;18(6):932-48.",
+    "year": 2006,
+    "data": {
+     "title": "Task predicted from peak location (%)",
+     "unit": "%",
+     "items": [
+      [
+       "three most common tasks",
+       74
+      ],
+      [
+       "all eight tasks",
+       45
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "imaging",
+    "claim": "Lateral frontopolar cortex is active in prospective memory and self-generated thought",
+    "finding": "This review proposes that lateral area 10 supports thought that is self-generated or self-maintained, and that medial area 10 supports attention to current sensory input. It reports area 10 activation during prospective memory and context memory tasks and tests the idea with a meta-analysis of neuroimaging studies. The evidence is correlational and spans the whole pole.",
+    "quote": "Second, we demonstrate area 10 activations during the performance of established functions (prospective memory, context memory), which should hypothetically involve the proposed attentional system.",
+    "pmid": "17403644",
+    "doi": "10.1098/rstb.2007.2095",
+    "cite": "Burgess PW, Gilbert SJ, Dumontheil I. Function and localization within rostral prefrontal cortex (area 10). Philos Trans R Soc Lond B Biol Sci. 2007;362(1481):887-99.",
+    "year": 2007
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "inferior_occipital_gyrus",
+  "how_we_know": "The occipital face area on this gyrus has been tested causally in a few ways: a patient with lesions that spared the fusiform face area, TMS in healthy volunteers, and electrical stimulation through depth electrodes. These give stronger evidence than fMRI alone, but each study involves few people and the right side is the one tested.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Right inferior occipital damage impairs face perception even when the fusiform face area is intact",
+    "finding": "A patient had a deficit restricted to face perception after bilateral occipito-temporal lesions. The right inferior occipital cortex was damaged while the right middle fusiform gyrus was intact, and the fusiform face area still responded to faces on fMRI. The authors conclude that the right occipital face area is necessary for normal face perception.",
+    "quote": "Together, these findings show that the integrity of the right OFA is necessary for normal face perception and suggest that the face-sensitive responses observed at this level in normal subjects may arise from feedback connections from the right FFA.",
+    "pmid": "12876150",
+    "doi": "10.1093/brain/awg241",
+    "cite": "Rossion B, Caldara R, Seghier M, et al. A network of occipito-temporal face-sensitive areas besides the right middle fusiform gyrus is necessary for normal face processing. Brain. 2003;126(Pt 11):2381-95.",
+    "year": 2003
+   },
+   {
+    "kind": "stimulation",
+    "claim": "The right occipital face area handles early face-part processing",
+    "finding": "In healthy volunteers, repetitive TMS over the right occipital face area made people worse at telling apart face parts but not the spacing between them. TMS over the left occipital face area, and house tasks, were unaffected. Double pulses 60 and 100 ms after the picture appeared lowered accuracy, which places the process early.",
+    "quote": "The present study revealed that repetitive transcranial magnetic stimulation (rTMS) targeted at the right OFA (rOFA) disrupted accurate discrimination of face parts but had no effect on the discrimination of spacing between these parts. rTMS to left OFA had no effect.",
+    "pmid": "17764942",
+    "doi": "10.1016/j.cub.2007.07.063",
+    "cite": "Pitcher D, Walsh V, Yovel G, et al. TMS evidence for the involvement of the right occipital face area in early face processing. Curr Biol. 2007;17(18):1568-73.",
+    "year": 2007
+   }
+  ],
+  "stimulation": {
+   "method": "intracerebral electrical stimulation",
+   "effect": "Stimulating the right inferior occipital gyrus in one epilepsy patient briefly impaired recognition of faces while other recognition stayed intact. The same site showed face-selective activity on fMRI and a face-sensitive N170 response.",
+   "quote": "Here we report a case of transient selective impairment in face recognition (prosopagnosia) induced by focal electrical intracerebral stimulation of the right inferior occipital gyrus.",
+   "pmid": "22813996",
+   "doi": "10.1016/j.neuroscience.2012.07.021",
+   "cite": "Jonas J, Descoins M, Koessler L, et al. Focal electrical intracerebral stimulation of a face-sensitive area causes transient prosopagnosia. Neuroscience. 2012;222:281-8.",
+   "year": 2012
+  }
+ },
+ {
+  "id": "paracentral_lobule",
+  "how_we_know": "Imaging of pelvic floor contraction and clinical studies of anterior cerebral artery strokes are the main evidence for this lobule. Penfield's cortical maps in the 1930s and 1950s put the foot at the medial edge of the strip, but those papers have no PubMed abstract to quote here. Stroke studies show what is lost when the territory is damaged, though they rarely isolate the lobule alone.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The most medial motor cortex is active during voluntary pelvic floor contraction",
+    "finding": "Six healthy women were scanned with PET while they rested, strained the pelvic floor or strained the abdomen. The superomedial precentral gyrus, the most medial motor cortex, activated during pelvic floor contraction, and the superolateral precentral gyrus activated during abdominal contraction. The medial wall region reported is at the edge of the paracentral lobule, so this supports the claim in part.",
+    "quote": "The results revealed that the superomedial precentral gyrus, the most medial portion of the motor cortex, is activated during pelvic floor contraction and the superolateral precentral gyrus during contraction of the abdominal musculature.",
+    "pmid": "9414011",
+    "doi": "",
+    "cite": "Blok BF, Sturms LM, Holstege G. A PET study on cortical and subcortical control of pelvic floor musculature in women. J Comp Neurol. 1997;389(3):535-44.",
+    "year": 1997
+   },
+   {
+    "kind": "lesion",
+    "claim": "Anterior cerebral artery stroke causes leg weakness linked to the paracentral lobule",
+    "finding": "Researchers studied 100 consecutive patients with anterior cerebral artery infarction using MRI. Motor dysfunction was the most common symptom in 91 patients, and severe weakness tracked with involvement of the supplementary motor area and paracentral lobule. Urinary incontinence occurred in 30 patients but was not tied to any one lesion site, so the entry's link to this lobule is weaker than its link to leg weakness.",
+    "quote": "Motor dysfunction (n = 91) was the most common symptom, and severe motor dysfunction was related to supplementary motor area/paracentral lobule involvement (p = 0.016). Urinary incontinence (n = 30) was not related to any specific lesion locations.",
+    "pmid": "18541871",
+    "doi": "10.1212/01.wnl.0000314686.94007.d0",
+    "cite": "Kang SY, Kim JS. Anterior cerebral artery infarction: stroke mechanism and clinical-imaging study in 100 patients. Neurology. 2008;70(24 Pt 2):2386-93.",
+    "year": 2008,
+    "data": {
+     "title": "Patients with symptom, of 100 with ACA infarction",
+     "unit": "patients",
+     "items": [
+      [
+       "Motor dysfunction",
+       91
+      ],
+      [
+       "Urinary incontinence",
+       30
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "subcentral_gyrus",
+  "how_we_know": "Evidence comes from TMS maps of swallowing muscles on the motor strip and from patients with opercular syndrome. Neither isolates the subcentral gyrus alone, since TMS and stroke maps use the wider motor and premotor cortex and the operculum.",
+  "evidence": [
+   {
+    "kind": "stimulation",
+    "claim": "Swallowing and oral muscles are mapped on lateral motor and premotor cortex",
+    "finding": "TMS was used to map mouth, throat and esophagus muscles in 20 healthy people and throat muscles in two stroke patients. Swallowing muscles had a discrete, orderly map on the motor and premotor cortex of both hemispheres, with one side larger regardless of handedness. In stroke, trouble swallowing went with a smaller throat map in the intact hemisphere.",
+    "quote": "Our results demonstrate that swallowing musculature is discretely and somatotopically represented on the motor and premotor cortex of both hemispheres but displays interhemispheric asymmetry, independent of handedness.",
+    "pmid": "8898748",
+    "doi": "10.1038/nm1196-1217",
+    "cite": "Hamdy S, Aziz Q, Rothwell JC, et al. The cortical topography of human swallowing musculature in health and disease. Nat Med. 1996;2(11):1217-24.",
+    "year": 1996
+   },
+   {
+    "kind": "lesion",
+    "claim": "Bilateral opercular lesions abolish voluntary face, tongue and throat movement",
+    "finding": "The authors describe four cases of volitional paralysis of the face, tongue and throat muscles and review the literature. The syndrome classically follows bilateral lesions of the frontal operculum, but the cases show it can also follow cortical or subcortical lesions of the operculum or its connections on both sides.",
+    "quote": "We present four cases of the 'opercular syndrome' of volitional paresis of the facial, lingual, and laryngeal muscles (bilateral facio-glosso-pharyngo-masticatory paresis).",
+    "pmid": "11568407",
+    "doi": "10.1155/1998/423645",
+    "cite": "Bakar M, Kirshner HS, Niaz F. The opercular-subopercular syndrome: four cases with review of the literature. Behav Neurol. 1998;11(2):97-103.",
+    "year": 1998
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "transverse_frontopolar_gyri",
+  "how_we_know": "Imaging shows that the frontal pole is engaged when a person holds a main goal while handling sub-goals, and patients with lesions in and around area 10 show multitasking failures. Both kinds of study cover the whole pole, and nobody has stimulated this gyrus in awake patients, so the function is still debated.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Frontopolar cortex is active when a main goal is held while sub-goals are carried out",
+    "finding": "In an fMRI study, bilateral frontopolar regions were activated only when volunteers had to keep a main goal in mind while carrying out concurrent sub-goals. Neither working memory alone nor switching attention between goals activated these regions. The study is correlational.",
+    "quote": "Here we show, using functional magnetic resonance imaging, that bilateral regions in the FPPC alone are selectively activated when subjects have to keep in mind a main goal while performing concurrent (sub)goals.",
+    "pmid": "10335843",
+    "doi": "10.1038/20178",
+    "cite": "Koechlin E, Basso G, Pietrini P, et al. The role of the anterior prefrontal cortex in human cognition. Nature. 1999;399(6732):148-51.",
+    "year": 1999
+   },
+   {
+    "kind": "lesion",
+    "claim": "Damage to polar area 10 causes rule-breaking and task-switching failures in multitasking",
+    "finding": "The study tested 60 people with circumscribed brain lesions and 60 matched controls on a multitasking procedure. Lesions affecting the medial and more polar parts of Brodmann areas 8, 9 and especially 10 produced rule-breaking and failures of task switching. This is a causal result, since the deficits follow damage.",
+    "quote": "rule-breaking and failures of task switching were additionally found in people with lesions affecting the medial and more polar aspects of Brodmann's areas 8, 9 and especially 10.",
+    "pmid": "10689059",
+    "doi": "10.1016/s0028-3932(99)00134-7",
+    "cite": "Burgess PW, Veitch E, de Lacy Costello A, et al. The cognitive and neuroanatomical correlates of multitasking. Neuropsychologia. 2000;38(6):848-63.",
+    "year": 2000
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "anterior_cingulate_gyrus",
+  "how_we_know": "Imaging with patient lesions, surgical cingulotomy outcomes and intracerebral stimulation together tie this pregenual region to autonomic and emotional control. Stimulation and lesions show that the region is involved, while fMRI alone would show only correlation. Cingulotomy trials were open and uncontrolled.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Anterior cingulate activity drives autonomic arousal; damage blunts it",
+    "finding": "fMRI with heart recording showed dorsal anterior cingulate activity related to sympathetic control of heart rate during effortful tasks. Three patients with focal anterior cingulate damage then showed blunted autonomic arousal to mental stress compared with 147 normal subjects. The lesions fall mostly in the wider anterior cingulate, not only the pregenual part.",
+    "quote": "Each showed abnormalities in autonomic cardiovascular responses with blunted autonomic arousal to mental stress when compared with 147 normal subjects tested in identical fashion.",
+    "pmid": "12821513",
+    "doi": "10.1093/brain/awg216",
+    "cite": "Critchley HD, Mathias CJ, Josephs O, et al. Human cingulate cortex and autonomic control: converging neuroimaging and clinical evidence. Brain. 2003;126(Pt 10):2139-52.",
+    "year": 2003
+   },
+   {
+    "kind": "lesion",
+    "claim": "Cingulotomy helps some patients with treatment-refractory obsessive-compulsive disorder",
+    "finding": "The authors followed 44 patients with treatment-refractory OCD for a mean of 32 months after one or more cingulotomies. Fourteen patients (32%) met response criteria and six more (14%) were partial responders. This was an open study without a control group.",
+    "quote": "At mean follow-up of 32 months after one or more cingulotomies, 14 patients (32%) met criteria for treatment response and six others (14%) were partial responders.",
+    "pmid": "11823270",
+    "doi": "10.1176/appi.ajp.159.2.269",
+    "cite": "Dougherty DD, Baer L, Cosgrove GR, et al. Prospective long-term follow-up of 44 patients who received cingulotomy for treatment-refractory obsessive-compulsive disorder. Am J Psychiatry. 2002;159(2):269-75.",
+    "year": 2002,
+    "data": {
+     "title": "Cingulotomy outcome in OCD (% of 44 patients)",
+     "unit": "%",
+     "items": [
+      [
+       "treatment response",
+       32
+      ],
+      [
+       "partial response",
+       14
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": {
+   "method": "intracerebral stimulation during stereo-EEG",
+   "effect": "Stimulating the pregenual cingulate in epilepsy patients produced mostly emotional, interoceptive and autonomic responses. Stimulating the anterior midcingulate just behind it produced complex motor behaviours instead.",
+   "quote": "We found clear functional differences between the pregenual part of the cingulate cortex, hosting the majority of emotional, interoceptive and autonomic responses, and the anterior midcingulate sector, controlling the majority of all complex motor behaviours.",
+   "pmid": "30107501",
+   "doi": "10.1093/brain/awy219",
+   "cite": "Caruana F, Gerbella M, Avanzini P, et al. Motor and emotional behaviours elicited by electrical stimulation of the human cingulate cortex. Brain. 2018;141(10):3035-3051.",
+   "year": 2018
+  }
+ },
+ {
+  "id": "anterior_midcingulate_gyrus",
+  "how_we_know": "Imaging shows this region responds to errors and response competition, a rare stimulation report shows what it feels like when activated, and a few autopsy cases link bilateral damage to akinetic mutism. Imaging papers usually say anterior cingulate cortex without separating the midcingulate part, and the lesion cases are tiny.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Anterior cingulate activity rises on errors and when response competition is high",
+    "finding": "In an event-related fMRI study, the anterior cingulate cortex was active on error trials. It was also active on correct trials when response competition was high. The authors conclude it detects conditions in which errors are likely rather than errors themselves, which fits conflict monitoring. This is correlational.",
+    "quote": "Results confirm that this region shows activity during erroneous responses. However, activity was also observed in the same region during correct responses under conditions of increased response competition.",
+    "pmid": "9563953",
+    "doi": "10.1126/science.280.5364.747",
+    "cite": "Carter CS, Braver TS, Barch DM, et al. Anterior cingulate cortex, error detection, and the online monitoring of performance. Science. 1998;280(5364):747-9.",
+    "year": 1998
+   },
+   {
+    "kind": "lesion",
+    "claim": "Bilateral rostral cingulate damage causes akinetic mutism",
+    "finding": "The authors report three patients with almost absolute mutism and immobility. All three had bilateral lesions of the rostral anterior cingulate gyri that reached the neighboring supplementary motor area. The paper links the syndrome to loss of dopamine terminal fields in the anteromedial frontal cortex. Three cases is a small sample.",
+    "quote": "The pathological features common to all of the cases were bilateral lesions of the rostral part of the anterior cingulate gyri which overlapped onto the neighboring supplementary motor area, while differing as regards other damage.",
+    "pmid": "2849547",
+    "doi": "10.1007/BF00449910",
+    "cite": "Németh G, Hegedüs K, Molnár L. Akinetic mutism associated with bicingular lesions: clinicopathological and functional anatomical correlates. Eur Arch Psychiatry Neurol Sci. 1988;237(4):218-22.",
+    "year": 1988
+   }
+  ],
+  "stimulation": {
+   "method": "intracranial electrical stimulation",
+   "effect": "Stimulating the anterior midcingulate in two epilepsy patients caused autonomic changes and a feeling that a challenge was coming, together with a determination to overcome it.",
+   "quote": "In the current study, we show that electrical charge delivery in the anterior midcingulate cortex (aMCC) elicits autonomic changes and the expectation of an imminent challenge coupled with a determined attitude to overcome it.",
+   "pmid": "24316296",
+   "doi": "10.1016/j.neuron.2013.10.057",
+   "cite": "Parvizi J, Rangarajan V, Shirer WR, et al. The will to persevere induced by electrical stimulation of the human cingulate gyrus. Neuron. 2013;80(6):1359-67.",
+   "year": 2013
+  }
+ },
+ {
+  "id": "posterior_midcingulate_gyrus",
+  "how_we_know": "The cingulate motor areas come mostly from PET studies of the medial wall in people and from monkey work, so the human evidence is correlational. Stimulation in epilepsy patients gives a causal view but found this part of the cingulate hard to excite, and lesions here are rare.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Human medial wall holds cingulate motor areas with different roles in motor behavior",
+    "finding": "This review summarizes PET studies of the medial wall in humans and compares them with monkey work. It identifies at least four separate cortical areas, including two that match the monkey's cingulate motor areas, each more involved in some aspects of motor behavior than others. It is a review of imaging, so it shows correspondence, not necessity.",
+    "quote": "These cortical areas in the human appear to be analogous to the pre-SMA, the SMA proper, and two of the cingulate motor areas of the monkey.",
+    "pmid": "8670662",
+    "doi": "10.1093/cercor/6.3.342",
+    "cite": "Picard N, Strick PL. Motor areas of the medial wall: a review of their location and functional activation. Cereb Cortex. 1996;6(3):342-53.",
+    "year": 1996
+   },
+   {
+    "kind": "imaging",
+    "claim": "Midcingulate pain activity differs from emotion activity, so subregions have separate roles",
+    "finding": "This review of pain and emotion imaging argues for a four-region model of the cingulate gyrus based on connections and unique functions, not the older two-part model. Across the subregions, activity from pain and from emotion does not simply overlap.",
+    "quote": "However, recent cytoarchitectural studies of the cingulate gyrus support a four-region model, with subregions, that is based on connections and qualitatively unique functions.",
+    "pmid": "15995724",
+    "doi": "10.1038/nrn1704",
+    "cite": "Vogt BA. Pain and emotion interactions in subregions of the cingulate gyrus. Nat Rev Neurosci. 2005;6(7):533-44.",
+    "year": 2005
+   }
+  ],
+  "stimulation": {
+   "method": "intracerebral stimulation during stereo-EEG",
+   "effect": "In 329 epilepsy patients, the caudal midcingulate and posterior cingulate were poorly excitable, and responses were mainly sensory, with the caudal midcingulate giving most of the vestibular responses. This does not show the motor effects the entry attributes to this segment.",
+   "quote": "The caudal part of the midcingulate cortex and the posterior cingulate cortex were, in contrast, poorly excitable, and mainly devoted to sensory modalities. In particular, the caudal part of the midcingulate cortex hosted the majority of vestibular responses, while posterior cingulate cortex was the principal recipient of visual effects.",
+   "pmid": "30107501",
+   "doi": "10.1093/brain/awy219",
+   "cite": "Caruana F, Gerbella M, Avanzini P, et al. Motor and emotional behaviours elicited by electrical stimulation of the human cingulate cortex. Brain. 2018;141(10):3035-3051.",
+   "year": 2018
+  }
+ },
+ {
+  "id": "dorsal_posterior_cingulate_gyrus",
+  "how_we_know": "The default-mode role comes from imaging, which shows activity but not necessity. The posterior cingulate is well protected against stroke, so lesion data are scarce. Early metabolic loss in Alzheimer disease and one stimulation case give the clearest clues to what the region does.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The posterior cingulate is a key default mode node active in autobiographical memory and rest",
+    "finding": "This review gathers imaging work showing the posterior cingulate is a key node of the default mode network. Its activity rises during autobiographical memory retrieval, planning for the future and unconstrained rest. The authors also note that other evidence says the region is heterogeneous and helps set the focus of attention.",
+    "quote": "It is a key node in the default mode network and shows increased activity when individuals retrieve autobiographical memories or plan for the future, as well as during unconstrained 'rest' when activity in the brain is 'free-wheeling'.",
+    "pmid": "23869106",
+    "doi": "10.1093/brain/awt162",
+    "cite": "Leech R, Sharp DJ. The role of the posterior cingulate cortex in cognition and disease. Brain. 2014;137(Pt 1):12-32.",
+    "year": 2014
+   },
+   {
+    "kind": "imaging",
+    "claim": "The posterior cingulate shows early metabolic reduction in Alzheimer disease",
+    "finding": "FDG-PET was used in 66 patients with probable Alzheimer disease, then tested in 8 patients with only memory complaints who later progressed, against 22 normal controls. Metabolism in the posterior cingulate and cinguloparietal area was reduced by 21 to 22% in very early disease, more than in lateral neocortex or parahippocampal cortex.",
+    "quote": "Prediction and analysis of actual patients consistently indicated marked metabolic reduction (21-22%) in the posterior cingulate cortex and cinguloparietal transitional area in patients with very early Alzheimer's disease.",
+    "pmid": "9225689",
+    "doi": "10.1002/ana.410420114",
+    "cite": "Minoshima S, Giordani B, Berent S, et al. Metabolic reduction in the posterior cingulate cortex in very early Alzheimer's disease. Ann Neurol. 1997;42(1):85-94.",
+    "year": 1997
+   }
+  ],
+  "stimulation": {
+   "method": "intracranial electrical stimulation, 50 Hz",
+   "effect": "In one epilepsy patient whose seizures began in the right dorsal posterior cingulate, stimulating the seizure zone and the matching site in the other hemisphere reproduced a sense of self-dissociation, as if he were an outside observer of his own thoughts.",
+   "quote": "Importantly, 50-Hz electrical stimulation of the seizure zone and a homotopical region within the contralateral PMC induced a subjectively similar state, reproducibly.",
+   "pmid": "34272280",
+   "doi": "10.1073/pnas.2100522118",
+   "cite": "Parvizi J, Braga RM, Kucyi A, et al. Altered sense of self during seizures in the posteromedial cortex. Proc Natl Acad Sci U S A. 2021;118(29):e2100522118.",
+   "year": 2021
+  }
+ },
+ {
+  "id": "ventral_posterior_cingulate_gyrus",
+  "how_we_know": "Retrosplenial function comes from case reports of patients with damage nearby and from imaging of navigation. Lesions here are rare and seldom confined to retrosplenial cortex, so these cases are suggestive, not proof. No study has stimulated this region on its own.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Retrosplenial damage leaves landmark recognition intact but impairs using landmarks to navigate",
+    "finding": "This review collected case reports of patients with relatively pure topographical disorientation and a retrosplenial lesion. Most followed damage to the right retrosplenial cortex, and all patients had impaired route learning and failed to use landmarks they could still recognize. The deficit usually resolved within eight weeks.",
+    "quote": "The majority of cases follow damage to the right retrosplenial cortex, with Brodmann's area 30 apparently compromised in most cases. All patients displayed impaired learning of new routes, and defective navigation in familiar environments complaining they could not use preserved landmark recognition to aid orientation.",
+    "pmid": "11501737",
+    "doi": "10.1111/1467-9450.00233",
+    "cite": "Maguire EA. The retrosplenial contribution to human navigation: a review of lesion and neuroimaging findings. Scand J Psychol. 2001;42(3):225-38.",
+    "year": 2001
+   },
+   {
+    "kind": "lesion",
+    "claim": "Damage near the retrosplenial cortex can cause amnesia",
+    "finding": "A 39-year-old man developed retrograde and anterograde amnesia after bleeding from a vascular malformation near the splenium. MRI showed damage to the splenium and to a region holding the retrosplenial cortex and cingulate bundle, while the hippocampus and thalamus were spared. A single case, and the fornix may also have been involved.",
+    "quote": "A 39-year-old man developed retrograde and anterograde amnesia following haemorrhage from an arteriovenous malformation situated near the splenium of the corpus callosum.",
+    "pmid": "3427404",
+    "doi": "10.1093/brain/110.6.1631",
+    "cite": "Valenstein E, Bowers D, Verfaellie M, et al. Retrosplenial amnesia. Brain. 1987;110(Pt 6):1631-46.",
+    "year": 1987
+   },
+   {
+    "kind": "imaging",
+    "claim": "Retrosplenial cortex belongs to a core network for episodic memory, navigation and imagining the future",
+    "finding": "This review draws on neuroanatomy, animal studies and neuroimaging. It describes the retrosplenial cortex as a key member of a core network supporting episodic memory, navigation, imagination and planning. It also notes that the region is consistently compromised in the most common neurological disorders that impair memory.",
+    "quote": "This cortical area has emerged as a key member of a core network of brain regions that underpins a range of cognitive functions, including episodic memory, navigation, imagination and planning for the future.",
+    "pmid": "19812579",
+    "doi": "10.1038/nrn2733",
+    "cite": "Vann SD, Aggleton JP, Maguire EA. What does the retrosplenial cortex do? Nat Rev Neurosci. 2009;10(11):792-802.",
+    "year": 2009
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "cuneus",
+  "how_we_know": "Lesion cases with MRI and field testing give the causal link between this gyrus and the lower visual field, and fMRI retinotopy gives the map. Stimulation studies of primary visual cortex exist but do not separate the cuneus from the lingual gyrus, so none is claimed here.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "A tumor in the cuneus caused a contralateral lower quadrantanopia",
+    "finding": "A woman had scintillations in her left lower field and an astrocytoma was found in the right cuneus. After surgery she had a left lower quadrantanopia with a sharp horizontal edge. The authors argue that lesions of V2 and V3 in the cuneus can produce this on their own, so the defect does not prove V1 involvement.",
+    "quote": "The first patient experienced scintillations in the left lower quadrant, leading to the discovery of an astrocytoma in the cuneus of the right occipital lobe. Postoperatively she had a left lower quadrantanopia that precisely respected the horizontal meridian.",
+    "pmid": "1884174",
+    "doi": "10.1093/brain/114.4.1703",
+    "cite": "Horton JC, Hoyt WF. Quadrantic visual field defects. A hallmark of lesions in extrastriate (V2/V3) cortex. Brain. 1991;114(Pt 4):1703-18.",
+    "year": 1991
+   },
+   {
+    "kind": "lesion",
+    "claim": "Field defects in patients with occipital lesions map the visual field onto striate cortex",
+    "finding": "The authors compared MRI scans with homonymous field defects in patients with clearly defined occipital lesions. They found that the classic Holmes map underestimated the cortical area serving central vision, and they redrew it with more cortex for the center and less for the periphery.",
+    "quote": "We have tested the accuracy of Gordon Holmes' retinotopic map of human striate cortex by correlating magnetic resonance scans with homonymous field defects in patients with clearly defined occipital lobe lesions.",
+    "pmid": "2043069",
+    "doi": "10.1001/archopht.1991.01080060080030",
+    "cite": "Horton JC, Hoyt WF. The representation of the visual field in human striate cortex. A revision of the classic Holmes map. Arch Ophthalmol. 1991;109(6):816-24.",
+    "year": 1991
+   },
+   {
+    "kind": "imaging",
+    "claim": "fMRI retinotopy outlines V1, V2, V3 and V4 and shows center-of-gaze emphasis",
+    "finding": "Phase-encoded retinal stimulation during fMRI let the authors draw the borders of human visual areas V1, V2, VP, V3 and V4 non-invasively. The cortical magnification curves showed a greater emphasis on the center of gaze than in monkeys.",
+    "quote": "The borders of human visual areas V1, V2, VP, V3, and V4 were precisely and noninvasively determined.",
+    "pmid": "7754376",
+    "doi": "10.1126/science.7754376",
+    "cite": "Sereno MI, Dale AM, Reppas JB, et al. Borders of multiple visual areas in humans revealed by functional magnetic resonance imaging. Science. 1995;268(5212):889-93.",
+    "year": 1995
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "pars_opercularis",
+  "how_we_know": "Awake stimulation mapping and intracranial recordings give the strongest evidence, and both show that language function does not follow the gyral boundaries. Cytoarchitecture shows that the borders of Brodmann area 44 vary between brains, so the gyrus is a poor stand-in for the functional area.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "Area 44 is asymmetrical and its borders do not match sulci, so the gyrus is an imperfect landmark",
+    "finding": "The authors mapped areas 44 and 45 cytoarchitectonically in 10 human brains. Borders did not consistently coincide with sulcal contours, so macroscopic features are not reliable landmarks. The volume of area 44 varied by up to a factor of 10 across brains, and area 44 was larger on the left in every brain.",
+    "quote": "Therefore, macroscopic features are not reliable landmarks of cytoarchitectonic borders. Although the volumes of area 44 differed across subjects by up to a factor of 10, area 44 but not area 45 was left-over-right asymmetrical in all brains.",
+    "pmid": "10441759",
+    "doi": "10.1002/(sici)1096-9861(19990920)412:2<319::aid-cne10>3.0.co;2-7",
+    "cite": "Amunts K, Schleicher A, Bürgel U, et al. Broca's region revisited: cytoarchitecture and intersubject variability. J Comp Neurol. 1999;412(2):319-41.",
+    "year": 1999
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Language sites in the left frontal lobe vary by patient, so surgeons map them individually",
+    "finding": "Electrical stimulation mapping was done in the left hemispheres of 117 patients. Sites related to language were small mosaics of 1 to 2 sq cm, usually one in the frontal lobe, and their location varied between patients. Language could not be located reliably from anatomy alone.",
+    "quote": "The localization of cortical sites essential for language was assessed by stimulation mapping in the left, dominant hemispheres of 117 patients. There was substantial individual variability in the exact location of language function, some of which correlated with the patient's sex and verbal intelligence.",
+    "pmid": "18240946",
+    "doi": "10.3171/JNS/2008/108/2/0411",
+    "cite": "Ojemann G, Ojemann J, Lettich E, et al. Cortical language localization in left, dominant hemisphere. An electrical stimulation mapping investigation in 117 patients. 1989. J Neurosurg. 2008;108(2):411-21.",
+    "year": 2008
+   },
+   {
+    "kind": "recording",
+    "claim": "Broca's area coordinates word production but is silent while motor cortex speaks",
+    "finding": "Direct cortical recordings in neurosurgical patients tracked a cascade from temporal cortex to motor cortex during spoken words. Broca's area mediated the cascade through reciprocal interactions, yet was surprisingly silent during spoken responses and more active for novel nonword strings. The study covers Broca's area as a whole, not only this gyrus.",
+    "quote": "Contrary to classic notions of the role of Broca's area in speech, while motor cortex is activated during spoken responses, Broca's area is surprisingly silent.",
+    "pmid": "25730850",
+    "doi": "10.1073/pnas.1414491112",
+    "cite": "Flinker A, Korzeniewska A, Shestyuk AY, et al. Redefining the role of Broca's area in speech. Proc Natl Acad Sci U S A. 2015;112(9):2871-5.",
+    "year": 2015
+   }
+  ],
+  "stimulation": {
+   "method": "direct cortical stimulation in awake surgery",
+   "effect": "In 165 patients undergoing awake glioma surgery, speech arrest was produced by stimulating ventral premotor cortex, not the classical Broca's area. This differs from the textbook view that links speech arrest to pars opercularis.",
+   "quote": "However, speech arrest localized to ventral premotor cortex, not the classical Broca's area.",
+   "pmid": "24970097",
+   "doi": "10.1093/brain/awu168",
+   "cite": "Tate MC, Herbet G, Moritz-Gasser S, et al. Probabilistic map of critical functional regions of the human cerebral cortex: Broca's area revisited. Brain. 2014;137(Pt 10):2773-82.",
+   "year": 2014
+  }
+ },
+ {
+  "id": "pars_orbitalis",
+  "how_we_know": "Imaging and lesion studies together point to the left inferior frontal gyrus for choosing among competing meanings and the right for stopping responses. The imaging work places the anterior part of this region (Brodmann area 47) in controlled access to meaning, while the lesion studies cover the inferior frontal gyrus as a whole, so they do not isolate this gyrus.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Left pars orbitalis supports controlled access to stored meanings",
+    "finding": "This review of fMRI and related work proposes a double dissociation within left ventrolateral prefrontal cortex. The anterior part, about Brodmann area 47 or pars orbitalis, supports controlled access to stored conceptual representations. The mid part, about area 45 or pars triangularis, supports selection among competing representations.",
+    "quote": "Specifically, anterior VLPFC (approximately BA 47; inferior frontal gyrus pars orbitalis) supports controlled access to stored conceptual representations, whereas mid-VLPFC (approximately BA 45; inferior frontal gyrus pars triangularis) supports a domain-general selection process that operates post-retrieval to resolve competition among active representations.",
+    "pmid": "17675110",
+    "doi": "10.1016/j.neuropsychologia.2007.06.015",
+    "cite": "Badre D, Wagner AD. Left ventrolateral prefrontal cortex and the cognitive control of memory. Neuropsychologia. 2007;45(13):2883-901.",
+    "year": 2007
+   },
+   {
+    "kind": "lesion",
+    "claim": "Left inferior frontal damage impairs selecting among semantic candidates, not retrieval itself",
+    "finding": "Patients with focal frontal lesions were tested on generating action words for concrete nouns, a task that activates left prefrontal cortex in imaging studies. The left inferior frontal gyrus proved necessary for some components of the task, but those components were not semantic retrieval itself. This supports a selection role, but the lesions involve the whole gyrus.",
+    "quote": "We examined the ability of patients with focal frontal lesions to perform a task commonly used in neuroimaging experiments, the generation of semantically appropriate action words for concrete nouns, and found evidence of the necessity of the left inferior frontal gyrus for certain components of the verb generation task. Notably, these components did not include semantic retrieval per se.",
+    "pmid": "9861060",
+    "doi": "10.1073/pnas.95.26.15855",
+    "cite": "Thompson-Schill SL, Swick D, Farah MJ, et al. Verb generation in patients with focal frontal lesions: a neuropsychological test of neuroimaging findings. Proc Natl Acad Sci U S A. 1998;95(26):15855-60.",
+    "year": 1998
+   },
+   {
+    "kind": "lesion",
+    "claim": "Right inferior frontal cortex is tied to response inhibition",
+    "finding": "This review compares imaging, which implicates many prefrontal sites in inhibition, with human lesion mapping. The lesion data support localizing inhibition of responses and task-sets to the right inferior frontal cortex alone. The region covers more than this gyrus.",
+    "quote": "Whereas neuroimaging implicates diverse PFC foci, advances in human lesion-mapping support the functional localization of such inhibition to right IFC alone.",
+    "pmid": "15050513",
+    "doi": "10.1016/j.tics.2004.02.010",
+    "cite": "Aron AR, Robbins TW, Poldrack RA. Inhibition and the right inferior frontal cortex. Trends Cogn Sci. 2004;8(4):170-7.",
+    "year": 2004
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "pars_triangularis",
+  "how_we_know": "Intracranial recordings in language-related cortex and fMRI studies of selection place the left mid-ventrolateral frontal cortex in choosing among competing options, with timing evidence for grammar. Direct stimulation studies map Broca's area as a whole and give no result specific to this gyrus.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Left pars triangularis (area 45) supports selection among competing representations",
+    "finding": "This review proposes that mid-ventrolateral prefrontal cortex, about Brodmann area 45 or pars triangularis, resolves competition among active representations after retrieval. The more anterior pars orbitalis was assigned a different role, controlled retrieval of stored concepts.",
+    "quote": "whereas mid-VLPFC (approximately BA 45; inferior frontal gyrus pars triangularis) supports a domain-general selection process that operates post-retrieval to resolve competition among active representations.",
+    "pmid": "17675110",
+    "doi": "10.1016/j.neuropsychologia.2007.06.015",
+    "cite": "Badre D, Wagner AD. Left ventrolateral prefrontal cortex and the cognitive control of memory. Neuropsychologia. 2007;45(13):2883-901.",
+    "year": 2007
+   },
+   {
+    "kind": "recording",
+    "claim": "Broca's area shows separate lexical, grammatical and phonological stages in sequence",
+    "finding": "Electrodes implanted in language-related regions recorded local field potentials while patients read words or inflected them for tense or number. Neighboring probes in Broca's area showed distinct activity for lexical processing at about 200 ms, grammatical at about 320 ms and phonological at about 450 ms. The result is for Broca's area as a whole.",
+    "quote": "Neighboring probes within Broca's area revealed distinct neuronal activity for lexical (approximately 200 milliseconds), grammatical (approximately 320 milliseconds), and phonological (approximately 450 milliseconds) processing, identically for nouns and verbs, in a region activated in the same patients and task in functional magnetic resonance imaging.",
+    "pmid": "19833971",
+    "doi": "10.1126/science.1174481",
+    "cite": "Sahin NT, Pinker S, Cash SS, et al. Sequential processing of lexical, grammatical, and phonological information within Broca's area. Science. 2009;326(5951):445-9.",
+    "year": 2009,
+    "data": {
+     "title": "Approximate onset of Broca's area activity",
+     "unit": "ms",
+     "items": [
+      [
+       "lexical",
+       200
+      ],
+      [
+       "grammatical",
+       320
+      ],
+      [
+       "phonological",
+       450
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "imaging",
+    "claim": "Left inferior frontal activity tracks selection demands, not retrieval of semantic knowledge",
+    "finding": "In an fMRI study, three semantic tasks varied how much selection among competing alternatives was needed. Signal in overlapping regions of left inferior frontal gyrus depended on selection demands in all three tasks. Raising the amount of semantic processing without raising selection did not drive activity.",
+    "quote": "We provide a fundamentally different interpretation, that it is not retrieval of semantic knowledge per se that is associated with left IFG activity but rather selection of information among competing alternatives from semantic memory.",
+    "pmid": "9405692",
+    "doi": "10.1073/pnas.94.26.14792",
+    "cite": "Thompson-Schill SL, D'Esposito M, Aguirre GK, et al. Role of left inferior prefrontal cortex in retrieval of semantic knowledge: a reevaluation. Proc Natl Acad Sci U S A. 1997;94(26):14792-7.",
+    "year": 1997
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "long_insular_gyrus",
+  "how_we_know": "Intracerebral stimulation in epilepsy patients shows that posterior insular sites produce pain and body sensations, and a handful of lesion cases link insular damage to loss of pain meaning. Most lesions cover far more than the insula, so the cases are suggestive.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "A sensory pathway to insular cortex represents the physiological condition of the body",
+    "finding": "This review of functional anatomy describes an afferent system in primates and humans that represents all aspects of the body's physiological condition. The author proposes it is the basis for subjective feelings, emotion and self-awareness, with the posterior insula as its cortical target.",
+    "quote": "Recent functional anatomical work has detailed an afferent neural system in primates and in humans that represents all aspects of the physiological condition of the physical body.",
+    "pmid": "12154366",
+    "doi": "10.1038/nrn894",
+    "cite": "Craig AD. How do you feel? Interoception: the sense of the physiological condition of the body. Nat Rev Neurosci. 2002;3(8):655-66.",
+    "year": 2002
+   },
+   {
+    "kind": "lesion",
+    "claim": "Insular damage can produce pain asymbolia, where pain is felt but does not matter",
+    "finding": "Six patients with unilateral ischemic or traumatic lesions lacked withdrawal and emotional responses to pain and threatening gestures, without primary sensory deficits. The insular cortex was damaged in all six, though the lesions differed in extent. The authors suggest the insula links sensory cortices to the limbic system.",
+    "quote": "In the absence of primary sensory deficits, these 6 patients showed a lack of withdrawal and absent or inadequate emotional responses to painful stimuli applied over the entire body, as well as to threatening gestures. Although lesion extension differed, the insular cortex was invariably damaged in all 6 patients.",
+    "pmid": "3415199",
+    "doi": "10.1002/ana.410240109",
+    "cite": "Berthier M, Starkstein S, Leiguarda R. Asymbolia for pain: a sensory-limbic disconnection syndrome. Ann Neurol. 1988;24(1):41-9.",
+    "year": 1988
+   }
+  ],
+  "stimulation": {
+   "method": "intracerebral depth-electrode stimulation",
+   "effect": "In 43 epilepsy patients, stimulating the upper posterior insula evoked pain in 14 patients, mostly in the right hemisphere. Stimulating the posterior insula evoked non-painful body sensations in 16 patients.",
+   "quote": "Painful sensations were evoked in the upper posterior part of the insular cortex in 14 patients, mostly in the right hemisphere. Non-painful sensations were elicited in the posterior part of the insular cortex in 16 patients, in both hemispheres.",
+   "pmid": "11884353",
+   "doi": "10.1093/cercor/12.4.376",
+   "cite": "Ostrowsky K, Magnin M, Ryvlin P, et al. Representation of pain and somatic sensation in the human insula: a study of responses to direct electrical cortical stimulation. Cereb Cortex. 2002;12(4):376-85.",
+   "year": 2002
+  }
+ },
+ {
+  "id": "short_insular_gyri",
+  "how_we_know": "Lesion studies show the insula is needed for some functions, such as smoking urges and disgust recognition, and stimulation maps taste to a delimited insular zone. The lesions usually involve more than the anterior insula, and the disgust result rests on a single patient.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Insular damage can abolish the urge to smoke",
+    "finding": "Smokers with brain damage involving the insula were more likely than smokers with damage elsewhere to quit easily, immediately and without relapse or lingering urges. The authors conclude the insula is a critical substrate of smoking addiction. The entry notes this evidence is limited, and this is a small lesion series.",
+    "quote": "We found that smokers with brain damage involving the insula, a region implicated in conscious urges, were more likely than smokers with brain damage not involving the insula to undergo a disruption of smoking addiction, characterized by the ability to quit smoking easily, immediately, without relapse, and without persistence of the urge to smoke.",
+    "pmid": "17255515",
+    "doi": "10.1126/science.1135926",
+    "cite": "Naqvi NH, Rudrauf D, Damasio H, et al. Damage to the insula disrupts addiction to cigarette smoking. Science. 2007;315(5811):531-4.",
+    "year": 2007
+   },
+   {
+    "kind": "lesion",
+    "claim": "Insula damage impairs recognizing and experiencing disgust",
+    "finding": "The authors describe one patient with insula and putamen damage who lost recognition of disgust signals across more than one sensory modality. This extends earlier imaging that showed the insula and putamen respond to disgusted faces. It is a single case with damage beyond the insula.",
+    "quote": "Here we describe evidence, from a patient with insula and putamen damage, for a neural system for recognizing social signals of disgust from multiple modalities.",
+    "pmid": "11036262",
+    "doi": "10.1038/80586",
+    "cite": "Calder AJ, Keane J, Manes F, et al. Impaired recognition and experience of disgust following brain injury. Nat Neurosci. 2000;3(11):1077-8.",
+    "year": 2000
+   }
+  ],
+  "stimulation": {
+   "method": "intracerebral depth-electrode stimulation",
+   "effect": "Stimulating the mid-dorsal insula, the posterior short gyrus, evoked taste in 15 of 550 responsive stimulations (2.7%) in epilepsy patients. Smell was evoked at overlapping sites.",
+   "quote": "Gustatory sensations were evoked in 15 (2.7%) of the 550 stimulations that elicited a clinical response. They were exclusively obtained after stimulation of a relatively delimited zone of insula, located in its mid-dorsal part (posterior short gyrus).",
+   "pmid": "28796326",
+   "doi": "10.1002/ana.25010",
+   "cite": "Mazzola L, Royet JP, Catenoix H, et al. Gustatory and olfactory responses to stimulation of the human insula. Ann Neurol. 2017;82(3):360-370.",
+   "year": 2017
+  }
+ },
+ {
+  "id": "middle_occipital_gyrus",
+  "how_we_know": "fMRI maps the lateral occipital complex, and a patient with bilateral damage there and patients with damage to motion area V5 give causal evidence. Each lesion case is a single patient, and the lateral occipital complex spans more than one gyrus.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The lateral occipital complex responds to object shape defined by luminance, motion or texture",
+    "finding": "In 11 subjects, a lateral occipital region (the LO complex) responded more to object silhouettes than to noise, whether the objects were defined by luminance or by motion. It also responded to objects defined by texture. The ratios for luminance and motion were 2.00 and 1.86.",
+    "quote": "In the first experiment, a region located on the lateral aspect of the occipital lobe (LO complex) was preferentially activated in all 11 subjects both by luminance and motion-defined object silhouettes compared to full-field moving and stationary noise (ratios, 2.00+/-0.19 and 1.86+/-0.65, respectively).",
+    "pmid": "9697863",
+    "doi": "10.1016/s0896-6273(00)80526-7",
+    "cite": "Grill-Spector K, Kushnir T, Edelman S, et al. Cue-invariant activation in object-related areas of the human occipital lobe. Neuron. 1998;21(1):191-202.",
+    "year": 1998,
+    "data": {
+     "title": "LO activation ratio, object vs noise",
+     "unit": "ratio",
+     "items": [
+      [
+       "luminance-defined objects",
+       2.0
+      ],
+      [
+       "motion-defined objects",
+       1.86
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "lesion",
+    "claim": "Lateral occipital damage causes visual form agnosia",
+    "finding": "D.F., a patient with severe visual form agnosia, showed no activation difference between line drawings of objects and scrambled drawings in the lateral occipital cortex, which does respond in healthy people. High-resolution MRI showed her lesion matched the location of this area on both sides. She can still use vision to guide grasping, so the lesion removes recognition, not action.",
+    "quote": "We found that D.F. showed no difference in activation when presented with line drawings of common objects compared with scrambled line drawings in the lateral occipital cortex (LO) of the ventral stream, an area that responded differentially to these stimuli in healthy individuals. Moreover, high-resolution anatomical MRI showed that her lesion corresponded bilaterally with the location of LO in healthy participants.",
+    "pmid": "14506065",
+    "doi": "10.1093/brain/awg248",
+    "cite": "James TW, Culham J, Humphrey GK, et al. Ventral occipital lesions impair object recognition but not object-directed grasping: an fMRI study. Brain. 2003;126(Pt 11):2463-75.",
+    "year": 2003
+   },
+   {
+    "kind": "lesion",
+    "claim": "Bilateral lesions of motion area V5 cause akinetopsia",
+    "finding": "A patient had severe trouble recognizing the motion of objects after bilateral lesions. High-resolution MRI showed that the zone occupied by V5 was destroyed on both sides. PET then showed what remained: motion activated the precuneus and cuneus bilaterally and left lingual and fusiform cortex, but not V1 or V2.",
+    "quote": "We have used the technique of PET to chart the cortical areas activated by visual motion in the brain of a patient with a severe impairment in the ability to recognize the motion of objects (akinetopsia), following bilateral lesions which have so far been presumed to include area V5. High resolution MRI of her brain showed that the zone occupied by area V5 had indeed been destroyed bilaterally.",
+    "pmid": "7953586",
+    "doi": "10.1093/brain/117.5.1023",
+    "cite": "Shipp S, de Jong BM, Zihl J, et al. The brain activity related to residual motion vision in a patient with bilateral lesions of V5. Brain. 1994;117(Pt 5):1023-38.",
+    "year": 1994
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "superior_occipital_gyrus",
+  "how_we_know": "fMRI retinotopy shows the maps in this region, and lesion overlap studies in patients with optic ataxia and a famous Balint syndrome case show what goes wrong when the occipito-parietal junction is damaged. Both involve more cortex than this gyrus alone.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Human V3A has a retinotopic map of the contralateral hemifield in superior occipital cortex",
+    "finding": "Using fMRI and cortical unfolding, the authors showed that human V3A has a continuous map of the opposite hemifield just anterior to V3. It holds a unique representation of the upper visual field in superior occipital cortex. Unlike the macaque, human V3A is relatively motion-selective.",
+    "quote": "(1) it has a distinctive, continuous map of the contralateral hemifield immediately anterior to area V3, including a unique retinotopic representation of the upper visual field in superior occipital cortex;",
+    "pmid": "9278542",
+    "doi": "10.1523/JNEUROSCI.17-18-07060.1997",
+    "cite": "Tootell RB, Mendola JD, Hadjikhani NK, et al. Functional analysis of V3A and related areas in human visual cortex. J Neurosci. 1997;17(18):7060-78.",
+    "year": 1997
+   },
+   {
+    "kind": "lesion",
+    "claim": "Optic ataxia follows lesions at the occipito-parietal junction next to superior occipital cortex",
+    "finding": "Lesions of patients with optic ataxia after unilateral stroke were overlaid over 15 years of cases. Optic ataxia was linked to the lateral occipito-parietal junction, between the inferior parietal lobule and superior occipital cortex, and in the left hemisphere also to the junction of occipital cortex and the superior parietal lobule.",
+    "quote": "In both left and right hemispheres, we found optic ataxia associated with a lesion overlap that affected the lateral cortical convexity at the occipito-parietal junction, i.e. the junction between the inferior parietal lobule (IPL) and superior occipital cortex and--in the left hemisphere even more posteriorly--also the junction between occipital cortex and the SPL.",
+    "pmid": "15716470",
+    "doi": "10.1093/cercor/bhi034",
+    "cite": "Karnath HO, Perenin MT. Cortical control of visually guided reaching: evidence from patients with optic ataxia. Cereb Cortex. 2005;15(10):1561-9.",
+    "year": 2005
+   },
+   {
+    "kind": "lesion",
+    "claim": "Bilateral parietal-occipital lesions cause Balint-type spatial and feature-binding failures",
+    "finding": "Patient R.M. had bilateral parietal-occipital lesions. He combined colors and shapes wrongly even under free viewing and could not judge visual locations, which the authors attribute to an inadequate spatial representation. This is a single case.",
+    "quote": "R.M. miscombines colors and shapes even under free viewing conditions and is unable to judge either relative or absolute visual locations.",
+    "pmid": "7638604",
+    "doi": "10.1126/science.7638604",
+    "cite": "Friedman-Hill SR, Robertson LC, Treisman A. Parietal contributions to visual feature binding: evidence from a patient with bilateral lesions. Science. 1995;269(5225):853-5.",
+    "year": 1995
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "lingual_gyrus",
+  "how_we_know": "Imaging shows color and word-length effects on the lingual gyrus, and a meta-analysis of patient case reports locates damage that causes loss of color vision in ventral occipital cortex. The lesions in those cases are large and often include the fusiform gyrus, and no stimulation study is specific to this gyrus.",
+  "evidence": [
+   {
+    "kind": "meta-analysis",
+    "claim": "Damage to ventral occipital cortex causes cerebral achromatopsia",
+    "finding": "The authors pooled 92 case reports of cerebral achromatopsia. Nearly all cases showed some deficit in color discrimination, and almost all also lost some spatial vision. Lesion overlap analysis found a small region of high overlap in ventral occipital cortex, near areas that imaging links to color.",
+    "quote": "To address these issues, we performed a meta-analysis of 92 case reports from the literature. Lesion overlap analyses revealed a relatively small region of high overlap in ventral occipital cortex.",
+    "pmid": "15858161",
+    "doi": "10.1093/cercor/bhi096",
+    "cite": "Bouvier SE, Engel SA. Behavioral deficits and cortical damage loci in cerebral achromatopsia. Cereb Cortex. 2006;16(2):183-91.",
+    "year": 2006
+   },
+   {
+    "kind": "imaging",
+    "claim": "Color perception activates area V4 in the lingual and fusiform gyri",
+    "finding": "PET scans of normal volunteers viewing a colored display compared with the same display in shades of gray found a unique area, V4, in the lingual and fusiform gyri. The same study located a motion area, V5, near the temporo-parieto-occipital junction. This is correlational evidence and the area is not confined to the lingual gyrus.",
+    "quote": "The comparison identified a unique area (area V4) located in the lingual and fusiform gyri of the prestriate cortex.",
+    "pmid": "2002358",
+    "doi": "10.1523/JNEUROSCI.11-03-00641.1991",
+    "cite": "Zeki S, Watson JD, Lueck CJ, et al. A direct demonstration of functional specialization in human visual cortex. J Neurosci. 1991;11(3):641-9.",
+    "year": 1991
+   },
+   {
+    "kind": "imaging",
+    "claim": "Lingual gyrus activity during reading follows word length and global shape demands",
+    "finding": "In a PET study of reading with words of three, six and nine letters at high or low contrast, lingual gyrus activation rose with word length but fell as contrast rose. The authors read this as a role in global shape processing, unlike the fusiform gyrus, which responded to both.",
+    "quote": "However, in the lingual gyrus, activation increased with increasing word length but decreased with increasing contrast.",
+    "pmid": "11052544",
+    "doi": "10.1098/rspb.2000.1229",
+    "cite": "Mechelli A, Humphreys GW, Mayall K, et al. Differential effects of word length and visual contrast in the fusiform and lingual gyri during reading. Proc Biol Sci. 2000;267(1455):1909-13.",
+    "year": 2000
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "orbital_gyri",
+  "how_we_know": "Imaging ties the orbitofrontal cortex to pleasantness, patients with orbitofrontal lesions lose regret and good judgment, and stimulation through epilepsy electrodes in a few subjects changed mood. Lesions and stimulation sites cover the orbitofrontal cortex in general, not each gyrus.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Orbitofrontal activity tracks the subjective pleasantness of food and falls with satiety",
+    "finding": "In an fMRI study, activation in a region of human orbitofrontal cortex correlated with the fall in subjective pleasantness as a liquid food was eaten to satiety. A cluster of voxels also decreased specifically for the food eaten, a sign of sensory-specific satiety. It is correlational.",
+    "quote": "In this fMRI investigation we report a significant correlation between the activation of a region of the human orbitofrontal cortex and the decrease in subjective pleasantness when a liquid food is eaten to satiety.",
+    "pmid": "12967923",
+    "doi": "10.1093/cercor/13.10.1064",
+    "cite": "Kringelbach ML, O'Doherty J, Rolls ET, et al. Activation of the human orbitofrontal cortex to a liquid food stimulus is correlated with its subjective pleasantness. Cereb Cortex. 2003;13(10):1064-71.",
+    "year": 2003
+   },
+   {
+    "kind": "lesion",
+    "claim": "Orbitofrontal damage removes the experience of regret and learning from it",
+    "finding": "Normal subjects in a gambling task reported emotions consistent with counterfactual thinking and chose to minimize regret. Patients with orbitofrontal lesions did not report regret or anticipate the negative consequences of their choices.",
+    "quote": "Patients with orbitofrontal cortical lesions, however, did not report regret or anticipate negative consequences of their choices.",
+    "pmid": "15155951",
+    "doi": "10.1126/science.1094550",
+    "cite": "Camille N, Coricelli G, Sallet J, et al. The involvement of the orbitofrontal cortex in the experience of regret. Science. 2004;304(5674):1167-70.",
+    "year": 2004
+   }
+  ],
+  "stimulation": {
+   "method": "intracranial electrical stimulation",
+   "effect": "In 25 epilepsy patients with implanted electrodes, stimulating the lateral orbitofrontal cortex on one side improved mood on the spot in those with moderate to severe baseline depression, and the effect grew with dose.",
+   "quote": "We studied 25 subjects with epilepsy who were implanted with intracranial electrodes for seizure localization. We found that unilateral stimulation of the lateral OFC produced acute, dose-dependent mood-state improvement in subjects with moderate-to-severe baseline depression.",
+   "pmid": "30503621",
+   "doi": "10.1016/j.cub.2018.10.026",
+   "cite": "Rao VR, Sellers KK, Wallace DL, et al. Direct electrical stimulation of lateral orbitofrontal cortex acutely improves mood in individuals with symptoms of depression. Curr Biol. 2018;28(24):3893-3902.e4.",
+   "year": 2018
+  }
+ },
+ {
+  "id": "angular_gyrus",
+  "how_we_know": "Stimulation in one epilepsy patient gave the famous out-of-body result, and meta-analysis and lesion reviews show the region is part of a semantic network and that damage causes several deficits. No single deficit is specific to the gyrus, and Gerstmann syndrome may reflect damage to nearby white matter.",
+  "evidence": [
+   {
+    "kind": "meta-analysis",
+    "claim": "The posterior inferior parietal lobe is part of the left-lateralized semantic network",
+    "finding": "The authors analyzed 120 functional imaging studies of semantic processing with the activation likelihood estimate method. Reliable activation formed a left-lateralized network of 7 regions, and the posterior inferior parietal lobe, which includes the angular gyrus, was one of them.",
+    "quote": "Using strict inclusion criteria, we analyzed 120 functional neuroimaging studies focusing on semantic processing. These activations formed a distinct, left-lateralized network comprised of 7 regions: posterior inferior parietal lobe, middle temporal gyrus, fusiform and parahippocampal gyri, dorsomedial prefrontal cortex, inferior frontal gyrus, ventromedial prefrontal cortex, and posterior cingulate gyrus.",
+    "pmid": "19329570",
+    "doi": "10.1093/cercor/bhp055",
+    "cite": "Binder JR, Desai RH, Graves WW, et al. Where is the semantic system? A critical review and meta-analysis of 120 functional neuroimaging studies. Cereb Cortex. 2009;19(12):2767-96.",
+    "year": 2009
+   },
+   {
+    "kind": "lesion",
+    "claim": "Angular gyrus damage can cause left-right confusion, finger agnosia and lexical agraphia",
+    "finding": "This review covers patients with damage to the angular gyrus. It lists left-right confusion, finger agnosia, attention deficit and lexical agraphia, together with problems in sentence processing, episodic memory, number processing and gesture imitation. The author says symptoms vary between patients, and they depend on which subdivision and which connections are damaged.",
+    "quote": "Here, I discuss the case of damage to the angular gyrus (AG) that can cause left-right confusion, finger agnosia, attention deficit, and lexical agraphia, as well as impairment in sentence processing, episodic memory, number processing, and gesture imitation.",
+    "pmid": "39153389",
+    "doi": "10.1016/j.cortex.2024.07.005",
+    "cite": "Seghier ML. Symptomatology after damage to the angular gyrus through the lenses of modern lesion-symptom mapping. Cortex. 2024;179:77-90.",
+    "year": 2024
+   },
+   {
+    "kind": "lesion",
+    "claim": "Gerstmann syndrome is real, but may come from subcortical disconnection, not the gyrus alone",
+    "finding": "This review revisits Gerstmann's tetrad of finger discrimination, writing, left-right discrimination and calculation deficits. The authors conclude it is legitimate to call it a syndrome, but unlikely that one population of cortical neurons causes all four symptoms. They propose a pure form could arise from a lesion that disconnects separate fiber tracts in parietal white matter.",
+    "quote": "In light of several modern era findings of pure cases we conclude that it is legitimate to label the conjunction of symptoms first described by Gerstmann as a 'syndrome', but that it is very unlikely that damage to the same population of cortical neurons should account for all of the four symptoms.",
+    "pmid": "19903731",
+    "doi": "10.1093/brain/awp281",
+    "cite": "Rusconi E, Pinel P, Dehaene S, et al. The enigma of Gerstmann's syndrome revisited: a telling tale of the vicissitudes of neuropsychology. Brain. 2010;133(Pt 2):320-32.",
+    "year": 2010
+   }
+  ],
+  "stimulation": {
+   "method": "focal electrical stimulation in presurgical epilepsy evaluation",
+   "effect": "Stimulating the right angular gyrus in one patient repeatedly produced an out-of-body experience, along with illusory transformations of the arm and legs and whole-body displacements.",
+   "quote": "Here we describe the repeated induction of this experience by focal electrical stimulation of the brain's right angular gyrus in a patient who was undergoing evaluation for epilepsy treatment.",
+   "pmid": "12239558",
+   "doi": "10.1038/419269a",
+   "cite": "Blanke O, Ortigue S, Landis T, et al. Stimulating illusory own-body perceptions. Nature. 2002;419(6904):269-70.",
+   "year": 2002
+  }
+ },
+ {
+  "id": "supramarginal_gyrus",
+  "how_we_know": "PET showed the left supramarginal gyrus holds phonological storage, TMS tested it causally, and lesion mapping of imitation shows what damage to the inferior parietal lobule does. The lesion study covers the inferior parietal lobule as a whole, and the right-hemisphere attention claim has no study here.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The left supramarginal gyrus is the phonological store of verbal working memory",
+    "finding": "Regional cerebral blood flow was measured in volunteers doing letter short-term memory, which uses both parts of the articulatory loop, and rhyming judgment, which uses only subvocal rehearsal. Subtracting the two localized the phonological store to the left supramarginal gyrus, and rehearsal to Broca's area.",
+    "quote": "We report here that comparisons of distribution of cerebral blood flow in these conditions localized the phonological store to the left supramarginal gyrus whereas the subvocal rehearsal system was associated with Broca's area.",
+    "pmid": "8455719",
+    "doi": "10.1038/362342a0",
+    "cite": "Paulesu E, Frith CD, Frackowiak RS. The neural correlates of the verbal component of working memory. Nature. 1993;362(6418):342-5.",
+    "year": 1993
+   },
+   {
+    "kind": "lesion",
+    "claim": "Left inferior parietal lesions disturb imitating hand postures, a skilled-action deficit",
+    "finding": "The authors mapped left-hemisphere lesions that disturbed imitation of meaningless gestures. Disturbed finger-posture imitation went with anterior lesions including the opercular inferior frontal gyrus, and disturbed hand-posture imitation went with posterior lesions in the inferior parietal lobule and temporo-parieto-occipital junction.",
+    "quote": "Disturbed imitation of finger postures was associated with anterior lesions including the opercular portion of the inferior frontal gyrus, whereas disturbed imitation of hand postures was associated with posterior lesions affecting the inferior parietal lobule and temporo-parieto-occipital junction.",
+    "pmid": "16763035",
+    "doi": "10.1523/JNEUROSCI.0638-06.2006",
+    "cite": "Goldenberg G, Karnath HO. The neural basis of imitation is body part specific. J Neurosci. 2006;26(23):6282-7.",
+    "year": 2006
+   }
+  ],
+  "stimulation": {
+   "method": "transcranial magnetic stimulation",
+   "effect": "TMS over the left, right or both supramarginal gyri selectively worsened phonological decisions compared with semantic and perceptual decisions in healthy volunteers. TMS over the angular gyri did not.",
+   "quote": "The accuracy and reaction times of phonological decisions were selectively disrupted relative to semantic and perceptual decisions when real TMS was applied over the left, right, or bilateral SMG. These effects were not observed for TMS over the angular gyri.",
+   "pmid": "20807747",
+   "doi": "10.1073/pnas.1008121107",
+   "cite": "Hartwigsen G, Baumgaertner A, Price CJ, et al. Phonological decisions require both the left and right supramarginal gyri. Proc Natl Acad Sci U S A. 2010;107(38):16494-9.",
+   "year": 2010
+  }
+ },
+ {
+  "id": "superior_parietal_lobule",
+  "how_we_know": "Evidence is mostly lesion work: a patient with a superior parietal lesion and a lesion-overlap study of optic ataxia. The overlap study found the damage centered at the occipito-parietal junction, not on the lobule itself, so the entry's optic ataxia claim is weaker than stated. No stimulation study is specific to this lobule.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "A superior parietal lesion impairs maintaining an internal estimate of the body's state",
+    "finding": "A patient with a superior parietal lobe lesion showed sensory and motor deficits consistent with an inability to hold an internal representation between updates. The authors conclude the lobe is critical for sensorimotor integration. This is a single case.",
+    "quote": "Here we report a patient with a lesion of the superior parietal lobe who shows both sensory and motor deficits consistent with an inability to maintain such an internal representation between updates. Our findings suggest that the superior parietal lobe is critical for sensorimotor integration, by maintaining an internal representation of the body's state.",
+    "pmid": "10196553",
+    "doi": "10.1038/2245",
+    "cite": "Wolpert DM, Goodbody SJ, Husain M. Maintaining internal representations: the role of the human superior parietal lobe. Nat Neurosci. 1998;1(6):529-33.",
+    "year": 1998
+   },
+   {
+    "kind": "lesion",
+    "claim": "Optic ataxia lesions center on the occipito-parietal junction, not on the superior parietal convexity",
+    "finding": "Using new lesion-analysis tools, the authors studied a large group of unilateral stroke patients with optic ataxia collected over 15 years. They found no evidence that the lesions typically center on the superior parietal lobule convexity. The overlap lay at the occipito-parietal junction, extending to the medial precuneus.",
+    "quote": "We found no evidence for the assumption that disruption of visually guided reaching in humans is associated with a lesion typically centering on the SPL on the convexity.",
+    "pmid": "15716470",
+    "doi": "10.1093/cercor/bhi034",
+    "cite": "Karnath HO, Perenin MT. Cortical control of visually guided reaching: evidence from patients with optic ataxia. Cereb Cortex. 2005;15(10):1561-9.",
+    "year": 2005
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "precuneus",
+  "how_we_know": "Imaging shows precuneus activity during imagery and memory retrieval, and intracranial stimulation in nine patients now gives causal evidence for a role in the bodily self. Focal lesions are very rare because of the hidden location, so the lesion claim in the entry has little direct support.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The precuneus is active in visuospatial imagery, episodic retrieval and self-processing",
+    "finding": "This review gathers functional imaging findings in healthy people and notes that focal lesion studies are nearly absent. The precuneus is central to visuospatial imagery, episodic memory retrieval and first-person perspective taking. The authors suggest an anterior part for self-centred imagery and a posterior part for successful episodic retrieval.",
+    "quote": "However, recent functional imaging findings in healthy subjects suggest a central role for the precuneus in a wide spectrum of highly integrated tasks, including visuo-spatial imagery, episodic memory retrieval and self-processing operations, namely first-person perspective taking and an experience of agency.",
+    "pmid": "16399806",
+    "doi": "10.1093/brain/awl004",
+    "cite": "Cavanna AE, Trimble MR. The precuneus: a review of its functional anatomy and behavioural correlates. Brain. 2006;129(Pt 3):564-83.",
+    "year": 2006
+   },
+   {
+    "kind": "imaging",
+    "claim": "Precuneus activation accompanies visual imagery during memory recall",
+    "finding": "PET scans in six healthy male volunteers compared cued recall of imageable and nonimageable word pairs, with memory performance matched. Recall of imageable pairs, which used more visual imagery, activated the precuneus. The authors call it a key part of the neural substrate of visual imagery in memory recall.",
+    "quote": "Memory-related imagery was associated with significant activation of a medial parietal area, the precuneus.",
+    "pmid": "9343602",
+    "doi": "10.1006/nimg.1995.1025",
+    "cite": "Fletcher PC, Frith CD, Baker SC, et al. The mind's eye--precuneus activation in memory-related imagery. Neuroimage. 1995;2(3):195-200.",
+    "year": 1995
+   }
+  ],
+  "stimulation": {
+   "method": "direct cortical stimulation through implanted electrodes",
+   "effect": "In all nine patients, stimulating specific sites in the anterior precuneus caused dissociative changes in the physical and spatial domains, meaning changes in how the body and its place in space were experienced.",
+   "quote": "In all participants, the stimulation of specific sites within the anterior precuneus (aPCu) caused dissociative changes in physical and spatial domains.",
+   "pmid": "37295420",
+   "doi": "10.1016/j.neuron.2023.05.013",
+   "cite": "Lyu D, Stieger JR, Xin C, et al. Causal evidence for the processing of bodily self in the anterior precuneus. Neuron. 2023;111(16):2502-2512.e4.",
+   "year": 2023
+  }
+ },
+ {
+  "id": "gyrus_rectus",
+  "how_we_know": "Most of what is known comes from patients with ventromedial prefrontal lesions, which include this gyrus but are never confined to it. Imaging adds support, but no stimulation study is specific to the gyrus, so the claims are about the wider region.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Ventral and ventromedial prefrontal lesions impair value-based decision-making",
+    "finding": "The authors applied voxel-based lesion-symptom mapping in 344 people with focal lesions, 165 of them involving the prefrontal cortex. Regions of the ventral prefrontal cortex were required for decision-making, while cognitive control relied on a separate dorsolateral and anterior cingulate network.",
+    "quote": "We applied voxel-based lesion-symptom mapping in 344 individuals with focal lesions (165 involving the PFC) who had been tested on a comprehensive battery of neuropsychological tasks. By contrast, regions in the ventral PFC were required for decision-making.",
+    "pmid": "22908286",
+    "doi": "10.1073/pnas.1206608109",
+    "cite": "Gläscher J, Adolphs R, Damasio H, et al. Lesion mapping of cognitive control and value-based decision making in the prefrontal cortex. Proc Natl Acad Sci U S A. 2012;109(36):14681-6.",
+    "year": 2012,
+    "data": {
+     "title": "Participants in the lesion study",
+     "unit": "people",
+     "items": [
+      [
+       "with focal lesions",
+       344
+      ],
+      [
+       "lesion involving the PFC",
+       165
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "lesion",
+    "claim": "Damage to orbital and lower mesial frontal cortex disrupts social behavior while intelligence stays high",
+    "finding": "A patient had bilateral ablation of orbital and lower mesial frontal cortices. His behavior changed profoundly and stayed that way for 8 years, and he could not meet personal and professional responsibilities, even though his measured intelligence was superior. Control patients with superior mesial or dorsolateral lesions did not show these impairments.",
+    "quote": "After bilateral ablation of orbital and lower mesial frontal cortices, a patient had profound changes of behavior that have remained stable for 8 years. Such impairments of motivation and complex social behavior were not seen in control cases with superior mesial or dorsolateral frontal lesions.",
+    "pmid": "4069365",
+    "doi": "10.1212/wnl.35.12.1731",
+    "cite": "Eslinger PJ, Damasio AR. Severe disturbance of higher cognition after bilateral frontal lobe ablation: patient EVR. Neurology. 1985;35(12):1731-41.",
+    "year": 1985
+   },
+   {
+    "kind": "lesion",
+    "claim": "Ventromedial damage leaves intellect intact but impairs real-life decision-making",
+    "finding": "The authors introduced a gambling-style task that mimics real-life decisions with uncertain outcomes, reward and punishment. Prefrontal patients, unlike controls, ignored the future consequences of their actions and were guided by immediate prospects.",
+    "quote": "Following damage to the ventromedial prefrontal cortex, humans develop a defect in real-life decision-making, which contrasts with otherwise normal intellectual functions.",
+    "pmid": "8039375",
+    "doi": "10.1016/0010-0277(94)90018-3",
+    "cite": "Bechara A, Damasio AR, Damasio H, et al. Insensitivity to future consequences following damage to human prefrontal cortex. Cognition. 1994;50(1-3):7-15.",
+    "year": 1994
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "subcallosal_gyrus",
+  "how_we_know": "Deep brain stimulation next to this region is the main causal evidence. The first open studies reported striking benefit, but the one sham-controlled trial found no significant difference between active and sham stimulation, so the evidence for causation is mixed. The overactivity claim rests on PET.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The subgenual cingulate is metabolically overactive in treatment-resistant depression",
+    "finding": "The study began from the observation that the subgenual cingulate region (area 25) is metabolically overactive in treatment-resistant depression. PET showed that stimulation was linked to a marked drop in local blood flow in six patients and to changes in downstream limbic and cortical sites.",
+    "quote": "Based on our preliminary observation that the subgenual cingulate region (Brodmann area 25) is metabolically overactive in treatment-resistant depression, we studied whether the application of chronic deep brain stimulation to modulate BA25 could reduce this elevated activity and produce clinical benefit in six patients with refractory depression.",
+    "pmid": "15748841",
+    "doi": "10.1016/j.neuron.2005.02.014",
+    "cite": "Mayberg HS, Lozano AM, Voon V, et al. Deep brain stimulation for treatment-resistant depression. Neuron. 2005;45(5):651-60.",
+    "year": 2005
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "Subcallosal cingulate DBS gave response and remission in an open-label series of 20 patients",
+    "finding": "Twenty patients with treatment-resistant depression had subcallosal cingulate DBS and were followed up for a year. One month after surgery 35% responded and 10% were in remission. Six months after surgery, 60% were responders and 35% were in remission. There was no control group, which the authors say needs a double-blind appraisal.",
+    "quote": "One month after surgery, 35% of patients met criteria for response with 10% of patients in remission. Six months after surgery, 60% of patients were responders and 35% met criteria for remission, benefits that were largely maintained at 12 months.",
+    "pmid": "18639234",
+    "doi": "10.1016/j.biopsych.2008.05.034",
+    "cite": "Lozano AM, Mayberg HS, Giacobbe P, et al. Subcallosal cingulate gyrus deep brain stimulation for treatment-resistant depression. Biol Psychiatry. 2008;64(6):461-7.",
+    "year": 2008,
+    "data": {
+     "title": "Patients responding or in remission after DBS (%)",
+     "unit": "%",
+     "items": [
+      [
+       "response, 1 month",
+       35
+      ],
+      [
+       "remission, 1 month",
+       10
+      ],
+      [
+       "response, 6 months",
+       60
+      ],
+      [
+       "remission, 6 months",
+       35
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "A sham-controlled trial found no significant difference between active and sham DBS",
+    "finding": "Ninety participants were randomly assigned to active (60) or sham (30) stimulation of subcallosal cingulate white matter. Both groups improved during the double-blind phase, and response was 20% with active stimulation and 17% with sham, which was not a significant difference.",
+    "quote": "Both groups showed improvement, but there was no statistically significant difference in response during the double-blind, sham-controlled phase (12 [20%] patients in the stimulation group vs five [17%] patients in the control group).",
+    "pmid": "28988904",
+    "doi": "10.1016/S2215-0366(17)30371-1",
+    "cite": "Holtzheimer PE, Husain MM, Lisanby SH, et al. Subcallosal cingulate deep brain stimulation for treatment-resistant depression: a multisite, randomised, sham-controlled trial. Lancet Psychiatry. 2017;4(11):839-849.",
+    "year": 2017,
+    "data": {
+     "title": "Response in the double-blind phase (%)",
+     "unit": "%",
+     "items": [
+      [
+       "active stimulation",
+       20
+      ],
+      [
+       "sham stimulation",
+       17
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": {
+   "method": "chronic deep brain stimulation of subgenual cingulate white matter",
+   "effect": "In six patients with refractory depression, chronic stimulation of white matter next to the subgenual cingulate gyrus was followed by sustained remission in four.",
+   "quote": "Chronic stimulation of white matter tracts adjacent to the subgenual cingulate gyrus was associated with a striking and sustained remission of depression in four of six patients.",
+   "pmid": "15748841",
+   "doi": "10.1016/j.neuron.2005.02.014",
+   "cite": "Mayberg HS, Lozano AM, Voon V, et al. Deep brain stimulation for treatment-resistant depression. Neuron. 2005;45(5):651-60.",
+   "year": 2005
+  }
+ },
+ {
+  "id": "heschls_gyrus",
+  "how_we_know": "MEG with MRI morphometry in musicians, 7 Tesla fMRI of tonotopic maps and depth-electrode recordings in epilepsy patients give a good picture of primary auditory cortex. These are recordings and imaging, so they show response and structure, not necessity. Stimulation studies specific to this gyrus are not covered here.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Heschl's gyrus size and primary auditory activity track musical aptitude",
+    "finding": "MEG was used to study tone processing in 12 non-musicians, 12 professional musicians and 13 amateur musicians. In professional musicians, activity evoked in primary auditory cortex was 102% larger and gray matter volume of the anteromedial Heschl's gyrus was 130% larger than in non-musicians. Both measures correlated with musical aptitude.",
+    "quote": "In professional musicians as compared to non-musicians, the activity evoked in primary auditory cortex 19-30 ms after stimulus onset was 102% larger, and the gray matter volume of the anteromedial portion of Heschl's gyrus was 130% larger.",
+    "pmid": "12068300",
+    "doi": "10.1038/nn871",
+    "cite": "Schneider P, Scherg M, Dosch HG, et al. Morphology of Heschl's gyrus reflects enhanced activation in the auditory cortex of musicians. Nat Neurosci. 2002;5(7):688-94.",
+    "year": 2002,
+    "data": {
+     "title": "Professional musicians vs non-musicians (% larger)",
+     "unit": "%",
+     "items": [
+      [
+       "evoked activity",
+       102
+      ],
+      [
+       "gray matter volume",
+       130
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "imaging",
+    "claim": "Human primary auditory cortex contains two mirror-symmetric tonotopic maps",
+    "finding": "Using silent event-related fMRI at 7 Tesla, the authors delineated two tonotopic maps in two adjacent subdivisions of human primary auditory cortex. The maps share a low-frequency border, are mirror symmetric, and resemble maps in the macaque.",
+    "quote": "These maps share a low-frequency border, are mirror symmetric, and clearly resemble those of presumably homologous fields in the macaque monkey.",
+    "pmid": "14622588",
+    "doi": "10.1016/s0896-6273(03)00669-x",
+    "cite": "Formisano E, Kim DS, Di Salle F, et al. Mirror-symmetric tonotopic maps in human primary auditory cortex. Neuron. 2003;40(4):859-69.",
+    "year": 2003
+   },
+   {
+    "kind": "recording",
+    "claim": "Left Heschl's gyrus distinguishes voiced from voiceless syllables, the right does not",
+    "finding": "Intracerebral evoked potentials to syllables were recorded in left and right auditory cortex including Heschl's gyrus, planum temporale and the posterior superior temporal gyrus. Processing of voiced and voiceless syllables was distinct in the left but not the right Heschl's gyrus and planum temporale.",
+    "quote": "First, processing of voiced and voiceless syllables is distinct in the left, but not in the right HG and PT.",
+    "pmid": "10450893",
+    "doi": "10.1093/cercor/9.5.484",
+    "cite": "Liégeois-Chauvel C, de Graaf JB, Laguitton V, et al. Specialization of left auditory cortex for speech perception in man depends on temporal coding. Cereb Cortex. 1999;9(5):484-96.",
+    "year": 1999
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "superior_temporal_gyrus",
+  "how_we_know": "Direct cortical recordings in people and lesion studies of acute stroke support the speech role of this gyrus. Imaging models such as the dual-stream account organize the findings, but they are models that fit the data, not direct proofs.",
+  "evidence": [
+   {
+    "kind": "recording",
+    "claim": "Human STG neurons are tuned to distinct phonetic features of speech",
+    "finding": "High-density electrode grids on the cortical surface recorded activity while people listened to natural continuous speech. At single electrodes the authors found selective responses to distinct phonetic features, which could be tied to tuning for spectrotemporal acoustic cues.",
+    "quote": "We used high-density direct cortical surface recordings in humans while they listened to natural, continuous speech to reveal the STG representation of the entire English phonetic inventory. At single electrodes, we found response selectivity to distinct phonetic features.",
+    "pmid": "24482117",
+    "doi": "10.1126/science.1245994",
+    "cite": "Mesgarani N, Cheung C, Johnson K, et al. Phonetic feature encoding in human superior temporal gyrus. Science. 2014;343(6174):1006-10.",
+    "year": 2014
+   },
+   {
+    "kind": "lesion",
+    "claim": "Reduced blood flow to Wernicke's area predicts how badly word comprehension fails",
+    "finding": "Eighty patients with acute left hemisphere stroke were studied within 24 hours with perfusion imaging and language tests. In 50 patients without infarct in Wernicke's area, the delay in perfusion there correlated strongly with errors on a word comprehension test. This links dysfunction of Brodmann area 22 to comprehension.",
+    "quote": "For 50 patients without infarct in Wernicke's area, we found a strong Pearson correlation between the rate of errors on a word comprehension test and the mean number of seconds of delay in time-to-peak concentration of contrast in Wernicke's area, relative to the homologous region on the right.",
+    "pmid": "11706960",
+    "doi": "10.1002/ana.1265",
+    "cite": "Hillis AE, Wityk RJ, Tuffiash E, et al. Hypoperfusion of Wernicke's area predicts severity of semantic deficit in acute stroke. Ann Neurol. 2001;50(5):561-6.",
+    "year": 2001
+   },
+   {
+    "kind": "imaging",
+    "claim": "A ventral speech stream runs through the temporal lobe for comprehension",
+    "finding": "This review proposes a dual-stream model. A ventral stream, largely bilateral, processes speech signals for comprehension, and a dorsal stream, strongly left-dominant, maps acoustic speech onto frontal articulatory networks. The model is an organizing framework built from imaging and lesion data.",
+    "quote": "In this model, a ventral stream processes speech signals for comprehension, and a dorsal stream maps acoustic speech signals to frontal lobe articulatory networks.",
+    "pmid": "17431404",
+    "doi": "10.1038/nrn2113",
+    "cite": "Hickok G, Poeppel D. The cortical organization of speech processing. Nat Rev Neurosci. 2007;8(5):393-402.",
+    "year": 2007
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "planum_polare",
+  "how_we_know": "Only a few imaging studies say anything about this part of the temporal lobe, and they are small. They suggest it takes over from primary auditory cortex when pitch changes make a melody, but none shows that the region is needed, and no lesion or stimulation study is specific to it.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Melody processing moves from Heschl's gyrus to the planum polare and superior temporal gyrus",
+    "finding": "In fMRI, sounds with no pitch, fixed pitch or melody all activated Heschl's gyrus and the planum temporale. When pitch varied to make a melody, activation appeared beyond them in the superior temporal gyrus and planum polare. The centre of activity moved anterolaterally as melodic processing proceeded.",
+    "quote": "When the pitch was varied to produce a melody, there was activation in regions beyond HG and PT, specifically in the superior temporal gyrus (STG) and planum polare (PP).",
+    "pmid": "12441063",
+    "doi": "10.1016/s0896-6273(02)01060-7",
+    "cite": "Patterson RD, Uppenkamp S, Johnsrude IS, et al. The processing of temporal pitch and melody information in auditory cortex. Neuron. 2002;36(4):767-76.",
+    "year": 2002
+   },
+   {
+    "kind": "imaging",
+    "claim": "Anterior auditory cortex responds to later notes of melodic contours",
+    "finding": "In 18 adults, MEG showed that the first note of a pitch sequence evoked activity in the posterior planum temporale. The following notes came from more anterior areas, the planum polare, and the response was larger for melodic contours than for fixed pitch sequences.",
+    "quote": "In contrast, the response to the subsequent notes originated from more anterior areas (Planum polare) and was larger for melodic contours than for fixed pitch sequences, independent from the ear of entry and without hemispheric asymmetry.",
+    "pmid": "36393993",
+    "doi": "10.3389/fnhum.2022.909159",
+    "cite": "Taddeo S, Schulz M, Andermann M, et al. Neuromagnetic representation of melodic contour processing in human auditory cortex. Front Hum Neurosci. 2022;16:909159.",
+    "year": 2022
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "planum_temporale",
+  "how_we_know": "The asymmetry itself comes from direct anatomy: Geschwind and Levitsky measured post-mortem brains and later work used MRI. Whether the asymmetry explains language lateralization is doubtful, because one MRI study with Wada-tested patients found no link.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "The planum temporale is larger on the left in most brains",
+    "finding": "Geschwind and Levitsky compared the upper surfaces of the left and right temporal lobes in brains post-mortem. The planum temporale was larger on the left in 65 percent of brains and larger on the right in only 11 percent. The left planum was on average one-third longer.",
+    "quote": "The planum temporale (the area behind Hesch's gyrus) is larger on the left in 65 percent of brains; on the right it is larger in only 11 percent.",
+    "pmid": "5657070",
+    "doi": "10.1126/science.161.3837.186",
+    "cite": "Geschwind N, Levitsky W. Human brain: left-right asymmetries in temporal speech region. Science. 1968;161(3837):186-7.",
+    "year": 1968,
+    "data": {
+     "title": "Brains with the larger planum on that side (%)",
+     "unit": "%",
+     "items": [
+      [
+       "left larger",
+       65
+      ],
+      [
+       "right larger",
+       11
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "imaging",
+    "claim": "Planum temporale asymmetry does not predict which hemisphere carries speech",
+    "finding": "MRI volumes of the planum temporale and Heschl's gyrus were compared in epilepsy patients grouped by Wada testing as left speech (20), right speech (11) or bilateral speech (13). Leftward asymmetries were found in the planum temporale but did not relate to language lateralization.",
+    "quote": "Although leftward structural asymmetries were found in the PT, consistent with the literature, they did not relate to language lateralization.",
+    "pmid": "16537567",
+    "doi": "10.1093/brain/awl055",
+    "cite": "Dorsaint-Pierre R, Penhune VB, Watkins KE, et al. Asymmetries of the planum temporale and Heschl's gyrus: relationship to language lateralization. Brain. 2006;129(Pt 5):1164-76.",
+    "year": 2006
+   },
+   {
+    "kind": "imaging",
+    "claim": "Musicians with perfect pitch show stronger leftward planum temporale asymmetry",
+    "finding": "MRI morphometry in musicians measured planum temporale asymmetry. Musicians with perfect pitch had stronger leftward asymmetry than nonmusicians or musicians without perfect pitch. This is an association, not proof that the asymmetry causes the ability.",
+    "quote": "Musicians with perfect pitch revealed stronger leftward planum temporale asymmetry than nonmusicians or musicians without perfect pitch.",
+    "pmid": "7839149",
+    "doi": "10.1126/science.7839149",
+    "cite": "Schlaug G, Jäncke L, Huang Y, et al. In vivo evidence of structural brain asymmetry in musicians. Science. 1995;267(5198):699-701.",
+    "year": 1995
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "inferior_temporal_gyrus",
+  "how_we_know": "Recordings from electrodes on the human cortex surface and atrophy patterns in semantic dementia are the main human evidence for this gyrus. Most of the cell-level work on object selectivity comes from monkeys and is not covered here. Stimulation studies of the basal temporal language area name the fusiform gyrus, so none is claimed for this gyrus.",
+  "evidence": [
+   {
+    "kind": "recording",
+    "claim": "Faces, words and numbers evoke category-specific responses in the fusiform and inferior temporal gyri",
+    "finding": "Electrodes on the surface of the cortex in epilepsy patients recorded evoked potentials while they viewed faces, letter strings, numbers and control stimuli. A negative potential, N200, appeared for faces, letter strings and numbers but not controls, at discrete sites in the fusiform and inferior temporal gyri. The sites for faces and letter strings usually did not overlap.",
+    "quote": "A negative potential, N200, was evoked by faces, letter strings, and numbers, but not by the control stimuli. N200 was recorded bilaterally from discrete regions of the fusiform and inferior temporal gyri.",
+    "pmid": "7833655",
+    "doi": "10.1093/cercor/4.5.544",
+    "cite": "Allison T, McCarthy G, Nobre A, et al. Human extrastriate visual cortex and the perception of faces, words, numbers, and colors. Cereb Cortex. 1994;4(5):544-54.",
+    "year": 1994
+   },
+   {
+    "kind": "lesion",
+    "claim": "Left inferolateral temporal atrophy accompanies the semantic memory loss of semantic dementia",
+    "finding": "Voxel-based morphometry in 6 patients with semantic dementia compared them with age-matched controls. Atrophy in the left hemisphere involved the temporal pole and also the inferolateral temporal lobe (Brodmann area 20 and 21) and fusiform gyrus. The degree of semantic impairment correlated with left anterior temporal lobe atrophy.",
+    "quote": "Cortical atrophy in the left hemisphere also involved the inferolateral temporal lobe (Brodmann area 20/21) and fusiform gyrus.",
+    "pmid": "10632099",
+    "doi": "",
+    "cite": "Mummery CJ, Patterson K, Price CJ, et al. A voxel-based morphometry study of semantic dementia: relationship between temporal lobe atrophy and semantic memory. Ann Neurol. 2000;47(1):36-45.",
+    "year": 2000
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "middle_temporal_gyrus",
+  "how_we_know": "Lesion mapping in stroke patients and a meta-analysis of imaging studies place word meaning in the posterior middle temporal gyrus, and fMRI places motion area MT at the posterior end. Lesions are large and usually include neighbouring cortex and white matter, so the gyrus is hard to isolate.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Left posterior middle temporal damage impairs sentence and word comprehension",
+    "finding": "Sixty-four chronic left hemisphere stroke patients were tested on sentence comprehension and lesions were mapped voxel by voxel. Five left hemisphere regions affected performance, including the posterior middle temporal gyrus and underlying white matter. The middle temporal gyrus seemed more important at the word level.",
+    "quote": "Results indicated that lesions to five left hemisphere brain regions affected performance on the CYCLE-R, including the posterior middle temporal gyrus and underlying white matter, the anterior superior temporal gyrus, the superior temporal sulcus and angular gyrus, mid-frontal cortex in Brodmann's area 46, and Brodmann's area 47 of the inferior frontal gyrus.",
+    "pmid": "15037129",
+    "doi": "10.1016/j.cognition.2003.11.002",
+    "cite": "Dronkers NF, Wilkins DP, Van Valin RD Jr, et al. Lesion analysis of the brain areas involved in language comprehension. Cognition. 2004;92(1-2):145-77.",
+    "year": 2004
+   },
+   {
+    "kind": "meta-analysis",
+    "claim": "The middle temporal gyrus belongs to a left-lateralized semantic network",
+    "finding": "The authors analyzed 120 functional neuroimaging studies of semantic processing. Reliable activations formed a left-lateralized network of 7 regions, and the middle temporal gyrus was one of them.",
+    "quote": "These activations formed a distinct, left-lateralized network comprised of 7 regions: posterior inferior parietal lobe, middle temporal gyrus, fusiform and parahippocampal gyri, dorsomedial prefrontal cortex, inferior frontal gyrus, ventromedial prefrontal cortex, and posterior cingulate gyrus.",
+    "pmid": "19329570",
+    "doi": "10.1093/cercor/bhp055",
+    "cite": "Binder JR, Desai RH, Graves WW, et al. Where is the semantic system? A critical review and meta-analysis of 120 functional neuroimaging studies. Cereb Cortex. 2009;19(12):2767-96.",
+    "year": 2009
+   },
+   {
+    "kind": "imaging",
+    "claim": "Human area MT responds selectively to visual motion",
+    "finding": "Using fMRI, the authors found that area MT responded selectively to moving stimuli compared with stationary ones. Its location matched earlier PET and anatomical studies. MT also showed much higher contrast sensitivity than primary visual cortex.",
+    "quote": "As in previous PET studies, we found that area MT responded selectively to moving (compared to stationary) stimuli. The location of human MT in the present fMRI results is consistent with that of MT in earlier PET and anatomical studies.",
+    "pmid": "7722658",
+    "doi": "10.1523/JNEUROSCI.15-04-03215.1995",
+    "cite": "Tootell RB, Reppas JB, Kwong KK, et al. Functional analysis of human MT and related visual cortical areas using magnetic resonance imaging. J Neurosci. 1995;15(4):3215-30.",
+    "year": 1995
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "occipital_pole",
+  "how_we_know": "Imaging maps the foveal region, lesion-to-field correlations show how much cortex serves central vision, and a microelectrode stimulation study gives a causal view of what the nearby cortex does. The stimulation study was done in one blind volunteer, so it shows what is possible, not what is typical.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "V1, V2 and V3 meet at a foveal confluence at the occipital pole",
+    "finding": "High-resolution fMRI at 1.2 mm let the authors map the human foveal confluence. They found that V1, V2 and V3 are separable right into its center, and that for the central 0.75 degrees V2 and V3 hold more cortex than V1.",
+    "quote": "We find that V1, V2, and V3 are separable right into the center of the foveal confluence, and V1 ends as a rounded wedge with an affine mapping of the foveal singularity.",
+    "pmid": "19605642",
+    "doi": "10.1523/JNEUROSCI.1760-09.2009",
+    "cite": "Schira MM, Tyler CW, Breakspear M, et al. The foveal confluence in human visual cortex. J Neurosci. 2009;29(28):9050-8.",
+    "year": 2009
+   },
+   {
+    "kind": "lesion",
+    "claim": "A large share of striate cortex is devoted to central vision",
+    "finding": "The authors correlated MRI scans with homonymous field defects in patients with clearly defined occipital lesions. They found that the classic Holmes map underestimated the cortical magnification of central vision, and they redrew the map with more cortex for the center.",
+    "quote": "Our findings indicate that Holmes underestimated the cortical magnification of central vision.",
+    "pmid": "2043069",
+    "doi": "10.1001/archopht.1991.01080060080030",
+    "cite": "Horton JC, Hoyt WF. The representation of the visual field in human striate cortex. A revision of the classic Holmes map. Arch Ophthalmol. 1991;109(6):816-24.",
+    "year": 1991
+   }
+  ],
+  "stimulation": {
+   "method": "intracortical microstimulation with implanted microelectrodes",
+   "effect": "In one woman blind for 22 years, stimulating through electrodes in right visual cortex near the occipital pole produced small spots of light, called phosphenes, from 34 of 38 electrodes. Most thresholds were below 25 microamps.",
+   "quote": "Thirty-eight microelectrodes were implanted in the right visual cortex, near the occipital pole, for a period of 4 months. Percepts reported as small spots of light, called phosphenes, were produced with 34 of the 38 implanted microelectrodes.",
+   "pmid": "8800945",
+   "doi": "10.1093/brain/119.2.507",
+   "cite": "Schmidt EM, Bak MJ, Hambrecht FT, et al. Feasibility of a visual prosthesis for the blind based on intracortical microstimulation of the visual cortex. Brain. 1996;119(Pt 2):507-22.",
+   "year": 1996
+  }
+ },
+ {
+  "id": "temporal_pole",
+  "how_we_know": "Atrophy mapping in semantic dementia and temporary disruption by TMS give causal evidence for a semantic role in the anterior temporal lobe, while the social and emotional role rests on a literature review. TMS targeted the anterior temporal lobe broadly, not the pole alone.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "The left temporal pole is the most consistently atrophied region in semantic dementia",
+    "finding": "Voxel-based morphometry in 6 patients with semantic dementia, against age-matched controls, found the left temporal pole (Brodmann area 38) to be the most significantly and consistently affected region. Semantic memory impairment correlated with the extent of left anterior temporal atrophy.",
+    "quote": "Among the circumscribed regions of neuronal loss, the left temporal pole (Brodmann area 38) was the most significantly and consistently affected region.",
+    "pmid": "10632099",
+    "doi": "",
+    "cite": "Mummery CJ, Patterson K, Price CJ, et al. A voxel-based morphometry study of semantic dementia: relationship between temporal lobe atrophy and semantic memory. Ann Neurol. 2000;47(1):36-45.",
+    "year": 2000
+   },
+   {
+    "kind": "lesion",
+    "claim": "Semantic dementia causes fluent speech with loss of word and object meaning",
+    "finding": "The authors report five patients with a stereotyped syndrome of fluent speech, severe anomia and loss of single-word comprehension. Phonology, grammar, episodic memory and non-verbal abilities were largely preserved, and imaging showed marked temporal atrophy in all five. One patient developed features of Kluver-Bucy syndrome.",
+    "quote": "We report five patients with a stereotyped clinical syndrome characterized by fluent dysphasia with severe anomia, reduced vocabulary and prominent impairment of single-word comprehension, progressing to a stage of virtually complete dissolution of the semantic components of language.",
+    "pmid": "1486461",
+    "doi": "10.1093/brain/115.6.1783",
+    "cite": "Hodges JR, Patterson K, Oxbury S, et al. Semantic dementia. Progressive fluent aphasia with temporal lobe atrophy. Brain. 1992;115(Pt 6):1783-806.",
+    "year": 1992
+   },
+   {
+    "kind": "imaging",
+    "claim": "The temporal pole binds perceptual input to emotional responses and supports social processing",
+    "finding": "This review draws on non-human primate and human literature. It concludes the temporal pole has a role in social and emotional processes, including face recognition and theory of mind, beyond semantic memory. The authors propose it binds highly processed perceptual input to visceral emotional responses.",
+    "quote": "We propose that the temporal pole binds complex, highly processed perceptual inputs to visceral emotional responses.",
+    "pmid": "17392317",
+    "doi": "10.1093/brain/awm052",
+    "cite": "Olson IR, Plotzker A, Ezzyat Y. The Enigmatic temporal pole: a review of findings on social and emotional processing. Brain. 2007;130(Pt 7):1718-31.",
+    "year": 2007
+   }
+  ],
+  "stimulation": {
+   "method": "repetitive transcranial magnetic stimulation over the anterior temporal lobe",
+   "effect": "Low-frequency rTMS over the anterior temporal lobe in healthy volunteers temporarily slowed picture naming and word comprehension, mimicking semantic dementia, without slowing equally hard nonsemantic tasks.",
+   "quote": "Specifically, we show that temporary disruption to neural processing in the ATL produces a selective semantic impairment leading to significant slowing in both picture naming and word comprehension but not to other equally demanding, nonsemantic cognitive tasks.",
+   "pmid": "18056637",
+   "doi": "10.1073/pnas.0707383104",
+   "cite": "Pobric G, Jefferies E, Ralph MA. Anterior temporal lobes mediate semantic representation: mimicking semantic dementia by using rTMS in normal participants. Proc Natl Acad Sci U S A. 2007;104(50):20137-41.",
+   "year": 2007
+  }
+ }
+]

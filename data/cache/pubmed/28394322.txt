@@ -1,0 +1,48 @@
+1. Nat Neurosci. 2017 Jun;20(6):872-878. doi: 10.1038/nn.4545. Epub 2017 Apr 10.
+
+The neural correlates of dreaming.
+
+Siclari F(1)(2), Baird B(1), Perogamvros L(1)(3)(4), Bernardi G(1)(2)(5), 
+LaRocque JJ(6), Riedner B(1), Boly M(1)(7), Postle BR(1)(8), Tononi G(1).
+
+Author information:
+(1)Department of Psychiatry, University of Wisconsin-Madison, Madison, 
+Wisconsin, USA.
+(2)Center for Research and Investigation in Sleep (CIRS), Lausanne University 
+Hospital (CHUV) and University of Lausanne, Lausanne, Switzerland.
+(3)Sleep Laboratory, Division of Pneumology, Geneva University Hospitals (HUG), 
+Geneva, Switzerland.
+(4)Department of Neuroscience, University of Geneva, Geneva, Switzerland.
+(5)IMT School for Advanced Studies, Lucca, Italy.
+(6)Medical Scientist Training Program and Neuroscience Training Program, 
+University of Wisconsin, Madison, Wisconsin, USA.
+(7)Department of Neurology, University of Wisconsin-Madison, Madison, Wisconsin, 
+USA.
+(8)Department of Psychology, University of Wisconsin-Madison, Madison, 
+Wisconsin, USA.
+
+Comment in
+    J Thorac Dis. 2017 Sep;9(9):2732-2735. doi: 10.21037/jtd.2017.07.103.
+
+Consciousness never fades during waking. However, when awakened from sleep, we 
+sometimes recall dreams and sometimes recall no experiences. Traditionally, 
+dreaming has been identified with rapid eye-movement (REM) sleep, characterized 
+by wake-like, globally 'activated', high-frequency electroencephalographic 
+activity. However, dreaming also occurs in non-REM (NREM) sleep, characterized 
+by prominent low-frequency activity. This challenges our understanding of the 
+neural correlates of conscious experiences in sleep. Using high-density 
+electroencephalography, we contrasted the presence and absence of dreaming in 
+NREM and REM sleep. In both NREM and REM sleep, reports of dream experience were 
+associated with local decreases in low-frequency activity in posterior cortical 
+regions. High-frequency activity in these regions correlated with specific dream 
+contents. Monitoring this posterior 'hot zone' in real time predicted whether an 
+individual reported dreaming or the absence of dream experiences during NREM 
+sleep, suggesting that it may constitute a core correlate of conscious 
+experiences in sleep.
+
+DOI: 10.1038/nn.4545
+PMCID: PMC5462120
+PMID: 28394322 [Indexed for MEDLINE]
+
+Conflict of interest statement: The other authors have indicated no financial 
+conflicts of interest.

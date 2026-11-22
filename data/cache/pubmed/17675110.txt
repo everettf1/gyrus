@@ -1,0 +1,29 @@
+1. Neuropsychologia. 2007 Oct 1;45(13):2883-901. doi: 
+10.1016/j.neuropsychologia.2007.06.015. Epub 2007 Jun 29.
+
+Left ventrolateral prefrontal cortex and the cognitive control of memory.
+
+Badre D(1), Wagner AD.
+
+Author information:
+(1)Helen Wills Neuroscience Institute, 132 Barker Hall, MC3190, UC Berkeley, CA 
+94720-3190, USA. dbadre@berkeley.edu
+
+Cognitive control mechanisms permit memory to be accessed strategically, and so 
+aid in bringing knowledge to mind that is relevant to current goals and actions. 
+In this review, we consider the contribution of left ventrolateral prefrontal 
+cortex (VLPFC) to the cognitive control of memory. Reviewed evidence supports a 
+two-process model of mnemonic control, supported by a double dissociation among 
+rostral regions of left VLPFC. Specifically, anterior VLPFC (approximately BA 
+47; inferior frontal gyrus pars orbitalis) supports controlled access to stored 
+conceptual representations, whereas mid-VLPFC (approximately BA 45; inferior 
+frontal gyrus pars triangularis) supports a domain-general selection process 
+that operates post-retrieval to resolve competition among active 
+representations. We discuss the contribution of these control mechanisms across 
+a range of mnemonic domains, including semantic retrieval, recollection of 
+contextual details about past events, resolution of proactive interference in 
+working memory, and task switching. Finally, we consider open directions for 
+future research into left VLPFC function and the cognitive control of memory.
+
+DOI: 10.1016/j.neuropsychologia.2007.06.015
+PMID: 17675110 [Indexed for MEDLINE]

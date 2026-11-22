@@ -1,0 +1,26 @@
+1. Neuropsychologia. 2007 Mar 14;45(5):877-84. doi: 
+10.1016/j.neuropsychologia.2006.08.027. Epub 2006 Oct 6.
+
+Amygdala control of emotion-induced forgetting and remembering: evidence from 
+Urbach-Wiethe disease.
+
+Hurlemann R(1), Wagner M, Hawellek B, Reich H, Pieperhoff P, Amunts K, 
+Oros-Peusquens AM, Shah NJ, Maier W, Dolan RJ.
+
+Author information:
+(1)Department of Psychiatry, University of Bonn, 53105 Bonn, Germany. 
+rene.hurlemann@ukb.uni-bonn.de
+
+When presented in a neutral context, emotional items interfere with episodic 
+encoding of temporally contiguous non-emotional items, resulting in dissociable 
+valence-dependent retrograde and arousal-dependent anterograde modulatory 
+effects. By studying two rare patients with congenital lipoid proteinosis 
+(Urbach-Wiethe) and a focal disease emphasis on the basolateral amygdala (BLA), 
+we demonstrate that this bidirectional modification of episodic encoding by 
+emotion depends on the integrity of the amygdala, as both retrograde and 
+anterograde modulatory effects are absent. Our findings implicate the amygdala 
+in a neural circuitry that orchestrates rapid retrograde and anterograde 
+regulation of episodic memory access upon criteria of behavioral significance.
+
+DOI: 10.1016/j.neuropsychologia.2006.08.027
+PMID: 17027866 [Indexed for MEDLINE]

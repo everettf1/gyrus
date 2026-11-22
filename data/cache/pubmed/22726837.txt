@@ -1,0 +1,39 @@
+1. Neuron. 2012 Jun 21;74(6):1075-86. doi: 10.1016/j.neuron.2012.04.027.
+
+Dichotomous organization of the external globus pallidus.
+
+Mallet N(1), Micklem BR, Henny P, Brown MT, Williams C, Bolam JP, Nakamura KC, 
+Magill PJ.
+
+Author information:
+(1)Medical Research Council Anatomical Neuropharmacology Unit, Department of 
+Pharmacology and Oxford Parkinson's Disease Centre, University of Oxford, Oxford 
+OX1 3TH, UK. np.mallet@googlemail.com
+
+Comment in
+    Neuron. 2012 Jun 21;74(6):967-9. doi: 10.1016/j.neuron.2012.06.003.
+    Nat Rev Neurosci. 2012 Jul 11;13(8):518-9. doi: 10.1038/nrn3304.
+    Mov Disord. 2012 Sep 1;27(10):1219. doi: 10.1002/mds.25131.
+    Mov Disord. 2012 Dec;27(14):1740. doi: 10.1002/mds.25257.
+
+Different striatal projection neurons are the origin of a dual organization 
+essential for basal ganglia function. We have defined an analogous division of 
+labor in the external globus pallidus (GPe) of Parkinsonian rats, showing that 
+the distinct temporal activities of two populations of GPe neuron in vivo 
+are underpinned by distinct molecular profiles and axonal connectivities. A 
+first population of prototypic GABAergic GPe neurons fire antiphase to 
+subthalamic nucleus (STN) neurons, often express parvalbumin, and target 
+downstream basal ganglia nuclei, including STN. In contrast, a second population 
+(arkypallidal neurons) fire in-phase with STN neurons, express preproenkephalin, 
+and only innervate the striatum. This novel cell type provides the largest 
+extrinsic GABAergic innervation of striatum, targeting both projection neurons 
+and interneurons. We conclude that GPe exhibits several core components of a 
+dichotomous organization as fundamental as that in striatum. Thus, two 
+populations of GPe neuron together orchestrate activities across all basal 
+ganglia nuclei in a cell-type-specific manner.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2012.04.027
+PMCID: PMC3407962
+PMID: 22726837 [Indexed for MEDLINE]

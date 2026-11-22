@@ -1,0 +1,28 @@
+1. Neuron. 2010 Feb 25;65(4):550-62. doi: 10.1016/j.neuron.2010.02.005.
+
+Functional-anatomic fractionation of the brain's default network.
+
+Andrews-Hanna JR(1), Reidler JS, Sepulcre J, Poulin R, Buckner RL.
+
+Author information:
+(1)Department of Psychology and Center for Brain Science, Harvard University, 
+Cambridge, MA 02138, USA. jessica.andrews-hanna@colorado.edu 
+<jessica.andrews-hanna@colorado.edu>
+
+One of the most consistent observations in human functional imaging is that a 
+network of brain regions referred to as the "default network" increases its 
+activity during passive states. Here we explored the anatomy and function of the 
+default network across three studies to resolve divergent hypotheses about its 
+contributions to spontaneous cognition and active forms of decision making. 
+Analysis of intrinsic activity revealed the network comprises multiple, 
+dissociated components. A midline core (posterior cingulate and anterior medial 
+prefrontal cortex) is active when people make self-relevant, affective 
+decisions. In contrast, a medial temporal lobe subsystem becomes engaged when 
+decisions involve constructing a mental scene based on memory. During certain 
+experimentally directed and spontaneous acts of future-oriented thought, these 
+dissociated components are simultaneously engaged, presumably to facilitate 
+construction of mental models of personally significant events.
+
+DOI: 10.1016/j.neuron.2010.02.005
+PMCID: PMC2848443
+PMID: 20188659 [Indexed for MEDLINE]

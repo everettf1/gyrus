@@ -1,0 +1,43 @@
+1. Brain. 2006 Mar;129(Pt 3):564-83. doi: 10.1093/brain/awl004. Epub 2006 Jan 6.
+
+The precuneus: a review of its functional anatomy and behavioural correlates.
+
+Cavanna AE(1), Trimble MR.
+
+Author information:
+(1)Institute of Neurology, Queen Square, London WC1N3BG, UK.
+
+Functional neuroimaging studies have started unravelling unexpected functional 
+attributes for the posteromedial portion of the parietal lobe, the precuneus. 
+This cortical area has traditionally received little attention, mainly because 
+of its hidden location and the virtual absence of focal lesion studies. However, 
+recent functional imaging findings in healthy subjects suggest a central role 
+for the precuneus in a wide spectrum of highly integrated tasks, including 
+visuo-spatial imagery, episodic memory retrieval and self-processing operations, 
+namely first-person perspective taking and an experience of agency. Furthermore, 
+precuneus and surrounding posteromedial areas are amongst the brain structures 
+displaying the highest resting metabolic rates (hot spots) and are characterized 
+by transient decreases in the tonic activity during engagement in 
+non-self-referential goal-directed actions (default mode of brain function). 
+Therefore, it has recently been proposed that precuneus is involved in the 
+interwoven network of the neural correlates of self-consciousness, engaged in 
+self-related mental representations during rest. This hypothesis is consistent 
+with the selective hypometabolism in the posteromedial cortex reported in a wide 
+range of altered conscious states, such as sleep, drug-induced anaesthesia and 
+vegetative states. This review summarizes the current knowledge about the 
+macroscopic and microscopic anatomy of precuneus, together with its wide-spread 
+connectivity with both cortical and subcortical structures, as shown by 
+connectional and neurophysiological findings in non-human primates, and links 
+these notions with the multifaceted spectrum of its behavioural correlates. By 
+means of a critical analysis of precuneus activation patterns in response to 
+different mental tasks, this paper provides a useful conceptual framework for 
+matching the functional imaging findings with the specific role(s) played by 
+this structure in the higher-order cognitive functions in which it has been 
+implicated. Specifically, activation patterns appear to converge with anatomical 
+and connectivity data in providing preliminary evidence for a functional 
+subdivision within the precuneus into an anterior region, involved in 
+self-centred mental imagery strategies, and a posterior region, subserving 
+successful episodic memory retrieval.
+
+DOI: 10.1093/brain/awl004
+PMID: 16399806 [Indexed for MEDLINE]

@@ -1,0 +1,132 @@
+[
+ {
+  "region": "anterior_insula",
+  "pmid": "14976305",
+  "from": "Fig. 4 (lower panels)",
+  "caption": "Each dot is one person. People with higher scores on two empathy questionnaires (horizontal axes) had stronger left anterior insula responses (vertical axes) while a partner was in pain, with r = 0.52 and r = 0.72.",
+  "notice": "The dots rise from left to right, so insula response and empathy scores go together across people, which is a correlation and does not show the insula causes empathy.",
+  "short": "Singer et al. 2004, Science",
+  "license": "",
+  "file": "anterior_insula_14976305.webp"
+ },
+ {
+  "region": "anterior_insula",
+  "pmid": "17255515",
+  "from": "Fig. 3",
+  "caption": "A region-by-region map of how brain damage relates to smoking addiction. The insula, outlined in red on both sides, is the only region where a lesion was significantly associated with a disruption of smoking addiction.",
+  "notice": "The link comes from people who already had brain damage, so this is lesion evidence, which points toward the insula being needed for the addiction.",
+  "short": "Naqvi et al. 2007, Science",
+  "license": "",
+  "file": "anterior_insula_17255515.webp"
+ },
+ {
+  "region": "premotor_cortex",
+  "pmid": "9619185",
+  "from": "Fig. 4A",
+  "caption": "Magnetic stimulation over the left premotor cortex 140 ms after the cue made responses with the right hand slower in a choice task. The vertical axis is the percent change in response time, and the dotted line at zero means no effect.",
+  "notice": "The asterisk marks the one interval where stimulation reliably changed response time, so disrupting premotor cortex at that moment caused a delay, which is causal evidence.",
+  "short": "Schluter et al. 1998, Brain",
+  "license": "",
+  "file": "premotor_cortex_9619185.webp"
+ },
+ {
+  "region": "substantia_nigra",
+  "pmid": "1933245",
+  "from": "Fig. 6",
+  "caption": "Each dot is a Parkinson's disease case: the count of substantia nigra neurons, as a percent of control, falls as the years of symptoms go up. The stars at the lower left mark the presymptomatic phase.",
+  "notice": "Counts fall steeply early and level off low, which fits neuron loss in the nigra going along with the disease, though autopsy counts show a link and not a test of cause.",
+  "short": "Fearnley et al. 1991, Brain",
+  "license": "",
+  "file": "substantia_nigra_1933245.webp"
+ },
+ {
+  "region": "thalamus",
+  "pmid": "12808459",
+  "from": "Figure 3",
+  "caption": "Panel a divides the cortex into colored areas. Panels c and d color thalamic voxels by the cortical area they are most probably connected to, from diffusion tractography, and the colors form separate clusters inside the thalamus.",
+  "notice": "Each color sits in its own part of the thalamus, which shows that different thalamic regions link to different cortical areas, a connection pattern inferred from imaging.",
+  "short": "Behrens et al. 2003, Nat Neurosci",
+  "license": "",
+  "file": "thalamus_12808459.webp"
+ },
+ {
+  "region": "somatomotor_network",
+  "pmid": "9055804",
+  "from": "Fig. 2",
+  "caption": "A drawing of an axial slice of the brain on which each symbol marks the motor hand area of one volunteer, found with fMRI during hand movement.",
+  "notice": "The symbols gather in the same part of the precentral gyrus across people, which shows that hand movement and this spot go together, a correlation from imaging.",
+  "short": "Yousry et al. 1997, Brain",
+  "license": "",
+  "file": "somatomotor_network_9055804.webp"
+ },
+ {
+  "region": "basolateral_amygdala",
+  "pmid": "17027866",
+  "from": "Fig. 3",
+  "caption": "Recall in 16 controls (left) and in patients AM and BG (right), who have damage to both amygdalae. In controls, items next to an emotional oddball are remembered more or less well depending on the emotion; in the patients these changes are close to zero.",
+  "notice": "Compare the lower-left bars, which move up and down with emotion, to the lower-right bars, which barely move, so losing this amygdala tissue removed the emotional effect on memory.",
+  "short": "Hurlemann et al. 2007, Neuropsychologia",
+  "license": "",
+  "file": "basolateral_amygdala_17027866.webp"
+ },
+ {
+  "region": "pars_orbitalis",
+  "pmid": "17675110",
+  "from": "Fig. 2C",
+  "caption": "Activity in left anterior ventrolateral prefrontal cortex, mid-VLPFC and middle temporal cortex when the cue and the correct word were strongly or weakly associated. Anterior VLPFC activity was higher for weak associations.",
+  "notice": "The weak bar is taller in anterior VLPFC (asterisk), so this area is more active when a meaning must be retrieved with less help, a correlation seen with fMRI.",
+  "short": "Badre et al. 2007, Neuropsychologia",
+  "license": "",
+  "file": "pars_orbitalis_17675110.webp"
+ },
+ {
+  "region": "subcentral_gyrus",
+  "pmid": "8898748",
+  "from": "Fig. 2 (mylohyoid and pharynx maps)",
+  "caption": "Scalp maps from four healthy people (rows A to D) showing where magnetic stimulation evoked responses in the mylohyoid muscle and in the pharynx. Warmer colors mark stronger responses.",
+  "notice": "The hot spots for the two muscle groups sit in different places, which fits separate body-map-like zones for swallowing muscles; the maps are on the scalp, not on the cortex itself.",
+  "short": "Hamdy et al. 1996, Nat Med",
+  "license": "",
+  "file": "subcentral_gyrus_8898748.webp"
+ },
+ {
+  "region": "anterior_circular_sulcus",
+  "pmid": "34292438",
+  "from": "Fig. 3A",
+  "caption": "A dissected brain seen from the side. The white dots trace the limiting (circular) sulcus around the insula, and the green dot marks the anterior insular point, where the anterior and superior parts of the sulcus meet.",
+  "notice": "The dotted line separates the insula from the frontal cortex in front of it, which is why it serves as an edge landmark in surgery; this is anatomy from dissection.",
+  "short": "Dziedzic et al. 2022, Neurosurg Rev",
+  "license": "",
+  "file": "anterior_circular_sulcus_34292438.webp"
+ },
+ {
+  "region": "inferior_precentral_sulcus",
+  "pmid": "38374489",
+  "from": "Fig. 6a-c",
+  "caption": "An example of the true connection form: the inferior precentral sulcus (green) and the inferior frontal sulcus (purple) are completely connected. The three views are the brain surface, the extracted sulci in place, and the sulci alone.",
+  "notice": "In panel c the red arrow marks where the two sulci meet, showing how this sulcus can join the inferior frontal sulcus; this is anatomy from MRI.",
+  "short": "Zhao et al. 2024, Brain Topogr",
+  "license": "",
+  "file": "inferior_precentral_sulcus_38374489.webp"
+ },
+ {
+  "region": "olfactory_sulcus",
+  "pmid": "24530137",
+  "from": "Fig. 1",
+  "caption": "The olfactory sulcus traced in red on MRI in coronal (A), axial (B) and sagittal (C) views.",
+  "notice": "The red lines show the sulcus as a distinct groove on the underside of the frontal lobe in all three planes.",
+  "short": "Takahashi et al. 2014, Schizophr Res",
+  "license": "",
+  "file": "olfactory_sulcus_24530137.webp"
+ },
+ {
+  "region": "transverse_occipital_sulcus",
+  "pmid": "34158579",
+  "from": "Fig. 2a",
+  "caption": "Mean fMRI response in scene-selective areas, including TOS (green), to objects at normal scale in a scene (blue) and at mis-scaled sizes (orange).",
+  "notice": "The TOS bars are tallest for normal scale and the double asterisks mark a reliable drop for mis-scaled objects, a correlation showing TOS responds to object-scene size.",
+  "short": "Welbourne et al. 2021, Commun Biol",
+  "license": "",
+  "file": "transverse_occipital_sulcus_34158579.webp"
+ }
+]

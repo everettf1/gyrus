@@ -1,0 +1,32 @@
+1. Nat Rev Neurosci. 2016 Jul;17(7):450-61. doi: 10.1038/nrn.2016.44. Epub 2016
+May  26.
+
+Integrated information theory: from consciousness to its physical substrate.
+
+Tononi G(1), Boly M(2), Massimini M(3), Koch C(4).
+
+Author information:
+(1)Department of Psychiatry, University of Wisconsin, 6001 Research Park 
+Boulevard, Madison, Wisconsin 53719, USA.
+(2)Department of Psychiatry, University of Wisconsin, 6001 Research Park 
+Boulevard, Madison, Wisconsin 53719 USA; and at the Department of Neurology, 
+University of Wisconsin, 1685 Highland Avenue, Madison, Wisconsin 53705, USA.
+(3)Department of Biomedical and Clinical Sciences 'Luigi Sacco', University of 
+Milan, Via G.B. Grassi 74, Milan 20157, Italy; and at the Instituto Di Ricovero 
+e Cura a Carattere Scientifico, Fondazione Don Carlo Gnocchi, Via A. Capecelatro 
+66, Milan 20148, Italy.
+(4)Allen Institute for Brain Science, 615 Westlake Ave N, Seattle, Washington 
+98109, USA.
+
+In this Opinion article, we discuss how integrated information theory accounts 
+for several aspects of the relationship between consciousness and the brain. 
+Integrated information theory starts from the essential properties of phenomenal 
+experience, from which it derives the requirements for the physical substrate of 
+consciousness. It argues that the physical substrate of consciousness must be a 
+maximum of intrinsic cause-effect power and provides a means to determine, in 
+principle, the quality and quantity of experience. The theory leads to some 
+counterintuitive predictions and can be used to develop new tools for assessing 
+consciousness in non-communicative patients.
+
+DOI: 10.1038/nrn.2016.44
+PMID: 27225071 [Indexed for MEDLINE]

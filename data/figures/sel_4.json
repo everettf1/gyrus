@@ -1,0 +1,162 @@
+[
+ {
+  "region": "area_55b",
+  "pmid": "33599397",
+  "from": "Figure 3 (Left 55b panel)",
+  "caption": "Three views of the brain with the left area 55b outline (red) sitting inside the blue cluster of activation found across many word and object categorizing fMRI studies.",
+  "notice": "The red 55b outline falls inside the blue activation cluster, which is why 55b was counted as part of the semantic network; this is a correlation from imaging, not a test of cause.",
+  "short": "Milton et al. 2021, Brain Behav",
+  "license": "CC BY",
+  "file": "area_55b_33599397.webp"
+ },
+ {
+  "region": "dorsomedial_prefrontal_cortex",
+  "pmid": "28158864",
+  "from": "Figure 3",
+  "caption": "How often faces were called trustworthy after ugliness, neutral or beauty words, with magnetic stimulation over a control spot (vertex), the dmPFC or the dlPFC. Panel B shows the beauty minus ugliness difference in each condition.",
+  "notice": "Beauty words raise trust ratings after vertex and dlPFC stimulation, but the dmPFC bar is flat, so disrupting this region removes the effect, which points to cause.",
+  "short": "Ferrari et al. 2017, Soc Cogn Affect Neurosci",
+  "license": "CC BY NC",
+  "file": "dorsomedial_prefrontal_cortex_28158864.webp"
+ },
+ {
+  "region": "lateral_intraparietal_area",
+  "pmid": "12427844",
+  "from": "Figure 4",
+  "caption": "In two monkeys, the share of saccades made to the target on the affected side when two targets appeared, as the affected-side target led by more time. Dashed lines are control and solid lines are after LIP inactivation.",
+  "notice": "After the area was temporarily inactivated the solid lines stay far below the dashed ones, so the animals rarely chose the target on the affected side: a cause, since the region was switched off.",
+  "short": "Wardak et al. 2002, J Neurosci",
+  "license": "",
+  "file": "lateral_intraparietal_area_12427844.webp"
+ },
+ {
+  "region": "pre_supplementary_motor_area",
+  "pmid": "23616761",
+  "from": "Figure 2",
+  "caption": "Time needed to stop an action (stop signal reaction time) across four conditions, with or without a magnetic pulse over the pre-SMA or a control spot (vertex).",
+  "notice": "In the sham condition the green pulse bar over the pre-SMA is higher than its no-pulse bar, so stopping took longer when the pre-SMA was disrupted: a cause.",
+  "short": "Obeso et al. 2013, Front Hum Neurosci",
+  "license": "CC BY",
+  "file": "pre_supplementary_motor_area_23616761.webp"
+ },
+ {
+  "region": "pre_supplementary_motor_area",
+  "pmid": "15668167",
+  "from": "Figure 2",
+  "caption": "Brain map of pre-SMA clusters (yellow, front part, and cyan, back part) with bar plots of the signal in each cluster for plan-change and no-change trials, in directed and free choice conditions.",
+  "notice": "The front cluster is high on change trials in both directed and free choice, while the back cluster tracks free choice, so different parts of the pre-SMA match volition and conflict; imaging shows correlation.",
+  "short": "Nachev et al. 2005, Curr Biol",
+  "license": "",
+  "file": "pre_supplementary_motor_area_15668167.webp"
+ },
+ {
+  "region": "cerebellum",
+  "pmid": "11346886",
+  "from": "Figure 7a and 7b",
+  "caption": "A single cerebellar surface seen from two angles with color-coded fMRI activation for movements of different body parts.",
+  "notice": "Each color sits in its own patch, with the right-side and left-side hand areas apart from the face areas, which is a body map in the cerebellum; imaging shows correlation.",
+  "short": "Grodd et al. 2001, Hum Brain Mapp",
+  "license": "",
+  "file": "cerebellum_11346886.webp"
+ },
+ {
+  "region": "ventral_tegmental_area",
+  "pmid": "17764976",
+  "from": "Figure 2A and 2B",
+  "caption": "A cluster of activation in the right SN/VTA (A) and its signal for a cue that predicts a novel picture (NC) versus a cue that predicts a familiar one (FC) (B).",
+  "notice": "The signal is higher after the novelty cue (NC) than after the familiarity cue (FC), so the midbrain responds to a cue before the outcome arrives; this is a correlation.",
+  "short": "Wittmann et al. 2007, Neuroimage",
+  "license": "CC BY",
+  "file": "ventral_tegmental_area_17764976.webp"
+ },
+ {
+  "region": "nucleus_accumbens",
+  "pmid": "11459880",
+  "from": "Figure 3",
+  "caption": "Maps of the nucleus accumbens for reward anticipation (a and b) and punishment anticipation (c and d), with a graph of signal change from losing $5.00 to winning $5.00.",
+  "notice": "Spots appear for reward anticipation but the punishment maps are empty, and the graph climbs mainly for the +$5.00 cue, so the accumbens tracks expected gains; imaging shows correlation.",
+  "short": "Knutson et al. 2001, J Neurosci",
+  "license": "",
+  "file": "nucleus_accumbens_11459880.webp"
+ },
+ {
+  "region": "dorsal_attention_network",
+  "pmid": "16788060",
+  "from": "Fig. 1",
+  "caption": "Flattened brain maps of areas whose resting activity rises and falls together with seed regions (outlined in black) in the IPS, FEF, TPJ and VFC.",
+  "notice": "The IPS and FEF seeds give similar, largely two-sided maps, unlike the TPJ and VFC seeds, so the dorsal system shows up in rest with no task; this is correlation.",
+  "short": "Fox et al. 2006, Proc Natl Acad Sci U S A",
+  "license": "",
+  "file": "dorsal_attention_network_16788060.webp"
+ },
+ {
+  "region": "corpus_callosum",
+  "pmid": "36929636",
+  "from": "Figure 2",
+  "caption": "Forest plot of the share of patients with complete seizure freedom after corpus callosotomy, one row per study with a pooled estimate at the bottom.",
+  "notice": "Most squares sit low and the pooled diamond is near 12 percent, so complete seizure freedom after callosotomy is rare; this is a pooled outcome rate, not a cause for each patient.",
+  "short": "Wu et al. 2023, Brain Behav",
+  "license": "CC BY",
+  "file": "corpus_callosum_36929636.webp"
+ },
+ {
+  "region": "red_nucleus",
+  "pmid": "31835285",
+  "from": "Figure 7",
+  "caption": "Each dot is a stroke patient: the motor score (Fugl-Meyer) predicted from the integrity of the rubral pathways, plotted against the measured score, for capsular stroke (A) and pontine stroke (B).",
+  "notice": "Dots follow the rising line in both groups, so rubral pathway integrity goes with how severe the motor impairment is; this is a correlation.",
+  "short": "Guo et al. 2019, Neuroimage Clin",
+  "license": "CC BY NC ND",
+  "file": "red_nucleus_31835285.webp"
+ },
+ {
+  "region": "habenula",
+  "pmid": "27240528",
+  "from": "Figure 2a and 2b",
+  "caption": "The habenula outlined in red on brain slices (a) and its response to the changing value of cues linked to winning, losing or a shock, in healthy volunteers and people with major depression (b).",
+  "notice": "For the shock cue the bar points up in healthy volunteers and down in people with depression, so habenula responses to aversive cues differ in depression; this is a correlation.",
+  "short": "Lawson et al. 2017, Mol Psychiatry",
+  "license": "CC BY",
+  "file": "habenula_27240528.webp"
+ },
+ {
+  "region": "inferior_occipital_gyrus",
+  "pmid": "17764942",
+  "from": "Figure 2A",
+  "caption": "Accuracy on face tasks judging face parts or spacing between parts, after magnetic stimulation of the right occipital face area, left occipital face area, a control spot (vertex) or none.",
+  "notice": "Only with right OFA stimulation does the face parts bar drop below the other conditions, so disrupting this area hurts face-part judgments: a cause.",
+  "short": "Pitcher et al. 2007, Curr Biol",
+  "license": "",
+  "file": "inferior_occipital_gyrus_17764942.webp"
+ },
+ {
+  "region": "planum_polare",
+  "pmid": "12441063",
+  "from": "Figure 3",
+  "caption": "Group activation in the temporal lobe on sagittal, axial and coronal views, with blue for noise versus silence, red for fixed pitch versus noise, green for diatonic melody versus fixed pitch and cyan for random melody versus fixed pitch.",
+  "notice": "Blue and red sit around Heschl's gyrus (white) while the green and cyan patches of melody lie beyond it, so melody activity moves outward from Heschl's gyrus; imaging shows correlation.",
+  "short": "Patterson et al. 2002, Neuron",
+  "license": "",
+  "file": "planum_polare_12441063.webp"
+ },
+ {
+  "region": "supramarginal_gyrus",
+  "pmid": "16763035",
+  "from": "Figure 2c",
+  "caption": "A brain surface showing where lesions overlapped in patients who could not imitate hand postures only (orange and yellow) or finger postures only (teal).",
+  "notice": "The hand-posture lesions cluster toward the back of the brain in the parietal region and the finger ones in front, so damage in the parietal region causes the hand imitation deficit; lesion studies point to cause.",
+  "short": "Goldenberg et al. 2006, J Neurosci",
+  "license": "",
+  "file": "supramarginal_gyrus_16763035.webp"
+ },
+ {
+  "region": "ventral_posterolateral_nucleus",
+  "pmid": "36416937",
+  "from": "Figure 3a",
+  "caption": "Overlay of thalamic stroke lesions on an axial brain slice for patients with a hemisensory syndrome (n=38); brighter colors mean more lesions overlap there.",
+  "notice": "The brightest overlap lies in the back and side of one thalamus, so a stroke there tends to cause loss of body sensation; lesions point to cause.",
+  "short": "Rauch et al. 2023, Clin Neuroradiol",
+  "license": "CC BY",
+  "file": "ventral_posterolateral_nucleus_36416937.webp"
+ }
+]

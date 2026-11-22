@@ -1,0 +1,30 @@
+1. Nat Neurosci. 2015 Apr;18(4):499-500. doi: 10.1038/nn.3969. Epub 2015 Mar 9.
+
+The dorsal posterior insula subserves a fundamental role in human pain.
+
+Segerdahl AR(1), Mezue M(1), Okell TW(2), Farrar JT(3), Tracey I(1).
+
+Author information:
+(1)1] Oxford Centre for Functional Magnetic Resonance Imaging of the Brain 
+(FMRIB), Nuffield Department of Clinical Neuroscience, University of Oxford, 
+Oxford, UK. [2] Nuffield Division of Anesthetics, Nuffield Department of 
+Clinical Neurosciences, University of Oxford, Oxford, UK.
+(2)Oxford Centre for Functional Magnetic Resonance Imaging of the Brain (FMRIB), 
+Nuffield Department of Clinical Neuroscience, University of Oxford, Oxford, UK.
+(3)Center for Clinical Epidemiology and Biostatistics, Perelman School of 
+Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, USA.
+
+Erratum in
+    Nat Neurosci. 2015 Dec;18(12):1861. doi: 10.1038/nn1215-1861d.
+
+Several brain regions have been implicated in human painful experiences, but 
+none have been proven to be specific to pain. We exploited arterial 
+spin-labeling quantitative perfusion imaging and a newly developed procedure to 
+identify a specific role for the dorsal posterior insula (dpIns) in pain. Tract 
+tracing studies in animals identify a similar region as fundamental to 
+nociception, which suggests the dpIns is its human homolog and, as such, a 
+potential therapeutic target.
+
+DOI: 10.1038/nn.3969
+PMCID: PMC6783299
+PMID: 25751532 [Indexed for MEDLINE]

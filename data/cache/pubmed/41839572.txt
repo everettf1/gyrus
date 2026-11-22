@@ -1,0 +1,49 @@
+1. J Neurosci. 2026 Apr 15;46(15):e1431252026. doi:
+10.1523/JNEUROSCI.1431-25.2026.
+
+A Direct Auditory Subcortical Route to the Amygdala Associated with Fear in 
+Humans.
+
+Kosteletou-Kassotaki E(1)(2), Cinca-Tomás MT(3)(2), Varriano F(4), Soria 
+G(2)(4)(5), Prats-Galino A(4)(5), Domínguez-Borràs J(3)(2).
+
+Author information:
+(1)Department of Clinical Psychology and Psychobiology, University of Barcelona, 
+Barcelona 08035, Spain emmakosteletou@ub.edu.
+(2)Institute of Neurosciences, University of Barcelona, Barcelona 08035, Spain.
+(3)Department of Clinical Psychology and Psychobiology, University of Barcelona, 
+Barcelona 08035, Spain.
+(4)Laboratory of Surgical Neuroanatomy, Faculty of Medicine, University of 
+Barcelona, Barcelona 08036, Spain.
+(5)Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS), Barcelona 
+08036, Spain.
+
+Rapid and efficient fear processing is essential for survival. In vision, this 
+function is supported by a well-characterized subcortical pathway consisting of 
+direct projections from the pulvinar of the thalamus to the amygdala in the 
+human brain. In contrast, the existence of an analogous shortcut for fear in 
+audition has been demonstrated in nonhuman animals but remains unconfirmed in 
+humans. To address this question, we used probabilistic streamline tractography 
+and fixel-based analysis on diffusion-weighted images from Human Connectome 
+Project participants of either sex to reconstruct candidate auditory subcortical 
+pathways and examine their associations with affective and auditory behavioral 
+measures. Our findings revealed a robust white matter tract connecting the 
+inferior colliculus to basolateral amygdala via the medial geniculate body (MGB) 
+of the thalamus. Remarkably, higher fiber density in this tract was associated 
+with better hearing ability in noise and increased self-reported fearfulness, 
+supporting its role in auditory and affective function. Conversely, a control 
+analysis of the core thalamocortical pathway from ventral MGB to primary 
+auditory cortex, representing the main route for auditory processing, was 
+associated with auditory ability but not with affective measures. These findings 
+provide previously unreported evidence for an auditory 
+colliculo-geniculo-amygdala "low road" in humans, aligning with evolutionarily 
+conserved pathways for fear described in nonhuman species.
+
+Copyright © 2026 Kosteletou-Kassotaki et al.
+
+DOI: 10.1523/JNEUROSCI.1431-25.2026
+PMCID: PMC13086246
+PMID: 41839572 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interests.

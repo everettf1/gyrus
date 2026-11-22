@@ -1,0 +1,45 @@
+1. Brain. 1994 Oct;117 ( Pt 5):1023-38. doi: 10.1093/brain/117.5.1023.
+
+The brain activity related to residual motion vision in a patient with bilateral 
+lesions of V5.
+
+Shipp S(1), de Jong BM, Zihl J, Frackowiak RS, Zeki S.
+
+Author information:
+(1)Department of Anatomy, University College London, UK.
+
+We have used the technique of PET to chart the cortical areas activated by 
+visual motion in the brain of a patient with a severe impairment in the ability 
+to recognize the motion of objects (akinetopsia), following bilateral lesions 
+which have so far been presumed to include area V5. High resolution MRI of her 
+brain showed that the zone occupied by area V5 had indeed been destroyed 
+bilaterally. Positron emission tomography activation images, co-registered to 
+the MRIs, showed three principal regions of the cortex activated by motion. 
+These were located (i) bilaterally in the precuneus of superior parietal cortex 
+(area 7 of Brodmann); (ii) bilaterally in the cuneus (a region considered to 
+represent upper V3); (iii) in the left lingual and fusiform gyri (possibly lower 
+V3 and adjacent areas). In contrast to normal subjects, there was no significant 
+activation of area V1 or V2. The stimuli used for scanning were chosen by prior 
+testing of the patient's visual capacities. The control stimulus was a static 
+random distribution of light squares on a dark background. In the moving 
+stimulus these squares moved coherently, the direction of motion changing 
+periodically between the cardinal directions (left, right, up and down). It was 
+ascertained that the patient could correctly identify these directions. We also 
+found (i) that her occasional errors were always in the direction opposite to 
+the motion presented, so that her identification of axis of motion (i.e. 
+vertical or horizontal) was 100% correct; (ii) that when a few static squares 
+were added to the moving the display her identification of direction fell to 
+chance but her identification of the axis of motion remained 100%; (iii) that 
+when a few squares moving opposite and orthogonal to the predominant direction 
+of motion were incorporated, her performance on both direction and axis fell to 
+chance; (iv) that she was unable to identify motion in oblique directions 
+between the horizontal or vertical axes, always guessing one of the cardinal 
+directions. In accounting for her residual vision in terms of cortex, which 
+remains active, we hypothesize; (i) that the bilateral loss of V5 has affected 
+direction sensitive mechanisms at other sites in the cortex which are 
+interconnected with V5 and (ii) that in consequence her performance on our tests 
+reflects the properties of dynamic orientation selective mechanisms that were 
+also differentially activated by the stimuli used during scanning.
+
+DOI: 10.1093/brain/117.5.1023
+PMID: 7953586 [Indexed for MEDLINE]

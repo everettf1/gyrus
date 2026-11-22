@@ -1,0 +1,25 @@
+1. Eur J Neurosci. 2002 Sep;16(6):1146-50. doi: 10.1046/j.1460-9568.2002.02162.x.
+
+Simultaneous intracerebral EEG recordings of early auditory thalamic and 
+cortical activity in human.
+
+Yvert B(1), Fischer C, Guénot M, Krolak-Salmon P, Isnard J, Pernier J.
+
+Author information:
+(1)Inserm Unité 280, 151 cours Albert Thomas, F-69424 Lyon cedex 03, France. 
+b.yvert@Inr.u-bordeaux.fr
+
+We describe documented simultaneous intracerebral auditory evoked potentials 
+from the auditory cortex and medial geniculate body (MGB) of a human patient. 
+The MGB response lasted > 300 ms, with an initial negativity at 13.5 ms (N13), 
+two positive peaks P21 and P29, and two broader negativities N50 and N200. P21 
+and N50 amplitudes were strongest for lowest tone frequencies, suggesting 
+possible MGB tonotopic organization. Thalamic peaks were strongly interlaced 
+with cortical activities recorded in Heschl's gyri before 30 ms: N13 preceded 
+the first cortical component by 3.5 ms, then P21 and P29 preceded and lagged, 
+respectively, the following two cortical polarity reversals by 1.5-2 ms. This 
+study provides new functional data on the human MGB, and supports a more complex 
+than simply relay-like role of the thalamus in sound perception.
+
+DOI: 10.1046/j.1460-9568.2002.02162.x
+PMID: 12383244 [Indexed for MEDLINE]

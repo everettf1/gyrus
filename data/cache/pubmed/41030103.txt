@@ -1,0 +1,59 @@
+1. Brain Behav. 2025 Oct;15(10):e70899. doi: 10.1002/brb3.70899.
+
+Long-Term Efficacy and Resting-State Functional Magnetic Resonance Imaging 
+Changes of Deep Brain Stimulation in the Lateral Habenula Nucleus for 
+Treatment-Resistant Bipolar Disorder.
+
+Jiang C(1)(2), Du P(3), Guan L(4), Hu C(4), Wang Z(3)(5), Fan T(6)(7), Wang 
+J(2), Cui Z(2).
+
+Author information:
+(1)College of Life and Health Sciences, Institute of Neuroscience, Northeastern 
+University, Shenyang, China.
+(2)Department of Neurosurgery, Chinese People's Liberation Army of China General 
+Hospital, Beijing, China.
+(3)CAS Key Laboratory of Mental Health, Institute of Psychology, Chinese Academy 
+of Sciences, Beijing, China.
+(4)National Engineering Research Center of Neuromodulation, School of Aerospace 
+Engineering, Tsinghua University, Beijing, China.
+(5)Department of Psychology, University of Chinese Academy of Sciences, Beijing, 
+China.
+(6)Peking University Sixth Hospital, Peking University Institute of Mental 
+Health, NHC Key Laboratory of Mental Health (Peking University), Beijing, China.
+(7)National Clinical Research Center for Mental Disorders (Peking University 
+Sixth Hospital), Peking University, Beijing, China.
+
+BACKGROUND: To explore the long-term efficacy and resting-state functional 
+magnetic resonance imaging (fMRI) changes of lateral habenula nucleus (LHb) deep 
+brain stimulation (DBS; LHb-DBS) for treatment-resistant bipolar disorder 
+(TRBD).
+METHODS: An 18-year-old woman with TRBD received bilateral LHb-DBS. We assessed 
+changes in Hamilton Depression Scale-17 (HDRS-17), Bech-Rafaelsen Melancholia 
+Scale (BRMS), Hamilton Anxiety Scale (HAMA), and Pittsburgh Sleep Quality Scale 
+(PSQI) scores from preoperative baseline to postoperative continuous 24-month 
+follow-up. Brain activity and resting-state functional connectivity (rsFC) were 
+examined off-stimulation at 0.6 and 15 months post-LHb-DBS. Overall improvement 
+and adverse events were analyzed.
+RESULTS: Continuous 24-month follow-up showed average improvements from baseline 
+of 65.33%, 54.90%, 63.33%, and 48.72% for HDRS-17, BRMS, HAMA, and PSQI scores, 
+respectively. At the final follow-up, improvement was 96.00%, 88.24%, 84.85%, 
+and 69.23%, respectively. Resting-state fMRI results revealed an increase in 
+fractional amplitude of low-frequency fluctuations (fALFF) within the putamen, 
+ventral tegmental area (VTA), and substantia nigra pars compacta (SNc) over 15 
+months of continuous bilateral LHb stimulation when DBS was off. From baseline 
+to 15 months, fALFF in the putamen, VTA, and SNc increased by 1.68%, 6.36%, and 
+1.10%, respectively. Consistently reduction in rsFC was observed between the 
+left nucleus accumbens (NAcc) and left hippocampus. Over the 15 months of 
+continuous stimulation, rsFC decreased by 72% from baseline.
+CONCLUSIONS: Long-term LHb-DBS can control symptoms and improve the quality of 
+life in patients with TRBD. This may be attributed to an increase in fALFF in 
+the putamen, VTA, and SNc, and a reduction in rsFC between the left NAcc and 
+left hippocampus.
+
+© 2025 The Author(s). Brain and Behavior published by Wiley Periodicals LLC.
+
+DOI: 10.1002/brb3.70899
+PMCID: PMC12484712
+PMID: 41030103 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

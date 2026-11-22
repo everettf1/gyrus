@@ -1,0 +1,26 @@
+1. Brain. 2009 Sep;132(Pt 9):2531-40. doi: 10.1093/brain/awp111. Epub 2009 May
+11.
+
+Causal role of prefrontal cortex in the threshold for access to consciousness.
+
+Del Cul A(1), Dehaene S, Reyes P, Bravo E, Slachevsky A.
+
+Author information:
+(1)INSERM, Cognitive Neuroimaging Unit, Saclay, France. antoine.delcul@gmail.com
+
+What neural mechanisms support our conscious perception of briefly presented 
+stimuli? Some theories of conscious access postulate a key role of top-down 
+amplification loops involving prefrontal cortex (PFC). To test this issue, we 
+measured the visual backward masking threshold in patients with focal prefrontal 
+lesions, using both objective and subjective measures while controlling for 
+putative attention deficits. In all conditions of temporal or spatial attention 
+cueing, the threshold for access to consciousness was systematically shifted in 
+patients, particular after a lesion of the left anterior PFC. The deficit 
+affected subjective reports more than objective performance, and objective 
+performance conditioned on subjective visibility was essentially normal. We 
+conclude that PFC makes a causal contribution to conscious visual perception of 
+masked stimuli, and outline a dual-route signal detection theory of objective 
+and subjective decision making.
+
+DOI: 10.1093/brain/awp111
+PMID: 19433438 [Indexed for MEDLINE]

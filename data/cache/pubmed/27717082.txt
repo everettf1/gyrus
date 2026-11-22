@@ -1,0 +1,62 @@
+1. Ann Neurol. 2016 Nov;80(5):718-729. doi: 10.1002/ana.24779. Epub 2016 Nov 2.
+
+Stratification of unresponsive patients by an independently validated index of 
+brain complexity.
+
+Casarotto S(1), Comanducci A(1), Rosanova M(1)(2), Sarasso S(1), Fecchio M(1), 
+Napolitani M(3), Pigorini A(1), G Casali A(4), Trimarchi PD(5), Boly M(6)(7), 
+Gosseries O(6)(8), Bodart O(8)(9), Curto F(10), Landi C(2), Mariotti M(1), 
+Devalle G(5), Laureys S(8), Tononi G(6), Massimini M(1)(5).
+
+Author information:
+(1)Department of Biomedical and Clinical Sciences "L. Sacco", University of 
+Milan, Milan, Italy.
+(2)Fondazione Europea per la Ricerca Biomedica, Milan, Italy.
+(3)Department of Health Science, School of Medicine and Surgery, University of 
+Milan-Bicocca, Monza, Italy.
+(4)Institute of Science and Technology, Federal University of São Paulo, São 
+José dos Campos, Brazil.
+(5)Istituto di Ricovero e Cura a Carattere Scientifico, Fondazione Don Gnocchi 
+Onlus, Milan, Italy.
+(6)Department of Psychiatry, University of Wisconsin, Madison, WI, USA.
+(7)Department of Neurology, University of Wisconsin, Madison, WI, USA.
+(8)Coma Science Group, GIGA, University of Liège, Liège, Belgium.
+(9)Department of Neurology, University of Liège and University Hospital of 
+Liège, Liège, Belgium.
+(10)Neurocritical Care Unit, Department of Neuroscience, Azienda Socio-Sanitaria 
+Territoriale, Grande Ospedale Metropolitano Niguarda Cà Granda, Milan, Italy.
+
+OBJECTIVE: Validating objective, brain-based indices of consciousness in 
+behaviorally unresponsive patients represents a challenge due to the 
+impossibility of obtaining independent evidence through subjective reports. Here 
+we address this problem by first validating a promising metric of 
+consciousness-the Perturbational Complexity Index (PCI)-in a benchmark 
+population who could confirm the presence or absence of consciousness through 
+subjective reports, and then applying the same index to patients with disorders 
+of consciousness (DOCs).
+METHODS: The benchmark population encompassed 150 healthy controls and 
+communicative brain-injured subjects in various states of conscious wakefulness, 
+disconnected consciousness, and unconsciousness. Receiver operating 
+characteristic curve analysis was performed to define an optimal cutoff for 
+discriminating between the conscious and unconscious conditions. This cutoff was 
+then applied to a cohort of noncommunicative DOC patients (38 in a minimally 
+conscious state [MCS] and 43 in a vegetative state [VS]).
+RESULTS: We found an empirical cutoff that discriminated with 100% sensitivity 
+and specificity between the conscious and the unconscious conditions in the 
+benchmark population. This cutoff resulted in a sensitivity of 94.7% in 
+detecting MCS and allowed the identification of a number of unresponsive VS 
+patients (9 of 43) with high values of PCI, overlapping with the distribution of 
+the benchmark conscious condition.
+INTERPRETATION: Given its high sensitivity and specificity in the benchmark and 
+MCS population, PCI offers a reliable, independently validated stratification of 
+unresponsive patients that has important physiopathological and therapeutic 
+implications. In particular, the high-PCI subgroup of VS patients may retain a 
+capacity for consciousness that is not expressed in behavior. Ann Neurol 
+2016;80:718-729.
+
+© 2016 The Authors. Annals of Neurology published by Wiley Periodicals, Inc. on 
+behalf of American Neurological Association.
+
+DOI: 10.1002/ana.24779
+PMCID: PMC5132045
+PMID: 27717082 [Indexed for MEDLINE]

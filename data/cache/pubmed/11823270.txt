@@ -1,0 +1,35 @@
+1. Am J Psychiatry. 2002 Feb;159(2):269-75. doi: 10.1176/appi.ajp.159.2.269.
+
+Prospective long-term follow-up of 44 patients who received cingulotomy for 
+treatment-refractory obsessive-compulsive disorder.
+
+Dougherty DD(1), Baer L, Cosgrove GR, Cassem EH, Price BH, Nierenberg AA, Jenike 
+MA, Rauch SL.
+
+Author information:
+(1)Department of Psychiatry, Massachusetts General Hospital, Harvard Medical 
+School, Boston, USA.
+
+OBJECTIVE: Long-term outcome associated with cingulotomy for 
+obsessive-compulsive disorder (OCD) was prospectively assessed. Findings are 
+reported for 18 patients previously described in 1995 and for 26 new patients.
+METHOD: An open preoperative and follow-up assessment was conducted at multiple 
+time points for 44 patients undergoing one or more cingulotomies for 
+treatment-refractory OCD. The patients were assessed by using the Structured 
+Clinical Interview for DSM-III-R preoperatively and with the Yale-Brown 
+Obsessive Compulsive Scale, the Beck Depression Inventory, and the Sickness 
+Impact Profile both preoperatively and at all follow-up assessments. The 
+patients completed clinical global improvement scales at all follow-up 
+assessments.
+RESULTS: At mean follow-up of 32 months after one or more cingulotomies, 14 
+patients (32%) met criteria for treatment response and six others (14%) were 
+partial responders. Thus, 20 patients (45%) were at least partial responders at 
+long-term follow-up after one or more cingulotomies. Few adverse effects were 
+reported.
+CONCLUSIONS: Thirty-two percent to 45% of patients previously unresponsive to 
+medication and behavioral treatments for OCD were at least partly improved after 
+cingulotomy. Cingulotomy remains a viable treatment option for patients with 
+severe treatment-refractory OCD.
+
+DOI: 10.1176/appi.ajp.159.2.269
+PMID: 11823270 [Indexed for MEDLINE]

@@ -1,0 +1,40 @@
+1. J Neurol. 2009 Mar;256(3):382-9. doi: 10.1007/s00415-009-0053-9. Epub 2009 Mar
+ 6.
+
+Is the left uncinate fasciculus essential for language? A cerebral stimulation 
+study.
+
+Duffau H(1), Gatignol P, Moritz-Gasser S, Mandonnet E.
+
+Author information:
+(1)Dept. of Neurosurgery, Hôpital Gui de Chauliac, CHU Montpellier, 80 Av 
+Augustin Fliche, 34295, Montpellier, France. h-duffau@chu-montpellier.fr
+
+Despite a better understanding of the anatomy of the uncinate fasciculus (UF), 
+its function remains poorly known. Our aim was to study the exact role of UF in 
+language, and the possible existence of parallel distributed language networks 
+within the "ventral stream", underlaid by distinct subcortical tracts--namely 
+the inferior occipito-temporal fasciculus (IOF) and UF.We report a series of 13 
+patients operated on awake for a glioma involving the left anterior temporal 
+lobe or the orbitofrontal area. We used intraoperative electrostimulation, to 
+perform accurate and reliable anatomofunctional correlations both at cortical 
+and subcortical levels. Using postoperative MRI, we correlated these functional 
+findings with the anatomical locations of the sites where language disturbances 
+were elicited by stimulation.Intraoperative cortical stimulation found 
+perilesional language sites in all cases. Subcortically, semantic paraphasia 
+were induced in the 13 patients by stimulating the IOF, and phonological 
+paraphasia were generated in 6 patients by stimulating the arcuate fasciculus. 
+Interestingly, subcortical stimulation never elicited any language disturbances 
+when performed at the level of the UF. Moreover, after a transient postoperative 
+language deficit, all patients recovered, despite the removal of at least one 
+part of the UF, as confirmed by control MRI.We suggest that UF is not 
+systematically essential for language. It can be explained by the fact that the 
+"semantic ventral stream" might be constituted by at least two parallel 
+pathways, i. e. a direct pathway underlaid by the IOF, crucial for language 
+semantics, and an indirect pathway subserved by UF, which can be functionally 
+compensated. However, we have to underline the fact not all language functions 
+can be probed during surgery, and that more sensitive tasks have now to be 
+added.
+
+DOI: 10.1007/s00415-009-0053-9
+PMID: 19271103 [Indexed for MEDLINE]

@@ -1,0 +1,25 @@
+1. Philos Trans R Soc Lond B Biol Sci. 2005 Jun 29;360(1458):1271-9. doi: 
+10.1098/rstb.2005.1661.
+
+What is the function of the claustrum?
+
+Crick FC(1), Koch C.
+
+Author information:
+(1)The Salk Institute for Biological Studies, La Jolla, CA 92037, USA.
+
+Comment in
+    Nature. 2017 Feb 24;543(7643):14-15. doi: 10.1038/nature.2017.21539.
+
+The claustrum is a thin, irregular, sheet-like neuronal structure hidden beneath 
+the inner surface of the neocortex in the general region of the insula. Its 
+function is enigmatic. Its anatomy is quite remarkable in that it receives input 
+from almost all regions of cortex and projects back to almost all regions of 
+cortex. We here briefly summarize what is known about the claustrum, speculate 
+on its possible relationship to the processes that give rise to integrated 
+conscious percepts, propose mechanisms that enable information to travel widely 
+within the claustrum and discuss experiments to address these questions.
+
+DOI: 10.1098/rstb.2005.1661
+PMCID: PMC1569501
+PMID: 16147522 [Indexed for MEDLINE]

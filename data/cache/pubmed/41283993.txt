@@ -1,0 +1,49 @@
+1. Eur Arch Psychiatry Clin Neurosci. 2026 Jun;276(4):1369-1380. doi: 
+10.1007/s00406-025-02156-z. Epub 2025 Nov 24.
+
+Bed nucleus of the stria terminalis deep brain stimulation in 
+treatment-refractory obsessive-compulsive disorder: a systematic review.
+
+Goulas A(1), Mavridis I(2)(3).
+
+Author information:
+(1)School of Medicine, Faculty of Health Sciences, Democritus University of 
+Thrace, Alexandroupolis, Greece. gapostolos2@gmail.com.
+(2)School of Medicine, Faculty of Health Sciences, Democritus University of 
+Thrace, Alexandroupolis, Greece.
+(3)Stereotactic and Functional Neurosurgery Unit, Department of Neurosurgery, 
+University General Hospital of Alexandroupolis, Alexandroupolis, Greece.
+
+BACKGROUND: Obsessive-compulsive disorder (OCD) is one of the most disabling 
+psychiatric disorders. Despite the available pharmacological and 
+psychotherapeutic treatments, symptoms persist to a severe degree in a large 
+number of patients who are considered refractory to treatment. For some of them, 
+deep brain stimulation (DBS) offers an appropriate therapeutic method. The 
+purpose of this systematic review is to summarize the existing knowledge about 
+the effectiveness of the stimulation of the bed nucleus of stria terminalis 
+(BNST). MATERIALS AND METHODS: A thorough literature review regarding BNST DBS 
+for the treatment of OCD was conducted. The following sequence ‘’ 
+(Obsessive-Compulsive Disorder) OR (OCD)) AND ((Deep Brain Stimulation) OR 
+(DBS)) AND ((Bed Nucleus of Stria Terminalis) OR (BNST)) ‘’ was used when 
+searching in the two databases, MEDLINE and Scopus. RESULTS: In total, 8 studies 
+were found after the application of the inclusion and exclusion criteria. 
+Overall, 68 patients were included, with a mean age of surgery 41.2 years old. 
+At the last follow-up, the mean reduction of the Yale-Brown Obsessive-Compulsive 
+Scale (YBOCS) compared to baseline was 45.6% with a range across the studies of 
+38% to 53%. In total, 46 participants were considered responders. The median 
+stimulation parameters were an amplitude of 4.7 V, a frequency of 130 Hz, and a 
+pulse width of 129.2 µs. Finally, there was improvement of depressive and 
+anxiety symptoms, as well as quality of life, without any significant cognitive 
+impairment. CONCLUSION: DBS of the BNST in treatment-refractory OCD appears as a 
+safe and effective treatment option.
+
+DOI: 10.1007/s00406-025-02156-z
+PMID: 41283993 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of interest: The authors 
+declare that they have no competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper. Ethical approval: None. Research involving human participants and/or 
+animals: This systematic review did not involve animal participants. All the 
+included studies in this review follow ethical standards regardless of research 
+involving human participants.

@@ -1,0 +1,39 @@
+1. Neurosurgery. 2012 Jun;70(2 Suppl Operative):290-8; discussion 298-9. doi: 
+10.1227/NEU.0b013e3182315112.
+
+Delineation of the safe zone in surgery of sylvian insular triangle: 
+morphometric analysis and magnetic resonance imaging study.
+
+Kaneko N(1), Boling WW, Shonai T, Ohmori K, Shiokawa Y, Kurita H, Fukushima T.
+
+Author information:
+(1)Department of Neurosurgery, West Virginia University, Morgantown, West 
+Virginia, USA. nobuchaka32@hotmail.co.jp
+
+BACKGROUND: Surgery within the insula carries significant risk of morbidity, 
+particularly hemiparesis, because of the difficulty in detecting the internal 
+capsule boundaries.
+OBJECTIVE: We analyzed the anatomy of the insula and identified landmarks 
+anticipated to facilitate surgery for intrinsic insular lesions.
+METHODS: Insular region anatomy was studied in 11 cadaveric brains harvested 
+within 72 hours postmortem. MRI of the specimens was acquired using 3.0 T with 
+T2-weighting and 25 directions of diffusion tensor imaging. Landmarks easily 
+recognizable during surgery were identified on the surface of the insula. The 
+interrelationships between surface landmarks and critical structures were 
+analyzed.
+RESULTS: The posterior inferior insular point (PIIP) and the upper central 
+insular point (UCIP) were newly established as landmarks on the insula. The PIIP 
+corresponded to the obvious bend in the posterior long insular gyrus. The UCIP 
+is the meeting point between the central insular sulcus and superior 
+peri-insular sulcus. The corticospinal tract was identified as a high-intensity 
+area in the posterior limb of the internal capsule on T2-weighted imaging and 
+its course confirmed with diffusion tensor imaging tractography. The 
+corticospinal tract took a course deep to the posterosuperior insula on 
+T2-weighted imaging, 4.8 mm from the UCIP and 6.2 mm from the PIIP.
+CONCLUSION: The posterosuperior part of the insula forms the region at greatest 
+risk to corticospinal tract injury. The PIIP and UCIP are crucial to 
+understanding the relationship of the insula with the posterior limb of the 
+internal capsule including the corticospinal tract.
+
+DOI: 10.1227/NEU.0b013e3182315112
+PMID: 21841521 [Indexed for MEDLINE]

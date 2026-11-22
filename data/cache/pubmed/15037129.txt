@@ -1,0 +1,45 @@
+1. Cognition. 2004 May-Jun;92(1-2):145-77. doi: 10.1016/j.cognition.2003.11.002.
+
+Lesion analysis of the brain areas involved in language comprehension.
+
+Dronkers NF(1), Wilkins DP, Van Valin RD Jr, Redfern BB, Jaeger JJ.
+
+Author information:
+(1)VA Northern California Health Care System, Martinez, CA 94553, USA. 
+dronkers@ucdavis.edu
+
+The cortical regions of the brain traditionally associated with the 
+comprehension of language are Wernicke's area and Broca's area. However, recent 
+evidence suggests that other brain regions might also be involved in this 
+complex process. This paper describes the opportunity to evaluate a large number 
+of brain-injured patients to determine which lesioned brain areas might affect 
+language comprehension. Sixty-four chronic left hemisphere stroke patients were 
+evaluated on 11 subtests of the Curtiss-Yamada Comprehensive Language Evaluation 
+- Receptive (CYCLE-R; Curtiss, S., & Yamada, J. (1988). Curtiss-Yamada 
+Comprehensive Language Evaluation. Unpublished test, UCLA). Eight right 
+hemisphere stroke patients and 15 neurologically normal older controls also 
+participated. Patients were required to select a single line drawing from an 
+array of three or four choices that best depicted the content of an 
+auditorily-presented sentence. Patients' lesions obtained from structural 
+neuroimaging were reconstructed onto templates and entered into a voxel-based 
+lesion-symptom mapping (VLSM; Bates, E., Wilson, S., Saygin, A. P., Dick, F., 
+Sereno, M., Knight, R. T., & Dronkers, N. F. (2003). Voxel-based lesion-symptom 
+mapping. Nature Neuroscience, 6(5), 448-450.) analysis along with the behavioral 
+data. VLSM is a brain-behavior mapping technique that evaluates the 
+relationships between areas of injury and behavioral performance in all patients 
+on a voxel-by-voxel basis, similar to the analysis of functional neuroimaging 
+data. Results indicated that lesions to five left hemisphere brain regions 
+affected performance on the CYCLE-R, including the posterior middle temporal 
+gyrus and underlying white matter, the anterior superior temporal gyrus, the 
+superior temporal sulcus and angular gyrus, mid-frontal cortex in Brodmann's 
+area 46, and Brodmann's area 47 of the inferior frontal gyrus. Lesions to 
+Broca's and Wernicke's areas were not found to significantly alter language 
+comprehension on this particular measure. Further analysis suggested that the 
+middle temporal gyrus may be more important for comprehension at the word level, 
+while the other regions may play a greater role at the level of the sentence. 
+These results are consistent with those seen in recent functional neuroimaging 
+studies and offer complementary data in the effort to understand the brain areas 
+underlying language comprehension.
+
+DOI: 10.1016/j.cognition.2003.11.002
+PMID: 15037129 [Indexed for MEDLINE]

@@ -1,0 +1,162 @@
+[
+ {
+  "region": "anterior_intraparietal_area",
+  "pmid": "15778711",
+  "from": "Figure 4a-b",
+  "caption": "Time to the peak opening of the hand (a) and how much that time varied from trial to trial (b), when a TMS pulse hit the anterior intraparietal sulcus (aIPS, squares) or a control site. The left pair of columns is trials where the object rotated; the right pair is trials where it did not.",
+  "notice": "Only the early aIPS pulse in the rotated-object trials delayed and destabilized the grip adjustment, which shows cause: disrupting this site changed grasping.",
+  "short": "Tunik et al. 2005, Nat Neurosci",
+  "license": "",
+  "file": "anterior_intraparietal_area_15778711.webp"
+ },
+ {
+  "region": "dorsolateral_prefrontal_cortex",
+  "pmid": "2918358",
+  "from": "Figure 3",
+  "caption": "One principal sulcus neuron in a monkey, shown for eight target locations. Each panel shows spikes (dots) and a firing histogram across the cue (C), delay (D) and response (R) periods of the task.",
+  "notice": "Only the 270 degree panel shows strong firing throughout the delay, when the monkey must hold the target location in mind: a recording, so a correlation with memory.",
+  "short": "Funahashi et al. 1989, J Neurophysiol",
+  "license": "",
+  "file": "dorsolateral_prefrontal_cortex_2918358.webp"
+ },
+ {
+  "region": "inferior_temporal_cortex",
+  "pmid": "6470767",
+  "from": "Figure 7",
+  "caption": "Responses of one inferior temporal neuron to a monkey head turned to different angles and to control stimuli such as a brush (A), and to simplified head pictures (B).",
+  "notice": "The cell fires strongly to head profiles (80 to 100 degrees) and barely to the brush or scrambled shapes: a face-selective response recorded from the cell, a correlation.",
+  "short": "Desimone et al. 1984, J Neurosci",
+  "license": "",
+  "file": "inferior_temporal_cortex_6470767.webp"
+ },
+ {
+  "region": "posterior_cingulate_cortex",
+  "pmid": "11209064",
+  "from": "Figure 1",
+  "caption": "Brain regions whose activity decreased during attention-demanding tasks compared with rest, shown on 12 horizontal slices. Warmer colors mean a larger decrease.",
+  "notice": "Look at the midline spot behind the center on the upper slices (Z = 30 to 42): the posterior cingulate and nearby cortex are more active at rest, a correlation seen with imaging.",
+  "short": "Raichle et al. 2001, Proc Natl Acad Sci U S A",
+  "license": "",
+  "file": "posterior_cingulate_cortex_11209064.webp"
+ },
+ {
+  "region": "posterior_cingulate_cortex",
+  "pmid": "12506194",
+  "from": "Figure 1",
+  "caption": "Map of the brain areas whose resting activity was coupled to a seed in the posterior cingulate cortex (blue arrow). Brighter colors mean stronger coupling.",
+  "notice": "The posterior cingulate is linked at rest with medial prefrontal, lateral parietal and temporal areas, which is why it is called a hub; this is correlation of signals, not proof of causal wiring.",
+  "short": "Greicius et al. 2003, Proc Natl Acad Sci U S A",
+  "license": "",
+  "file": "posterior_cingulate_cortex_12506194.webp"
+ },
+ {
+  "region": "wernickes_area",
+  "pmid": "27956600",
+  "from": "Figure 1",
+  "caption": "Brain maps of the first two components from a statistical analysis of stroke patients' speech data, with Component 1 on the left and Component 2 in the center and right. Color shows how strongly each voxel is expressed in the component.",
+  "notice": "Component 2 sets a dorsal frontal and temporoparietal pattern (yellow) against a ventral temporal pattern (green), the two routes the card describes; the data come from patients with brain damage, so they speak to cause.",
+  "short": "Fridriksson et al. 2016, Proc Natl Acad Sci U S A",
+  "license": "",
+  "file": "wernickes_area_27956600.webp"
+ },
+ {
+  "region": "raphe_nuclei",
+  "pmid": "14736842",
+  "from": "Figure 1",
+  "caption": "Serotonin 1A receptor binding measured by PET in the anterior cingulate, posterior cingulate and raphe. Each dot is one person; the circles are the panic disorder group and the triangles are the control group.",
+  "notice": "In the raphe, as in the other regions, the patient dots sit lower than the control dots, so receptor binding was reduced: a group difference, a correlation.",
+  "short": "Neumeister et al. 2004, J Neurosci",
+  "license": "",
+  "file": "raphe_nuclei_14736842.webp"
+ },
+ {
+  "region": "hypothalamus",
+  "pmid": "36056618",
+  "from": "Figure 3",
+  "caption": "Strength of the link between the hypothalamus and the right dorsolateral prefrontal cortex while people viewed food pictures, for fasted (left) and sated (right) states, in normal-weight (NW) and overweight or obese (OW/Ob) groups.",
+  "notice": "Only when fasted did the OW/Ob group show lower hypothalamus to prefrontal connectivity than the NW group (asterisk), so hunger state changes this link: a correlation from imaging.",
+  "short": "Kullmann et al. 2023, Hum Brain Mapp",
+  "license": "CC BY NC",
+  "file": "hypothalamus_36056618.webp"
+ },
+ {
+  "region": "hypothalamus",
+  "pmid": "30646396",
+  "from": "Figure",
+  "caption": "Electrode positions in the lateral hypothalamic area of each of the four patients, shown on a 3D reconstruction with the fornix, mammillary bodies and ventromedial nuclei labeled.",
+  "notice": "The stimulating electrodes sit in the lateral hypothalamic area on both sides, the site where stimulation was tested; the weight outcome is in the card, not in this figure.",
+  "short": "Franco et al. 2018, JAMA Netw Open",
+  "license": "CC BY",
+  "file": "hypothalamus_30646396.webp"
+ },
+ {
+  "region": "default_mode_network",
+  "pmid": "15976020",
+  "from": "Figure 3",
+  "caption": "Brain surfaces showing regions that rise and fall together at rest (warm colors) and regions that are anticorrelated with them (green and blue), seen from the side, top and middle of the brain.",
+  "notice": "The green and blue areas on the midline and lateral parietal surfaces, which are default mode regions, move opposite to the warm task-positive areas: a correlation of resting signals.",
+  "short": "Fox et al. 2005, Proc Natl Acad Sci U S A",
+  "license": "",
+  "file": "default_mode_network_15976020.webp"
+ },
+ {
+  "region": "cingulum",
+  "pmid": "35848018",
+  "from": "Figure 2",
+  "caption": "Scatterplots in two groups of patients (UMCU, ADNI) relating cingulate amyloid, cingulum bundle diffusivity (MD) and medial temporal lobe volume, each with a fitted line and band.",
+  "notice": "The lines are nearly flat or the bands cover a zero slope in most panels, matching the card that cingulum integrity did not clearly link amyloid to temporal atrophy; this is a correlation analysis.",
+  "short": "Vlegels et al. 2022, J Alzheimers Dis",
+  "license": "",
+  "file": "cingulum_35848018.webp"
+ },
+ {
+  "region": "flocculonodular_lobe",
+  "pmid": "41741448",
+  "from": "Figure 2",
+  "caption": "Purkinje cells in the monkey nodulus and uvula during passive and active head translations. A shows each cell's firing across the movement; B compares each cell's sensitivity and timing (phase) between passive and active motion.",
+  "notice": "Cells fire at the same point in a head movement whether it is imposed or self-made, and the dots in B lie along a line, so these cells track head motion: a recording, a correlation.",
+  "short": "Mildren et al. 2026, Nat Commun",
+  "license": "CC BY",
+  "file": "flocculonodular_lobe_41741448.webp"
+ },
+ {
+  "region": "globus_pallidus_internus",
+  "pmid": "15689584",
+  "from": "Figure 1",
+  "caption": "Average dystonia movement scores (A) and disability scores (B) before surgery and 3, 6 and 12 months after pallidal stimulation. Lower scores mean milder dystonia.",
+  "notice": "Both scores drop at 3 months and stay lower at 12 months in the same patients; with no control group in this plot it shows improvement after stimulation, not a controlled test of cause.",
+  "short": "Vidailhet et al. 2005, N Engl J Med",
+  "license": "",
+  "file": "globus_pallidus_internus_15689584.webp"
+ },
+ {
+  "region": "parahippocampal_gyrus",
+  "pmid": "9560155",
+  "from": "Figure 2",
+  "caption": "Coronal brain slices from different subjects with colored patches marking the parahippocampal place area (yellow arrows) on both sides of the brain.",
+  "notice": "The activation falls in the same place near the underside of the temporal lobe in every subject, which fits the card; this is imaging, so a correlation with viewing scenes.",
+  "short": "Epstein et al. 1998, Nature",
+  "license": "",
+  "file": "parahippocampal_gyrus_9560155.webp"
+ },
+ {
+  "region": "superior_occipital_gyrus",
+  "pmid": "9278542",
+  "from": "Figure 7",
+  "caption": "Field sign map of one hemisphere: blue and yellow bands mark visual areas V1, V2, V3 and V3A, drawn on the folded surface (A), an inflated surface (B) and a flattened surface (C, D).",
+  "notice": "V3A appears as its own mapped area beyond V3 in dorsal occipital cortex, with a visual field map of its own: an imaging result, a correlation.",
+  "short": "Tootell et al. 1997, J Neurosci",
+  "license": "",
+  "file": "superior_occipital_gyrus_9278542.webp"
+ },
+ {
+  "region": "ventral_lateral_nucleus",
+  "pmid": "10675426",
+  "from": "Figure 1",
+  "caption": "Each symbol is one patient: daily activity score at baseline against score at six months after thalamic stimulation (squares) or thalamotomy (stars). Points above the diagonal improved.",
+  "notice": "Most points lie above the line, so function improved after treatment of the thalamic target for tremor; it shows daily activities, not tremor itself, and has no untreated comparison.",
+  "short": "Schuurman et al. 2000, N Engl J Med",
+  "license": "",
+  "file": "ventral_lateral_nucleus_10675426.webp"
+ }
+]

@@ -1,0 +1,64 @@
+1. Neuroimage Clin. 2020;28:102453. doi: 10.1016/j.nicl.2020.102453. Epub 2020
+Sep  28.
+
+Parieto-occipital sulcus widening differentiates posterior cortical atrophy from 
+typical Alzheimer disease.
+
+Fumagalli GG(1), Basilico P(2), Arighi A(3), Mercurio M(3), Scarioni M(4), 
+Carandini T(3), Colombi A(5), Pietroboni AM(3), Sacchi L(5), Conte G(3), Scola 
+E(3), Triulzi F(6), Scarpini E(7), Galimberti D(7).
+
+Author information:
+(1)Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, via F. Sforza, 35, 
+20122 Milan, Italy; Department of Neuroscience, Psychology, Drug Research and 
+Child Health, University of Florence, 50121 Firenze, Italy. Electronic address: 
+giorgiofumagalli@hotmail.com.
+(2)Neurological Department, ASST Lecco, Lecco, Italy.
+(3)Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, via F. Sforza, 35, 
+20122 Milan, Italy.
+(4)Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, via F. Sforza, 35, 
+20122 Milan, Italy; Department of Neurology, Amsterdam University Medical 
+Centers, Location VUmc, Alzheimer Center, Amsterdam, the Netherlands.
+(5)Department of Pathophysiology and Transplantation, Dino Ferrari Center, 
+University of Milan, Milan, Italy.
+(6)Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, via F. Sforza, 35, 
+20122 Milan, Italy; Department of Pathophysiology and Transplantation, Dino 
+Ferrari Center, University of Milan, Milan, Italy.
+(7)Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico, via F. Sforza, 35, 
+20122 Milan, Italy; Department of Biomedical, Surgical and Dental Sciences, Dino 
+Ferrari Center, CRC Molecular Basis of Neuro-Psycho-Geriatrics Diseases, 
+University of Milan, Milan, Italy.
+
+OBJECTIVES: Posterior Cortical Atrophy (PCA) is an atypical presentation of 
+Alzheimer disease (AD) characterized by atrophy of posterior brain regions. This 
+pattern of atrophy is usually evaluated with Koedam visual rating scale, a score 
+developed to enable visual assessment of parietal atrophy on magnetic resonance 
+imaging (MRI). However, Koedam scale is complex to assess and its utility in the 
+differential diagnosis between PCA and typical AD has not been demonstrated yet. 
+The aim of this study is therefore to spot a simple and reliable MRI element 
+able to differentiate between PCA and typical AD using visual rating scales.
+METHODS: 15 patients who presented with progressive complex visual disorders and 
+predominant occipitoparietal hypometabolism on PET-FDG were selected from our 
+centre and compared with 30 typical AD patients and 15 healthy subjects. We used 
+previously validated visual rating scales including Koedam scale, which we 
+divided into three major components: posterior cingulate, precuneus and 
+parieto-occipital. Subsequently we validated the results using the automated 
+software Brainvisa Morphologist and Voxel Based Morphometry (VBM).
+RESULTS: Patients with PCA, compared to typical AD, showed higher widening of 
+the parieto-occipital sulcus, assessed both with visual rating scales and 
+Brainvisa. In the corresponding areas, the VBM analysis showed an inverse 
+correlation between the results obtained from the visual evaluation scales with 
+the volume of the grey matter and a direct correlation between the same results 
+with the cerebrospinal fluid volume.
+CONCLUSIONS: A visually based rating scale for parieto-occipital sulcus can 
+distinguish Posterior Cortical Atrophy from typical Alzheimer disease.
+
+Copyright © 2020 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.nicl.2020.102453
+PMCID: PMC7559336
+PMID: 33045537 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

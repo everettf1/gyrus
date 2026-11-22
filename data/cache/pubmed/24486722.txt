@@ -1,0 +1,36 @@
+1. Neurosci Biobehav Rev. 2014 May;42:9-34. doi: 10.1016/j.neubiorev.2014.01.009.
+ Epub 2014 Jan 31.
+
+Fractionating theory of mind: a meta-analysis of functional brain imaging 
+studies.
+
+Schurz M(1), Radua J(2), Aichhorn M(3), Richlan F(3), Perner J(3).
+
+Author information:
+(1)Department of Psychology, University of Salzburg, Hellbrunnerstr. 34, 5020 
+Salzburg, Austria; Center for Neurocognitive Research, University of Salzburg, 
+Hellbrunnerstr. 34, 5020 Salzburg, Austria. Electronic address: 
+matthias.schurz@sbg.ac.at.
+(2)Institute of Psychiatry, King's College London, De Crespigny Park, London SE5 
+8AF, United Kingdom; FIDMAG Germanes Hospitalaries Research Unit, CIBERSAM, Sant 
+Boi de Llobregat, Barcelona, Spain.
+(3)Department of Psychology, University of Salzburg, Hellbrunnerstr. 34, 5020 
+Salzburg, Austria; Center for Neurocognitive Research, University of Salzburg, 
+Hellbrunnerstr. 34, 5020 Salzburg, Austria.
+
+We meta-analyzed imaging studies on theory of mind and formed individual task 
+groups based on stimuli and instructions. Overlap in brain activation between 
+all task groups was found in the mPFC and in the bilateral posterior TPJ. This 
+supports the idea of a core network for theory of mind that is activated 
+whenever we are reasoning about mental states, irrespective of the task- and 
+stimulus-formats (Mar, 2011). In addition, we found a number of task-related 
+activation differences surrounding this core-network. ROI based analyses show 
+that areas in the TPJ, the mPFC, the precuneus, the temporal lobes and the 
+inferior frontal gyri have distinct profiles of task-related activation. 
+Functional accounts of these areas are reviewed and discussed with respect to 
+our findings.
+
+Copyright © 2014 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.neubiorev.2014.01.009
+PMID: 24486722 [Indexed for MEDLINE]

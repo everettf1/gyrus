@@ -1,0 +1,17 @@
+1. Nat Rev Neurosci. 2002 Aug;3(8):655-66. doi: 10.1038/nrn894.
+
+How do you feel? Interoception: the sense of the physiological condition of the 
+body.
+
+Craig AD.
+
+As humans, we perceive feelings from our bodies that relate our state of 
+well-being, our energy and stress levels, our mood and disposition. How do we 
+have these feelings? What neural processes do they represent? Recent functional 
+anatomical work has detailed an afferent neural system in primates and in humans 
+that represents all aspects of the physiological condition of the physical body. 
+This system constitutes a representation of 'the material me', and might provide 
+a foundation for subjective feelings, emotion and self-awareness.
+
+DOI: 10.1038/nrn894
+PMID: 12154366 [Indexed for MEDLINE]

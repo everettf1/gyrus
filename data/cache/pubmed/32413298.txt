@@ -1,0 +1,46 @@
+1. Cell. 2020 May 14;181(4):774-783.e5. doi: 10.1016/j.cell.2020.04.033.
+
+Dynamic Stimulation of Visual Cortex Produces Form Vision in Sighted and Blind 
+Humans.
+
+Beauchamp MS(1), Oswalt D(1), Sun P(1), Foster BL(1), Magnotti JF(1), Niketeghad 
+S(2), Pouratian N(3), Bosking WH(1), Yoshor D(4).
+
+Author information:
+(1)Department of Neurosurgery, Baylor College of Medicine, Houston, TX 77030, 
+USA.
+(2)Department of Bioengineering, University of California, Los Angeles, Los 
+Angeles, CA 90095, USA.
+(3)Department of Neurosurgery, University of California, Los Angeles, Los 
+Angeles, CA 90095, USA.
+(4)Department of Neurosurgery, Baylor College of Medicine, Houston, TX 77030, 
+USA. Electronic address: daniel.yoshor@pennmedicine.upenn.edu.
+
+Comment in
+    Cell. 2020 May 14;181(4):758-759. doi: 10.1016/j.cell.2020.03.014.
+
+A visual cortical prosthesis (VCP) has long been proposed as a strategy for 
+restoring useful vision to the blind, under the assumption that visual percepts 
+of small spots of light produced with electrical stimulation of visual cortex 
+(phosphenes) will combine into coherent percepts of visual forms, like pixels on 
+a video screen. We tested an alternative strategy in which shapes were traced on 
+the surface of visual cortex by stimulating electrodes in dynamic sequence. In 
+both sighted and blind participants, dynamic stimulation enabled accurate 
+recognition of letter shapes predicted by the brain's spatial map of the visual 
+world. Forms were presented and recognized rapidly by blind participants, up to 
+86 forms per minute. These findings demonstrate that a brain prosthetic can 
+produce coherent percepts of visual forms.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.cell.2020.04.033
+PMCID: PMC7331799
+PMID: 32413298 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests W.H.B., N.P., and D.Y. 
+receive research funding from Second Sight Medical Products, a manufacturer of 
+visual cortical prosthetics. N.P. is also a consultant to Second Sight. A 
+provisional patent application describing dynamic current steering (serial no. 
+62/638,365) was filed with the US Patent and Trademark Office on March 5, 2018, 
+entitled “Systems and Computer-Implemented Methods of Conveying a Visual Image 
+to a Blind Subject Fitted with a Visual Prosthesis.”

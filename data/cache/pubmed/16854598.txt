@@ -1,0 +1,38 @@
+1. Neuroimage. 2006 Sep;32(3):989-94. doi: 10.1016/j.neuroimage.2006.05.044. Epub
+ 2006 Jul 18.
+
+Topography of the human corpus callosum revisited--comprehensive fiber 
+tractography using diffusion tensor magnetic resonance imaging.
+
+Hofer S(1), Frahm J.
+
+Author information:
+(1)Biomedizinische NMR Forschungs GmbH am Max-Planck-Institut für 
+biophysikalische Chemie, 37070 Göttingen, Germany. shofer1@gwdg.de
+
+Several tracing studies have established a topographical distribution of fiber 
+connections to the cortex in midsagittal cross-sections of the corpus callosum 
+(CC). The most prominent example is Witelson's scheme, which defines five 
+vertical partitions mainly based on primate data. Conventional MRI of the human 
+CC does not reveal morphologically discernable structures, although microscopy 
+techniques identified myelinated axons with a relatively small diameter in the 
+anterior and posterior third of the CC as opposed to thick fibers in the midbody 
+and posterior splenium. Here, we applied diffusion tensor imaging (DTI) in 
+conjunction with a tract-tracing algorithm to gain cortical connectivity 
+information of the CC in individual subjects. With DTI-based tractography, we 
+distinguished five vertical segments of the CC, containing fibers projecting 
+into prefrontal, premotor (and supplementary motor), primary motor, and primary 
+sensory areas as well as into parietal, temporal, and occipital cortical areas. 
+Striking differences to Witelson's classification were recognized in the midbody 
+and anterior third of the CC. In particular, callosal motor fiber bundles were 
+found to cross the CC in a much more posterior location than previously 
+indicated. Differences in water mobility were found to be in qualitative 
+agreement with differences in the microstructure of transcallosal fibers 
+yielding the highest anisotropy in posterior regions of the CC. The lowest 
+anisotropy was observed in compartments assigned to motor and sensory cortical 
+areas. In conclusion, DTI-based fiber tractography of healthy human subjects 
+suggests a modification of the widely accepted Witelson scheme and a new 
+classification of vertical CC partitions.
+
+DOI: 10.1016/j.neuroimage.2006.05.044
+PMID: 16854598 [Indexed for MEDLINE]

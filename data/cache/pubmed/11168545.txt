@@ -1,0 +1,30 @@
+1. Eur J Neurosci. 2001 Jan;13(2):400-4.
+
+Action observation activates premotor and parietal areas in a somatotopic 
+manner: an fMRI study.
+
+Buccino G(1), Binkofski F, Fink GR, Fadiga L, Fogassi L, Gallese V, Seitz RJ, 
+Zilles K, Rizzolatti G, Freund HJ.
+
+Author information:
+(1)Istituto di Fisiologia Umana, Università di Parma, Via Volturno 39, I-43100 
+Parma, Italy.
+
+Functional magnetic resonance imaging (fMRI) was used to localize brain areas 
+that were active during the observation of actions made by another individual. 
+Object- and non-object-related actions made with different effectors (mouth, 
+hand and foot) were presented. Observation of both object- and 
+non-object-related actions determined a somatotopically organized activation of 
+premotor cortex. The somatotopic pattern was similar to that of the classical 
+motor cortex homunculus. During the observation of object-related actions, an 
+activation, also somatotopically organized, was additionally found in the 
+posterior parietal lobe. Thus, when individuals observe an action, an internal 
+replica of that action is automatically generated in their premotor cortex. In 
+the case of object-related actions, a further object-related analysis is 
+performed in the parietal lobe, as if the subjects were indeed using those 
+objects. These results bring the previous concept of an action 
+observation/execution matching system (mirror system) into a broader 
+perspective: this system is not restricted to the ventral premotor cortex, but 
+involves several somatotopically organized motor circuits.
+
+PMID: 11168545 [Indexed for MEDLINE]

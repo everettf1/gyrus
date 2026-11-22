@@ -1,0 +1,44 @@
+1. Proc Natl Acad Sci U S A. 1995 Aug 29;92(18):8135-9. doi: 
+10.1073/pnas.92.18.8135.
+
+Object-related activity revealed by functional magnetic resonance imaging in 
+human occipital cortex.
+
+Malach R(1), Reppas JB, Benson RR, Kwong KK, Jiang H, Kennedy WA, Ledden PJ, 
+Brady TJ, Rosen BR, Tootell RB.
+
+Author information:
+(1)Massachusetts General Hospital-Nuclear Magnetic Resonance Center, Department 
+of Radiology, Boston 02114, USA.
+
+The stages of integration leading from local feature analysis to object 
+recognition were explored in human visual cortex by using the technique of 
+functional magnetic resonance imaging. Here we report evidence for 
+object-related activation. Such activation was located at the lateral-posterior 
+aspect of the occipital lobe, just abutting the posterior aspect of the 
+motion-sensitive area MT/V5, in a region termed the lateral occipital complex 
+(LO). LO showed preferential activation to images of objects, compared to a wide 
+range of texture patterns. This activation was not caused by a global difference 
+in the Fourier spatial frequency content of objects versus texture images, since 
+object images produced enhanced LO activation compared to textures matched in 
+power spectra but randomized in phase. The preferential activation to objects 
+also could not be explained by different patterns of eye movements: similar 
+levels of activation were observed when subjects fixated on the objects and when 
+they scanned the objects with their eyes. Additional manipulations such as 
+spatial frequency filtering and a 4-fold change in visual size did not affect LO 
+activation. These results suggest that the enhanced responses to objects were 
+not a manifestation of low-level visual processing. A striking demonstration 
+that activity in LO is uniquely correlated to object detectability was produced 
+by the "Lincoln" illusion, in which blurring of objects digitized into large 
+blocks paradoxically increases their recognizability. Such blurring led to 
+significant enhancement of LO activation. Despite the preferential activation to 
+objects, LO did not seem to be involved in the final, "semantic," stages of the 
+recognition process. Thus, objects varying widely in their recognizability 
+(e.g., famous faces, common objects, and unfamiliar three-dimensional abstract 
+sculptures) activated it to a similar degree. These results are thus evidence 
+for an intermediate link in the chain of processing stages leading to object 
+recognition in human visual cortex.
+
+DOI: 10.1073/pnas.92.18.8135
+PMCID: PMC41110
+PMID: 7667258 [Indexed for MEDLINE]

@@ -1,0 +1,26 @@
+1. Neuron. 2003 Nov 13;40(4):859-69. doi: 10.1016/s0896-6273(03)00669-x.
+
+Mirror-symmetric tonotopic maps in human primary auditory cortex.
+
+Formisano E(1), Kim DS, Di Salle F, van de Moortele PF, Ugurbil K, Goebel R.
+
+Author information:
+(1)Department of Cognitive Neuroscience, Faculty of Psychology, Universiteit 
+Maastricht, Postbus 616, 6200MD Maastricht, The Netherlands.
+
+Understanding the functional organization of the human primary auditory cortex 
+(PAC) is an essential step in elucidating the neural mechanisms underlying the 
+perception of sound, including speech and music. Based on invasive research in 
+animals, it is believed that neurons in human PAC that respond selectively with 
+respect to the spectral content of a sound form one or more maps in which 
+neighboring patches on the cortical surface respond to similar frequencies 
+(tonotopic maps). The number and the cortical layout of such tonotopic maps in 
+the human brain, however, remain unknown. Here we use silent, event-related 
+functional magnetic resonance imaging at 7 Tesla and a cortex-based analysis of 
+functional data to delineate with high spatial resolution the detailed 
+topography of two tonotopic maps in two adjacent subdivisions of PAC. These maps 
+share a low-frequency border, are mirror symmetric, and clearly resemble those 
+of presumably homologous fields in the macaque monkey.
+
+DOI: 10.1016/s0896-6273(03)00669-x
+PMID: 14622588 [Indexed for MEDLINE]

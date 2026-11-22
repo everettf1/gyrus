@@ -1,0 +1,36 @@
+1. Ann N Y Acad Sci. 2008 Mar;1124:1-38. doi: 10.1196/annals.1440.011.
+
+The brain's default network: anatomy, function, and relevance to disease.
+
+Buckner RL(1), Andrews-Hanna JR, Schacter DL.
+
+Author information:
+(1)Department of Psychology, Harvard University, William James Hall, 33 Kirkland 
+Drive, Cambridge, MA 02148, USA. rbuckner@wjh.harvard.edu
+
+Thirty years of brain imaging research has converged to define the brain's 
+default network-a novel and only recently appreciated brain system that 
+participates in internal modes of cognition. Here we synthesize past 
+observations to provide strong evidence that the default network is a specific, 
+anatomically defined brain system preferentially active when individuals are not 
+focused on the external environment. Analysis of connectional anatomy in the 
+monkey supports the presence of an interconnected brain system. Providing 
+insight into function, the default network is active when individuals are 
+engaged in internally focused tasks including autobiographical memory retrieval, 
+envisioning the future, and conceiving the perspectives of others. Probing the 
+functional anatomy of the network in detail reveals that it is best understood 
+as multiple interacting subsystems. The medial temporal lobe subsystem provides 
+information from prior experiences in the form of memories and associations that 
+are the building blocks of mental simulation. The medial prefrontal subsystem 
+facilitates the flexible use of this information during the construction of 
+self-relevant mental simulations. These two subsystems converge on important 
+nodes of integration including the posterior cingulate cortex. The implications 
+of these functional and anatomical observations are discussed in relation to 
+possible adaptive roles of the default network for using past experiences to 
+plan for the future, navigate social interactions, and maximize the utility of 
+moments when we are not otherwise engaged by the external world. We conclude by 
+discussing the relevance of the default network for understanding mental 
+disorders including autism, schizophrenia, and Alzheimer's disease.
+
+DOI: 10.1196/annals.1440.011
+PMID: 18400922 [Indexed for MEDLINE]

@@ -1,0 +1,22 @@
+1. Nature. 1995 May 11;375(6527):121-3. doi: 10.1038/375121a0.
+
+Are we aware of neural activity in primary visual cortex?
+
+Crick F(1), Koch C.
+
+Author information:
+(1)Salk Institute, La Jolla, California 92037, USA.
+
+Comment in
+    Nature. 1995 Sep 28;377(6547):293-5. doi: 10.1038/377293b0.
+    Nature. 1995 May 11;375(6527):106-7. doi: 10.1038/375106a0.
+
+It is usually assumed that people are visually aware of at least some of the 
+neuronal activity in the primary visual area, V1, of the neocortex. But the 
+neuroanatomy of the macaque monkey suggests that, although primates may be aware 
+of neural activity in other visual cortical areas, they are not directly aware 
+of that in area V1. There is some psychophysical evidence in humans that 
+supports this hypothesis.
+
+DOI: 10.1038/375121a0
+PMID: 7753166 [Indexed for MEDLINE]

@@ -1,0 +1,53 @@
+1. Nature. 2007 Aug 2;448(7153):600-3. doi: 10.1038/nature06041.
+
+Behavioural improvements with thalamic stimulation after severe traumatic brain 
+injury.
+
+Schiff ND(1), Giacino JT, Kalmar K, Victor JD, Baker K, Gerber M, Fritz B, 
+Eisenberg B, Biondi T, O'Connor J, Kobylarz EJ, Farris S, Machado A, McCagg C, 
+Plum F, Fins JJ, Rezai AR.
+
+Author information:
+(1)Department of Neurology & Neuroscience, Weill Cornell Medical College, New 
+York, New York 10021, USA. nds2001@mail.med.cornell.edu
+
+Erratum in
+    Nature. 2008 Mar 6;452(7183):120. Biondi, T [added].
+
+Comment in
+    Nature. 2007 Aug 2;448(7153):522. doi: 10.1038/448522a.
+    Nature. 2007 Aug 2;448(7153):539-40. doi: 10.1038/448539a.
+    Nature. 2008 Mar 6;452(7183):E1; discussion E1-2. doi: 10.1038/nature06574.
+
+Widespread loss of cerebral connectivity is assumed to underlie the failure of 
+brain mechanisms that support communication and goal-directed behaviour 
+following severe traumatic brain injury. Disorders of consciousness that persist 
+for longer than 12 months after severe traumatic brain injury are generally 
+considered to be immutable; no treatment has been shown to accelerate recovery 
+or improve functional outcome in such cases. Recent studies have shown 
+unexpected preservation of large-scale cerebral networks in patients in the 
+minimally conscious state (MCS), a condition that is characterized by 
+intermittent evidence of awareness of self or the environment. These findings 
+indicate that there might be residual functional capacity in some patients that 
+could be supported by therapeutic interventions. We hypothesize that further 
+recovery in some patients in the MCS is limited by chronic underactivation of 
+potentially recruitable large-scale networks. Here, in a 6-month double-blind 
+alternating crossover study, we show that bilateral deep brain electrical 
+stimulation (DBS) of the central thalamus modulates behavioural responsiveness 
+in a patient who remained in MCS for 6 yr following traumatic brain injury 
+before the intervention. The frequency of specific cognitively mediated 
+behaviours (primary outcome measures) and functional limb control and oral 
+feeding (secondary outcome measures) increased during periods in which DBS was 
+on as compared with periods in which it was off. Logistic regression modelling 
+shows a statistical linkage between the observed functional improvements and 
+recent stimulation history. We interpret the DBS effects as compensating for a 
+loss of arousal regulation that is normally controlled by the frontal lobe in 
+the intact brain. These findings provide evidence that DBS can promote 
+significant late functional recovery from severe traumatic brain injury. Our 
+observations, years after the injury occurred, challenge the existing practice 
+of early treatment discontinuation for patients with only inconsistent 
+interactive behaviours and motivate further research to develop therapeutic 
+interventions.
+
+DOI: 10.1038/nature06041
+PMID: 17671503 [Indexed for MEDLINE]

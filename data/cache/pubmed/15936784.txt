@@ -1,0 +1,27 @@
+1. Neuropsychologia. 2005;43(10):1391-9. doi: 
+10.1016/j.neuropsychologia.2005.02.013.
+
+Making sense of another mind: the role of the right temporo-parietal junction.
+
+Saxe R(1), Wexler A.
+
+Author information:
+(1)Department of Brain and Cognitive Science, MIT, NE20-443, 77 Massachussetts 
+Avenue, Cambridge, MA 02139, USA. saxe@mit.edu
+
+Human adults conceive of one another as beings with minds, and attribute to one 
+another mental states like perceptions, desires and beliefs. That is, we 
+understand other people using a 'Theory of Mind'. The current study investigated 
+the contributions of four brain regions to Theory of Mind reasoning. The right 
+temporo-parietal junction (RTPJ) was recruited selectively for the attribution 
+of mental states, and not for other socially relevant facts about a person, and 
+the response of the RTPJ was modulated by the congruence or incongruence of 
+multiple relevant facts about the target's mind. None of the other three brain 
+regions commonly implicated in Theory of Mind reasoning--the left 
+temporo-parietal junction (LTPJ), posterior cingulate (PC) and medial prefrontal 
+cortex (MPFC)--showed an equally selective profile of response. The implications 
+of these results for an alternative theory of reasoning about other 
+minds--Simulation Theory--are discussed.
+
+DOI: 10.1016/j.neuropsychologia.2005.02.013
+PMID: 15936784 [Indexed for MEDLINE]

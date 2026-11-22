@@ -1,0 +1,23 @@
+1. Science. 1998 May 1;280(5364):747-9. doi: 10.1126/science.280.5364.747.
+
+Anterior cingulate cortex, error detection, and the online monitoring of 
+performance.
+
+Carter CS(1), Braver TS, Barch DM, Botvinick MM, Noll D, Cohen JD.
+
+Author information:
+(1)Western Psychiatric Institute and Clinic, School of Medicine, University of 
+Pittsburgh, 3811 O'Hara Street, Pittsburgh, PA 15213, USA. cscarter+@pitt.edu
+
+An unresolved question in neuroscience and psychology is how the brain monitors 
+performance to regulate behavior. It has been proposed that the anterior 
+cingulate cortex (ACC), on the medial surface of the frontal lobe, contributes 
+to performance monitoring by detecting errors. In this study, event-related 
+functional magnetic resonance imaging was used to examine ACC function. Results 
+confirm that this region shows activity during erroneous responses. However, 
+activity was also observed in the same region during correct responses under 
+conditions of increased response competition. This suggests that the ACC detects 
+conditions under which errors are likely to occur rather than errors themselves.
+
+DOI: 10.1126/science.280.5364.747
+PMID: 9563953 [Indexed for MEDLINE]

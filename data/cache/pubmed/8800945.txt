@@ -1,0 +1,54 @@
+1. Brain. 1996 Apr;119 ( Pt 2):507-22. doi: 10.1093/brain/119.2.507.
+
+Feasibility of a visual prosthesis for the blind based on intracortical 
+microstimulation of the visual cortex.
+
+Schmidt EM(1), Bak MJ, Hambrecht FT, Kufta CV, O'Rourke DK, Vallabhanath P.
+
+Author information:
+(1)Laboratory of Neural Control, National Institute of Neurological Disorders 
+and Stroke, National Institutes of Health, Bethesda, MD 20892-4455, USA.
+
+The feasibility of producing a visual prosthesis for the blind using 
+intracortical microstimulation (ICMS) of the visual cortex was studied in a 
+42-year-old woman who had been totally blind for 22 years secondary to glaucoma. 
+Thirty-eight microelectrodes were implanted in the right visual cortex, near the 
+occipital pole, for a period of 4 months. Percepts reported as small spots of 
+light, called phosphenes, were produced with 34 of the 38 implanted 
+microelectrodes. Threshold currents for phosphene generation with trains of 
+biphasic pulses were as low as 1.9 microA, and most of the microelectrodes had 
+thresholds below 25 microA. Phosphene brightness could be modified with stimulus 
+amplitude, frequency and pulse duration. Repeated stimulation over a period of 
+minutes produced a gradual decrease in phosphene brightness. Phosphenes did not 
+flicker. The apparent size of phosphenes ranged from a "pin-point' to a "nickel' 
+(20 mm diameter coin) held at arm's length. Phosphene size usually decreased as 
+stimulation current was increased but increased slightly as the train length 
+(TL) was increased. At levels of stimulation near threshold, the phosphenes were 
+often reported to have colours. As the stimulation level was increased, the 
+phosphenes generally became white, greyish or yellowish. Individual phosphenes 
+appeared at different distances from the subject. When two phosphenes were 
+simultaneously generated, the apparent distances of the individual phosphenes 
+sometimes changed to make them appear to be at about the same distance. When 
+three or more phosphenes were simultaneously generated, they became coplanar. 
+Except for rare occasions, phosphenes extinguished rapidly at the termination of 
+the stimulation train. When stimulation TLs were increased beyond 1 s, 
+phosphenes usually disappeared before the end of the train. The duration of 
+phosphene perception could be increased by interrupting a long stimulation train 
+with brief pauses in stimulation. Intracortical microelectrodes spaced 500 
+microns apart generated separate phosphenes, but microelectrodes spaced 250 
+microns typically did not. This two-point resolution was about five times closer 
+than has typically been achieved with surface stimulation. With some individual 
+microelectrodes, a second closely spaced phosphene was sometimes produced by 
+increasing the stimulation current. Phosphenes moved with eye movements. When up 
+to six phosphenes were simultaneously elicited, they all moved with the same 
+relative orientation during eye movements. All phosphenes were located in the 
+left hemi-field with the majority above the horizontal meridian. There was a 
+clustering of most of the phosphenes within a relatively small area of visual 
+space. The potentially greater microelectrode density and lower power 
+requirements of ICMS compared with surface stimulation appears encouraging for a 
+visual prosthesis. However, further studies with blind subjects are required to 
+optimize stimulation parameters and test complex image recognition before the 
+feasibility of a visual prosthesis based on ICMS can be established.
+
+DOI: 10.1093/brain/119.2.507
+PMID: 8800945 [Indexed for MEDLINE]

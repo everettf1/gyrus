@@ -1,0 +1,36 @@
+1. Proc Natl Acad Sci U S A. 2002 Dec 10;99(25):16354-9. doi: 
+10.1073/pnas.252521499. Epub 2002 Nov 27.
+
+Dissociation between conflict detection and error monitoring in the human 
+anterior cingulate cortex.
+
+Swick D(1), Turken AU.
+
+Author information:
+(1)Department of Neurology (127E), Veterans Affairs Northern California Health 
+Care System, University of California at Davis, 150 Muir Road, Martinez, CA 
+94553, USA. diane@ebire.org
+
+The relative importance of the anterior cingulate cortex (ACC) for the detection 
+and resolution of response conflicts versus its role in error monitoring remains 
+under debate. One disputed issue is whether conflict detection and error 
+monitoring can be viewed as unitary functions performed by the same region of 
+the ACC, or whether these processes can be dissociated functionally and 
+anatomically. We used a combination of electrophysiological and 
+neuropsychological methods to assess these competing hypotheses. A neurological 
+patient with a rare focal lesion of rostral-to-middorsal ACC was tested in an 
+event-related potential study designed to track the time course of neural 
+activity during conflicts and erroneous responses. Compared with controls, the 
+error-related negativity component after incorrect responses was attenuated in 
+the patient, accompanied by lower error-correction rates. Conversely, the 
+stimulus-locked component on correct conflict trials, the N450, was enhanced, 
+and behavioral performance was impaired. We hypothesize that intact regions of 
+lateral prefrontal cortex were able to detect response conflict, but damage to 
+the dorsal ACC impaired response inhibition, which may be due to disconnection 
+from cingulate and supplementary motor areas. The results implicate 
+rostral-dorsal ACC in error monitoring and suggest this function can be 
+dissociated from conflict-detection processes.
+
+DOI: 10.1073/pnas.252521499
+PMCID: PMC138615
+PMID: 12456882 [Indexed for MEDLINE]

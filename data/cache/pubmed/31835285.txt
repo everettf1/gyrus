@@ -1,0 +1,62 @@
+1. Neuroimage Clin. 2019;24:102090. doi: 10.1016/j.nicl.2019.102090. Epub 2019
+Nov  12.
+
+Differential involvement of rubral branches in chronic capsular and pontine 
+stroke.
+
+Guo J(1), Liu J(2), Wang C(3), Cao C(4), Fu L(1), Han T(4), Cheng J(3), Yu C(2), 
+Qin W(5).
+
+Author information:
+(1)Department of Radiology, Tianjin Medical University General Hospital, Tianjin 
+300052, China; Tianjin Key Laboratory of Functional Imaging, Tianjin Medical 
+University General Hospital, Tianjin 300052, China; Department of Radiology, 
+Tianjin Huanhu Hospital, Tianjin 300350, China.
+(2)Department of Radiology, Tianjin Medical University General Hospital, Tianjin 
+300052, China; Tianjin Key Laboratory of Functional Imaging, Tianjin Medical 
+University General Hospital, Tianjin 300052, China.
+(3)Department of Magnetic Resonance Imaging, The First Affiliated Hospital of 
+Zhengzhou University, Zhengzhou 450052, China.
+(4)Department of Radiology, Tianjin Huanhu Hospital, Tianjin 300350, China.
+(5)Department of Radiology, Tianjin Medical University General Hospital, Tianjin 
+300052, China; Tianjin Key Laboratory of Functional Imaging, Tianjin Medical 
+University General Hospital, Tianjin 300052, China. Electronic address: 
+wayne.wenqin@gmail.com.
+
+BACKGROUND AND PURPOSE: Early studies have indicated that the 
+cortico-rubro-spinal tracts play important roles in motor dysfunction after 
+stroke. However, the differential involvement of the rubral branches in capsular 
+and pontine stroke, and their associations with the motor impairment are still 
+unknown.
+METHODS: The present study recruited 144 chronic stroke patients and 91 normal 
+controls (NC) from three hospitals, including 102 cases with capsular stroke 
+(CS) and 42 cases with pontine stroke (PS). The rubral branches, including 
+bilateral corticorubral tracts (CRT), dentatorubral tracts (DRT), and 
+rubrospinal tracts (RST), and the cortico-spinal tract (CST) were reconstructed 
+based on the dataset of the Human Connectome Project. Group differences in 
+diffusion scalars of each rubral branch were compared, and the associations 
+between the diffusion measures of rubral branches and the Fugl-Meyer assessment 
+(FMA) scores were tested.
+RESULTS: The bilateral CRT of the CS cases showed significantly lower factional 
+anisotropy (FA) than in the NC. The bilateral DRT of the PS cases had lower FA 
+than in the NC. Both CS and PS cases had significantly lower FA of the bilateral 
+RST than the NC. Besides, the stroke patients demonstrated significantly lower 
+FA in bilateral CSTs than the NC. Partial correlation analysis identified 
+significantly positive correlations between the FA of the ipsilesional and CRT 
+and the FMA scores in the CS group, and significantly positive correlations 
+between the FA of the RST bilaterally and the FMA scores in the CS and PS 
+groups. Furthermore, the association between RST integrity and FMA scores still 
+survived after controlling for the effect of the CST. Finally, multiple 
+regression modelling found that rubral tract FA explained 39.2% of the variance 
+in FMA scores for CS patients, and 48.8% of the variance in FMA scores for PS 
+patients.
+CONCLUSIONS: The bilateral rubral branches were differentially involved in the 
+chronic capsular and pontine stroke, and the impairment severity of each rubral 
+branch was dependent on lesion locations. The integrity of the rubral branches 
+is related to motor impairment in both the chronic capsular and pontine stroke.
+
+Copyright © 2019 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.nicl.2019.102090
+PMCID: PMC6911903
+PMID: 31835285 [Indexed for MEDLINE]

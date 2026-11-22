@@ -1,0 +1,172 @@
+[
+ {
+  "region": "t_consciousness_9",
+  "pmid": "16158062",
+  "from": "Figure 3",
+  "caption": "Scalp and cortex maps of EEG activity about 276 ms after the second word, comparing trials where the word was seen with trials where it was missed. The trace below the maps shows the voltage over time.",
+  "notice": "Seen words show a clear difference from absent words at this time, while unseen words show a much weaker one; this is a correlation between brain activity and what the person reported.",
+  "short": "Sergent et al. 2005, Nat Neurosci",
+  "license": "",
+  "file": "t_consciousness_9_16158062.webp"
+ },
+ {
+  "region": "t_consciousness_9",
+  "pmid": "19433438",
+  "from": "Figure 2B",
+  "caption": "Each line shows how long a stimulus had to come before its mask for people to report seeing it, in healthy controls and in patients with prefrontal lesions, under four ways of preparing for the stimulus.",
+  "notice": "Patients (light grey) sit above controls (dark) in every condition, meaning they needed more time before they saw the stimulus; because the damage came first, this points to a causal role.",
+  "short": "Del Cul et al. 2009, Brain",
+  "license": "",
+  "file": "t_consciousness_9_19433438.webp"
+ },
+ {
+  "region": "t_consciousness_9",
+  "pmid": "24478356",
+  "from": "Figure 3A,B",
+  "caption": "Brain activation during binocular rivalry when people actively reported what they saw (A) and when they only watched, with no report (B).",
+  "notice": "Compare the frontal areas on the two brains: they light up with a report and mostly drop out without one, which is a correlation.",
+  "short": "Frässle et al. 2014, J Neurosci",
+  "license": "",
+  "file": "t_consciousness_9_24478356.webp"
+ },
+ {
+  "region": "t_consciousness_9",
+  "pmid": "33692142",
+  "from": "Figure 4",
+  "caption": "A map of what patients reported when different parts of prefrontal cortex were electrically stimulated, from emotions and body sensations to hallucinations and thoughts.",
+  "notice": "Orbitofrontal and cingulate sites carry long lists of effects, while several lateral and frontopolar sites are labeled no known effects. The review reports that stimulating lateral prefrontal sites seldom changes what patients experience. Stimulation shows cause.",
+  "short": "Raccah et al. 2021, J Neurosci",
+  "license": "",
+  "file": "t_consciousness_9_33692142.webp"
+ },
+ {
+  "region": "t_consciousness_9",
+  "pmid": "28978696",
+  "from": "Figure 3",
+  "caption": "Bar graphs from a study of patients with anterior prefrontal lesions (aPFC), compared with healthy controls (HC) and temporal lobe patients (TL). Panel A shows task performance and panel B shows how well their confidence tracked their accuracy.",
+  "notice": "On perception, performance is about the same in all groups, but the prefrontal group (red) is worse at judging its own accuracy, a difference a simpler test would miss.",
+  "short": "Odegaard et al. 2017, J Neurosci",
+  "license": "",
+  "file": "t_consciousness_9_28978696.webp"
+ },
+ {
+  "region": "t_consciousness_10",
+  "pmid": "24967698",
+  "from": "Fig. 1A",
+  "caption": "Brain scans marking the electrode contact (red circle) whose stimulation made the patient stop responding. It sits next to the claustrum, the thin yellow line.",
+  "notice": "Look at how close the red circle is to the claustrum line; stimulating there caused the loss of responsiveness, so this is cause, but it is one patient.",
+  "short": "Koubeissi et al. 2014, Epilepsy Behav",
+  "license": "",
+  "file": "t_consciousness_10_24967698.webp"
+ },
+ {
+  "region": "t_consciousness_10",
+  "pmid": "31196825",
+  "from": "Fig. 1A",
+  "caption": "Brain surfaces showing where the stimulated claustrum electrodes were placed in all five patients, each patient in a different color.",
+  "notice": "This shows where the stimulation was delivered; the finding itself, that none of the patients lost awareness, comes from their reports and is not drawn here.",
+  "short": "Bickel et al. 2019, Epilepsy Behav",
+  "license": "",
+  "file": "t_consciousness_10_31196825.webp"
+ },
+ {
+  "region": "t_consciousness_11",
+  "pmid": "12034865",
+  "from": "Fig. 1a-c",
+  "caption": "One amygdala neuron during flash suppression. In the second half of each trial the two eyes receive the same pair of images, a face to one eye and a pattern to the other, but the patient perceives whichever was flashed on last: the pattern in the left column, the face in the right column.",
+  "notice": "The neuron fires while the face is perceived and stops when the face is still on the retina but suppressed from view, so it follows the percept and not the input. This is a recording, so it is a correlation.",
+  "short": "Kreiman et al. 2002, Proc Natl Acad Sci U S A",
+  "license": "",
+  "file": "t_consciousness_11_12034865.webp"
+ },
+ {
+  "region": "t_consciousness_11",
+  "pmid": "10678523",
+  "from": "Figure 1",
+  "caption": "A drawing of the surgery that removed tissue from the medial temporal lobes on both sides, including the hippocampus, shown from the side and from below.",
+  "notice": "This shows how much was removed; the patients lost memory for new events after it, while perception and general intelligence were not impaired, so this is a lesion result.",
+  "short": "Scoville et al. 2000, J Neuropsychiatry Clin Neurosci",
+  "license": "",
+  "file": "t_consciousness_11_10678523.webp"
+ },
+ {
+  "region": "t_consciousness_12",
+  "pmid": "28122878",
+  "from": "Figure 2",
+  "caption": "Two split-brain patients (DDV and DDC) detected circles, and located them, in both the left and right visual field, whether they answered by speaking, with the left hand or with the right hand.",
+  "notice": "The bars for detecting circles are near 1 for every way of answering and for both visual fields, so each patient could report a stimulus anywhere in the field by speech or with either hand.",
+  "short": "Pinto et al. 2017, Brain",
+  "license": "",
+  "file": "t_consciousness_12_28122878.webp"
+ },
+ {
+  "region": "t_consciousness_13",
+  "pmid": "16195466",
+  "from": "Fig. 4",
+  "caption": "Brain current maps after a magnetic pulse, in wakefulness (left) and in NREM sleep (right) for each of six subjects. Colors show how soon each area became active.",
+  "notice": "The pulse is the same in both states. Awake, the response spreads over many areas over time; in sleep it stays small and local.",
+  "short": "Massimini et al. 2005, Science",
+  "license": "",
+  "file": "t_consciousness_13_16195466.webp"
+ },
+ {
+  "region": "t_consciousness_13",
+  "pmid": "23946194",
+  "from": "Fig. 5",
+  "caption": "Left: the range of PCI in healthy people while awake (red) and in NREM sleep or under anesthesia (grey). Right: PCI for patients grouped by diagnosis, from vegetative state or unresponsive wakefulness (VS/UWS) through minimally conscious (MCS) and emerged (EMCS) to locked-in syndrome (LIS).",
+  "notice": "PCI rises with the level of consciousness across groups, with locked-in patients highest; it is a measure that tracks the state, not a direct test of experience.",
+  "short": "Casali et al. 2013, Sci Transl Med",
+  "license": "",
+  "file": "t_consciousness_13_23946194.webp"
+ },
+ {
+  "region": "t_consciousness_13",
+  "pmid": "27717082",
+  "from": "Figure 2",
+  "caption": "PCI values for vegetative state and minimally conscious patients, with a cutoff line. The table at upper right counts how many patients of each type fell above or below it.",
+  "notice": "Most minimally conscious patients (MCS) are above the line and most vegetative (VS) patients are below it, which is how the cutoff sorted patients who could not communicate.",
+  "short": "Casarotto et al. 2016, Ann Neurol",
+  "license": "CC BY NC ND",
+  "file": "t_consciousness_13_27717082.webp"
+ },
+ {
+  "region": "t_consciousness_14",
+  "pmid": "16959998",
+  "from": "Fig. 1",
+  "caption": "fMRI scans of the patient (top) and healthy controls (bottom) while imagining playing tennis (left) and walking through a familiar space (right).",
+  "notice": "The patient's activity appears in the same regions as in controls for both tasks, a correlation that fits the patient following the commands.",
+  "short": "Owen et al. 2006, Science",
+  "license": "",
+  "file": "t_consciousness_14_16959998.webp"
+ },
+ {
+  "region": "t_consciousness_14",
+  "pmid": "20130250",
+  "from": "Figure 3",
+  "caption": "One patient (left) and a healthy control (right) answering yes or no questions in the scanner by imagining. Top: motor imagery, used to answer yes, activates the supplementary motor area (orange). Bottom: spatial imagery, used to answer no, activates the parahippocampal gyrus (blue).",
+  "notice": "The patient's pattern matches the control's for each kind of answer, which is how a person who could not respond at the bedside communicated. This is imaging of a willed response, so a positive result is strong evidence of awareness.",
+  "short": "Monti et al. 2010, N Engl J Med",
+  "license": "",
+  "file": "t_consciousness_14_20130250.webp"
+ },
+ {
+  "region": "t_consciousness_15",
+  "pmid": "40307561",
+  "from": "Fig. 2c",
+  "caption": "How well stimulus category could be decoded from brain activity over time in posterior cortex (top) and prefrontal cortex (bottom).",
+  "notice": "Category can be decoded in both regions, more strongly and for longer in posterior cortex (top). The colored bars under each curve mark when decoding was above chance. This is a correlation.",
+  "short": "Cogitate Consortium; Ferrante et al. 2025, Nature",
+  "license": "CC BY",
+  "file": "t_consciousness_15_40307561.webp"
+ },
+ {
+  "region": "t_consciousness_16",
+  "pmid": "22192881",
+  "from": "Fig. 2b",
+  "caption": "A diagram of the standard contrast between seen and unseen stimuli, showing that it also picks up processes before the experience (NCC-pr) and processes after it (NCC-co).",
+  "notice": "The middle box is the true correlate; the two side boxes also differ between seen and unseen trials, which is the confound the authors describe.",
+  "short": "Aru et al. 2012, Neurosci Biobehav Rev",
+  "license": "",
+  "file": "t_consciousness_16_22192881.webp"
+ }
+]

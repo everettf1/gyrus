@@ -1,0 +1,41 @@
+1. Stroke. 2003 Sep;34(9):2264-78. doi: 10.1161/01.STR.0000087786.38997.9E. Epub 
+2003 Aug 21.
+
+Vascular syndromes of the thalamus.
+
+Schmahmann JD(1).
+
+Author information:
+(1)Department of Neurology, VBK 915, Massachusetts General Hospital, Fruit St, 
+Boston, MA 02114, USA. jschmahmann@partners.org
+
+BACKGROUND: This article reviews the anatomy, connections, and functions of the 
+thalamic nuclei, their vascular supply, and the clinical syndromes that result 
+from thalamic infarction.
+SUMMARY OF REVIEW: Thalamic nuclei are composed of 5 major functional classes: 
+reticular and intralaminar nuclei that subserve arousal and nociception; sensory 
+nuclei in all major domains; effector nuclei concerned with motor function and 
+aspects of language; associative nuclei that participate in high-level cognitive 
+functions; and limbic nuclei concerned with mood and motivation. Vascular 
+lesions destroy these nuclei in different combinations and produce sensorimotor 
+and behavioral syndromes depending on which nuclei are involved. Tuberothalamic 
+territory strokes produce impairments of arousal and orientation, learning and 
+memory, personality, and executive function; superimposition of temporally 
+unrelated information; and emotional facial paresis. Paramedian infarcts cause 
+decreased arousal, particularly if the lesion is bilateral, and impaired 
+learning and memory. Autobiographical memory impairment and executive failure 
+result from lesions in either of these vascular territories. Language deficits 
+result from left paramedian lesions and from left tuberothalamic lesions that 
+include the ventrolateral nucleus. Right thalamic lesions in both these vascular 
+territories produce visual-spatial deficits, including hemispatial neglect. 
+Inferolateral territory strokes produce contralateral hemisensory loss, 
+hemiparesis and hemiataxia, and pain syndromes that are more common after right 
+thalamic lesions. Posterior choroidal lesions result in visual field deficits, 
+variable sensory loss, weakness, dystonia, tremors, and occasionally amnesia and 
+language impairment.
+CONCLUSIONS: These vascular syndromes reflect the reciprocal cerebral 
+cortical-thalamic connections that have been interrupted and provide insights 
+into the functional properties of the thalamus.
+
+DOI: 10.1161/01.STR.0000087786.38997.9E
+PMID: 12933968 [Indexed for MEDLINE]

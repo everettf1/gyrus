@@ -1,0 +1,49 @@
+1. Neuron. 2020 Apr 8;106(1):66-75.e12. doi: 10.1016/j.neuron.2020.01.005. Epub 
+2020 Feb 12.
+
+Thalamus Modulates Consciousness via Layer-Specific Control of Cortex.
+
+Redinbaugh MJ(1), Phillips JM(2), Kambi NA(2), Mohanta S(2), Andryk S(2), Dooley 
+GL(2), Afrasiabi M(2), Raz A(3), Saalmann YB(4).
+
+Author information:
+(1)Department of Psychology, University of Wisconsin-Madison, Madison, WI 53706, 
+USA. Electronic address: mredinbaugh@wisc.edu.
+(2)Department of Psychology, University of Wisconsin-Madison, Madison, WI 53706, 
+USA.
+(3)Department of Anesthesiology, Rambam Health Care Campus, Haifa 3109601, 
+Israel; Ruth and Bruce Rappaport Faculty of Medicine, Technion - Israel 
+Institute of Technology, Haifa 3200003, Israel.
+(4)Department of Psychology, University of Wisconsin-Madison, Madison, WI 53706, 
+USA; Wisconsin National Primate Research Center, Madison, WI 53715, USA. 
+Electronic address: saalmann@wisc.edu.
+
+Comment in
+    Nat Rev Neurosci. 2020 Apr;21(4):181. doi: 10.1038/s41583-020-0281-7.
+    Neuron. 2020 Apr 8;106(1):1-3. doi: 10.1016/j.neuron.2020.02.016.
+
+Functional MRI and electrophysiology studies suggest that consciousness depends 
+on large-scale thalamocortical and corticocortical interactions. However, it is 
+unclear how neurons in different cortical layers and circuits contribute. We 
+simultaneously recorded from central lateral thalamus (CL) and across layers of 
+the frontoparietal cortex in awake, sleeping, and anesthetized macaques. We 
+found that neurons in thalamus and deep cortical layers are most sensitive to 
+changes in consciousness level, consistent across different anesthetic agents 
+and sleep. Deep-layer activity is sustained by interactions with CL. 
+Consciousness also depends on deep-layer neurons providing feedback to 
+superficial layers (not to deep layers), suggesting that long-range feedback and 
+intracolumnar signaling are important. To show causality, we stimulated CL in 
+anesthetized macaques and effectively restored arousal and wake-like neural 
+processing. This effect was location and frequency specific. Our findings 
+suggest layer-specific thalamocortical correlates of consciousness and inform 
+how targeted deep brain stimulation can alleviate disorders of consciousness.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2020.01.005
+PMCID: PMC7243351
+PMID: 32053769 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests A.R. is a consultant 
+for and receives funding from Medtronic. The other authors declare no competing 
+interests.

@@ -1,0 +1,36 @@
+1. Neuroimage. 2013 Aug 1;76:412-27. doi: 10.1016/j.neuroimage.2013.02.063. Epub 
+2013 Mar 15.
+
+The valuation system: a coordinate-based meta-analysis of BOLD fMRI experiments 
+examining neural correlates of subjective value.
+
+Bartra O(1), McGuire JT, Kable JW.
+
+Author information:
+(1)Department of Psychology, University of Pennsylvania, 3720 Walnut St., 
+Philadelphia, PA 19104, USA. boscar@sas.upenn.edu
+
+Numerous experiments have recently sought to identify neural signals associated 
+with the subjective value (SV) of choice alternatives. Theoretically, SV 
+assessment is an intermediate computational step during decision making, in 
+which alternatives are placed on a common scale to facilitate value-maximizing 
+choice. Here we present a quantitative, coordinate-based meta-analysis of 206 
+published fMRI studies investigating neural correlates of SV. Our results 
+identify two general patterns of SV-correlated brain responses. In one set of 
+regions, both positive and negative effects of SV on BOLD are reported at 
+above-chance rates across the literature. Areas exhibiting this pattern include 
+anterior insula, dorsomedial prefrontal cortex, dorsal and posterior striatum, 
+and thalamus. The mixture of positive and negative effects potentially reflects 
+an underlying U-shaped function, indicative of signal related to arousal or 
+salience. In a second set of areas, including ventromedial prefrontal cortex and 
+anterior ventral striatum, positive effects predominate. Positive effects in the 
+latter regions are seen both when a decision is confronted and when an outcome 
+is delivered, as well as for both monetary and primary rewards. These regions 
+appear to constitute a "valuation system," carrying a domain-general SV signal 
+and potentially contributing to value-based decision making.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2013.02.063
+PMCID: PMC3756836
+PMID: 23507394 [Indexed for MEDLINE]

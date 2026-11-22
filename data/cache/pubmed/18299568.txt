@@ -1,0 +1,28 @@
+1. Proc Natl Acad Sci U S A. 2008 Mar 4;105(9):3599-604. doi: 
+10.1073/pnas.0707043105. Epub 2008 Feb 25.
+
+Human single-neuron responses at the threshold of conscious recognition.
+
+Quiroga RQ(1), Mukamel R, Isham EA, Malach R, Fried I.
+
+Author information:
+(1)Department of Engineering, University of Leicester, Leicester LE1 7RH, United 
+Kingdom.
+
+We studied the responses of single neurons in the human medial temporal lobe 
+while subjects viewed familiar faces, animals, and landmarks. By progressively 
+shortening the duration of stimulus presentation, coupled with backward masking, 
+we show two striking properties of these neurons. (i) Their responses are not 
+statistically different for the 33-ms, 66-ms, and 132-ms stimulus durations, and 
+only for the 264-ms presentations there is a significantly higher firing. (ii) 
+These responses follow conscious perception, as indicated by the subjects' 
+recognition report. Remarkably, when recognized, a single snapshot as brief as 
+33 ms was sufficient to trigger strong single-unit responses far outlasting 
+stimulus presentation. These results suggest that neurons in the medial temporal 
+lobe can reflect conscious recognition by "all-or-none" responses.
+
+DOI: 10.1073/pnas.0707043105
+PMCID: PMC2265174
+PMID: 18299568 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

@@ -1,0 +1,40 @@
+1. Neuroimage. 2009 Jan 15;44(2):489-501. doi: 10.1016/j.neuroimage.2008.08.039. 
+Epub 2008 Sep 16.
+
+Functional topography in the human cerebellum: a meta-analysis of neuroimaging 
+studies.
+
+Stoodley CJ(1), Schmahmann JD.
+
+Author information:
+(1)Department of Neurology, Massachusetts General Hospital and Harvard Medical 
+School, Boston, MA 02114, USA. cstoodley@partners.org
+
+Clinical, experimental and neuroimaging studies indicate that the cerebellum is 
+involved in neural processes beyond the motor domain. Cerebellar somatotopy has 
+been shown for motor control, but topographic organization of higher-order 
+functions has not yet been established. To determine whether existing literature 
+supports the hypothesis of functional topography in the human cerebellum, we 
+conducted an activation likelihood estimate (ALE) meta-analysis of neuroimaging 
+studies reporting cerebellar activation in selected task categories: motor (n=7 
+studies), somatosensory (n=2), language (n=11), verbal working memory (n=8), 
+spatial (n=8), executive function (n=8) and emotional processing (n=9). In 
+agreement with previous investigations, sensorimotor tasks activated anterior 
+lobe (lobule V) and adjacent lobule VI, with additional foci in lobule VIII. 
+Motor activation was in VIIIA/B; somatosensory activation was confined to VIIIB. 
+The posterior lobe was involved in higher-level tasks. ALE peaks were identified 
+in lobule VI and Crus I for language and verbal working memory; lobule VI for 
+spatial tasks; lobules VI, Crus I and VIIB for executive functions; and lobules 
+VI, Crus I and medial VII for emotional processing. Language was heavily 
+right-lateralized and spatial peaks left-lateralized, reflecting crossed 
+cerebro-cerebellar projections. Language and executive tasks activated regions 
+of Crus I and lobule VII proposed to be involved in prefrontal-cerebellar loops. 
+Emotional processing involved vermal lobule VII, implicated in cerebellar-limbic 
+circuitry. These data provide support for an anterior sensorimotor vs. posterior 
+cognitive/emotional dichotomy in the human cerebellum. Prospective studies of 
+multiple domains within single individuals are necessary to better elucidate 
+neurobehavioral structure-function correlations in the cerebellar posterior 
+lobe.
+
+DOI: 10.1016/j.neuroimage.2008.08.039
+PMID: 18835452 [Indexed for MEDLINE]

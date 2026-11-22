@@ -1,0 +1,38 @@
+1. Nature. 2006 Jul 13;442(7099):164-71. doi: 10.1038/nature04970.
+
+Neuronal ensemble control of prosthetic devices by a human with tetraplegia.
+
+Hochberg LR(1), Serruya MD, Friehs GM, Mukand JA, Saleh M, Caplan AH, Branner A, 
+Chen D, Penn RD, Donoghue JP.
+
+Author information:
+(1)Department of Neurology, Massachusetts General Hospital, Brigham and Women's 
+Hospital, and Spaulding Rehabilitation Hospital, Harvard Medical School, 55 
+Fruit Street, Boston, Massachusetts 02114, USA.
+
+Comment in
+    Nature. 2006 Jul 13;442(7099):109. doi: 10.1038/442109a.
+    Nature. 2006 Jul 13;442(7099):125-7. doi: 10.1038/442125a.
+    Nature. 2006 Jul 13;442(7099):141-2. doi: 10.1038/442141a.
+
+Neuromotor prostheses (NMPs) aim to replace or restore lost motor functions in 
+paralysed humans by routeing movement-related signals from the brain, around 
+damaged parts of the nervous system, to external effectors. To translate 
+preclinical results from intact animals to a clinically useful NMP, movement 
+signals must persist in cortex after spinal cord injury and be engaged by 
+movement intent when sensory inputs and limb movement are long absent. 
+Furthermore, NMPs would require that intention-driven neuronal activity be 
+converted into a control signal that enables useful tasks. Here we show initial 
+results for a tetraplegic human (MN) using a pilot NMP. Neuronal ensemble 
+activity recorded through a 96-microelectrode array implanted in primary motor 
+cortex demonstrated that intended hand motion modulates cortical spiking 
+patterns three years after spinal cord injury. Decoders were created, providing 
+a 'neural cursor' with which MN opened simulated e-mail and operated devices 
+such as a television, even while conversing. Furthermore, MN used neural control 
+to open and close a prosthetic hand, and perform rudimentary actions with a 
+multi-jointed robotic arm. These early results suggest that NMPs based upon 
+intracortical neuronal ensemble spiking activity could provide a valuable new 
+neurotechnology to restore independence for humans with paralysis.
+
+DOI: 10.1038/nature04970
+PMID: 16838014 [Indexed for MEDLINE]

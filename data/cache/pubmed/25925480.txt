@@ -1,0 +1,57 @@
+1. Nature. 2015 Apr 30;520(7549):675-8. doi: 10.1038/nature14366.
+
+A circuit mechanism for differentiating positive and negative associations.
+
+Namburi P(1), Beyeler A(2), Yorozu S(3), Calhoon GG(2), Halbert SA(4), Wichmann 
+R(2), Holden SS(5), Mertens KL(6), Anahtar M(5), Felix-Ortiz AC(1), Wickersham 
+IR(7), Gray JM(3), Tye KM(2).
+
+Author information:
+(1)1] The Picower Institute for Learning and Memory, Department of Brain and 
+Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, 
+Massachusetts 02139, USA [2] Neuroscience Graduate Program, Massachusetts 
+Institute of Technology, Cambridge, Massachusetts 02139, USA.
+(2)The Picower Institute for Learning and Memory, Department of Brain and 
+Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, 
+Massachusetts 02139, USA.
+(3)Department of Genetics, Harvard Medical School, 77 Avenue Louis Pasteur, NRB 
+356, Boston, Massachusetts 02115, USA.
+(4)1] The Picower Institute for Learning and Memory, Department of Brain and 
+Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, 
+Massachusetts 02139, USA [2] Undergraduate Program in Neuroscience, Wellesley 
+College, Wellesley, Massachusetts 02481, USA.
+(5)1] The Picower Institute for Learning and Memory, Department of Brain and 
+Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, 
+Massachusetts 02139, USA [2] Undergraduate Program in Neuroscience, 
+Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, USA.
+(6)1] The Picower Institute for Learning and Memory, Department of Brain and 
+Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, 
+Massachusetts 02139, USA [2] Master's Program in Biomedical Sciences, University 
+of Amsterdam, Amsterdam 1098 XH, The Netherlands.
+(7)McGovern Institute for Brain Research, Massachusetts Institute of Technology, 
+Cambridge, Massachusetts 02139, USA.
+
+Comment in
+    Nat Rev Neurosci. 2015 Jun;16(6):316. doi: 10.1038/nrn3975.
+
+The ability to differentiate stimuli predicting positive or negative outcomes is 
+critical for survival, and perturbations of emotional processing underlie many 
+psychiatric disease states. Synaptic plasticity in the basolateral amygdala 
+complex (BLA) mediates the acquisition of associative memories, both positive 
+and negative. Different populations of BLA neurons may encode fearful or 
+rewarding associations, but the identifying features of these populations and 
+the synaptic mechanisms of differentiating positive and negative emotional 
+valence have remained unknown. Here we show that BLA neurons projecting to the 
+nucleus accumbens (NAc projectors) or the centromedial amygdala (CeM projectors) 
+undergo opposing synaptic changes following fear or reward conditioning. We find 
+that photostimulation of NAc projectors supports positive reinforcement while 
+photostimulation of CeM projectors mediates negative reinforcement. 
+Photoinhibition of CeM projectors impairs fear conditioning and enhances reward 
+conditioning. We characterize these functionally distinct neuronal populations 
+by comparing their electrophysiological, morphological and genetic features. 
+Overall, we provide a mechanistic explanation for the representation of positive 
+and negative associations within the amygdala.
+
+DOI: 10.1038/nature14366
+PMCID: PMC4418228
+PMID: 25925480 [Indexed for MEDLINE]

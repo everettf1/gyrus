@@ -1,0 +1,50 @@
+1. Epilepsia. 2013 Oct;54(10):1823-33. doi: 10.1111/epi.12352. Epub 2013 Sep 13.
+
+Deep brain stimulation of the centromedian thalamic nucleus for the treatment of 
+generalized and frontal epilepsies.
+
+Valentín A(1), García Navarrete E, Chelvarajah R, Torres C, Navas M, Vico L, 
+Torres N, Pastor J, Selway R, Sola RG, Alarcon G.
+
+Author information:
+(1)Department of Clinical Neurophysiology, King's College Hospital, London, 
+United Kingdom; Department of Clinical Neuroscience, Institute of Psychiatry, 
+King's College London, London, United Kingdom.
+
+PURPOSE: Deep brain stimulation (DBS) of the thalamus is an emerging surgical 
+option for people with medically refractory epilepsy that is not suitable for 
+resective surgery, or in whom surgery has failed. Our main aim was to evaluate 
+the efficacy of bilateral centromedian thalamic nucleus (CMN) DBS for seizure 
+control in generalized epilepsy and frontal lobe epilepsy with a two-center, 
+single-blind, controlled trial.
+METHODS: Participants were adults with refractory generalized or frontal lobe 
+epilepsy. Seizure diaries were kept by patients/carers prospectively from 
+enrollment. The baseline preimplantation period was followed by a control period 
+consisting of a blind stimulation-OFF phase of at least 3 months, a 3-month 
+blind stimulation-ON phase, and a 6-month unblinded stimulation-ON phase. The 
+control period was followed by an unblinded long-term extension phase with 
+stimulation-ON in those patients in whom stimulation was thought to be 
+effective.
+KEY FINDINGS: Eleven patients were recruited at King's College Hospital (London, 
+United Kingdom United Kingdom) and at University Hospital La Princesa (Madrid, 
+Spain). Among the five patients with frontal lobe epilepsy, only one patient had 
+>50% improvement in seizure frequency during the blind period. In the long-term 
+extension phase, two patients with frontal lobe epilepsy had >50% improvement in 
+seizure frequency. All six patients with generalized epilepsy had >50% 
+improvement in seizure frequency during the blind period. In the long-term 
+extension phase, five of the six patients showed >50% improvement in the 
+frequency of major seizures (one became seizure free, one had >99% improvement, 
+and three had 60-95% reduction in seizure frequency). Among patients with 
+generalized epilepsy, the DBS implantation itself appears to be effective, as 
+two patients remained seizure free during 12 and 50 months with DBS OFF, and the 
+remaining four had 50-91% improvement in the initial 3 months with DBS OFF.
+SIGNIFICANCE: DBS implantation and stimulation of the CMN appears to be a safe 
+and efficacious treatment, particularly in patients with refractory generalized 
+epilepsy. CMN stimulation was not as effective in frontal lobe epilepsy, which 
+requires further studies. DBS of the CMN should be considered as a treatment 
+option, particularly in patients with refractory generalized epilepsy syndromes.
+
+Wiley Periodicals, Inc. © 2013 International League Against Epilepsy.
+
+DOI: 10.1111/epi.12352
+PMID: 24032641 [Indexed for MEDLINE]

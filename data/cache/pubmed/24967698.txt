@@ -1,0 +1,49 @@
+1. Epilepsy Behav. 2014 Aug;37:32-5. doi: 10.1016/j.yebeh.2014.05.027. Epub 2014 
+Jun 24.
+
+Electrical stimulation of a small brain area reversibly disrupts consciousness.
+
+Koubeissi MZ(1), Bartolomei F(2), Beltagy A(3), Picard F(4).
+
+Author information:
+(1)Department of Neurology, George Washington University, 2150 Pennsylvania 
+Avenue, Suite 9-405, Washington, DC 20037, USA. Electronic address: 
+mkoubeissi@mfa.gwu.edu.
+(2)INSERM, U751, Laboratoire de Neurophysiologie et Neuropsychologie, Marseille 
+F-13005, France; Aix Marseille University, Faculté de Médecine, Marseille 
+F-13005, France; CHU Timone, Service de Neurophysiologie Clinique, Assistance 
+Publique des Hôpitaux de Marseille, Marseille F-13005, France.
+(3)Epilepsy center, Neurological Institute, University hospitals, Case Western 
+Reserve University. 11100 Euclid Ave. Cleveland, OH 44106, USA.
+(4)Department of Neurology, University Hospital and Medical School of Geneva. 4 
+rue Gabrielle-Perret-Gentil. 1211 Geneva 14, Switzerland.
+
+Comment in
+    Epilepsy Behav. 2014 Aug;37:234-5. doi: 10.1016/j.yebeh.2014.07.008.
+    Epilepsy Behav. 2015 Jan;42:35. doi: 10.1016/j.yebeh.2014.11.002.
+
+The neural mechanisms that underlie consciousness are not fully understood. We 
+describe a region in the human brain where electrical stimulation reproducibly 
+disrupted consciousness. A 54-year-old woman with intractable epilepsy underwent 
+depth electrode implantation and electrical stimulation mapping. The electrode 
+whose stimulation disrupted consciousness was between the left claustrum and 
+anterior-dorsal insula. Stimulation of electrodes within 5mm did not affect 
+consciousness. We studied the interdependencies among depth recording signals as 
+a function of time by nonlinear regression analysis (h(2) coefficient) during 
+stimulations that altered consciousness and stimulations of the same electrode 
+at lower current intensities that were asymptomatic. Stimulation of the 
+claustral electrode reproducibly resulted in a complete arrest of volitional 
+behavior, unresponsiveness, and amnesia without negative motor symptoms or mere 
+aphasia. The disruption of consciousness did not outlast the stimulation and 
+occurred without any epileptiform discharges. We found a significant increase in 
+correlation for interactions affecting medial parietal and posterior frontal 
+channels during stimulations that disrupted consciousness compared with those 
+that did not. Our findings suggest that the left claustrum/anterior insula is an 
+important part of a network that subserves consciousness and that disruption of 
+consciousness is related to increased EEG signal synchrony within 
+frontal-parietal networks.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.yebeh.2014.05.027
+PMID: 24967698 [Indexed for MEDLINE]

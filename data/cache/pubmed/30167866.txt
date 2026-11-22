@@ -1,0 +1,46 @@
+1. Brain Struct Funct. 2018 Dec;223(9):4125-4152. doi: 10.1007/s00429-018-1733-y.
+ Epub 2018 Aug 30.
+
+Morphological patterns and spatial probability maps of two defining sulci of the 
+posterior ventrolateral frontal cortex of the human brain: the sulcus diagonalis 
+and the anterior ascending ramus of the lateral fissure.
+
+Sprung-Much T(1)(2), Petrides M(3)(4).
+
+Author information:
+(1)Department of Neurology and Neurosurgery, Montreal Neurological Institute and 
+Hospital, McGill University, 3801 University Street, Montreal, H3A 2B4, QC, 
+Canada. trisanna.sprung-much@mail.mcgill.ca.
+(2)Department of Psychology, McGill University, 1205 Dr Penfield Avenue, 
+Montreal, H3A 1B1, QC, Canada. trisanna.sprung-much@mail.mcgill.ca.
+(3)Department of Neurology and Neurosurgery, Montreal Neurological Institute and 
+Hospital, McGill University, 3801 University Street, Montreal, H3A 2B4, QC, 
+Canada.
+(4)Department of Psychology, McGill University, 1205 Dr Penfield Avenue, 
+Montreal, H3A 1B1, QC, Canada.
+
+The sulcus diagonalis (ds) and the anterior ascending ramus of the lateral 
+fissure (aalf) are two defining sulci of the posterior ventrolateral frontal 
+cortex, which is also known as the anterior language region in the language 
+dominant hemisphere. The aalf extends dorsally from the lateral fissure, 
+separating the pars opercularis from the pars triangularis of the inferior 
+frontal gyrus. The ds, which is a relatively vertical sulcus, is found within 
+the pars opercularis. Given the proximity and similar orientation of these two 
+sulci, it can be difficult to identify them properly. The present study provides 
+a means of differentiating these two sulci accurately using magnetic resonance 
+imaging (MRI). Voxels within the ds and the aalf were labeled in 40 in vivo MRI 
+volumes (1.5 T) that had been linearly registered to the Montreal Neurological 
+Institute stereotaxic space to examine the morphological patterns of these two 
+sulci and classify these patterns based on relations with neighboring sulci. The 
+morphological variability and spatial extent of each sulcus was then quantified 
+in the form of volumetric and surface spatial probability maps. The ds, a rather 
+superficial sulcus, could be identified in 51.25% of hemispheres. The aalf, on 
+the other hand, could be identified in 96.25% of hemispheres and was observed to 
+extend medially, deep below the surface of the hemisphere, to reach the circular 
+sulcus of the insula. Understanding the details of the sulcal morphology of this 
+region, which, in the language dominant left hemisphere, constitutes Broca's 
+area, is crucial to functional and structural neuroimaging studies investigating 
+language.
+
+DOI: 10.1007/s00429-018-1733-y
+PMID: 30167866 [Indexed for MEDLINE]

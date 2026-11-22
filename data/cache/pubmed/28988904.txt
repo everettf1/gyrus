@@ -1,0 +1,118 @@
+1. Lancet Psychiatry. 2017 Nov;4(11):839-849. doi: 10.1016/S2215-0366(17)30371-1.
+ Epub 2017 Oct 4.
+
+Subcallosal cingulate deep brain stimulation for treatment-resistant depression: 
+a multisite, randomised, sham-controlled trial.
+
+Holtzheimer PE(1), Husain MM(2), Lisanby SH(3), Taylor SF(4), Whitworth LA(5), 
+McClintock S(6), Slavin KV(7), Berman J(8), McKhann GM(9), Patil PG(10), 
+Rittberg BR(11), Abosch A(12), Pandurangi AK(13), Holloway KL(14), Lam RW(15), 
+Honey CR(16), Neimat JS(17), Henderson JM(18), DeBattista C(19), Rothschild 
+AJ(20), Pilitsis JG(21), Espinoza RT(22), Petrides G(23), Mogilner AY(24), 
+Matthews K(25), Peichel D(26), Gross RE(27), Hamani C(28), Lozano AM(29), 
+Mayberg HS(30).
+
+Author information:
+(1)Department of Psychiatry and Department of Surgery, Dartmouth-Hitchcock 
+Medical Center, Lebanon, NH, USA. Electronic address: 
+paul.e.holtzheimer@dartmouth.edu.
+(2)Department of Psychiatry, Neurology and Medicine, University of Texas 
+Southwestern Medical Center at Dallas, Dallas, TX, USA; Department of Psychiatry 
+and Behavioral Science, Duke University School of Medicine, Durham, NC, USA.
+(3)National Institute of Mental Health, Rockville, MD, USA.
+(4)Department of Psychiatry, University of Michigan, Ann Arbor, MI, USA.
+(5)Neurological Surgery, Radiation Oncology, Department of Neurological Surgery, 
+University of Texas Southwestern Medical Center at Dallas, Dallas, TX, USA.
+(6)Department of Psychiatry, University of Texas Southwestern Medical Center at 
+Dallas, Dallas, TX, USA; Department of Psychiatry and Behavioral Science, Duke 
+University School of Medicine, Durham, NC, USA.
+(7)Department of Neurosurgery, University of Illinois at Chicago, Chicago, IL, 
+USA.
+(8)Department of Psychiatry, Division of Experimental Therapeutics, Columbia 
+University College of Physicians & Surgeons, New York, NY, USA.
+(9)Department of Neurosurgery, Columbia University Medical Center, New York 
+Presbyterian Hospital, New York, NY, USA.
+(10)Department of Neurosurgery, Neurology, Anesthesiology and Biomedical 
+Engineering, University of Michigan, Ann Arbor, MI, USA.
+(11)Department of Psychiatry, University of Minnesota, Minneapolis, MN, USA.
+(12)Department of Neurosurgery and Department of Neurology, University of 
+Colorado Anschutz Medical Campus, Aurora, CO, USA.
+(13)Department of Psychiatry, Virginia Commonwealth University, Richmond, VA, 
+USA.
+(14)Department of Neurosurgery, Virginia Commonwealth University, Richmond, VA, 
+USA.
+(15)Department of Psychiatry, University of British Columbia, Vancouver, BC, 
+Canada.
+(16)Department of Surgery (Neurosurgery), University of British Columbia, 
+Vancouver, BC, Canada.
+(17)Department of Neurological Surgery, University of Louisville, Louisville, 
+KY, USA.
+(18)Stanford Department of Neurosurgery, Stanford University School of Medicine, 
+Stanford, CA, USA.
+(19)Department of Psychiatry, Stanford University School of Medicine, Stanford, 
+CA, USA.
+(20)Department of Psychiatry, University of Massachusetts Medical School and 
+UMass Memorial HealthCare, Worcester, MA, USA.
+(21)Department of Neuroscience and Experimental Therapeutics and the Department 
+of Neurosurgery, Albany Medical College, Albany, NY, USA.
+(22)Department of Psychiatry and Biobehavioral Sciences, Geffen School of 
+Medicine at UCLA, Los Angeles, CA, USA.
+(23)The Zucker Hillside Hospital, Northwell Health System, Glen Oaks, NY, USA; 
+Hofstra Northwell School of Medicine, Hempstead, NY, USA.
+(24)Department of Neurosurgery, Center for Neuromodulation, NYU Langone Medical 
+Center, New York, NY, USA.
+(25)Division of Neuroscience, School of Medicine, University of Dundee, Dundee, 
+UK; Advanced Interventions Service, NHS Tayside, Ninewells Hospital and Medical 
+School, Dundee, UK.
+(26)Clinical Studies Department, Abbott (previously St Jude Medical), Plano, TX, 
+USA.
+(27)Department of Neurosurgery, Emory University School of Medicine, Atlanta, 
+GA, USA.
+(28)Behavioural Neurobiology Laboratory, Campbell Family Mental Health Research 
+Institute, Centre for Addiction and Mental Health and Division of Neurosurgery, 
+Toronto Western Hospital, Toronto, ON, Canada.
+(29)Department of Neurosurgery and Neuroscience, Toronto Western Hospital, 
+Toronto, ON, Canada.
+(30)Department of Psychiatry and Department of Neurology, Emory University 
+School of Medicine, Atlanta, GA, USA.
+
+Comment in
+    Lancet Psychiatry. 2017 Nov;4(11):820-821. doi: 
+10.1016/S2215-0366(17)30396-6.
+    Lancet Psychiatry. 2017 Nov;4(11):819. doi: 10.1016/S2215-0366(17)30404-2.
+    Nature. 2017 Nov 22;551(7682):549-550. doi: 10.1038/nature.2017.23031.
+
+BACKGROUND: Deep brain stimulation (DBS) of the subcallosal cingulate white 
+matter has shown promise as an intervention for patients with chronic, 
+unremitting depression. To test the safety and efficacy of DBS for 
+treatment-resistant depression, a prospective, randomised, sham-controlled trial 
+was conducted.
+METHODS: Participants with treatment-resistant depression were implanted with a 
+DBS system targeting bilateral subcallosal cingulate white matter and randomised 
+to 6 months of active or sham DBS, followed by 6 months of open-label 
+subcallosal cingulate DBS. Randomisation was computer generated with a block 
+size of three at each site before the site started the study. The primary 
+outcome was frequency of response (defined as a 40% or greater reduction in 
+depression severity from baseline) averaged over months 4-6 of the double-blind 
+phase. A futility analysis was performed when approximately half of the proposed 
+sample received DBS implantation and completed the double-blind phase. At the 
+conclusion of the 12-month study, a subset of patients were followed up for up 
+to 24 months. The study is registered at ClinicalTrials.gov, number NCT00617162.
+FINDINGS: Before the futility analysis, 90 participants were randomly assigned 
+to active (n=60) or sham (n=30) stimulation between April 10, 2008, and Nov 21, 
+2012. Both groups showed improvement, but there was no statistically significant 
+difference in response during the double-blind, sham-controlled phase (12 [20%] 
+patients in the stimulation group vs five [17%] patients in the control group). 
+28 patients experienced 40 serious adverse events; eight of these (in seven 
+patients) were deemed to be related to the study device or surgery.
+INTERPRETATION: This study confirmed the safety and feasibility of subcallosal 
+cingulate DBS as a treatment for treatment-resistant depression but did not show 
+statistically significant antidepressant efficacy in a 6-month double-blind, 
+sham-controlled trial. Future studies are needed to investigate factors such as 
+clinical features or electrode placement that might improve efficacy.
+FUNDING: Abbott (previously St Jude Medical).
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S2215-0366(17)30371-1
+PMID: 28988904 [Indexed for MEDLINE]

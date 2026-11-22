@@ -1,0 +1,42 @@
+1. Brain. 2005 Apr;128(Pt 4):797-810. doi: 10.1093/brain/awh423. Epub 2005 Feb
+10.
+
+New insights into the anatomo-functional connectivity of the semantic system: a 
+study using cortico-subcortical electrostimulations.
+
+Duffau H(1), Gatignol P, Mandonnet E, Peruzzi P, Tzourio-Mazoyer N, Capelle L.
+
+Author information:
+(1)Department of Neurosurgery, U 678, Hôpital Salpêtrière, 47-83 Bd de 
+l'Hôpital, 75651 Paris, Cedex 13, France. hugues.duffau@psl.ap-hop-paris.fr
+
+Despite a better understanding of the organization of the cortical network 
+underlying the semantic system, very few data are currently available regarding 
+its anatomo-functional connectivity. Here, we report on a series of 17 patients 
+operated on under local anaesthesia for a cerebral low-grade glioma located 
+within the dominant hemisphere. Prior to and during resection, intraoperative 
+electrical stimulation was used to map sensorimotor and language structures so 
+that permanent neurological deficits could be avoided. In a number of cases, 
+cortical and subcortical stimulation caused semantic paraphasias. Using 
+postoperative MRI, we correlated these functional findings with the anatomical 
+locations of the sites where semantic errors were elicited by stimulation, 
+especially at the subcortical level, with the aim of studying the connectivity 
+underlying the semantic system. In temporal gliomas, cortical sites involved in 
+semantic processing were found around the posterior part of the superior 
+temporal sulcus, with subcortical pathways reproducibly located under the depth 
+of this sulcus. In insular gliomas, although stimulation elicited no semantic 
+disturbances at the cortical level, such semantic paraphasias were generated at 
+the level of the anterior floor of the external capsule. In frontal tumours, 
+cortical regions implicated in semantics were detected in the lateral 
+orbitofrontal region and dorsolateral prefrontal cortex, with subcortical fibres 
+located under the inferior frontal sulcus. All these eloquent structures were 
+systematically preserved, thereby avoiding permanent postoperative deficits. Our 
+results provide arguments in favour of the existence of a main ventral 
+subcortical pathway underlying the semantic system, within the dominant 
+hemisphere, joining the two essential cortical epicentres of this network: the 
+posterior and superior temporal areas, and the orbitofrontal and dorsolateral 
+prefontal regions. Such a ventral stream might anatomically partly correspond to 
+the inferior fronto-occipital fasciculus.
+
+DOI: 10.1093/brain/awh423
+PMID: 15705610 [Indexed for MEDLINE]

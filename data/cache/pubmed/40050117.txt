@@ -1,0 +1,71 @@
+1. J Neurosci. 2025 Apr 16;45(16):e2113242025. doi:
+10.1523/JNEUROSCI.2113-24.2025.
+
+A Shared Threat-Anticipation Circuit Is Dynamically Engaged at Different Moments 
+by Certain and Uncertain Threat.
+
+Cornwell BR(1), Didier PR(2), Grogans SE(2), Anderson AS(3), Islam S(4)(5), Kim 
+HC(2)(6), Kuhn M(7), Tillman RM(8), Hur J(9), Scott ZS(2), Fox AS(10)(11), 
+DeYoung KA(2), Smith JF(2), Shackman AJ(12)(6)(13).
+
+Author information:
+(1)Department of Psychological & Brain Sciences, George Washington University, 
+Washington, DC 20006.
+(2)Department of Psychology, University of Maryland, College Park, Maryland 
+20742.
+(3)Department of Psychiatry and Human Behavior, Brown University, Providence, 
+Rhode Island 02912.
+(4)Department of Psychology, University of Pennsylvania, Philadelphia, 
+Pennsylvania 19104.
+(5)Department of Child and Adolescent Psychiatry and Behavioral Sciences, 
+Children's Hospital of Philadelphia, Philadelphia, Pennsylvania 19139.
+(6)Neuroscience and Cognitive Science Program, University of Maryland, College 
+Park, Maryland 20742.
+(7)Center for Depression, Anxiety and Stress Research, McLean Hospital, Harvard 
+Medical School, Belmont, Massachusetts 02478.
+(8)McGill Neuropsychology, Bethesda, Maryland 20814.
+(9)Department of Psychology, Yonsei University, Seoul 03722, Republic of Korea.
+(10)Department of Psychology, University of California, Davis, California 95616.
+(11)California National Primate Research Center, University of California, 
+Davis, California 95616.
+(12)Department of Psychology, University of Maryland, College Park, Maryland 
+20742 shackman@umd.edu.
+(13)Maryland Neuroimaging Center, University of Maryland, College Park, Maryland 
+20742.
+
+Update of
+    bioRxiv. 2025 Feb 04:2024.07.10.602972. doi: 10.1101/2024.07.10.602972.
+
+Temporal dynamics play a central role in models of emotion: "fear" is widely 
+conceptualized as a phasic response to certain-and-imminent danger, whereas 
+"anxiety" is a sustained response to uncertain-or-distal harm. Yet the 
+underlying neurobiology remains contentious. Leveraging a translationally 
+relevant fMRI paradigm and theory-driven modeling approach in 220 adult humans, 
+we demonstrate that certain- and uncertain-threat anticipation recruit a shared 
+circuit that encompasses the central extended amygdala (EAc), periaqueductal 
+gray, midcingulate, and anterior insula. This circuit exhibits persistently 
+elevated activation when threat is uncertain and distal and transient bursts of 
+activation just before certain encounters with threat. Although there is 
+agreement that the EAc plays a critical role in orchestrating responses to 
+threat, confusion persists about the respective contributions of its major 
+subdivisions, the bed nucleus of the stria terminalis (BST) and central nucleus 
+of the amygdala (Ce). Here we used anatomical regions of interest to demonstrate 
+that the BST and Ce exhibit statistically indistinguishable threat dynamics. 
+Both regions exhibited activation dynamics that run counter to popular models, 
+with the Ce (and BST) showing sustained responses to uncertain-and-distal threat 
+and the BST (and Ce) showing phasic responses to certain-and-imminent threat. 
+For many scientists, feelings are the hallmark of fear and anxiety. Here we used 
+an independently validated multivoxel brain "signature" to covertly probe the 
+moment-by-moment dynamics of anticipatory distress for the first time. Results 
+mirrored the dynamics of neural activation. These observations provide fresh 
+insights into the neurobiology of threat-elicited emotions and set the stage for 
+more ambitious clinical and mechanistic research.
+
+Copyright © 2025 the authors.
+
+DOI: 10.1523/JNEUROSCI.2113-24.2025
+PMCID: PMC12005365
+PMID: 40050117 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interests.

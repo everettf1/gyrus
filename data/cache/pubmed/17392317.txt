@@ -1,0 +1,28 @@
+1. Brain. 2007 Jul;130(Pt 7):1718-31. doi: 10.1093/brain/awm052. Epub 2007 Mar
+28.
+
+The Enigmatic temporal pole: a review of findings on social and emotional 
+processing.
+
+Olson IR(1), Plotzker A, Ezzyat Y.
+
+Author information:
+(1)Center for Cognitive Neuroscience, University of Pennsylvania, 3720 Walnut 
+Street, Room B51, Philadelphia, PA 19104-6196, USA. iolson@psych.upenn.edu
+
+The function of the anterior-most portion of the temporal lobes, the temporal 
+pole, is not well understood. Anatomists have long considered it part of an 
+extended limbic system based on its location posterior to the orbital frontal 
+cortex and lateral to the amygdala, along with its tight connectivity to limbic 
+and paralimbic regions. Here we review the literature in both non-human primates 
+and humans to assess the temporal pole's putative role in social and emotional 
+processing. Reviewed findings indicate that it has some role in both social and 
+emotional processes, including face recognition and theory of mind, that goes 
+beyond semantic memory. We propose that the temporal pole binds complex, highly 
+processed perceptual inputs to visceral emotional responses. Because perceptual 
+inputs remain segregated into dorsal (auditory), medial (olfactory) and ventral 
+(visual) streams, the integration of emotion with perception is channel 
+specific.
+
+DOI: 10.1093/brain/awm052
+PMID: 17392317 [Indexed for MEDLINE]

@@ -1,0 +1,47 @@
+1. Arch Gen Psychiatry. 2010 Oct;67(10):1061-8. doi: 
+10.1001/archgenpsychiatry.2010.122.
+
+Deep brain stimulation of the nucleus accumbens for treatment-refractory 
+obsessive-compulsive disorder.
+
+Denys D(1), Mantione M, Figee M, van den Munckhof P, Koerselman F, Westenberg H, 
+Bosch A, Schuurman R.
+
+Author information:
+(1)Department of Psychiatry, Academic Medical Center, University of Amsterdam, 
+the Netherlands. d.denys@amc.nl
+
+Comment in
+    Expert Rev Neurother. 2011 Mar;11(3):341-4. doi: 10.1586/ern.11.20.
+
+CONTEXT: Obsessive-compulsive disorder (OCD) is a chronic psychiatric disorder 
+that affects 2% of the general population. Even when the best available 
+treatments are applied, approximately 10% of patients remain severely afflicted 
+and run a long-term deteriorating course of OCD.
+OBJECTIVE: To determine whether bilateral deep brain stimulation of the nucleus 
+accumbens is an effective and safe treatment for treatment-refractory OCD.
+DESIGN: The study consisted of an open 8-month treatment phase, followed by a 
+double-blind crossover phase with randomly assigned 2-week periods of active or 
+sham stimulation, ending with an open 12-month maintenance phase.
+SETTING: Academic research. Patients Sixteen patients (age range, 18-65 years) 
+with OCD according to DSM-IV criteria meeting stringent criteria for 
+refractoriness to treatment were included in the study.
+INTERVENTIONS: Treatment with bilateral deep brain stimulation of the nucleus 
+accumbens.
+MAIN OUTCOME MEASURES: Primary efficacy was assessed by score change from 
+baseline on the Yale-Brown Obsessive Compulsive Scale (Y-BOCS). Responders were 
+defined by a score decrease of at least 35% on the Y-BOCS.
+RESULTS: In the open phase, the mean (SD) Y-BOCS score decreased by 46%, from 
+33.7 (3.6) at baseline to 18.0 (11.4) after 8 months (P < .001). Nine of 16 
+patients were responders, with a mean (SD) Y-BOCS score decrease of 23.7 (7.0), 
+or 72%. In the double-blind, sham-controlled phase (n = 14), the mean (SD) 
+Y-BOCS score difference between active and sham stimulation was 8.3 (2.3), or 
+25% (P = .004). Depression and anxiety decreased significantly. Except for mild 
+forgetfulness and word-finding problems, no permanent adverse events were 
+reported.
+CONCLUSION: Bilateral deep brain stimulation of the nucleus accumbens may be an 
+effective and safe treatment for treatment-refractory OCD.
+CLINICAL TRIAL REGISTRATION: isrctn.org Identifier: ISRCTN23255677.
+
+DOI: 10.1001/archgenpsychiatry.2010.122
+PMID: 20921122 [Indexed for MEDLINE]

@@ -1,0 +1,36 @@
+1. J Comp Neurol. 2009 Apr 10;513(5):532-41. doi: 10.1002/cne.21974.
+
+Equal numbers of neuronal and nonneuronal cells make the human brain an 
+isometrically scaled-up primate brain.
+
+Azevedo FA(1), Carvalho LR, Grinberg LT, Farfel JM, Ferretti RE, Leite RE, Jacob 
+Filho W, Lent R, Herculano-Houzel S.
+
+Author information:
+(1)Instituto de Ciências Biomédicas, Universidade Federal do Rio de Janeiro, 
+Cidade Universitária, Rio de Janeiro, Brazil.
+
+The human brain is often considered to be the most cognitively capable among 
+mammalian brains and to be much larger than expected for a mammal of our body 
+size. Although the number of neurons is generally assumed to be a determinant of 
+computational power, and despite the widespread quotes that the human brain 
+contains 100 billion neurons and ten times more glial cells, the absolute number 
+of neurons and glial cells in the human brain remains unknown. Here we determine 
+these numbers by using the isotropic fractionator and compare them with the 
+expected values for a human-sized primate. We find that the adult male human 
+brain contains on average 86.1 +/- 8.1 billion NeuN-positive cells ("neurons") 
+and 84.6 +/- 9.8 billion NeuN-negative ("nonneuronal") cells. With only 19% of 
+all neurons located in the cerebral cortex, greater cortical size (representing 
+82% of total brain mass) in humans compared with other primates does not reflect 
+an increased relative number of cortical neurons. The ratios between glial cells 
+and neurons in the human brain structures are similar to those found in other 
+primates, and their numbers of cells match those expected for a primate of human 
+proportions. These findings challenge the common view that humans stand out from 
+other primates in their brain composition and indicate that, with regard to 
+numbers of neuronal and nonneuronal cells, the human brain is an isometrically 
+scaled-up primate brain.
+
+(c) 2009 Wiley-Liss, Inc.
+
+DOI: 10.1002/cne.21974
+PMID: 19226510 [Indexed for MEDLINE]

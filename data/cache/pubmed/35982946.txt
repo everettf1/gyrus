@@ -1,0 +1,65 @@
+1. Brain Commun. 2022 Aug 4;4(4):fcac204. doi: 10.1093/braincomms/fcac204. 
+eCollection 2022.
+
+Secondary motor areas for response inhibition: an epicortical recording and 
+stimulation study.
+
+Takeyama H(1), Matsumoto R(2), Usami K(3), Nakae T(4), Shimotake A(3), Kikuchi 
+T(5), Yoshida K(5), Kunieda T(6), Miyamoto S(5), Takahashi R(2), Ikeda A(3).
+
+Author information:
+(1)Department of Neurology, Japanese Red Cross Otsu hospital, Otsu 520-0046, 
+Japan.
+(2)Department of Neurology, Kyoto University, Kyoto 606-8507, Japan.
+(3)Department of Epilepsy, Movement Disorders and Physiology, Kyoto University, 
+Kyoto 606-8507, Japan.
+(4)Department of Neurosurgery, Shiga Medical Center for Adults, Moriyama 
+524-8524, Japan.
+(5)Department of Neurosurgery, Kyoto University, Kyoto 606-8507, Japan.
+(6)Department of Neurosurgery, Ehime University, Touon 791-0295, Japan.
+
+The areas that directly inhibit motor responses in the human brain remain not 
+fully clarified, although the pre-supplementary motor area and lateral premotor 
+areas have been implicated. The objective of the present study was to delineate 
+the critical areas for response inhibition and the associated functional 
+organization of the executive action control system in the frontal lobe. The 
+subjects were eight intractable focal epilepsy patients with chronic subdural or 
+depth electrode implantation for presurgical evaluation covering the frontal 
+lobe (five for left hemisphere, three for right). We recorded event-related 
+potentials to a Go/No-Go task. We then applied a brief 50 Hz electrical 
+stimulation to investigate the effect of the intervention on the task. Brief 
+stimulation was given to the cortical areas generating discrete event-related 
+potentials specific for the No-Go trials (1-3 stimulation sites/patient, a total 
+of 12 stimulation sites). We compared the locations of event-related potentials 
+with the results of electrical cortical stimulation for clinical mapping. We 
+also compared the behavioural changes induced by another brief stimulation with 
+electrical cortical stimulation mapping. As the results, anatomically, 
+No-Go-specific event-related potentials with relatively high amplitude, named 
+'large No-Go event-related potentials', were observed predominantly in the 
+secondary motor areas, made up of the supplementary motor area proper, the 
+pre-supplementary motor area, and the lateral premotor areas. Functionally, 
+large No-Go event-related potentials in the frontal lobe were located at or 
+around the negative motor areas or language-related areas. Brief stimulation 
+prolonged Go reaction time at most stimulation sites (66.7%) [P < 0.0001, effect 
+size (d) = 0.30, Wilcoxon rank sum test], and increased No-Go error at some 
+stimulation sites (25.0%: left posterior middle frontal gyrus and left 
+pre-supplementary motor area). The stimulation sites we adopted for brief 
+stimulation were most frequently labelled 'negative motor area' (63.6%), 
+followed by 'language-related area' (18.2%) by the electrical cortical 
+stimulation mapping. The stimulation sites where the brief stimulation increased 
+No-Go errors tended to be labelled 'language-related area' more frequently than 
+'negative motor area' [P = 0.0833, Fisher's exact test (two-sided)] and were 
+located more anteriorly than were those without a No-Go error increase. By 
+integrating the methods of different modality, namely, event-related potentials 
+combined with brief stimulation and clinical electrical cortical stimulation 
+mapping, we conducted a novel neuroscientific approach, providing direct 
+evidence that secondary motor areas, especially the pre-supplementary motor area 
+and posterior middle frontal gyrus, play an important role in response 
+inhibition.
+
+© The Author(s) 2022. Published by Oxford University Press on behalf of the 
+Guarantors of Brain.
+
+DOI: 10.1093/braincomms/fcac204
+PMCID: PMC9380994
+PMID: 35982946

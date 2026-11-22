@@ -1,0 +1,49 @@
+1. N Engl J Med. 2010 Feb 18;362(7):579-89. doi: 10.1056/NEJMoa0905370. Epub 2010
+ Feb 3.
+
+Willful modulation of brain activity in disorders of consciousness.
+
+Monti MM(1), Vanhaudenhuyse A, Coleman MR, Boly M, Pickard JD, Tshibanda L, Owen 
+AM, Laureys S.
+
+Author information:
+(1)Medical Research Council Cognition and Brain Sciences Unit, Cambridge, United 
+Kingdom.
+
+Comment in
+    N Engl J Med. 2010 Feb 18;362(7):648-9. doi: 10.1056/NEJMe0909667.
+    N Engl J Med. 2010 May 20;362(20):1936; author reply 1937-8. doi: 
+10.1056/NEJMc1003229.
+    N Engl J Med. 2010 May 20;362(20):1936-7; author reply 1937-8.
+    N Engl J Med. 2010 May 20;362(20):1937; author reply 1937-8.
+    N Engl J Med. 2010 May 20;362(20):1937; author reply 1937-8.
+
+BACKGROUND: The differential diagnosis of disorders of consciousness is 
+challenging. The rate of misdiagnosis is approximately 40%, and new methods are 
+required to complement bedside testing, particularly if the patient's capacity 
+to show behavioral signs of awareness is diminished.
+METHODS: At two major referral centers in Cambridge, United Kingdom, and Liege, 
+Belgium, we performed a study involving 54 patients with disorders of 
+consciousness. We used functional magnetic resonance imaging (MRI) to assess 
+each patient's ability to generate willful, neuroanatomically specific, 
+blood-oxygenation-level-dependent responses during two established 
+mental-imagery tasks. A technique was then developed to determine whether such 
+tasks could be used to communicate yes-or-no answers to simple questions.
+RESULTS: Of the 54 patients enrolled in the study, 5 were able to willfully 
+modulate their brain activity. In three of these patients, additional bedside 
+testing revealed some sign of awareness, but in the other two patients, no 
+voluntary behavior could be detected by means of clinical assessment. One 
+patient was able to use our technique to answer yes or no to questions during 
+functional MRI; however, it remained impossible to establish any form of 
+communication at the bedside.
+CONCLUSIONS: These results show that a small proportion of patients in a 
+vegetative or minimally conscious state have brain activation reflecting some 
+awareness and cognition. Careful clinical examination will result in 
+reclassification of the state of consciousness in some of these patients. This 
+technique may be useful in establishing basic communication with patients who 
+appear to be unresponsive.
+
+2010 Massachusetts Medical Society
+
+DOI: 10.1056/NEJMoa0905370
+PMID: 20130250 [Indexed for MEDLINE]

@@ -1,0 +1,38 @@
+1. Nat Commun. 2026 Feb 25;17(1):3166. doi: 10.1038/s41467-026-69909-9.
+
+Ground-truth encoding of self-motion in the primate cerebellar nodulus and 
+uvula.
+
+Mildren RL(1), Cullen KE(2).
+
+Author information:
+(1)Department of Biomedical Engineering, Johns Hopkins University, Baltimore, 
+Baltimore, USA. Kathleen.Cullen@jhu.edu.
+(2)Department of Biomedical Engineering, Johns Hopkins University, Baltimore, 
+Baltimore, USA.
+
+Accurate internal estimates of self-motion and orientation relative to gravity 
+are fundamental for stabilizing gaze, controlling posture, and navigating 
+through dynamic environments. Prevailing theories propose that the cerebellar 
+nodulus and uvula (NU) employ internal models to suppress sensory input arising 
+from predictable, self-generated motion. However, this assumption has never been 
+directly tested. Here, we recorded NU Purkinje cell activity in rhesus monkeys 
+during active and passive head movements. We found neurons responsive to passive 
+translations remained equally sensitive to self-generated movements, encoding 
+net head motion in space irrespective of its source. Furthermore, external 
+perturbation did not influence these ground-truth encoding. When active head 
+motion was blocked, Purkinje cell activity remained unchanged - demonstrating a 
+lack of efference copy integration. During active tilts, NU neurons encoded both 
+dynamic motion and static orientation relative to gravity. These findings 
+challenge the internal model hypothesis and establish the NU as a ground-truth, 
+context-invariant estimator of self-motion, supporting stable behavior in 
+dynamic environments.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s41467-026-69909-9
+PMCID: PMC13046849
+PMID: 41741448 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests.

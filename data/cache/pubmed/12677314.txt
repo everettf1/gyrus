@@ -1,0 +1,41 @@
+1. Exp Brain Res. 2003 May;150(2):174-83. doi: 10.1007/s00221-003-1395-7. Epub
+2003  Apr 2.
+
+Direction of saccadic and smooth eye movements induced by electrical stimulation 
+of the human frontal eye field: effect of orbital position.
+
+Blanke O(1), Seeck M.
+
+Author information:
+(1)Presurgical Epilepsy Unit, Department of Neurology, University Hospital of 
+Geneva, 24 rue Micheli-du-Crest, 1211, Geneva, Switzerland. olaf.blanke@hcuge.ch
+
+The present study reports on the direction of saccadic and smooth eye movements, 
+which were induced electrically from the human dorsolateral frontal cortex 
+including the human frontal eye field (FEF). The eye position prior to 
+stimulation was varied in order to examine its effect on induced eye movement 
+direction. The five patients of the study underwent invasive presurgical 
+evaluation for pharmacoresistant epilepsy. The present data show that the 
+direction of electrically induced eye movements was always contralateral and 
+either horizontal or oblique upward if the eye started from the primary 
+position. The elicited direction was changed if the eyes started from an 
+eccentric position. The frequency of oblique eye movements was increased and 
+oblique downward responses were induced, which were not observed if the eye 
+started from the primary position. This was found for saccades and, especially, 
+for smooth eye movements. Head movements, which were almost exclusively induced 
+with saccades, did not depend on initial orbital position. Four conclusions can 
+be drawn. Firstly, saccades and smooth eye movements induced from the human 
+dorsolateral cortex including the human FEF have the same directional bias. 
+Secondly, the frequent upward responses and the absence of downward responses 
+induced from the primary position suggests either a more numerous or a more 
+superficial representation of neurons that code for the former direction. 
+Thirdly, at some sites the direction of saccades and smooth eye movements varies 
+depending on the initial orbital position. Since these directional changes were 
+observed without changes in eye-head coordination, our data suggest that 
+stimulation of the FEF might evoke goal-directed saccades or interferes with a 
+resettable saccade integrator. Fourthly, human studies that investigate eye 
+movements induced from the lateral frontal cortex need to control eye position 
+prior to stimulation.
+
+DOI: 10.1007/s00221-003-1395-7
+PMID: 12677314 [Indexed for MEDLINE]

@@ -1,0 +1,47 @@
+1. Brain. 2017 May 1;140(5):1231-1237. doi: 10.1093/brain/aww358.
+
+Split brain: divided perception but undivided consciousness.
+
+Pinto Y(1)(2), Neville DA(3), Otten M(1)(2), Corballis PM(4), Lamme VAF(1)(2), 
+de Haan EHF(1)(2), Foschi N(5), Fabri M(6).
+
+Author information:
+(1)Department of Psychology, University of Amsterdam, Amsterdam, The 
+Netherlands.
+(2)Amsterdam Brain and Cognition (ABC) Center, University of Amsterdam, The 
+Netherlands.
+(3)Donders Institute for Brain, Cognition and Behaviour, Radboud University, 
+Nijmegen, The Netherlands.
+(4)School of Psychology, University of Auckland, Auckland, New Zealand.
+(5)Epilepsy Center-Neurological Clinic, Azienda 'Ospedali Riuniti', Ancona, 
+Italy.
+(6)Department of Experimental and Clinical Medicine, Marche Politechnical 
+University, Ancona, Italy.
+
+Comment in
+    Brain. 2017 Jul 1;140(7):e38. doi: 10.1093/brain/awx106.
+
+In extensive studies with two split-brain patients we replicate the standard 
+finding that stimuli cannot be compared across visual half-fields, indicating 
+that each hemisphere processes information independently of the other. Yet, 
+crucially, we show that the canonical textbook findings that a split-brain 
+patient can only respond to stimuli in the left visual half-field with the left 
+hand, and to stimuli in the right visual half-field with the right hand and 
+verbally, are not universally true. Across a wide variety of tasks, split-brain 
+patients with a complete and radiologically confirmed transection of the corpus 
+callosum showed full awareness of presence, and well above chance-level 
+recognition of location, orientation and identity of stimuli throughout the 
+entire visual field, irrespective of response type (left hand, right hand, or 
+verbally). Crucially, we used confidence ratings to assess conscious awareness. 
+This revealed that also on high confidence trials, indicative of conscious 
+perception, response type did not affect performance. These findings suggest 
+that severing the cortical connections between hemispheres splits visual 
+perception, but does not create two independent conscious perceivers within one 
+brain.
+
+© The Author (2017). Published by Oxford University Press on behalf of the 
+Guarantors of Brain. All rights reserved. For Permissions, please email: 
+journals.permissions@oup.com.
+
+DOI: 10.1093/brain/aww358
+PMID: 28122878 [Indexed for MEDLINE]

@@ -1,0 +1,39 @@
+1. Nat Hum Behav. 2022 Apr;6(4):593-604. doi: 10.1038/s41562-021-01284-5. Epub
+2022  Feb 21.
+
+The ConTraSt database for analysing and comparing empirical studies of 
+consciousness theories.
+
+Yaron I(1), Melloni L(2)(3), Pitts M(4), Mudrik L(5)(6).
+
+Author information:
+(1)Sagol School of Neuroscience, Tel Aviv University, Tel Aviv, Israel. 
+itayyaron@mail.tau.ac.il.
+(2)Department of Neurology, New York University Grossman School of Medicine, New 
+York, NY, USA.
+(3)Department of Neuroscience, Max Planck Institute for Empirical Aesthetics, 
+Frankfurt am Main, Germany.
+(4)Department of Psychology, Reed College, Portland, OR, USA.
+(5)Sagol School of Neuroscience, Tel Aviv University, Tel Aviv, Israel.
+(6)School of Psychological Sciences, Tel Aviv University, Tel Aviv, Israel.
+
+Understanding how consciousness arises from neural activity remains one of the 
+biggest challenges for neuroscience. Numerous theories have been proposed in 
+recent years, each gaining independent empirical support. Currently, there is no 
+comprehensive, quantitative and theory-neutral overview of the field that 
+enables an evaluation of how theoretical frameworks interact with empirical 
+research. We provide a bird's eye view of studies that interpreted their 
+findings in light of at least one of four leading neuroscientific theories of 
+consciousness (N = 412 experiments), asking how methodological choices of the 
+researchers might affect the final conclusions. We found that supporting a 
+specific theory can be predicted solely from methodological choices, 
+irrespective of findings. Furthermore, most studies interpret their findings 
+post hoc, rather than a priori testing critical predictions of the theories. Our 
+results highlight challenges for the field and provide researchers with an 
+open-access website ( https://ContrastDB.tau.ac.il ) to further analyse trends 
+in the neuroscience of consciousness.
+
+© 2022. The Author(s), under exclusive licence to Springer Nature Limited.
+
+DOI: 10.1038/s41562-021-01284-5
+PMID: 35190711 [Indexed for MEDLINE]

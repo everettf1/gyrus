@@ -1,0 +1,30 @@
+1. Cereb Cortex. 2001 May;11(5):463-73. doi: 10.1093/cercor/11.5.463.
+
+Somatotopic organization of human secondary somatosensory cortex.
+
+Ruben J(1), Schwiemann J, Deuchert M, Meyer R, Krause T, Curio G, Villringer K, 
+Kurth R, Villringer A.
+
+Author information:
+(1)Department of Neurology, Charité, Humboldt-University, Berlin Germany. 
+jan.ruben@charite.de
+
+This fMRI study investigated the human somatosensory system, especially the 
+secondary somatosensory cortex (SII), with respect to its potential somatotopic 
+organization. Eight subjects received electrical stimulation on their right 
+second finger, fifth finger and hallux. Within SII, the typical finding for both 
+fingers was a representation site within the contralateral parietal operculum 
+roughly halfway between the lip of the lateral sulcus and its fundus, whereas 
+the representation site of the hallux was found more medially to this position 
+at the fundus of the lateral sulcus, near the posterior pole of the insula. 
+Somatotopy in SII seems to be less fine-grained than in primary somatosensory 
+cortex (SI), as, in contrast to SI, no separate representations of the two 
+fingers in SII were observed. A similar somatotopic representation pattern 
+between fingers and the hallux was also observed within ipsilateral SII, 
+indicating somatotopy of contra- as well as ipsilateral SII using unilateral 
+stimulation. Further areas exhibiting activation were found in the superior and 
+inferior parietal lobule, in the supplementary and cingulate motor area, and in 
+the insula.
+
+DOI: 10.1093/cercor/11.5.463
+PMID: 11313298 [Indexed for MEDLINE]

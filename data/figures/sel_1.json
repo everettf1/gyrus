@@ -1,0 +1,162 @@
+[
+ {
+  "region": "anterior_cingulate_cortex",
+  "pmid": "12456882",
+  "from": "Fig. 4 (ERN amplitude panel)",
+  "caption": "Peak size of the error-related negativity, a brain wave that follows mistakes, at five scalp sites. Gray bars are healthy controls and black bars are patient R.N., who had damage to the left dorsal anterior cingulate.",
+  "notice": "R.N.'s black bars are smaller than the controls' gray bars at every site, so the wave that flags errors shrinks after the lesion, which points to cause rather than correlation.",
+  "short": "Swick et al. 2002, Proc Natl Acad Sci U S A",
+  "license": "",
+  "file": "anterior_cingulate_cortex_12456882.webp"
+ },
+ {
+  "region": "auditory_belt",
+  "pmid": "11050211",
+  "from": "Fig. 4",
+  "caption": "A flattened section of macaque auditory cortex stained for parvalbumin. The darkest fields (RT, R, AI) are the core, and the belt fields (RM, AL, ML, CM, CL) sit around it.",
+  "notice": "Look at how the paler belt fields wrap around the dark core strip, which is the anatomy behind calling the belt a second stage that surrounds the core.",
+  "short": "Kaas et al. 2000, Proc Natl Acad Sci U S A",
+  "license": "",
+  "file": "auditory_belt_11050211.webp"
+ },
+ {
+  "region": "parahippocampal_place_area",
+  "pmid": "9560155",
+  "from": "Figure 1",
+  "caption": "The parahippocampal area was tested with faces, objects, houses and scenes, each intact or scrambled. Its signal change was largest for intact scenes (1.59) and small for faces (0.12).",
+  "notice": "The table and the time course show the response rising in scene blocks and staying low for faces, a correlation between the stimulus and the signal.",
+  "short": "Epstein et al. 1998, Nature",
+  "license": "",
+  "file": "parahippocampal_place_area_9560155.webp"
+ },
+ {
+  "region": "primary_motor_cortex",
+  "pmid": "32857862",
+  "from": "Figure 2 (panels A and C)",
+  "caption": "Sites on the precentral gyrus where electrical stimulation in awake patients moved a body part, colored by body part from legs at the top to larynx at the bottom, with the current needed for each part at right.",
+  "notice": "The colors line up in order along the gyrus from top to bottom, and stimulation caused the movements, so this is cause and not just correlation.",
+  "short": "Roux et al. 2020, J Physiol",
+  "license": "",
+  "file": "primary_motor_cortex_32857862.webp"
+ },
+ {
+  "region": "primary_motor_cortex",
+  "pmid": "7143039",
+  "from": "Figure 4",
+  "caption": "One motor cortex cell's firing during arm movements in eight directions (top), and its firing rate plotted against movement direction (bottom).",
+  "notice": "The cell fires most for movements toward one direction and falls off smoothly for others, a recording that tracks movement direction, which is a correlation.",
+  "short": "Georgopoulos et al. 1982, J Neurosci",
+  "license": "",
+  "file": "primary_motor_cortex_7143039.webp"
+ },
+ {
+  "region": "midbrain",
+  "pmid": "33115927",
+  "from": "Figure 2",
+  "caption": "Visual field coverage of the human superior colliculus. Panel A shows that each side covers mostly the opposite visual field, and panels B and C show where voxels look and how field size grows with distance from the center.",
+  "notice": "The right colliculus (solid line) covers the left visual field and the left one covers the right, a map of space in the superior colliculus found by imaging, which is a correlation.",
+  "short": "Rahmati et al. 2020, J Neurosci",
+  "license": "CC BY",
+  "file": "midbrain_33115927.webp"
+ },
+ {
+  "region": "globus_pallidus",
+  "pmid": "15689584",
+  "from": "Figure 1",
+  "caption": "Dystonia movement scores (A) and disability scores (B) before surgery and at 3, 6 and 12 months after pallidal stimulation.",
+  "notice": "Both bars drop after stimulation starts and stay lower at 12 months, which fits the card's claim that pallidal stimulation reduces dystonia.",
+  "short": "Vidailhet et al. 2005, N Engl J Med",
+  "license": "",
+  "file": "globus_pallidus_15689584.webp"
+ },
+ {
+  "region": "subthalamic_nucleus",
+  "pmid": "16510720",
+  "from": "Figure 4",
+  "caption": "High-resolution scans of individual subjects with the subthalamic nuclei outlined in white (A), the activation of each subject's left and right nucleus when stopping (B), and right nucleus activation against stopping speed (C).",
+  "notice": "The activation sits inside the outlined nucleus, mostly on the right, when a response is stopped, which is a correlation from imaging.",
+  "short": "Aron et al. 2006, J Neurosci",
+  "license": "",
+  "file": "subthalamic_nucleus_16510720.webp"
+ },
+ {
+  "region": "limbic_network",
+  "pmid": "30843590",
+  "from": "Figure 2 (panels A and B)",
+  "caption": "Electrode sites that changed a patient's feelings when stimulated in the cingulate (blue), orbitofrontal cortex (red) and insula (yellow), and how many reports of each kind each area produced.",
+  "notice": "Red bars for the orbitofrontal cortex are tallest for smell and taste, and stimulation caused these experiences, so this is cause.",
+  "short": "Yih et al. 2019, Soc Cogn Affect Neurosci",
+  "license": "CC BY NC ND",
+  "file": "limbic_network_30843590.webp"
+ },
+ {
+  "region": "optic_radiation",
+  "pmid": "19460796",
+  "from": "Figure 6B",
+  "caption": "Each dot is a patient: the size of the visual field deficit after temporal lobe surgery against the distance from the tip of Meyer's loop to the temporal pole.",
+  "notice": "Patients whose loop tip lay closer to the pole have higher deficit scores, a negative correlation that shows why the loop's position between people matters for surgery.",
+  "short": "Yogarajah et al. 2009, Brain",
+  "license": "CC BY NC",
+  "file": "optic_radiation_19460796.webp"
+ },
+ {
+  "region": "extended_amygdala",
+  "pmid": "31820811",
+  "from": "Fig. 6 (block panels)",
+  "caption": "Average 90 second time course of signal in the bed nucleus of the stria terminalis (top) and the centromedial amygdala (bottom) during blocks of negative or neutral images.",
+  "notice": "In the bed nucleus the red negative-image lines stay high across the whole block while the blue neutral lines fall, a sustained response that is a correlation.",
+  "short": "Pedersen et al. 2019, Soc Cogn Affect Neurosci",
+  "license": "CC BY",
+  "file": "extended_amygdala_31820811.webp"
+ },
+ {
+  "region": "dorsal_posterior_cingulate_gyrus",
+  "pmid": "34272280",
+  "from": "Fig. 2B",
+  "caption": "Structural MRI in three views with the electrode contacts of interest marked as dots in the posteromedial cortex: RC4 and RC5 in the right hemisphere and LJ4 and LJ5 in the left.",
+  "notice": "These are the sites where stimulation was delivered, so this figure shows where the cause was applied, not the experience itself.",
+  "short": "Parvizi et al. 2021, Proc Natl Acad Sci U S A",
+  "license": "CC BY NC ND",
+  "file": "dorsal_posterior_cingulate_gyrus_34272280.webp"
+ },
+ {
+  "region": "middle_frontal_gyrus",
+  "pmid": "15846822",
+  "from": "Figure 1 (All n-back)",
+  "caption": "Brain slices showing regions consistently active across all n-back working memory studies, with warmer colors for stronger evidence.",
+  "notice": "Clusters appear in the frontal slices from 28 to 40 mm, which fits the card's claim that middle frontal regions support working memory, as a correlation from imaging.",
+  "short": "Owen et al. 2005, Hum Brain Mapp",
+  "license": "",
+  "file": "middle_frontal_gyrus_15846822.webp"
+ },
+ {
+  "region": "precuneus",
+  "pmid": "37295420",
+  "from": "Figure 1 (lower panel)",
+  "caption": "Medial views of both hemispheres showing electrode sites in the posteromedial cortex. Red sites changed the patient's subjective state when stimulated and blue sites did not.",
+  "notice": "Red sites cluster in the anterior precuneus, and stimulation caused the change, so this is cause.",
+  "short": "Lyu et al. 2023, Neuron",
+  "license": "",
+  "file": "precuneus_37295420.webp"
+ },
+ {
+  "region": "medial_geniculate_nucleus",
+  "pmid": "26597173",
+  "from": "Figure 3a",
+  "caption": "Frequency preference of voxels in the medial geniculate in two individual subjects and the group, shown from low (red) to high (blue) frequency.",
+  "notice": "Colors change in an orderly way across the nucleus, a frequency map seen with imaging, which is a correlation.",
+  "short": "Moerel et al. 2015, Sci Rep",
+  "license": "CC BY",
+  "file": "medial_geniculate_nucleus_26597173.webp"
+ },
+ {
+  "region": "superior_fronto_occipital_fasciculus",
+  "pmid": "29321729",
+  "from": "Figure 3",
+  "caption": "Tractography of the fibers from the middle frontal gyrus to the superior parietal lobe (A) next to the same region in a dissected brain (B and C), where the dotted line marks where tractography put the bundle.",
+  "notice": "The dissection does not show the bundle that tractography drew, which is the mismatch the card describes.",
+  "short": "Bao et al. 2017, Front Neuroanat",
+  "license": "CC BY",
+  "file": "superior_fronto_occipital_fasciculus_29321729.webp"
+ }
+]

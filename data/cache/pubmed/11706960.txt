@@ -1,0 +1,34 @@
+1. Ann Neurol. 2001 Nov;50(5):561-6. doi: 10.1002/ana.1265.
+
+Hypoperfusion of Wernicke's area predicts severity of semantic deficit in acute 
+stroke.
+
+Hillis AE(1), Wityk RJ, Tuffiash E, Beauchamp NJ, Jacobs MA, Barker PB, Selnes 
+OA.
+
+Author information:
+(1)Department of Neurology, Johns Hopkins University School of Medicine, 
+Baltimore, MD, USA. argye@jhmi.edu
+
+Comment in
+    Ann Neurol. 2001 Nov;50(5):559-60. doi: 10.1002/ana.1266.
+
+Based on earlier findings that the presence of word comprehension impairment (a 
+deficit in the meaning of words, or lexical semantics) in acute stroke was 
+strongly associated with the presence of hypoperfusion or infarct in Wernicke's 
+area, we tested the hypothesis that the severity of word comprehension 
+impairment was correlated with the magnitude of delay in perfusion of Wernicke's 
+area on magnetic resonance perfusion-weighted imaging. Eighty patients were 
+prospectively studied within 24 hours of onset or progression of acute left 
+hemisphere stroke symptoms, with diffusion-weighted imaging, perfusion-weighted 
+imaging, and detailed language tests. For 50 patients without infarct in 
+Wernicke's area, we found a strong Pearson correlation between the rate of 
+errors on a word comprehension test and the mean number of seconds of delay in 
+time-to-peak concentration of contrast in Wernicke's area, relative to the 
+homologous region on the right. These results add further evidence for the 
+crucial role of Wernicke's area (Brodmann's area 22) in word comprehension and 
+indicate that the magnitude of delay on PWI may be a gross indicator of tissue 
+dysfunction.
+
+DOI: 10.1002/ana.1265
+PMID: 11706960 [Indexed for MEDLINE]

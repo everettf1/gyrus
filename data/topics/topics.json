@@ -1,0 +1,1048 @@
+[
+ {
+  "id": "consciousness",
+  "name": "Consciousness",
+  "sub": "What the brain needs for experience, and what nobody can say yet",
+  "view": "lateral",
+  "color": "#2f63d8",
+  "about": "This tour follows the search for the neural correlates of consciousness, the program Francis Crick and Christof Koch launched around 1990. It goes region by region through what lesions, stimulation and recordings show. No theory of consciousness is accepted, the main findings are disputed, and each step ends with what its evidence cannot show.",
+  "steps": [
+   {
+    "n": "Two questions, and what a correlate is",
+    "x": "Researchers split the problem in two. Level: what does a brain need to be conscious at all, as opposed to in coma, dreamless sleep or under anesthesia? Content: once you are conscious, which activity goes with seeing this face or hearing that note?\n\nThe neural correlates of consciousness are defined as the smallest set of neural events that is sufficient for one specific experience. The colors on the brain show where each region stands in that search. Step through to see the evidence for each one.",
+    "limit": "A correlate is not a cause, and a cause is not an explanation. Knowing which neurons fire when you see red would not say why that firing is felt at all. Philosophers call this the hard problem, and no experiment in this tour addresses it.",
+    "ev": [
+     {
+      "kind": "review",
+      "claim": "The correlates are defined as the minimum mechanisms sufficient for one percept",
+      "finding": "This review by Koch, Massimini, Boly and Tononi sets out the definition used across the field and summarizes two decades of work. It is written by proponents of one side of the debate that follows.",
+      "quote": "the minimum neural mechanisms sufficient for any one specific conscious percept",
+      "pmid": "27094080",
+      "doi": "10.1038/nrn.2016.22",
+      "cite": "Koch C, Massimini M, Boly M, Tononi G. Neural correlates of consciousness: progress and problems. Nat Rev Neurosci. 2016;17(5):307-21.",
+      "year": 2016
+     },
+     {
+      "kind": "framework",
+      "claim": "Crick and Koch framed consciousness as competition between assemblies of neurons",
+      "finding": "Their 2003 framework explains the correlates of visual consciousness as coalitions of neurons that compete, with the winner being what you see. It is a research strategy, not a tested theory.",
+      "quote": "This framework offers a coherent scheme for explaining the neural correlates of (visual) consciousness in terms of competing cellular assemblies.",
+      "pmid": "12555104",
+      "doi": "10.1038/nn0203-119",
+      "cite": "Crick F, Koch C. A framework for consciousness. Nat Neurosci. 2003;6(2):119-26.",
+      "year": 2003
+     }
+    ]
+   },
+   {
+    "n": "Christof Koch and the search",
+    "x": "Christof Koch trained as a physicist in Germany and was a professor at Caltech from 1987 to 2013. He joined the Allen Institute for Brain Science in Seattle as chief scientific officer in 2011, became its president in 2015, and is now a meritorious investigator there.\n\nWith Francis Crick he argued that consciousness could be studied in the laboratory by finding its neural correlates, starting with vision because it is the easiest sense to control. Their specific proposals have had mixed fates: that we are not directly aware of activity in primary visual cortex, and that the claustrum might bind experience together (both are steps in this tour). His laboratory, working with the neurosurgeon Itzhak Fried, also produced the human single-neuron recordings behind concept neurons. Koch now defends integrated information theory.\n\nIn 1998 he bet the philosopher David Chalmers a case of wine that a clear neural signature of consciousness would be found within 25 years. In June 2023, at a conference in New York, he conceded and paid.",
+    "limit": "Koch is a participant in the debate, not a referee. The posterior hot zone claim, the complexity index and the theory he favors all come from the same group of collaborators, and their critics read the same literature differently.",
+    "links": [
+     [
+      "Allen Institute profile",
+      "https://alleninstitute.org/person/christof-koch"
+     ],
+     [
+      "The bet (Scientific American)",
+      "https://www.scientificamerican.com/article/a-25-year-old-bet-about-consciousness-has-finally-been-settled/"
+     ]
+    ],
+    "ev": [
+     {
+      "kind": "hypothesis",
+      "claim": "Crick and Koch proposed that we are not directly aware of activity in V1",
+      "finding": "A short argument from monkey anatomy: V1 does not project directly to frontal cortex, so its activity may not be available to the parts of the brain that plan and report. It was a prediction, and it set off years of experiments.",
+      "quote": "But the neuroanatomy of the macaque monkey suggests that, although primates may be aware of neural activity in other visual cortical areas, they are not directly aware of that in area V1.",
+      "pmid": "7753166",
+      "doi": "10.1038/375121a0",
+      "cite": "Crick F, Koch C. Are we aware of neural activity in primary visual cortex? Nature. 1995;375(6527):121-3.",
+      "year": 1995
+     }
+    ]
+   },
+   {
+    "n": "Brain stem: the switch",
+    "cat": "level",
+    "rs": [
+     "pons",
+     "midbrain"
+    ],
+    "view": "medial",
+    "x": "Small strokes in the tegmentum of the upper pons and midbrain cause coma even when the entire cortex is intact. The nuclei there, among them the locus coeruleus, raphe and parabrachial nucleus, keep the thalamus and cortex in a state that can support experience.",
+    "limit": "These structures enable consciousness without appearing to carry its content, the way a power supply is needed for a screen to show a picture without holding the picture. Most researchers treat the brain stem as a background condition. A minority view holds that it also generates basic feeling.",
+    "ev": [
+     {
+      "kind": "lesion",
+      "claim": "Coma follows bilateral damage to the upper pontine tegmentum",
+      "also": [
+       "pons"
+      ],
+      "finding": "MRIs of 47 patients with brain stem stroke were mapped onto a histological atlas. The 9 with coma had tegmental lesions that were mostly bilateral, in the pons alone or the upper pons and midbrain. The 38 without coma had damage outside the tegmentum or a very small one-sided lesion.",
+      "quote": "In contrast, in patients who had coma (n = 9), the lesions in the tegmentum were mostly bilateral (n = 7) and were located either in the pons alone (n = 4) or in the upper pons and the midbrain (n = 5).",
+      "pmid": "12805123",
+      "doi": "10.1093/brain/awg166",
+      "cite": "Parvizi J, Damasio AR. Neuroanatomical correlates of brainstem coma. Brain. 2003;126(Pt 7):1524-36.",
+      "year": 2003
+     },
+     {
+      "kind": "lesion",
+      "claim": "One small pontine site separates coma-causing lesions from others",
+      "finding": "Twelve coma-causing brain stem lesions were compared with 24 that did not cause coma. A small region of the rostral dorsolateral pontine tegmentum was specific to coma. In healthy people that site is functionally connected to the anterior insula and pregenual anterior cingulate.",
+      "quote": "A small region in the rostral dorsolateral pontine tegmentum was significantly associated with coma-causing lesions.",
+      "pmid": "27815400",
+      "doi": "10.1212/WNL.0000000000003404",
+      "cite": "Fischer DB, Boes AD, Demertzi A, et al. A human brain network derived from coma-causing brainstem lesions. Neurology. 2016;87(23):2427-2434.",
+      "year": 2016
+     }
+    ]
+   },
+   {
+    "n": "Central thalamus: the gate",
+    "cat": "level",
+    "rs": [
+     "intralaminar_nuclei",
+     "mediodorsal_nucleus"
+    ],
+    "view": "medial",
+    "x": "The intralaminar and medial nuclei of the thalamus project widely across the cortex. Stimulating them raised responsiveness in a brain-injured patient and woke anesthetized monkeys. Recent recordings in patients suggest they may do more than set the level: their activity leads prefrontal cortex at the moment a faint stimulus becomes visible, and stimulating nearby changes what patients feel.",
+    "limit": "The human studies are small (the deep brain stimulation result is one patient) and come from injured or epileptic brains. Activity that comes first in the thalamus shows order in time, not that the thalamus produces the experience.",
+    "ev": [
+     {
+      "kind": "stimulation",
+      "claim": "Central thalamic stimulation raised responsiveness in a minimally conscious patient",
+      "finding": "A patient who had been minimally conscious for six years after a brain injury received bilateral deep brain stimulation of the central thalamus in a six-month double-blind crossover study. Behavioral responsiveness was higher with stimulation on than off. It is a single patient.",
+      "quote": "Here, in a 6-month double-blind alternating crossover study, we show that bilateral deep brain electrical stimulation (DBS) of the central thalamus modulates behavioural responsiveness in a patient who remained in MCS for 6 yr following traumatic brain injury before the intervention.",
+      "pmid": "17671503",
+      "doi": "10.1038/nature06041",
+      "cite": "Schiff ND, Giacino JT, Kalmar K, et al. Behavioural improvements with thalamic stimulation after severe traumatic brain injury. Nature. 2007;448(7153):600-3.",
+      "year": 2007
+     },
+     {
+      "kind": "stimulation",
+      "claim": "Stimulating the central lateral nucleus woke anesthetized monkeys",
+      "also": [
+       "intralaminar_nuclei"
+      ],
+      "finding": "Recordings in macaques that were awake, asleep or anesthetized showed that the central lateral thalamus and deep cortical layers changed most with the level of consciousness. Stimulating the central lateral nucleus under anesthesia restored arousal and wake-like activity, and only at particular sites and frequencies.",
+      "quote": "To show causality, we stimulated CL in anesthetized macaques and effectively restored arousal and wake-like neural processing.",
+      "pmid": "32053769",
+      "doi": "10.1016/j.neuron.2020.01.005",
+      "cite": "Redinbaugh MJ, Phillips JM, Kambi NA, et al. Thalamus modulates consciousness via layer-specific control of cortex. Neuron. 2020;106(1):66-75.e12.",
+      "year": 2020
+     },
+     {
+      "kind": "recording",
+      "claim": "Intralaminar and medial thalamic activity leads prefrontal cortex in conscious perception",
+      "also": [
+       "intralaminar_nuclei"
+      ],
+      "finding": "Patients with electrodes in several thalamic nuclei and prefrontal cortex did a task in which a faint visual stimulus was sometimes seen and sometimes not. Activity related to seeing it came earlier and was stronger in the intralaminar and medial nuclei than in ventral nuclei or prefrontal cortex.",
+      "quote": "Compared with the ventral nuclei and PFC, the intralaminar and medial nuclei presented earlier and stronger consciousness-related activity.",
+      "pmid": "40179184",
+      "doi": "10.1126/science.adr3675",
+      "cite": "Fang Z, Dang Y, Ping A, et al. Human high-order thalamic nuclei gate conscious perception through the thalamofrontal loop. Science. 2025;388(6742):eadr3675.",
+      "year": 2025
+     },
+     {
+      "kind": "stimulation",
+      "claim": "Stimulating near the mediodorsal nucleus changed experience in 11 of 12 patients",
+      "also": [
+       "mediodorsal_nucleus"
+      ],
+      "finding": "In epilepsy patients with electrodes in or near the mediodorsal nucleus, 50 Hz stimulation changed conscious experience in 11 of the 12 tested, mostly visceral, emotional or bodily feelings that were often unpleasant.",
+      "quote": "Applying 50 Hz stimulations (iESHF) in the mid-thalamus region elicited changes in conscious experience in 11 of 12 patients (39 sites; 83 stimulations across 27 unique pairs), predominantly in the visceral, emotional, or somatosensory domains and often described as unpleasant without any seemingly obvious lateralization effect.",
+      "pmid": "42086322",
+      "doi": "10.1523/JNEUROSCI.2100-25.2026",
+      "cite": "Pantis S, Togo M, Lyu D, et al. Electrophysiological brain connectivity and subjective states evoked by electrical stimulation of the human mid-thalamus. J Neurosci. 2026;46(22):e2100252026.",
+      "year": 2026
+     }
+    ]
+   },
+   {
+    "n": "Cerebellum: most of the neurons, none of the experience",
+    "cat": "not",
+    "rs": [
+     "cerebellum"
+    ],
+    "view": "posterior",
+    "solid": true,
+    "x": "The cerebral cortex holds only about a fifth of the brain's neurons. Most of the rest are in the cerebellum, yet people born without a cerebellum are conscious. They have trouble with coordination, speech and some kinds of learning, not with being aware.\n\nThis is the strongest single argument that consciousness is not a matter of how many neurons a structure has. Any theory has to explain why the cerebellum's wiring does not contribute.",
+    "limit": "Being born without a cerebellum is rare (eleven living cases had been reported by 2018), and the rest of the brain develops around the absence. The cases show the cerebellum is not required. They do not show it contributes nothing in a typical brain.",
+    "ev": [
+     {
+      "kind": "histology",
+      "claim": "The cerebral cortex is 82% of brain mass but holds 19% of its neurons",
+      "finding": "Counting cell nuclei in adult male brains gave an average of 86.1 billion neurons. The cerebral cortex, most of the brain by mass, held only 19 percent of them. Most of the remainder are cerebellar granule cells.",
+      "quote": "With only 19% of all neurons located in the cerebral cortex, greater cortical size (representing 82% of total brain mass) in humans compared with other primates does not reflect an increased relative number of cortical neurons.",
+      "pmid": "19226510",
+      "doi": "10.1002/cne.21974",
+      "cite": "Azevedo FA, Carvalho LR, Grinberg LT, et al. Equal numbers of neuronal and nonneuronal cells make the human brain an isometrically scaled-up primate brain. J Comp Neurol. 2009;513(5):532-41.",
+      "year": 2009,
+      "data": {
+       "title": "The cerebral cortex as a share of the whole brain",
+       "unit": "%",
+       "items": [
+        [
+         "of brain mass",
+         82
+        ],
+        [
+         "of neurons",
+         19
+        ]
+       ]
+      }
+     },
+     {
+      "kind": "lesion",
+      "claim": "A woman born with no cerebellum is aware, with mild to moderate motor deficits",
+      "also": [
+       "cerebellum"
+      ],
+      "finding": "A 26-year-old woman with complete primary cerebellar agenesis was tested against twelve controls. She had only mild to moderate motor deficits but could not learn a conditioned eyeblink even after a week of training, and judged time intervals poorly.",
+      "quote": "We found that although the complete PCA patient had only mild to moderate motor deficits, she was unable to perform the delayed EBC even after 1-week of extensive training.",
+      "pmid": "30031016",
+      "doi": "10.1016/j.neuropsychologia.2018.07.021",
+      "cite": "Wu B, Yao J, Wu GY, et al. Absence of associative motor learning and impaired time perception in a rare case of complete cerebellar agenesis. Neuropsychologia. 2018;117:551-557.",
+      "year": 2018
+     }
+    ]
+   },
+   {
+    "n": "Primary visual cortex: needed for sight, perhaps not part of it",
+    "cat": "debated",
+    "rs": [
+     "primary_visual_cortex"
+    ],
+    "view": "posterior",
+    "x": "Destroying V1 abolishes conscious vision in the matching part of the visual field. Yet some patients can still point to or discriminate things they insist they cannot see, which is called blindsight. So V1 is needed for normal seeing.\n\nBut in binocular rivalry, where each eye gets a different image and perception flips between them while the input stays the same, only a small share of V1 neurons follow the percept. Higher up, in inferior temporal cortex, almost all do. Crick and Koch proposed in 1995 that we are not directly aware of V1 activity at all.",
+    "limit": "Whether V1 is part of the correlate or only feeds it is still open. Human imaging studies of rivalry have found larger effects in V1 than the monkey recordings did, and the two methods measure different things.",
+    "ev": [
+     {
+      "kind": "lesion",
+      "claim": "After V1 damage, stimuli can still be processed without any conscious vision",
+      "also": [
+       "primary_visual_cortex"
+      ],
+      "finding": "This review of blindsight in humans and monkeys describes cortical blindness after destruction of V1 or the optic radiations: no conscious vision in the affected field, but reflexes and forced-choice guessing still respond to stimuli there, through visual pathways that bypass V1.",
+      "quote": "It is characterized by an absence of any conscious vision, but stimuli presented inside its borders may nevertheless be processed.",
+      "pmid": "9126063",
+      "doi": "10.1093/brain/120.3.535",
+      "cite": "Stoerig P, Cowey A. Blindsight in man and monkey. Brain. 1997;120(Pt 3):535-59.",
+      "year": 1997
+     },
+     {
+      "kind": "recording",
+      "claim": "In monkeys, few early visual neurons follow the percept; almost all temporal ones do",
+      "finding": "Single neurons were recorded while monkeys reported which of two rival images they saw. In inferior temporal cortex and the superior temporal sulcus, almost all neurons fired only when their preferred image was the one perceived. Earlier recordings in V1, V2, V4 and MT had found this in only a small proportion.",
+      "quote": "Previous recordings in areas V1, V2, V4, and MT of monkeys experiencing binocular rivalry showed that only a small proportion of striate and early extrastriate neurons discharge exclusively when the driving stimulus is seen. In contrast, the activity of almost all neurons in the inferior temporal cortex and the visual areas of the cortex of superior temporal sulcus was found to be contingent upon the perceptual dominance of an effective visual stimulus.",
+      "pmid": "9096407",
+      "doi": "10.1073/pnas.94.7.3408",
+      "cite": "Sheinberg DL, Logothetis NK. The role of temporal cortical areas in perceptual organization. Proc Natl Acad Sci U S A. 1997;94(7):3408-13.",
+      "year": 1997
+     }
+    ]
+   },
+   {
+    "n": "Ventral temporal cortex: activity that follows what you see",
+    "cat": "content",
+    "rs": [
+     "fusiform_face_area",
+     "parahippocampal_place_area",
+     "inferior_temporal_cortex"
+    ],
+    "view": "inferior",
+    "x": "Show a face to one eye and a house to the other, and perception alternates between them while the input stays fixed. Activity in the fusiform face area and the parahippocampal place area rises and falls with whichever one is seen at that moment.\n\nStimulating face-selective fusiform cortex in a patient distorted the faces of the people in front of him and nothing else. That is causal evidence that activity here shapes the content of experience.",
+    "limit": "This is evidence about one kind of content: seen objects. Most of what is known about content comes from vision because it is easy to control in the laboratory. It may not transfer to smell, pain, thought or emotion.",
+    "ev": [
+     {
+      "kind": "imaging",
+      "claim": "Face and place area activity follows the percept during binocular rivalry",
+      "also": [
+       "fusiform_face_area"
+      ],
+      "finding": "A face was shown to one eye and a house to the other during fMRI. When perception switched to the face, fusiform face area activity rose and parahippocampal place area activity fell, and the reverse for the house. The changes were as large as when the pictures were physically swapped.",
+      "quote": "These responses during rivalry were equal in magnitude to those evoked by nonrivalrous stimulus alternation, suggesting that activity in the FFA and PPA reflects the perceived rather than the retinal stimulus, and that neural competition during binocular rivalry has been resolved by these stages of visual processing.",
+      "pmid": "9808462",
+      "doi": "10.1016/s0896-6273(00)80592-9",
+      "cite": "Tong F, Nakayama K, Vaughan JT, Kanwisher N. Binocular rivalry and visual awareness in human extrastriate cortex. Neuron. 1998;21(4):753-9.",
+      "year": 1998
+     },
+     {
+      "kind": "stimulation",
+      "claim": "Stimulating face-selective fusiform cortex distorted the faces a patient was looking at",
+      "finding": "In one patient with electrodes over two face-selective fusiform sites, electrical stimulation made real faces look distorted while objects looked normal. Sham stimulation and nearby sites had no effect.",
+      "quote": "Moreover, electrical charge delivered to this pair of electrodes induced a profound face-specific perceptual distortion during viewing of real faces.",
+      "pmid": "23100414",
+      "doi": "10.1523/JNEUROSCI.2609-12.2012",
+      "cite": "Parvizi J, Jacques C, Foster BL, et al. Electrical stimulation of human fusiform face-selective regions distorts face perception. J Neurosci. 2012;32(43):14915-20.",
+      "year": 2012
+     }
+    ]
+   },
+   {
+    "n": "The posterior hot zone",
+    "cat": "content",
+    "z": 0,
+    "rs": [
+     "parietal_lobe",
+     "occipital_lobe",
+     "inferior_temporal_cortex",
+     "fusiform_gyrus",
+     "middle_temporal_gyrus"
+    ],
+    "view": "lateral",
+    "x": "Koch, Tononi and their colleagues argue that the best candidate for the content-specific correlates is a zone across the back of the cortex, covering parietal, occipital and posterior temporal areas and including sensory cortex, and not the frontal lobes.\n\nThree lines of evidence are offered. Whether a sleeper reports a dream tracks activity there. Anesthetics that remove consciousness disconnect it. Stimulating it usually changes what a patient experiences, while stimulating much of the frontal lobe does not.",
+    "limit": "This is one camp's reading. Their opponents interpret the same studies differently (next step). The 2025 head-to-head test did find information about what people saw in posterior cortex, but not the sustained synchrony there that the camp's theory had predicted.",
+    "ev": [
+     {
+      "kind": "review",
+      "claim": "Koch and colleagues place the correlates in a posterior cortical hot zone",
+      "finding": "The review argues from lesion, stimulation and imaging studies that content-specific correlates lie mainly in posterior cortex, and that frontal and parietal activity seen in many experiments reflects monitoring the task and reporting.",
+      "quote": "we describe recent findings showing that the anatomical neural correlates of consciousness are primarily localized to a posterior cortical hot zone that includes sensory areas, rather than to a fronto-parietal network involved in task monitoring and reporting.",
+      "pmid": "27094080",
+      "doi": "10.1038/nrn.2016.22",
+      "cite": "Koch C, Massimini M, Boly M, Tononi G. Neural correlates of consciousness: progress and problems. Nat Rev Neurosci. 2016;17(5):307-21.",
+      "year": 2016
+     },
+     {
+      "kind": "recording",
+      "claim": "Dream reports go with less slow-wave activity in posterior cortex",
+      "finding": "Sleepers wearing high-density EEG were woken repeatedly and asked whether they had been experiencing anything. In both REM and non-REM sleep, a report of dreaming went with a local drop in low-frequency activity over posterior cortex. Watching that zone in real time predicted whether a dream would be reported.",
+      "quote": "In both NREM and REM sleep, reports of dream experience were associated with local decreases in low-frequency activity in posterior cortical regions.",
+      "pmid": "28394322",
+      "doi": "10.1038/nn.4545",
+      "cite": "Siclari F, Baird B, Perogamvros L, et al. The neural correlates of dreaming. Nat Neurosci. 2017;20(6):872-878.",
+      "year": 2017
+     },
+     {
+      "kind": "review",
+      "claim": "Anesthetics remove consciousness when they disconnect a posterior parietal complex",
+      "finding": "A review of how anesthetics act concludes that unresponsiveness and unconsciousness are different things, and that consciousness is lost when a complex of posterior parietal regions is inactivated or functionally disconnected.",
+      "quote": "Unconsciousness is likely to ensue when a complex of brain regions in the posterior parietal area is inactivated.",
+      "pmid": "18988836",
+      "doi": "10.1126/science.1149213",
+      "cite": "Alkire MT, Hudetz AG, Tononi G. Consciousness and anesthesia. Science. 2008;322(5903):876-80.",
+      "year": 2008
+     }
+    ]
+   },
+   {
+    "n": "Prefrontal cortex: the main dispute",
+    "cat": "debated",
+    "rs": [
+     "prefrontal_cortex"
+    ],
+    "view": "lateral",
+    "x": "Global workspace and higher-order theories hold that prefrontal cortex is essential. On this view a stimulus becomes conscious when it ignites a brain-wide network that includes frontal areas, roughly 300 ms after it appears.\n\nCritics answer that frontal activity reflects reporting, deciding and remembering what was seen, not the seeing itself. Each side has both causal and correlational evidence, shown below.",
+    "limit": "A null result (no frontal activity found, no effect of stimulation) is weak evidence when the method is insensitive, which is the prefrontal side's reply. And asking a patient with frontal damage what they see tests reporting as well as seeing.",
+    "ev": [
+     {
+      "kind": "recording",
+      "claim": "For: brain activity for seen and unseen words diverges around 270 ms",
+      "finding": "In the attentional blink, the same word is sometimes seen and sometimes missed. EEG showed that early responses were intact for unseen words. From about 270 ms a late wave of activity across association cortex appeared only for seen words.",
+      "quote": "However, we observed a rapid divergence around 270 ms, after which several brain events were evoked solely by seen words.",
+      "pmid": "16158062",
+      "doi": "10.1038/nn1549",
+      "cite": "Sergent C, Baillet S, Dehaene S. Timing of the brain events underlying access to consciousness during the attentional blink. Nat Neurosci. 2005;8(10):1391-400.",
+      "year": 2005
+     },
+     {
+      "kind": "lesion",
+      "claim": "For: prefrontal lesions raise the threshold for seeing a masked stimulus",
+      "also": [
+       "prefrontal_cortex"
+      ],
+      "finding": "Patients with focal prefrontal lesions needed a longer gap between a stimulus and its mask before they reported seeing it, most of all after left anterior damage. Their subjective reports were affected more than their objective performance.",
+      "quote": "In all conditions of temporal or spatial attention cueing, the threshold for access to consciousness was systematically shifted in patients, particular after a lesion of the left anterior PFC.",
+      "pmid": "19433438",
+      "doi": "10.1093/brain/awp111",
+      "cite": "Del Cul A, Dehaene S, Reyes P, Bravo E, Slachevsky A. Causal role of prefrontal cortex in the threshold for access to consciousness. Brain. 2009;132(Pt 9):2531-40.",
+      "year": 2009
+     },
+     {
+      "kind": "imaging",
+      "claim": "Against: without a report, frontal activity during rivalry disappears",
+      "finding": "Perception during binocular rivalry was tracked from eye movements and pupil size, so observers did not have to report. With active report, occipital, parietal and frontal areas followed the switches. With passive viewing the frontal differences were gone, while occipital and parietal ones remained.",
+      "quote": "Importantly, when observers passively experienced rivalry without reporting perceptual alternations, a different picture emerged: differential neural activity in frontal areas was absent, whereas activation in occipital and parietal regions persisted.",
+      "pmid": "24478356",
+      "doi": "10.1523/JNEUROSCI.4403-13.2014",
+      "cite": "Frässle S, Sommer J, Jansen A, Naber M, Einhäuser W. Binocular rivalry: frontal activity relates to introspection and action but not to perception. J Neurosci. 2014;34(5):1738-47.",
+      "year": 2014
+     },
+     {
+      "kind": "stimulation",
+      "claim": "Against: stimulating lateral prefrontal cortex seldom changes experience",
+      "also": [
+       "prefrontal_cortex"
+      ],
+      "finding": "A synthesis of intracranial stimulation studies in patients. Stimulating orbitofrontal and anterior cingulate cortex reliably changed experience, mostly emotion. Stimulating anterolateral prefrontal sites, the ones workspace and higher-order theories emphasize, seldom produced anything patients could report.",
+      "quote": "Conversely, stimulation of anterolateral prefrontal sites, often considered crucial in higher-order and global workspace theories of consciousness, seldom elicits any reportable alterations in consciousness.",
+      "pmid": "33692142",
+      "doi": "10.1523/JNEUROSCI.1141-20.2020",
+      "cite": "Raccah O, Block N, Fox KCR. Does the prefrontal cortex play an essential role in consciousness? Insights from intracranial electrical stimulation of the human brain. J Neurosci. 2021;41(10):2076-2087.",
+      "year": 2021
+     },
+     {
+      "kind": "review",
+      "claim": "The reply: the null findings come from methods with limited sensitivity",
+      "finding": "Odegaard, Knight and Lau argue that three common claims (prefrontal lesions spare perception, prefrontal activity carries no specific content, and it only reflects report) do not survive studies with more sensitive methods.",
+      "quote": "These claims are incompatible with empirical findings, unless one focuses only on studies using methods with limited sensitivity.",
+      "pmid": "28978696",
+      "doi": "10.1523/JNEUROSCI.3217-16.2017",
+      "cite": "Odegaard B, Knight RT, Lau H. Should a few null findings falsify prefrontal theories of conscious perception? J Neurosci. 2017;37(40):9593-9602.",
+      "year": 2017
+     }
+    ]
+   },
+   {
+    "n": "Claustrum: a bold idea and six patients",
+    "cat": "debated",
+    "at": [
+     -33,
+     3,
+     1
+    ],
+    "pl": "Claustrum",
+    "view": "lateral",
+    "x": "The claustrum is a thin sheet of neurons under the insula that is connected with almost the whole cortex. In the last paper they wrote together, Crick and Koch speculated that it coordinates cortical areas so that experience is unified.\n\nIn 2014, stimulating an electrode beside the left claustrum in one epilepsy patient stopped her responding, and she had no memory of the episode afterward. In 2019, stimulating inside the claustrum itself, on both sides, in five patients caused no loss of awareness.",
+    "limit": "One patient against five settles nothing either way. The 2014 electrode sat between the claustrum and the insula, and unresponsiveness with amnesia does not prove that experience stopped. The claustrum is too thin to draw on this model, so the marker is approximate.",
+    "ev": [
+     {
+      "kind": "hypothesis",
+      "claim": "The claustrum is connected with almost all of the cortex",
+      "finding": "Crick and Koch summarize the anatomy and speculate that the claustrum helps give rise to integrated conscious percepts. They propose experiments; they do not report any.",
+      "quote": "Its anatomy is quite remarkable in that it receives input from almost all regions of cortex and projects back to almost all regions of cortex.",
+      "pmid": "16147522",
+      "doi": "10.1098/rstb.2005.1661",
+      "cite": "Crick FC, Koch C. What is the function of the claustrum? Philos Trans R Soc Lond B Biol Sci. 2005;360(1458):1271-9.",
+      "year": 2005
+     },
+     {
+      "kind": "stimulation",
+      "claim": "In one patient, stimulation beside the claustrum stopped all responding",
+      "finding": "A 54-year-old woman with depth electrodes for epilepsy stopped all voluntary behavior and became unresponsive each time one electrode between the left claustrum and anterior insula was stimulated, with no memory of it afterward. Electrodes within 5 mm had no such effect.",
+      "quote": "Stimulation of the claustral electrode reproducibly resulted in a complete arrest of volitional behavior, unresponsiveness, and amnesia without negative motor symptoms or mere aphasia.",
+      "pmid": "24967698",
+      "doi": "10.1016/j.yebeh.2014.05.027",
+      "cite": "Koubeissi MZ, Bartolomei F, Beltagy A, Picard F. Electrical stimulation of a small brain area reversibly disrupts consciousness. Epilepsy Behav. 2014;37:32-5.",
+      "year": 2014
+     },
+     {
+      "kind": "stimulation",
+      "claim": "In five patients, stimulation inside the claustrum did not remove awareness",
+      "finding": "Five neurosurgical patients were stimulated within the core of the claustrum, on one side or both. They reported sensations and showed reflex movements, but none lost consciousness or awareness, even with strong bilateral stimulation.",
+      "quote": "However, none of the stimulations evoked loss of consciousness or lack of subjective awareness even with strong bilateral stimulations.",
+      "pmid": "31196825",
+      "doi": "10.1016/j.yebeh.2019.03.051",
+      "cite": "Bickel S, Parvizi J. Electrical stimulation of the human claustrum. Epilepsy Behav. 2019;97:296-303.",
+      "year": 2019
+     }
+    ]
+   },
+   {
+    "n": "Medial temporal lobe: a correlate that is not required",
+    "cat": "not",
+    "rs": [
+     "hippocampus",
+     "amygdala",
+     "entorhinal_cortex"
+    ],
+    "view": "medial",
+    "x": "Single neurons in the human hippocampus, amygdala and entorhinal cortex follow what a person consciously sees, not what is on the retina. Koch's group showed this with flash suppression, where flashing a new image to one eye makes the other eye's image vanish from view.\n\nYet patients who lost these structures on both sides, such as H.M., could not form new memories but were plainly conscious. So this activity is a correlate of experience without being necessary for it. The Concept neurons tour covers these cells in detail.",
+    "limit": "This is the clearest example of why a correlate is not enough. Activity can track experience closely because it is a consequence of the experience (here, probably storing it as memory) and not its basis.",
+    "ev": [
+     {
+      "kind": "recording",
+      "claim": "Two thirds of selective medial temporal neurons follow the percept, not the retinal input",
+      "also": [
+       "amygdala"
+      ],
+      "finding": "Single neurons were recorded in the amygdala, entorhinal cortex, hippocampus and parahippocampal gyrus of epilepsy patients during flash suppression. Two thirds of the visually selective neurons followed what the patient perceived, and none responded to an image that was on the retina but suppressed from view.",
+      "quote": "We observed that the activity of two thirds of all visually selective neurons followed the perceptual alternations rather than the retinal input. None of the selective neurons responded to a perceptually suppressed stimulus.",
+      "pmid": "12034865",
+      "doi": "10.1073/pnas.072194099",
+      "cite": "Kreiman G, Fried I, Koch C. Single-neuron correlates of subjective vision in the human medial temporal lobe. Proc Natl Acad Sci U S A. 2002;99(12):8378-83.",
+      "year": 2002
+     },
+     {
+      "kind": "lesion",
+      "claim": "Removing both medial temporal lobes caused amnesia, not loss of consciousness",
+      "finding": "Scoville and Milner tested patients after bilateral medial temporal resection, among them H.M. Memory for new events was lost when the removal reached the hippocampus. Perception, personality and general intelligence were not impaired.",
+      "quote": "Bilateral medial temporal lobe resection in man results in a persistent impairment of recent memory whenever the removal is carried far enough posteriorly to damage portions of the anterior hippocampus and hippocampal gyrus.",
+      "pmid": "10678523",
+      "doi": "10.1176/jnp.12.1.103",
+      "cite": "Scoville WB, Milner B. Loss of recent memory after bilateral hippocampal lesions. 1957. J Neuropsychiatry Clin Neurosci. 2000;12(1):103-13 (reprint of the 1957 paper).",
+      "year": 2000
+     }
+    ],
+    "ce": 0.42
+   },
+   {
+    "n": "Corpus callosum: does cutting it split the mind?",
+    "cat": "debated",
+    "rs": [
+     "corpus_callosum"
+    ],
+    "view": "medial",
+    "x": "Cutting the corpus callosum to treat epilepsy leaves the two hemispheres unable to share what they see. The classic studies of the 1960s concluded that each hemisphere then has its own stream of consciousness, with only the left able to talk about it.\n\nA 2017 study of two patients challenged this. They could report the presence and location of stimuli anywhere in the visual field with either hand or by speech, although they still could not compare items across the two halves.",
+    "limit": "The newer result rests on two patients tested decades after their surgery, when other connections may have taken over. How to count conscious subjects in one skull is partly a question of definition, which no measurement settles.",
+    "ev": [
+     {
+      "kind": "lesion",
+      "claim": "Two split-brain patients showed divided perception but unified report",
+      "also": [
+       "corpus_callosum"
+      ],
+      "finding": "Two patients with complete, radiologically confirmed section of the corpus callosum could not compare stimuli across the two visual half-fields. But they detected and located stimuli across the whole field well above chance whether they answered with the left hand, the right hand or speech, including on high-confidence trials.",
+      "quote": "These findings suggest that severing the cortical connections between hemispheres splits visual perception, but does not create two independent conscious perceivers within one brain.",
+      "pmid": "28122878",
+      "doi": "10.1093/brain/aww358",
+      "cite": "Pinto Y, Neville DA, Otten M, et al. Split brain: divided perception but undivided consciousness. Brain. 2017;140(5):1231-1237.",
+      "year": 2017
+     }
+    ]
+   },
+   {
+    "n": "Measuring the level: perturbational complexity",
+    "x": "This approach asks what kind of activity goes with consciousness, not where it is. A magnetic pulse is delivered to the cortex and EEG records how the response spreads. In wakefulness the response travels widely and differs from place to place. In deep sleep and under anesthesia it either stays local or looks the same everywhere.\n\nThe perturbational complexity index (PCI) turns that into one number. It separates conscious from unconscious conditions without the person having to respond, which is what a clinician needs at the bedside.",
+    "limit": "PCI was validated on people who could say afterward whether they had been conscious. For patients who cannot report there is nothing to check it against: 9 of 43 vegetative patients scored in the conscious range, and nobody can confirm what, if anything, they experienced.",
+    "ev": [
+     {
+      "kind": "stimulation",
+      "claim": "In deep sleep a magnetic pulse no longer spreads beyond the site stimulated",
+      "finding": "Premotor cortex was stimulated with transcranial magnetic pulses during EEG. Awake, the response moved as a series of waves to connected areas centimeters away. In non-REM sleep the first response was stronger but died out locally.",
+      "quote": "During non-rapid eye movement sleep, the initial response was stronger but was rapidly extinguished and did not propagate beyond the stimulation site.",
+      "pmid": "16195466",
+      "doi": "10.1126/science.1117256",
+      "cite": "Massimini M, Ferrarelli F, Huber R, et al. Breakdown of cortical effective connectivity during sleep. Science. 2005;309(5744):2228-32.",
+      "year": 2005
+     },
+     {
+      "kind": "stimulation",
+      "claim": "The complexity of the response tells conscious from unconscious states in individuals",
+      "finding": "PCI compresses the EEG response to a magnetic pulse to measure how complex it is. It was tested in healthy people awake, dreaming, in non-REM sleep and sedated with midazolam, xenon or propofol, and in patients who had emerged from coma.",
+      "quote": "PCI reliably discriminated the level of consciousness in single individuals during wakefulness, sleep, and anesthesia, as well as in patients who had emerged from coma and recovered a minimal level of consciousness.",
+      "pmid": "23946194",
+      "doi": "10.1126/scitranslmed.3006294",
+      "cite": "Casali AG, Gosseries O, Rosanova M, et al. A theoretically based index of consciousness independent of sensory processing and behavior. Sci Transl Med. 2013;5(198):198ra105.",
+      "year": 2013
+     },
+     {
+      "kind": "clinical validation",
+      "claim": "A PCI cutoff detected 94.7% of minimally conscious patients",
+      "finding": "A cutoff was set on 150 people who could report their state, where it separated conscious from unconscious conditions perfectly. Applied to patients who could not communicate, it detected 94.7 percent of the 38 in a minimally conscious state and put 9 of 43 vegetative patients in the conscious range.",
+      "quote": "We found an empirical cutoff that discriminated with 100% sensitivity and specificity between the conscious and the unconscious conditions in the benchmark population. This cutoff resulted in a sensitivity of 94.7% in detecting MCS and allowed the identification of a number of unresponsive VS patients (9 of 43) with high values of PCI, overlapping with the distribution of the benchmark conscious condition.",
+      "pmid": "27717082",
+      "doi": "10.1002/ana.24779",
+      "cite": "Casarotto S, Comanducci A, Rosanova M, et al. Stratification of unresponsive patients by an independently validated index of brain complexity. Ann Neurol. 2016;80(5):718-729.",
+      "year": 2016,
+      "data": {
+       "title": "Classified correctly by the PCI cutoff",
+       "unit": "%",
+       "items": [
+        [
+         "people who could report",
+         100
+        ],
+        [
+         "minimally conscious",
+         94.7
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "n": "Awareness without behavior",
+    "cat": "test",
+    "rs": [
+     "supplementary_motor_area",
+     "parahippocampal_gyrus"
+    ],
+    "view": "medial",
+    "x": "Some patients who show no response at the bedside can follow commands with their brain alone. Asked to imagine playing tennis, they activate the supplementary motor area. Asked to imagine walking through their home, they activate the parahippocampal gyrus. One patient answered yes-or-no questions this way.\n\nIn the largest study so far, one in four patients who could not respond to commands at the bedside did respond on fMRI or EEG.",
+    "limit": "The test only works in one direction. A positive result is strong evidence of awareness. A negative result means little: only 38 percent of patients who could follow commands at the bedside passed the same brain test, so it misses many people who are conscious.",
+    "ev": [
+     {
+      "kind": "imaging",
+      "claim": "A patient diagnosed as vegetative followed imagery commands in the scanner",
+      "finding": "A woman who met the criteria for the vegetative state was asked during fMRI to imagine playing tennis or walking around her home. Her brain activity matched that of healthy volunteers doing the same tasks. It is one patient.",
+      "quote": "When asked to imagine playing tennis or moving around her home, the patient activated predicted cortical areas in a manner indistinguishable from that of healthy volunteers.",
+      "pmid": "16959998",
+      "doi": "10.1126/science.1130197",
+      "cite": "Owen AM, Coleman MR, Boly M, et al. Detecting awareness in the vegetative state. Science. 2006;313(5792):1402.",
+      "year": 2006
+     },
+     {
+      "kind": "imaging",
+      "claim": "5 of 54 patients with disorders of consciousness could modulate their brain activity at will",
+      "finding": "Fifty-four patients in a vegetative or minimally conscious state were tested with two imagery tasks during fMRI at two centers. Five could modulate their brain activity on command. In two of them no voluntary behavior could be found at the bedside, and one answered yes-or-no questions in the scanner.",
+      "quote": "Of the 54 patients enrolled in the study, 5 were able to willfully modulate their brain activity.",
+      "pmid": "20130250",
+      "doi": "10.1056/NEJMoa0905370",
+      "cite": "Monti MM, Vanhaudenhuyse A, Coleman MR, et al. Willful modulation of brain activity in disorders of consciousness. N Engl J Med. 2010;362(7):579-89.",
+      "year": 2010
+     },
+     {
+      "kind": "imaging",
+      "claim": "One in four patients with no response to commands responded on fMRI or EEG",
+      "finding": "A prospective study at six centers tested 353 adults with disorders of consciousness using command-following tasks during fMRI, EEG or both. Of 241 with no observable response to commands, 60 responded on the brain tests. Among 112 who did respond at the bedside, only 43 passed the same tests.",
+      "quote": "We detected cognitive motor dissociation in 60 of the 241 participants (25%) without an observable response to commands, of whom 11 had been assessed with the use of fMRI only, 13 with the use of EEG only, and 36 with the use of both techniques. In contrast, responses on task-based fMRI or EEG occurred in 43 of 112 participants (38%) with an observable response to verbal commands.",
+      "pmid": "39141852",
+      "doi": "10.1056/NEJMoa2400645",
+      "cite": "Bodien YG, Allanson J, Cardone P, et al. Cognitive motor dissociation in disorders of consciousness. N Engl J Med. 2024;391(7):598-608.",
+      "year": 2024,
+      "data": {
+       "title": "Followed commands on fMRI or EEG",
+       "unit": "%",
+       "items": [
+        [
+         "no response at bedside",
+         25
+        ],
+        [
+         "responds at bedside",
+         38
+        ]
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "n": "Four theories and a head-to-head test",
+    "x": "There is no accepted theory of consciousness. The four families in the table are the most tested, and they disagree about where, when and why.\n\nIn 2025 the Cogitate consortium published the first adversarial collaboration in the field. Proponents of two theories agreed in advance on the experiments and on which results would count against them. Then 256 people were tested with fMRI, MEG and intracranial recordings. Key predictions of both theories failed.\n\nThe debate is also sharp. In September 2023, 124 researchers signed an open letter calling integrated information theory pseudoscience, on the grounds that its central claims cannot be tested. Others in the field rejected the label.",
+    "table": {
+     "head": [
+      "Theory",
+      "What makes a state conscious",
+      "Where it looks"
+     ],
+     "rows": [
+      [
+       "Global neuronal workspace (Baars, Dehaene, Changeux)",
+       "Its content is broadcast across the brain by a sudden, self-sustaining ignition, so every other process can use it",
+       "Prefrontal and parietal network, late"
+      ],
+      [
+       "Integrated information theory (Tononi, Koch)",
+       "The physical system has a highly integrated cause-effect structure; the theory identifies consciousness with that structure, and it comes in degrees",
+       "Posterior cortex"
+      ],
+      [
+       "Recurrent processing (Lamme)",
+       "Feedback loops inside sensory cortex; attention and report are extras",
+       "Sensory cortex"
+      ],
+      [
+       "Higher-order theories (Rosenthal, Lau)",
+       "The brain also represents itself as being in that state",
+       "Prefrontal cortex"
+      ]
+     ]
+    },
+    "limit": "The test covered one task (looking at clearly visible pictures) and two of many theories. A failed prediction can be absorbed by revising a theory, so the result narrowed the options without eliminating either one.",
+    "links": [
+     [
+      "The open letter (Nature news)",
+      "https://www.nature.com/articles/d41586-023-02971-1"
+     ]
+    ],
+    "ev": [
+     {
+      "kind": "adversarial test",
+      "claim": "Key predictions of both workspace and integrated information theory failed",
+      "finding": "Information about what people saw was found in visual, ventral temporal and inferior frontal cortex. Against integrated information theory, posterior cortex did not show sustained synchronization. Against the workspace theory, there was no ignition when a stimulus ended, and prefrontal cortex carried only some aspects of the content.",
+      "quote": "For IIT, a lack of sustained synchronization within the posterior cortex contradicts the claim that network connectivity specifies consciousness. GNWT is challenged by the general lack of ignition at stimulus offset and limited representation of certain conscious dimensions in the prefrontal cortex.",
+      "pmid": "40307561",
+      "doi": "10.1038/s41586-025-08888-1",
+      "cite": "Cogitate Consortium, Ferrante O, Gorska-Klimowska U, et al. Adversarial testing of global neuronal workspace and integrated information theories of consciousness. Nature. 2025;642(8066):133-142.",
+      "year": 2025
+     },
+     {
+      "kind": "review",
+      "claim": "It is unclear whether current theories can even be told apart by experiment",
+      "finding": "Seth and Bayne review four families of theory (higher-order, global workspace, re-entry and predictive processing, integrated information) and what each tries to explain. They often address different aspects of consciousness, which makes direct comparison hard.",
+      "quote": "However, in the case of consciousness, it is unclear how current theories relate to each other, or whether they can be empirically distinguished.",
+      "pmid": "35505255",
+      "doi": "10.1038/s41583-022-00587-4",
+      "cite": "Seth AK, Bayne T. Theories of consciousness. Nat Rev Neurosci. 2022;23(7):439-452.",
+      "year": 2022
+     },
+     {
+      "kind": "theory",
+      "claim": "Workspace theory: consciousness is a network ignition that makes information globally available",
+      "finding": "The theory's own authors state its central claim: in the conscious state, a nonlinear ignition amplifies and sustains one representation so that processors across the brain can access it.",
+      "quote": "The GNW hypothesis proposes that, in the conscious state, a non-linear network ignition associated with recurrent processing amplifies and sustains a neural representation, allowing the corresponding information to be globally accessed by local processors.",
+      "pmid": "32135090",
+      "doi": "10.1016/j.neuron.2020.01.026",
+      "cite": "Mashour GA, Roelfsema P, Changeux JP, Dehaene S. Conscious processing and the global neuronal workspace hypothesis. Neuron. 2020;105(5):776-798.",
+      "year": 2020
+     },
+     {
+      "kind": "theory",
+      "claim": "Integrated information theory starts from experience and derives what its substrate must be",
+      "finding": "The theory begins with properties it takes every experience to have, and derives requirements for a physical system to have them. Its authors note that it leads to counterintuitive predictions.",
+      "quote": "It argues that the physical substrate of consciousness must be a maximum of intrinsic cause-effect power and provides a means to determine, in principle, the quality and quantity of experience.",
+      "pmid": "27225071",
+      "doi": "10.1038/nrn.2016.44",
+      "cite": "Tononi G, Boly M, Massimini M, Koch C. Integrated information theory: from consciousness to its physical substrate. Nat Rev Neurosci. 2016;17(7):450-61.",
+      "year": 2016
+     }
+    ]
+   },
+   {
+    "n": "What the research cannot yet say",
+    "x": "The findings in this tour are real, but they are narrower than the question people want answered.",
+    "list": [
+     "Comparing seen with unseen trials mixes three things: what has to happen before an experience, the experience itself, and what follows from it, such as memory and report.",
+     "To know what someone experienced, they have to tell you. That builds reporting, attention and decision into nearly every experiment.",
+     "Across 412 experiments, which theory a study ended up supporting could be predicted from its methods alone, whatever it found.",
+     "Most work is on vision, in healthy adults or in patients with epilepsy, using stimuli that last a fraction of a second.",
+     "Unresponsive does not mean unconscious, so even sorting states into conscious and unconscious is uncertain.",
+     "There is no agreed way to test for consciousness in infants, other animals or machines.",
+     "None of it explains why any brain activity is accompanied by experience at all."
+    ],
+    "ev": [
+     {
+      "kind": "review",
+      "claim": "The correlate proper is confounded with its prerequisites and its consequences",
+      "finding": "The standard method compares brain activity when a stimulus is consciously perceived with when it is not. The authors show that the difference also contains processes that must come before the experience and processes that follow from it.",
+      "quote": "However, this comparison appears not to reveal exclusively the NCC, as the NCC proper can be confounded with prerequisites for and consequences of conscious processing of the particular content.",
+      "pmid": "22192881",
+      "doi": "10.1016/j.neubiorev.2011.12.003",
+      "cite": "Aru J, Bachmann T, Singer W, Melloni L. Distilling the neural correlates of consciousness. Neurosci Biobehav Rev. 2012;36(2):737-46.",
+      "year": 2012
+     },
+     {
+      "kind": "meta-analysis",
+      "claim": "Which theory a study supports can be predicted from its methods alone",
+      "finding": "A database of 412 experiments that interpreted their results in terms of one of four leading theories. The choice of method predicted which theory was supported, regardless of the findings, and most studies fitted results to a theory afterward instead of testing a prediction made in advance.",
+      "quote": "We found that supporting a specific theory can be predicted solely from methodological choices, irrespective of findings. Furthermore, most studies interpret their findings post hoc, rather than a priori testing critical predictions of the theories.",
+      "pmid": "35190711",
+      "doi": "10.1038/s41562-021-01284-5",
+      "cite": "Yaron I, Melloni L, Pitts M, Mudrik L. The ConTraSt database for analysing and comparing empirical studies of consciousness theories. Nat Hum Behav. 2022;6(4):593-604.",
+      "year": 2022
+     },
+     {
+      "kind": "review",
+      "claim": "Requiring a report has biased the search",
+      "finding": "The authors argue that because subjects must report what they experience, decades of studies have mixed the basis of experience with the machinery of reporting. No-report methods infer experience from eye movements or other signs instead.",
+      "quote": "However, we argue that the requirement of reports has biased the search for the neural correlates of consciousness over the past decades.",
+      "pmid": "26585549",
+      "doi": "10.1016/j.tics.2015.10.002",
+      "cite": "Tsuchiya N, Wilke M, Frässle S, Lamme VAF. No-report paradigms: extracting the true neural correlates of consciousness. Trends Cogn Sci. 2015;19(12):757-770.",
+      "year": 2015
+     },
+     {
+      "kind": "review",
+      "claim": "As of 2026, the search for the correlates of perceptual consciousness is unresolved",
+      "finding": "A 2026 review of intracranial recordings in patients. It concludes that non-invasive methods are too coarse and too insensitive to settle the debates, and that even direct recordings have not yet done so.",
+      "quote": "Despite many years of research, the quest to identify neural correlates of perceptual consciousness (NCC) remains unresolved.",
+      "pmid": "42530067",
+      "doi": "10.7554/eLife.109604",
+      "cite": "Stockart F, Robin A, Blumenfeld H, et al. Neural correlates of perceptual consciousness from within: a narrative review of human intracranial research. Elife. 2026;15:RP109604.",
+      "year": 2026
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "concept_neurons",
+  "name": "Concept neurons",
+  "sub": "Single human neurons that respond to one person, place or thing",
+  "view": "medial",
+  "color": "#2f63d8",
+  "about": "In the human medial temporal lobe, some neurons respond to a particular person or place however it is presented. They are among the few findings that tie single human neurons to memory and to awareness. All of it comes from a small number of patients, and the last step lists what that leaves unknown.",
+  "steps": [
+   {
+    "n": "The Jennifer Aniston neuron",
+    "cat": "cn",
+    "rs": [
+     "hippocampus"
+    ],
+    "view": "medial",
+    "x": "In 2005, recordings from epilepsy patients found neurons in the medial temporal lobe that fired to one person or place across very different pictures. One hippocampal neuron responded to photographs of the actress Jennifer Aniston and to almost nothing else shown. Another responded to pictures of Halle Berry, including one of her in costume, and to her written name.\n\nThe neuron responds to the idea of the person, not to a particular image. Christof Koch was a coauthor.",
+    "limit": "Each of these famous neurons was one of hundreds recorded, picked out because its response was so clean. Typical neurons are less selective.",
+    "ev": [
+     {
+      "kind": "recording",
+      "claim": "Some medial temporal neurons fire to one person or landmark across very different pictures",
+      "also": [
+       "hippocampus"
+      ],
+      "finding": "Single neurons were recorded in the medial temporal lobes of epilepsy patients looking at many pictures. A subset responded to strikingly different pictures of one individual, landmark or object, and in some cases to the written name as well.",
+      "quote": "Here we report on a remarkable subset of MTL neurons that are selectively activated by strikingly different pictures of given individuals, landmarks or objects and in some cases even by letter strings with their names.",
+      "pmid": "15973409",
+      "doi": "10.1038/nature03687",
+      "cite": "Quiroga RQ, Reddy L, Kreiman G, Koch C, Fried I. Invariant visual representation by single neurons in the human brain. Nature. 2005;435(7045):1102-7.",
+      "year": 2005
+     },
+     {
+      "kind": "review",
+      "claim": "These cells are called Jennifer Aniston neurons or concept cells",
+      "finding": "Quian Quiroga's review names the cells and argues that their sparse, explicit and abstract responses are what memory needs for linking one concept to another.",
+      "quote": "These neurons have been named 'Jennifer Aniston neurons' or, more recently, 'concept cells'.",
+      "pmid": "22760181",
+      "doi": "10.1038/nrn3251",
+      "cite": "Quiroga RQ. Concept cells: the building blocks of declarative memory functions. Nat Rev Neurosci. 2012;13(8):587-97.",
+      "year": 2012
+     }
+    ]
+   },
+   {
+    "n": "How the recordings are made",
+    "x": "Some patients with epilepsy that drugs cannot control have depth electrodes implanted for a week or two so that doctors can find where their seizures start. Fine microwires at the electrode tips can pick up single neurons. While they wait, patients volunteer to look at pictures on a laptop.\n\nEverything known about concept neurons comes from this setting.",
+    "limit": "The electrodes go where the clinical question requires, which is mostly the medial temporal lobe. The same neurons can rarely be followed for more than a few days.",
+    "ev": [
+     {
+      "kind": "review",
+      "claim": "The recordings come from epilepsy patients being evaluated for surgery",
+      "finding": "The opening of Quian Quiroga's review describes the source of all human single-neuron data on concept cells.",
+      "quote": "Intracranial recordings in subjects suffering from intractable epilepsy - made during their evaluation for an eventual surgical removal of the epileptic focus - have allowed the extraordinary opportunity to study the firing of multiple single neurons in awake and behaving human subjects.",
+      "pmid": "22760181",
+      "doi": "10.1038/nrn3251",
+      "cite": "Quiroga RQ. Concept cells: the building blocks of declarative memory functions. Nat Rev Neurosci. 2012;13(8):587-97.",
+      "year": 2012
+     }
+    ]
+   },
+   {
+    "n": "Up the hierarchy: later and more selective",
+    "cat": "cn",
+    "rs": [
+     "parahippocampal_gyrus",
+     "entorhinal_cortex",
+     "hippocampus",
+     "amygdala"
+    ],
+    "view": "inferior",
+    "x": "Visual information enters the medial temporal lobe through parahippocampal cortex, then entorhinal cortex, then the hippocampus and amygdala. At each stage neurons respond later and to fewer things.\n\nSelective responses are rare. In the largest early survey, about one neuron in eight responded to any of the pictures shown. The responses are also slow, coming roughly 300 ms or more after the picture appears, long after visual cortex has responded.",
+    "limit": "A session tests around a hundred pictures. A neuron that responds to one of them may respond to many things nobody showed it, so a claim that a neuron responds only to one concept can never be fully established.",
+    "ev": [
+     {
+      "kind": "recording",
+      "claim": "Of 3,278 neurons recorded, 398 responded selectively to a picture",
+      "also": [
+       "parahippocampal_gyrus"
+      ],
+      "finding": "Neurons were recorded in parahippocampal cortex, entorhinal cortex, hippocampus and amygdala across 96 sessions in 35 patients. About 12 percent responded selectively to at least one picture.",
+      "quote": "During 96 experimental sessions in 35 subjects, we recorded from a total of 3278 neurons. Of these units, 398 responded selectively to one or more of the presented stimuli.",
+      "pmid": "18768680",
+      "doi": "10.1523/JNEUROSCI.1640-08.2008",
+      "cite": "Mormann F, Kornblith S, Quiroga RQ, et al. Latency and selectivity of single neurons indicate hierarchical processing in the human medial temporal lobe. J Neurosci. 2008;28(36):8865-72.",
+      "year": 2008,
+      "data": {
+       "title": "Neurons in the survey",
+       "unit": "",
+       "items": [
+        [
+         "recorded",
+         3278
+        ],
+        [
+         "responded selectively",
+         398
+        ]
+       ]
+      }
+     },
+     {
+      "kind": "recording",
+      "claim": "Parahippocampal neurons respond earlier and less selectively than those further in",
+      "finding": "In the same recordings, the longer a neuron took to respond, the more selective it was. Parahippocampal neurons were the earliest and least selective of the four regions.",
+      "quote": "Particularly, parahippocampal neurons were found to respond significantly earlier and less selectively than those in the other three regions.",
+      "pmid": "18768680",
+      "doi": "10.1523/JNEUROSCI.1640-08.2008",
+      "cite": "Mormann F, Kornblith S, Quiroga RQ, et al. Latency and selectivity of single neurons indicate hierarchical processing in the human medial temporal lobe. J Neurosci. 2008;28(36):8865-72.",
+      "year": 2008
+     }
+    ],
+    "ce": 0.42
+   },
+   {
+    "n": "Across the senses",
+    "cat": "cn",
+    "rs": [
+     "entorhinal_cortex",
+     "hippocampus"
+    ],
+    "view": "medial",
+    "x": "The same neuron can fire to a person's photograph, their written name and their spoken name. This invariance across the senses gets stronger from parahippocampal cortex to the hippocampus.\n\nNeurons were also found for people the patient had met only a day or two before, including the researchers running the experiment. These responses can form quickly.",
+    "ev": [
+     {
+      "kind": "recording",
+      "claim": "Single neurons respond to the same person as a picture, written name and spoken name",
+      "also": [
+       "entorhinal_cortex"
+      ],
+      "finding": "Patients were shown pictures and heard or read the names of the same people. Single medial temporal neurons responded to one individual across all three forms. The effect was stronger at higher stages of the medial temporal lobe, and was seen for people met only a day or two earlier.",
+      "quote": "By using presentations of pictures and of spoken and written names, we show that (1) single neurons in the human medial temporal lobe (MTL) respond selectively to representations of the same individual across different sensory modalities; (2) the degree of multimodal invariance increases along the hierarchical structure within the MTL; and (3) such neuronal representations can be generated within less than a day or two.",
+      "pmid": "19631538",
+      "doi": "10.1016/j.cub.2009.06.060",
+      "cite": "Quian Quiroga R, Kraskov A, Koch C, Fried I. Explicit encoding of multimodal percepts by single neurons in the human brain. Curr Biol. 2009;19(15):1308-13.",
+      "year": 2009
+     }
+    ],
+    "ce": 0.42,
+    "limit": "Responding to a picture, a written name and a spoken name shows the neuron is not tied to one sense. It does not show what the neuron stands for: it could be the person, things linked with the person, or something the tested items happen to share."
+   },
+   {
+    "n": "Not grandmother cells",
+    "x": "A grandmother cell would be the one neuron that stands for one concept. That is not what was found, and the numbers rule it out. If there were a single Jennifer Aniston neuron among roughly a billion in the medial temporal lobe, a few dozen microwires would never have landed on it.\n\nThe statistics imply the opposite: each concept is carried by a large population, estimated at up to a few million neurons, and each neuron probably takes part in many concepts. The code is sparse, meaning a small fraction of neurons is active for any one thing, but it is far from one neuron per idea.",
+    "ev": [
+     {
+      "kind": "recording",
+      "claim": "The data fit a sparse code, not one neuron per concept",
+      "finding": "A probabilistic analysis of how often selective neurons were found, given how few neurons and pictures were sampled. The results are consistent with each neuron responding to a small fraction of all stimuli, and so with each stimulus activating a small fraction of neurons.",
+      "quote": "Here, we used a probabilistic analysis to show that these data are consistent with a sparse code in which neurons respond in a selective manner to a small fraction of stimuli.",
+      "pmid": "17021178",
+      "doi": "10.1523/JNEUROSCI.2101-06.2006",
+      "cite": "Waydo S, Kraskov A, Quian Quiroga R, Fried I, Koch C. Sparse representation in the human medial temporal lobe. J Neurosci. 2006;26(40):10232-4.",
+      "year": 2006
+     }
+    ],
+    "limit": "The population sizes are estimates from sampling statistics and have wide margins. They rest on assumptions about how many concepts a person knows and how evenly the electrodes sample neurons. Nobody has counted the neurons for one concept directly."
+   },
+   {
+    "n": "They follow recognition, not the image",
+    "cat": "cn",
+    "rs": [
+     "hippocampus",
+     "amygdala"
+    ],
+    "view": "medial",
+    "x": "Flash a picture so briefly that it is sometimes recognized and sometimes not. The neuron fires strongly on the trials where the patient recognizes it and stays nearly silent when they do not, although the image on the screen is identical.\n\nLater work with more neurons found that responses to unseen pictures are not absent. They are weaker, later and more scattered in time.",
+    "limit": "This makes concept neurons a correlate of awareness, but not a basis for it: people without these structures are still conscious (see the medial temporal lobe step of the Consciousness tour).",
+    "ev": [
+     {
+      "kind": "recording",
+      "claim": "A 33 ms flash triggers a full response when, and only when, it is recognized",
+      "finding": "Pictures were shown for 33 to 264 ms and then masked. Neuron responses did not grow with duration across the three shortest times. They followed whether the patient reported recognizing the picture.",
+      "quote": "Remarkably, when recognized, a single snapshot as brief as 33 ms was sufficient to trigger strong single-unit responses far outlasting stimulus presentation.",
+      "pmid": "18299568",
+      "doi": "10.1073/pnas.0707043105",
+      "cite": "Quiroga RQ, Mukamel R, Isham EA, Malach R, Fried I. Human single-neuron responses at the threshold of conscious recognition. Proc Natl Acad Sci U S A. 2008;105(9):3599-604.",
+      "year": 2008
+     },
+     {
+      "kind": "recording",
+      "claim": "Responses to unseen pictures are weaker, delayed and scattered in time",
+      "finding": "Recording 2,735 neurons in 21 patients during the attentional blink, where a second target often goes unseen. Unseen pictures still drove the neurons, but later, less precisely and at lower rates, and the difference grew from the back to the front of the medial temporal lobe.",
+      "quote": "Remarkably, responses to unseen versus seen stimuli were delayed and temporally more dispersed, in addition to being attenuated in firing rate.",
+      "pmid": "28943091",
+      "doi": "10.1016/j.cub.2017.08.025",
+      "cite": "Reber TP, Faber J, Niediek J, et al. Single-neuron correlates of conscious perception in the human medial temporal lobe. Curr Biol. 2017;27(19):2991-2998.e2.",
+      "year": 2017
+     }
+    ]
+   },
+   {
+    "n": "Recall, imagination and will",
+    "cat": "cn",
+    "rs": [
+     "hippocampus",
+     "entorhinal_cortex"
+    ],
+    "view": "medial",
+    "x": "No picture is needed. The same neurons fire when the person imagines the image with their eyes closed, and just before they say they have remembered a film clip they watched earlier.\n\nIn one experiment, two overlapping pictures were shown on a screen and the patient's own neurons controlled which one was visible. Patients learned to fade one picture in and the other out by thinking about it, often on the first try.",
+    "ev": [
+     {
+      "kind": "recording",
+      "claim": "The neurons that fired during a film clip fire again just before it is recalled",
+      "also": [
+       "hippocampus"
+      ],
+      "finding": "Patients watched short film clips and later recalled them freely, saying each one aloud as it came to mind. Hippocampal and entorhinal neurons that had fired selectively during a clip became active again before the patient reported remembering that clip.",
+      "quote": "Verbal reports of memories of these specific episodes at the time of free recall were preceded by selective reactivation of the same hippocampal and entorhinal cortex neurons.",
+      "pmid": "18772395",
+      "doi": "10.1126/science.1164685",
+      "cite": "Gelbard-Sagiv H, Mukamel R, Harel M, Malach R, Fried I. Internally generated reactivation of single neurons in human hippocampus during free recall. Science. 2008;322(5898):96-101.",
+      "year": 2008
+     },
+     {
+      "kind": "recording",
+      "claim": "88% of neurons selective in both seeing and imagining preferred the same image",
+      "finding": "Patients looked at pictures and then imagined them with eyes closed. Neurons in the hippocampus, amygdala, entorhinal cortex and parahippocampal gyrus changed their firing depending on which picture was imagined, and most preferred the same picture in imagery as in vision.",
+      "quote": "Of the neurons that fired selectively during both vision and imagery, the majority (88%) had identical selectivity.",
+      "pmid": "11099042",
+      "doi": "10.1038/35042575",
+      "cite": "Kreiman G, Koch C, Fried I. Imagery neurons in the human brain. Nature. 2000;408(6810):357-61.",
+      "year": 2000
+     },
+     {
+      "kind": "recording",
+      "claim": "Patients could raise and lower the firing of their own neurons at will",
+      "finding": "Two superimposed pictures were shown, and the firing of the patient's medial temporal neurons was decoded in real time to make one picture clearer. By focusing on one image, patients raised the rate of some neurons and lowered others, overriding what was on the screen.",
+      "quote": "Subjects reliably regulated, often on the first trial, the firing rate of their neurons, increasing the rate of some while simultaneously decreasing the rate of others.",
+      "pmid": "20981100",
+      "doi": "10.1038/nature09510",
+      "cite": "Cerf M, Thiruvengadam N, Mormann F, et al. On-line, voluntary control of human temporal lobe neurons. Nature. 2010;467(7319):1104-8.",
+      "year": 2010
+     }
+    ],
+    "ce": 0.42,
+    "limit": "These are correlations in a handful of patients. Even the voluntary control experiment shows that people can steer these neurons by thinking of a concept, not that the neurons produce the thought."
+   },
+   {
+    "n": "Building blocks of memory",
+    "cat": "cn",
+    "rs": [
+     "hippocampus"
+    ],
+    "view": "medial",
+    "x": "Quian Quiroga's proposal is that concept neurons are the units from which memories of events are assembled. Because they ignore detail, they can be linked to one another quickly.\n\nShow a patient a picture of a person standing at a landmark and, within a few trials, the neuron for the person starts firing to the landmark as well. That is how meeting someone at a particular place might be stored.",
+    "limit": "That these neurons are necessary for memory is an argument, not a demonstrated fact. Nobody can silence one concept's neurons in a person and test what is lost.",
+    "ev": [
+     {
+      "kind": "recording",
+      "claim": "Neurons began firing to a newly associated picture within a few trials",
+      "finding": "Patients learned pairs made of a person and a place. Many responsive medial temporal neurons that had fired to one picture of a pair began to fire to the other, and not to unrelated pictures, within a few trials.",
+      "quote": "We found that a large proportion of responsive MTL neurons expanded their selectivity to encode these specific associations within a few trials: cells initially responsive to one picture started firing to the associated one but not to others.",
+      "pmid": "26139375",
+      "doi": "10.1016/j.neuron.2015.06.016",
+      "cite": "Ison MJ, Quian Quiroga R, Fried I. Rapid encoding of new memories by individual neurons in the human brain. Neuron. 2015;87(1):220-30.",
+      "year": 2015
+     },
+     {
+      "kind": "recording",
+      "claim": "Concept neurons also carry relations between concepts held in mind",
+      "finding": "Sixty-one concept neurons from twelve patients were recorded during a task that required comparing two pictures. More than half fired to a picture they did not normally prefer when it had to be compared with their preferred concept.",
+      "quote": "Analyzing 61 concept neurons recorded from twelve patients who underwent surgery to treat epilepsy, we show that firing patterns of concept neurons encode relations between concepts during a picture comparison task.",
+      "pmid": "34697305",
+      "doi": "10.1038/s41467-021-26327-3",
+      "cite": "Bausch M, Niediek J, Reber TP, et al. Concept neurons in the human medial temporal lobe flexibly represent abstract relations between concepts. Nat Commun. 2021;12(1):6164.",
+      "year": 2021
+     }
+    ]
+   },
+   {
+    "n": "What is still unknown",
+    "x": "Concept neurons are one of the few places where single human neurons have been tied to what a person knows and is aware of. The evidence has clear gaps.",
+    "list": [
+     "All recordings come from patients with epilepsy, from the places clinicians put electrodes. Whether similar neurons exist elsewhere in the cortex is largely untested.",
+     "Only a few hundred to a few thousand neurons have been sampled out of roughly a billion in the medial temporal lobe.",
+     "Each neuron is tested with about a hundred pictures, so its full range of responses is never known.",
+     "The findings are correlations. No experiment has removed or silenced the neurons for one concept.",
+     "How the cortex builds the input these neurons receive, and what reads their output, is not known."
+    ],
+    "ev": [
+     {
+      "kind": "review",
+      "claim": "The proposed role in memory and the flow of thought is an argument, not a result",
+      "finding": "Quian Quiroga argues that concept cells let the brain form associations and move between related concepts. The review presents this as a hypothesis built on the recordings.",
+      "quote": "I argue that the sparse, explicit and abstract representation of these neurons is crucial for memory functions, such as the creation of associations and the transition between related concepts that leads to episodic memories and the flow of consciousness.",
+      "pmid": "22760181",
+      "doi": "10.1038/nrn3251",
+      "cite": "Quiroga RQ. Concept cells: the building blocks of declarative memory functions. Nat Rev Neurosci. 2012;13(8):587-97.",
+      "year": 2012
+     }
+    ]
+   }
+  ]
+ }
+]

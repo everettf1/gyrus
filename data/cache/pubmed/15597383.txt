@@ -1,0 +1,36 @@
+1. Ann Neurol. 2005 Jan;57(1):8-16. doi: 10.1002/ana.20319.
+
+Perisylvian language networks of the human brain.
+
+Catani M(1), Jones DK, ffytche DH.
+
+Author information:
+(1)Centre for Neuroimaging Sciences, Institute of Psychiatry, King's College 
+London, DeCrespigny Park, London SE5 8AZ, United Kingdom. m.catani@iop.kcl.ac.uk
+
+Comment in
+    Ann Neurol. 2005 Jan;57(1):5-7. doi: 10.1002/ana.20368.
+
+Early anatomically based models of language consisted of an arcuate tract 
+connecting Broca's speech and Wernicke's comprehension centers; a lesion of the 
+tract resulted in conduction aphasia. However, the heterogeneous clinical 
+presentations of conduction aphasia suggest a greater complexity of perisylvian 
+anatomical connections than allowed for in the classical anatomical model. This 
+article re-explores perisylvian language connectivity using in vivo diffusion 
+tensor magnetic resonance imaging tractography. Diffusion tensor magnetic 
+resonance imaging data from 11 right-handed healthy male subjects were averaged, 
+and the arcuate fasciculus of the left hemisphere reconstructed from this data 
+using an interactive dissection technique. Beyond the classical arcuate pathway 
+connecting Broca's and Wernicke's areas directly, we show a previously 
+undescribed, indirect pathway passing through inferior parietal cortex. The 
+indirect pathway runs parallel and lateral to the classical arcuate fasciculus 
+and is composed of an anterior segment connecting Broca's territory with the 
+inferior parietal lobe and a posterior segment connecting the inferior parietal 
+lobe to Wernicke's territory. This model of two parallel pathways helps explain 
+the diverse clinical presentations of conduction aphasia. The anatomical 
+findings are also relevant to the evolution of language, provide a framework for 
+Lichtheim's symptom-based neurological model of aphasia, and constrain, 
+anatomically, contemporary connectionist accounts of language.
+
+DOI: 10.1002/ana.20319
+PMID: 15597383 [Indexed for MEDLINE]

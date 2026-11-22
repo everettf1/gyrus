@@ -1,0 +1,53 @@
+1. Brain Behav. 2021 Apr;11(4):e02065. doi: 10.1002/brb3.2065. Epub 2021 Feb 18.
+
+Parcellation-based anatomic model of the semantic network.
+
+Milton CK(1), Dhanaraj V(2), Young IM(3), Taylor HM(4), Nicholas PJ(4), Briggs 
+RG(1), Bai MY(2), Fonseka RD(2), Hormovas J(2), Lin YH(2), Tanglay O(2), Conner 
+AK(1), Glenn CA(1), Teo C(2), Doyen S(4), Sughrue ME(2).
+
+Author information:
+(1)Department of Neurosurgery, University of Oklahoma Health Sciences Center, 
+Oklahoma City, OK, USA.
+(2)Department of Neurosurgery, Prince of Wales Private Hospital, Sydney, NSW, 
+Australia.
+(3)Cingulum Health, Sydney, NSW, Australia.
+(4)Omniscient Neurotechnology, Sydney, NSW, Australia.
+
+INTRODUCTION: The semantic network is an important mediator of language, 
+enabling both speech production and the comprehension of multimodal stimuli. A 
+major challenge in the field of neurosurgery is preventing semantic deficits. 
+Multiple cortical areas have been linked to semantic processing, though 
+knowledge of network connectivity has lacked anatomic specificity. Using 
+attentional task-based fMRI studies, we built a neuroanatomical model of this 
+network.
+METHODS: One hundred and fifty-five task-based fMRI studies related to 
+categorization of visual words and objects, and auditory words and stories were 
+used to generate an activation likelihood estimation (ALE). Cortical 
+parcellations overlapping the ALE were used to construct a preliminary model of 
+the semantic network based on the cortical parcellation scheme previously 
+published under the Human Connectome Project. Deterministic fiber tractography 
+was performed on 25 randomly chosen subjects from the Human Connectome Project, 
+to determine the connectivity of the cortical parcellations comprising the 
+network.
+RESULTS: The ALE analysis demonstrated fourteen left hemisphere cortical regions 
+to be a part of the semantic network: 44, 45, 55b, IFJa, 8C, p32pr, SFL, SCEF, 
+8BM, STSdp, STSvp, TE1p, PHT, and PBelt. These regions showed consistent 
+interconnections between parcellations. Notably, the anterior temporal pole, a 
+region often implicated in semantic function, was absent from our model.
+CONCLUSIONS: We describe a preliminary cortical model for the underlying 
+structural connectivity of the semantic network. Future studies will further 
+characterize the neurotractographic details of the semantic network in the 
+context of medical application.
+
+© 2021 The Authors. Brain and Behavior published by Wiley Periodicals LLC.
+
+DOI: 10.1002/brb3.2065
+PMCID: PMC8035438
+PMID: 33599397 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr. Sughrue is the Chief Medical Officer and 
+Stephane Doyen is the Chief Data Scientist and Technology Offer of Omniscient 
+Neurotechnology. Hugh Taylor and Peter Nicholas are employees of Omniscient 
+Neurotechnology. No products related to this were discussed in this paper. The 
+other authors report no conflicts of interest.

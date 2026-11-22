@@ -1,0 +1,61 @@
+1. Dev Cogn Neurosci. 2021 Oct;51:100998. doi: 10.1016/j.dcn.2021.100998. Epub
+2021  Aug 6.
+
+Sulcation of the intraparietal sulcus is related to symbolic but not 
+non-symbolic number skills.
+
+Roell M(1), Cachia A(2), Matejko AA(3), Houdé O(4), Ansari D(5), Borst G(6).
+
+Author information:
+(1)Université de Paris, Laboratoire de Psychologie du Développement et de 
+l'Education, UMR CNRS 8240, Paris, France; Ecole des Neurosciences de Paris 
+(ENP), Paris, France; Numerical Cognition Laboratory, Department of Psychology 
+and Brain & Mind Institute, London, Ontario, Canada; Faculty of Psychology and 
+Educational Sciences, KU Leuven, Leuven, Belgium.
+(2)Université de Paris, Laboratoire de Psychologie du Développement et de 
+l'Education, UMR CNRS 8240, Paris, France; Université de Paris, Imaging 
+biomarkers for brain development and disorders, UMR INSERM 1266, GHU Paris 
+Psychiatrie & Neurosciences, F-75005, Paris, France.
+(3)Numerical Cognition Laboratory, Department of Psychology and Brain & Mind 
+Institute, London, Ontario, Canada; University of Western Ontario, Canada; 
+Center for the Study of Learning, Department of Pediatrics, Georgetown 
+University, Washington DC, USA.
+(4)Université de Paris, Laboratoire de Psychologie du Développement et de 
+l'Education, UMR CNRS 8240, Paris, France; Institut Universitaire de France, 
+Paris, France.
+(5)Numerical Cognition Laboratory, Department of Psychology and Brain & Mind 
+Institute, London, Ontario, Canada; University of Western Ontario, Canada.
+(6)Université de Paris, Laboratoire de Psychologie du Développement et de 
+l'Education, UMR CNRS 8240, Paris, France; Institut Universitaire de France, 
+Paris, France. Electronic address: gregoire.borst@parisdescartes.fr.
+
+Understanding the constraints, including biological ones, that may influence 
+mathematical development is of great importance because math ability is a key 
+predictor of career success, income and even psychological well-being. While 
+research in developmental cognitive neuroscience of mathematics has extensively 
+studied the key functional regions for processing numbers, particularly the 
+horizontal segment of intraparietal sulcus (HIPS), few studies have investigated 
+the effects of early cerebral constraints on later mathematical abilities. In 
+this pre-registered study, we investigated whether variability of the sulcal 
+pattern of the HIPS, a qualitative feature of the brain determined in-utero and 
+not affected by brain maturation and learning, accounts for individual 
+difference in symbolic and non-symbolic number abilities. Seventy-seven 
+typically developing school-aged children and 21 young adults participated in 
+our study. We found that the HIPS sulcal pattern, (a) explains part of the 
+variance in participant's symbolic number comparison and math fluency abilities, 
+and (b) that this association between HIPS sulcal pattern and symbolic number 
+abilities was found to be stable from childhood to young adulthood. However, (c) 
+we did not find an association between participant's non-symbolic number 
+abilities and HIPS sulcal morphology. Our findings suggest that early cerebral 
+constraints may influence individual difference in math abilities, in addition 
+to the well-established neuroplastic factors.
+
+Copyright © 2021. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.dcn.2021.100998
+PMCID: PMC8363820
+PMID: 34388639 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.

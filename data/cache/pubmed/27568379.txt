@@ -1,0 +1,54 @@
+1. Brain Struct Funct. 2017 May;222(4):1597-1610. doi: 10.1007/s00429-016-1294-x.
+ Epub 2016 Aug 27.
+
+Direct evidence for the contributive role of the right inferior fronto-occipital 
+fasciculus in non-verbal semantic cognition.
+
+Herbet G(1)(2)(3), Moritz-Gasser S(4)(5)(6), Duffau H(4)(5)(6).
+
+Author information:
+(1)Department of Neurosurgery, Gui de Chauliac Hospital, Montpellier University 
+Medical Center, 80 Avenue Augustin Fliche, 34295, Montpellier, France. 
+guillaume.herbet@gmail.com.
+(2)National Institute for Health and Medical Research (INSERM), U1051, Team 
+"Plasticity of the Central Nervous System, Human Stem Cells and Glial Tumors", 
+Institute for Neurosciences of Montpellier, Montpellier University Medical 
+Center, 80 Av Augustin Fliche, 34091, Montpellier, France. 
+guillaume.herbet@gmail.com.
+(3)University of Montpellier, 163 rue Auguste Broussonnet, 34090, Montpellier, 
+France. guillaume.herbet@gmail.com.
+(4)Department of Neurosurgery, Gui de Chauliac Hospital, Montpellier University 
+Medical Center, 80 Avenue Augustin Fliche, 34295, Montpellier, France.
+(5)National Institute for Health and Medical Research (INSERM), U1051, Team 
+"Plasticity of the Central Nervous System, Human Stem Cells and Glial Tumors", 
+Institute for Neurosciences of Montpellier, Montpellier University Medical 
+Center, 80 Av Augustin Fliche, 34091, Montpellier, France.
+(6)University of Montpellier, 163 rue Auguste Broussonnet, 34090, Montpellier, 
+France.
+
+The neural foundations underlying semantic processing have been extensively 
+investigated, highlighting a pivotal role of the ventral stream. However, 
+although studies concerning the involvement of the left ventral route in verbal 
+semantics are proficient, the potential implication of the right ventral pathway 
+in non-verbal semantics has been to date unexplored. To gain insights on this 
+matter, we used an intraoperative direct electrostimulation to map the 
+structures mediating the non-verbal semantic system in the right hemisphere. 
+Thirteen patients presenting with a right low-grade glioma located within or 
+close to the ventral stream were included. During the 'awake' procedure, 
+patients performed both a visual non-verbal semantic task and a verbal (control) 
+task. At the cortical level, in the right hemisphere, we found non-verbal 
+semantic-related sites (n = 7 in 6 patients) in structures commonly associated 
+with verbal semantic processes in the left hemisphere, including the superior 
+temporal gyrus, the pars triangularis, and the dorsolateral prefrontal cortex. 
+At the subcortical level, we found non-verbal semantic-related sites in all but 
+one patient (n = 15 sites in 12 patients). Importantly, all these responsive 
+stimulation points were located on the spatial course of the right inferior 
+fronto-occipital fasciculus (IFOF). These findings provide direct support for a 
+critical role of the right IFOF in non-verbal semantic processing. Based upon 
+these original data, and in connection with previous findings showing the 
+involvement of the left IFOF in non-verbal semantic processing, we hypothesize 
+the existence of a bilateral network underpinning the non-verbal semantic 
+system, with a homotopic connectional architecture.
+
+DOI: 10.1007/s00429-016-1294-x
+PMID: 27568379 [Indexed for MEDLINE]

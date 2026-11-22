@@ -1,0 +1,49 @@
+1. N Engl J Med. 2005 Feb 3;352(5):459-67. doi: 10.1056/NEJMoa042187.
+
+Bilateral deep-brain stimulation of the globus pallidus in primary generalized 
+dystonia.
+
+Vidailhet M(1), Vercueil L, Houeto JL, Krystkowiak P, Benabid AL, Cornu P, 
+Lagrange C, Tézenas du Montcel S, Dormont D, Grand S, Blond S, Detante O, Pillon 
+B, Ardouin C, Agid Y, Destée A, Pollak P; French Stimulation du Pallidum Interne 
+dans la Dystonie (SPIDY) Study Group.
+
+Author information:
+(1)Department of Neurology, Saint Antoine Hospital, Paris, France. 
+marie.vidailhet@sat.ap-hop-paris.fr
+
+Comment in
+    N Engl J Med. 2005 Feb 3;352(5):498-500. doi: 10.1056/NEJMe048333.
+
+BACKGROUND: Severe forms of dystonia respond poorly to medical treatment. 
+Deep-brain stimulation is a reversible neurosurgical procedure that has been 
+used for the treatment of dystonia, but assessment of its efficacy has been 
+limited to open studies.
+METHODS: We performed a prospective, controlled, multicenter study assessing the 
+efficacy and safety of bilateral pallidal stimulation in 22 patients with 
+primary generalized dystonia. The severity of dystonia was evaluated before 
+surgery and 3, 6, and 12 months postoperatively during neurostimulation, with 
+the use of the movement and disability subscores of the Burke-Fahn-Marsden 
+Dystonia Scale (range, 0 to 120 and 0 to 30, respectively, with higher scores 
+indicating greater impairment). Movement scores were assessed by a review of 
+videotaped sessions performed by an observer who was unaware of treatment 
+status. At three months, patients underwent a double-blind evaluation in the 
+presence and absence of neurostimulation. We also assessed the patients' quality 
+of life, cognition, and mood at baseline and 12 months.
+RESULTS: The dystonia movement score improved from a mean (+/-SD) of 46.3+/-21.3 
+before surgery to 21.0+/-14.1 at 12 months (P<0.001). The disability score 
+improved from 11.6+/-5.5 before surgery to 6.5+/-4.9 at 12 months (P<0.001). 
+General health and physical functioning were significantly improved at month 12; 
+there were no significant changes in measures of mood and cognition. At the 
+three-month evaluation, dystonia movement scores were significantly better with 
+neurostimulation than without neurostimulation (24.6+/-17.7 vs. 34.6+/-12.3, 
+P<0.001). There were five adverse events (in three patients); all resolved 
+without permanent sequelae.
+CONCLUSIONS: These findings support the efficacy and safety of the use of 
+bilateral stimulation of the internal globus pallidus in selected patients with 
+primary generalized dystonia.
+
+Copyright 2005 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa042187
+PMID: 15689584 [Indexed for MEDLINE]

@@ -1,0 +1,78 @@
+1. Nature. 2018 Mar 15;555(7696):377-381. doi: 10.1038/nature25975. Epub 2018 Mar
+ 7.
+
+Human hippocampal neurogenesis drops sharply in children to undetectable levels 
+in adults.
+
+Sorrells SF(1)(2), Paredes MF(1)(3), Cebrian-Silla A(4), Sandoval K(1)(3), Qi 
+D(5), Kelley KW(1), James D(1), Mayer S(1)(3), Chang J(6), Auguste KI(2), Chang 
+EF(2), Gutierrez AJ(7), Kriegstein AR(1)(3), Mathern GW(8)(9), Oldham MC(1)(2), 
+Huang EJ(10), Garcia-Verdugo JM(4), Yang Z(5), Alvarez-Buylla A(1)(2).
+
+Author information:
+(1)Eli and Edythe Broad Center of Regeneration Medicine and Stem Cell Research, 
+University of California San Francisco, San Francisco, California 94143, USA.
+(2)Department of Neurological Surgery, University of California San Francisco, 
+San Francisco, California 94143, USA.
+(3)Department of Neurology, University of California San Francisco, San 
+Francisco, California 94143, USA.
+(4)Laboratorio de Neurobiología Comparada, Instituto Cavanilles, Universidad de 
+Valencia, CIBERNED, Valencia, 46980, Spain.
+(5)State Key Laboratory of Medical Neurobiology and Institutes of Brain Science, 
+Department of Neurology, Zhongshan Hospital, Fudan University, Shanghai, 200032, 
+China.
+(6)David Geffen School of Medicine, Department of Neurosurgery, Intellectual 
+Development and Disabilities Research Center, University of California Los 
+Angeles, Los Angeles, California 90095, USA.
+(7)Unidad de Cirugía de la Epilepsia, Hospital Universitario La Fe, Valencia 
+46026, Spain.
+(8)Department of Neurosurgery, David Geffen School of Medicine, University of 
+California Los Angeles, Los Angeles, California 90095, USA.
+(9)Department of Psychiatry and Biobehavioral Medicine, David Geffen School of 
+Medicine, University of California Los Angeles, Los Angeles, California 90095, 
+USA.
+(10)Department of Pathology, University of California San Francisco, San 
+Francisco, California 94143, USA.
+
+Comment in
+    Nature. 2018 Mar 15;555(7696):315-316. doi: 10.1038/d41586-018-02629-3.
+    Nat Rev Neurosci. 2018 May;19(5):252-253. doi: 10.1038/nrn.2018.34.
+    Trends Mol Med. 2018 Jun;24(6):521-522. doi: 10.1016/j.molmed.2018.04.002.
+    Neurosurgery. 2018 Sep 1;83(3):E133-E137. doi: 10.1093/neuros/nyy252.
+    Epilepsy Curr. 2018 Sep-Oct;18(5):329-331. doi: 10.5698/1535-7597.18.5.329.
+    Mol Psychiatry. 2020 Oct;25(10):2207-2209. doi: 10.1038/s41380-018-0337-5.
+    Nature. 2019 Mar;567(7749):433. doi: 10.1038/d41586-019-00891-7.
+    ACS Chem Neurosci. 2019 May 15;10(5):2091-2093. doi: 
+10.1021/acschemneuro.9b00196.
+    Neuroscientist. 2019 Aug;25(4):285. doi: 10.1177/1073858419859505.
+
+New neurons continue to be generated in the subgranular zone of the dentate 
+gyrus of the adult mammalian hippocampus. This process has been linked to 
+learning and memory, stress and exercise, and is thought to be altered in 
+neurological disease. In humans, some studies have suggested that hundreds of 
+new neurons are added to the adult dentate gyrus every day, whereas other 
+studies find many fewer putative new neurons. Despite these discrepancies, it is 
+generally believed that the adult human hippocampus continues to generate new 
+neurons. Here we show that a defined population of progenitor cells does not 
+coalesce in the subgranular zone during human fetal or postnatal development. We 
+also find that the number of proliferating progenitors and young neurons in the 
+dentate gyrus declines sharply during the first year of life and only a few 
+isolated young neurons are observed by 7 and 13 years of age. In adult patients 
+with epilepsy and healthy adults (18-77 years; n = 17 post-mortem samples from 
+controls; n = 12 surgical resection samples from patients with epilepsy), young 
+neurons were not detected in the dentate gyrus. In the monkey (Macaca mulatta) 
+hippocampus, proliferation of neurons in the subgranular zone was found in early 
+postnatal life, but this diminished during juvenile development as neurogenesis 
+decreased. We conclude that recruitment of young neurons to the primate 
+hippocampus decreases rapidly during the first years of life, and that 
+neurogenesis in the dentate gyrus does not continue, or is extremely rare, in 
+adult humans. The early decline in hippocampal neurogenesis raises questions 
+about how the function of the dentate gyrus differs between humans and other 
+species in which adult hippocampal neurogenesis is preserved.
+
+DOI: 10.1038/nature25975
+PMCID: PMC6179355
+PMID: 29513649 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing financial interests. The authors 
+declare no competing financial interests.

@@ -1,0 +1,30 @@
+1. Lancet. 1995 Jan 14;345(8942):91-5. doi: 10.1016/s0140-6736(95)90062-4.
+
+Effect of parkinsonian signs and symptoms of bilateral subthalamic nucleus 
+stimulation.
+
+Limousin P(1), Pollak P, Benazzouz A, Hoffmann D, Le Bas JF, Broussolle E, 
+Perret JE, Benabid AL.
+
+Author information:
+(1)Department of Clinical and Biological Neurosciences, Joseph Fourier 
+University of Grenoble, France.
+
+In monkeys rendered parkinsonian, lesions and electrical stimulation of the 
+subthalamic nucleus reduce all major motor disturbances. The effect of 
+electrical stimulation of the subthalamic nucleus was assessed in three patients 
+with disabling akinetic-rigid Parkinson's disease and severe motor fluctuations. 
+Quadripolar electrodes connected to a pulse generator were implanted in the 
+subthalamic nuclei on both sides. Patients were evaluated with the unified 
+Parkinson's disease rating scale and timed motor tests. 3 months after surgery, 
+activities of daily living scores had improved by 58-88% and motor scores by 
+42-84%. This improvement was maintained for up to 8 months in the first patient 
+operated upon. One patient was confused for 2 weeks after surgery, and another 
+developed neuropsychological impairment related to a thalamic infarction which 
+improved over 3 months. In one patient, stimulation could induce ballism that 
+was stopped by reduction of stimulation. This is the first demonstration in 
+human beings of the part played by the subthalamic nuclei in the pathophysiology 
+of Parkinson's disease.
+
+DOI: 10.1016/s0140-6736(95)90062-4
+PMID: 7815888 [Indexed for MEDLINE]

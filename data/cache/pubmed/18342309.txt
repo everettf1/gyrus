@@ -1,0 +1,34 @@
+1. Exp Neurol. 2008 May;211(1):227-33. doi: 10.1016/j.expneurol.2008.01.023. Epub
+ 2008 Feb 14.
+
+Pallidal neuronal discharge in Huntington's disease: support for selective loss 
+of striatal cells originating the indirect pathway.
+
+Starr PA(1), Kang GA, Heath S, Shimamoto S, Turner RS.
+
+Author information:
+(1)Department of Neurosurgery, University of California, San Francisco, San 
+Francisco CA 94143, USA. starrp@neurosurg.ucsf.edu
+
+Chorea is the predominant motor manifestation in the early symptomatic phase of 
+adult onset Huntington's disease (HD). Pathologically, this stage is marked by 
+differential loss of striatal neurons contributing to the indirect pathway. This 
+pattern of neuronal loss predicts decreased neuronal firing rates in GPi and 
+increased firing rates in GPe, the opposite of the changes in firing rate known 
+to occur in Parkinson's disease (PD). We present single-unit discharge 
+characteristics (33 neurons) observed in an awake patient with HD (41 CAG 
+repeats) undergoing microelectrode guided surgery for pallidal deep brain 
+stimulation. Pallidal single-unit activity at "rest" and during voluntary 
+movement was discriminated off line by principal component analysis and 
+evaluated with respect to discharge rate, bursting, and oscillatory activity in 
+the 0-200 Hz range. 24 GPi and 9 GPe units were studied, and compared with 132 
+GPi and 50 GPe units from 14 patients with PD. The mean (+/-SEM) spontaneous 
+discharge rate for HD was 58+/-4 for GPi and 73+/-5 for GPe. This contrasted 
+with discharge rates in PD of 95+/-2 for GPi and 57+/-3 for GPe. HD GPi units 
+showed more bursting than PD GPi units but much less oscillatory activity in the 
+2-35 Hz frequency range at rest. These findings are consistent with selective 
+early loss of striatal cells originating the indirect pathway.
+
+DOI: 10.1016/j.expneurol.2008.01.023
+PMCID: PMC3673313
+PMID: 18342309 [Indexed for MEDLINE]

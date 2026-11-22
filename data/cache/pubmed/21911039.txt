@@ -1,0 +1,32 @@
+1. Neurosci Lett. 2011 Oct 17;504(1):45-8. doi: 10.1016/j.neulet.2011.08.054.
+Epub  2011 Sep 3.
+
+The rubrospinal tract in the human brain: diffusion tensor imaging study.
+
+Yang HS(1), Kwon HG, Hong JH, Hong CP, Jang SH.
+
+Author information:
+(1)Muju Health Center and County Hospital 413 Hanpungroo-ro, Muju-eup, Muju-gun, 
+Jeollabuk-do 588-802, Republic of Korea.
+
+The rubrospinal tract (RST) is an extrapyramidal motor pathway in the human 
+brain. In this study, using diffusion tensor tractography (DTT), we attempted to 
+identify the RST in the normal human brain. Twenty-one healthy volunteers were 
+recruited for this study. A 1.5-T scanner was used for scanning of diffusion 
+tensor images, and the RSTs were isolated by DTT using FMRIB software. Values of 
+fractional anisotropy (FA), mean diffusivity (MD), and tract volume of the RSTs 
+were measured. Among 42 hemispheres of 21 subjects, RSTs were isolated in 27 
+hemispheres (64.28%) of 15 subjects. All identified tracts originated from the 
+red nucleus and crossed the midline via ventral tegmental decussation. Then, 
+they passed through the area between the inferior olivary nucleus and the 
+inferior cerebellar peduncle in the contralateral medulla. The tracts finally 
+descended through the lateral funiculus of the upper spinal cord. Mean values of 
+FA, MD, and tract volume did not differ significantly between the left and right 
+hemispheres (P>0.05). We believe that the methodologies used and the results of 
+this study would be helpful to researchers interested in the function of the 
+human RST and its clinical implications.
+
+Copyright © 2011 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.neulet.2011.08.054
+PMID: 21911039 [Indexed for MEDLINE]

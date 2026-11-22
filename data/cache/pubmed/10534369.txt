@@ -1,0 +1,29 @@
+1. Brain Lang. 1999 Oct 15;70(1):1-12. doi: 10.1006/brln.1999.2135.
+
+Conduction aphasia and the arcuate fasciculus: A reexamination of the 
+Wernicke-Geschwind model.
+
+Anderson JM(1), Gilmore R, Roper S, Crosson B, Bauer RM, Nadeau S, Beversdorf 
+DQ, Cibula J, Rogish M 3rd, Kortencamp S, Hughes JD, Gonzalez Rothi LJ, Heilman 
+KM.
+
+Author information:
+(1)Department of Neurology, University of Florida, Gainesville, USA. 
+anderjm@medicine.ufl.edu
+
+Wernicke, and later Geschwind, posited that the critical lesion in conduction 
+aphasia is in the dominant hemisphere's arcuate fasciculus. This white matter 
+pathway was thought to connect the anterior language production areas with the 
+posterior language areas that contain auditory memories of words (a phonological 
+lexicon). Alternatively, conduction aphasia might be induced by cortical 
+dysfunction, which impairs the phonological output lexicon. We observed an 
+epileptic patient who, during cortical stimulation of her posterior superior 
+temporal gyrus, demonstrated frequent phonemic paraphasias, decreased repetition 
+of words, and yet had intact semantic knowledge, a pattern consistent with 
+conduction aphasia. These findings suggest that cortical dysfunction alone may 
+induce conduction aphasia.
+
+Copyright 1999 Academic Press.
+
+DOI: 10.1006/brln.1999.2135
+PMID: 10534369 [Indexed for MEDLINE]

@@ -1,0 +1,1710 @@
+[
+ {
+  "id": "visual_network",
+  "aliases": [
+   "vis network",
+   "visual resting state network",
+   "visual rsn"
+  ],
+  "hint": "back of the cortex, centered on the occipital pole",
+  "summary": "The visual network is the set of occipital and nearby posterior cortical regions whose slow resting fMRI signals rise and fall together. It is one of the seven networks that Yeo and colleagues found by clustering resting-state data from 1,000 people. It covers primary visual cortex around the calcarine sulcus and the extrastriate areas that surround it. Inside it, the correlations follow the retinotopic map, so parts of cortex that represent the same part of the visual field are coupled most strongly. It switches on during visual stimulation and is the most purely sensory of the seven.",
+  "where": "The network is painted on the cortical surface of the occipital lobe: the banks of the calcarine sulcus, the cuneus and lingual gyrus on the medial surface, and the lateral occipital cortex at the back. It reaches forward toward the posterior fusiform gyrus and the occipitotemporal border. A medial or posterior view shows it best.",
+  "does": "At rest, the fMRI signal in primary visual cortex is correlated with the signal in the extrastriate areas, and the correlation pattern follows retinotopy, so regions that represent the same part of the visual field are coupled more strongly than regions that represent different parts. The network is engaged by visual stimulation, so task fMRI and resting fMRI give similar maps. The network label does not say what is being seen: object, face and motion processing run through streams that leave this network for temporal and parietal cortex. A resting correlation shows that two regions fluctuate together, not that they are joined by direct axons.",
+  "connects": "Input arrives from the retina through the lateral geniculate nucleus and the optic radiation into V1. Output feeds the ventral stream toward temporal cortex and the dorsal stream toward parietal cortex, which belong to other networks, including the dorsal attention network.",
+  "clinical": "Damage to V1 or the optic radiation causes a homonymous visual field defect, and bilateral occipital damage causes cortical blindness. Lesions of the calcarine cortex produce predictable field losses, which is how the retinotopic map of human V1 was checked and revised in patients. Stimulating this cortex through implanted electrodes makes blind and sighted people see phosphenes, small spots of light, which is the basis of cortical visual prostheses.",
+  "remember": "It is the one Yeo network that is only sensory cortex: it sits at the occipital pole and is the easiest of the seven to label.",
+  "facts": [
+   "Yeo and colleagues derived the seven-network parcellation from resting-state fMRI in 1,000 people.",
+   "Resting correlations inside this network follow retinotopic position.",
+   "The 17-network version of the same parcellation splits it into a central and a peripheral part."
+  ],
+  "quiz": [
+   {
+    "q": "Which Yeo network sits at the occipital pole and shows resting correlations that follow retinotopic maps?",
+    "type": "function"
+   },
+   {
+    "q": "Bilateral damage to which Yeo network gives cortical blindness with normal eyes?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which of the seven Yeo networks covers the banks of the calcarine sulcus, the cuneus and the lingual gyrus?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   8
+  ],
+  "see_also": [
+   "primary_visual_cortex",
+   "occipital_lobe",
+   "dorsal_attention_network",
+   "optic_radiation"
+  ],
+  "how_we_know": "The network itself is a correlation finding: fMRI signals at rest, clustered across 1,000 people. The retinotopic maps inside it come from fMRI and from patients with occipital lesions, and electrical stimulation in a blind volunteer shows that this cortex can generate visual percepts. Imaging shows which regions move together, whereas the lesion and stimulation work shows what the cortex is needed for.",
+  "evidence": [
+   {
+    "kind": "connectivity",
+    "claim": "Resting fMRI in 1,000 people splits cortex into networks, with sensory ones such as vision local",
+    "finding": "Yeo and colleagues clustered resting-state data from 1,000 people and replicated the networks across samples. Some networks were local and confined to sensory and motor cortex, and others were distributed across association cortex. The visual network is one of the local ones. This is correlational evidence.",
+    "quote": "Data from 1,000 subjects were registered using surface-based alignment. A clustering approach was employed to identify and replicate networks of functionally coupled regions across the cerebral cortex. The results revealed local networks confined to sensory and motor cortices as well as distributed networks of association regions.",
+    "pmid": "21653723",
+    "doi": "10.1152/jn.00338.2011",
+    "cite": "Yeo BT, Krienen FM, Sepulcre J, et al. The organization of the human cerebral cortex estimated by intrinsic functional connectivity. J Neurophysiol. 2011;106(3):1125-65.",
+    "year": 2011
+   },
+   {
+    "kind": "imaging",
+    "claim": "Occipital cortex holds retinotopic maps whose borders can be drawn with fMRI",
+    "finding": "Sereno and colleagues showed people phase-encoded visual stimuli during fMRI and unfolded the cortex to reveal visual areas. They outlined the borders of V1, V2, VP, V3 and V4 without surgery. This is correlational evidence.",
+    "quote": "The borders of human visual areas V1, V2, VP, V3, and V4 were precisely and noninvasively determined.",
+    "pmid": "7754376",
+    "doi": "10.1126/science.7754376",
+    "cite": "Sereno MI, Dale AM, Reppas JB, et al. Borders of multiple visual areas in humans revealed by functional magnetic resonance imaging. Science. 1995;268(5212):889-93.",
+    "year": 1995
+   },
+   {
+    "kind": "lesion",
+    "claim": "Lesions of the occipital lobe cause field defects that map onto striate cortex",
+    "finding": "Horton and Hoyt matched MRI scans to homonymous field defects in patients with clearly defined occipital lesions. They found that the classic Holmes map underestimated how much cortex serves central vision, and they redrew it. This is causal evidence from natural lesions.",
+    "quote": "We have tested the accuracy of Gordon Holmes' retinotopic map of human striate cortex by correlating magnetic resonance scans with homonymous field defects in patients with clearly defined occipital lobe lesions. Our findings indicate that Holmes underestimated the cortical magnification of central vision.",
+    "pmid": "2043069",
+    "doi": "10.1001/archopht.1991.01080060080030",
+    "cite": "Horton JC, Hoyt WF. The representation of the visual field in human striate cortex. A revision of the classic Holmes map. Arch Ophthalmol. 1991;109(6):816-24.",
+    "year": 1991
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Stimulating occipital cortex makes a blind person see points of light",
+    "finding": "Schmidt and colleagues implanted 38 microelectrodes near the occipital pole of a 42-year-old woman who had been blind for 22 years. Stimulation through 34 of the 38 electrodes produced phosphenes, which are small spots of light. This is causal evidence in one person.",
+    "quote": "Percepts reported as small spots of light, called phosphenes, were produced with 34 of the 38 implanted microelectrodes.",
+    "pmid": "8800945",
+    "doi": "10.1093/brain/119.2.507",
+    "cite": "Schmidt EM, Bak MJ, Hambrecht FT, et al. Feasibility of a visual prosthesis for the blind based on intracortical microstimulation of the visual cortex. Brain. 1996;119(Pt 2):507-22.",
+    "year": 1996,
+    "data": {
+     "title": "Microelectrodes that evoked phosphenes",
+     "unit": "electrodes",
+     "items": [
+      [
+       "evoked phosphenes",
+       34
+      ],
+      [
+       "implanted",
+       38
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": {
+   "method": "intracortical microstimulation through implanted microelectrodes",
+   "effect": "Stimulation of the right occipital cortex gave a blind woman small spots of light, phosphenes, in the left half of the visual field. Phosphenes moved when she moved her eyes.",
+   "quote": "Percepts reported as small spots of light, called phosphenes, were produced with 34 of the 38 implanted microelectrodes.",
+   "pmid": "8800945",
+   "doi": "10.1093/brain/119.2.507",
+   "cite": "Schmidt EM, Bak MJ, Hambrecht FT, et al. Feasibility of a visual prosthesis for the blind based on intracortical microstimulation of the visual cortex. Brain. 1996;119(Pt 2):507-22.",
+   "year": 1996
+  }
+ },
+ {
+  "id": "somatomotor_network",
+  "aliases": [
+   "sensorimotor network",
+   "smn",
+   "somatomotor",
+   "motor network",
+   "sensorimotor resting state network"
+  ],
+  "hint": "strip of cortex on both sides of the central sulcus",
+  "summary": "The somatomotor network is the set of cortical regions around the central sulcus whose resting fMRI signals are correlated with each other. It was the first resting-state network ever described, by Biswal and colleagues in 1995, who found that left and right hand motor cortex fluctuate together at rest. It covers the precentral and postcentral gyri and extends onto the paracentral lobule and the nearby cortex along the lateral fissure. It is engaged by movement and by touch, and its correlations follow the body map. It is a local sensory and motor network rather than a distributed association network.",
+  "where": "The network forms a band across the top of the brain on both sides of the central sulcus, running from the medial paracentral lobule over the top to the lateral surface near the lateral fissure. It also includes cortex around the insula and the superior temporal plane in the Yeo parcellation. A lateral or superior view shows it best.",
+  "does": "Biswal and colleagues showed that low-frequency fluctuations in the resting signal of one hand-movement area were correlated with the fluctuations in the opposite motor cortex and in other motor-related regions. This is why the network includes both hemispheres. Within it, functional connectivity follows the body map, so hand regions are coupled with hand regions. The correlation shows shared fluctuations, not control of movement, which has to be tested by stimulation or lesions.",
+  "connects": "Motor cortex sends the corticospinal tract down to the spinal cord and receives input from the thalamus, the basal ganglia loop and the cerebellum. Somatosensory cortex receives touch and position input through the ventral posterior nuclei of the thalamus. Strong coupling between the left and right sides depends partly on callosal fibres.",
+  "clinical": "A stroke that damages the primary motor cortex or its descending fibres causes contralateral weakness, and lesions of the postcentral gyrus cause contralateral loss of fine touch and position sense. Motor cortex stimulation during awake surgery for glioma evokes movements of the opposite side of the body and is used to map it before resection. Changes in connectivity inside and between this network and others are being studied as markers of recovery after stroke, but these are research findings, not diagnostic tests.",
+  "remember": "The first resting-state network: Biswal 1995 found it by noticing that the two hands' motor areas fluctuate together while lying still.",
+  "facts": [
+   "Biswal and colleagues described it in 1995 by correlating resting fluctuations below 0.1 Hz in sensorimotor cortex.",
+   "The Yeo label is SomMot, and it includes both precentral and postcentral gyri.",
+   "Left and right motor cortex are correlated at rest, which depends partly on the corpus callosum."
+  ],
+  "quiz": [
+   {
+    "q": "Which Yeo network was the first resting-state network described, using hand-movement areas in 1995?",
+    "type": "function"
+   },
+   {
+    "q": "In awake glioma surgery, stimulating which network's cortex makes the opposite arm or leg move?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which Yeo network forms a band across both banks of the central sulcus from the paracentral lobule to the lateral fissure?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   8
+  ],
+  "see_also": [
+   "primary_motor_cortex",
+   "primary_somatosensory_cortex",
+   "central_sulcus",
+   "corticospinal_tract"
+  ],
+  "how_we_know": "The network is a correlation finding from resting fMRI, first in one scanner and later in thousands of volunteers. Task fMRI and electrical stimulation in awake surgery link the same cortex to movement, so the resting map and the causal map agree. The resting data cannot say which fibres carry the coupling.",
+  "evidence": [
+   {
+    "kind": "connectivity",
+    "claim": "Resting fluctuations in motor cortex are correlated across the hemispheres",
+    "finding": "Biswal and colleagues recorded 512 echo-planar images, one every 250 ms, in resting people. They first located hand-movement cortex with a task, then found that its slow fluctuations were highly correlated with other motor-related regions. This is correlational evidence.",
+    "quote": "Time courses of low frequency (< 0.1 Hz) fluctuations in resting brain were observed to have a high degree of temporal correlation (P < 10(-3)) within these regions and also with time courses in several other regions that can be associated with motor function.",
+    "pmid": "8524021",
+    "doi": "10.1002/mrm.1910340409",
+    "cite": "Biswal B, Yetkin FZ, Haughton VM, Hyde JS. Functional connectivity in the motor cortex of resting human brain using echo-planar MRI. Magn Reson Med. 1995;34(4):537-41.",
+    "year": 1995
+   },
+   {
+    "kind": "connectivity",
+    "claim": "The resting connectivity architecture is the same across many people and scanners",
+    "finding": "Biswal and colleagues pooled resting-state data from 1,414 volunteers scanned independently at 35 centers. They found a common pattern of positive and negative functional connections across sites. This is correlational evidence at scale.",
+    "quote": "Here we initiate this endeavor by gathering R-fMRI data from 1,414 volunteers collected independently at 35 international centers. We demonstrate a universal architecture of positive and negative functional connections, as well as consistent loci of inter-individual variability.",
+    "pmid": "20176931",
+    "doi": "10.1073/pnas.0911855107",
+    "cite": "Biswal BB, Mennes M, Zuo XN, et al. Toward discovery science of human brain function. Proc Natl Acad Sci U S A. 2010;107(10):4734-9.",
+    "year": 2010
+   },
+   {
+    "kind": "imaging",
+    "claim": "Hand movement activates a knob-shaped part of the precentral gyrus in this network",
+    "finding": "Yousry and colleagues used fMRI to find where hand movement activated the precentral gyrus. The most common site was a knob shaped like an omega or epsilon on axial slices, and it matched the middle knee of the central sulcus in cadaver brains. This is correlational evidence.",
+    "quote": "The segment of the precentral gyrus that most often contained motor hand function was a knob-like structure, that is shaped like an omega or epsilon in the axial plane and like a hook in the sagittal plane.",
+    "pmid": "9055804",
+    "doi": "10.1093/brain/120.1.141",
+    "cite": "Yousry TA, Schmid UD, Alkadhi H, et al. Localization of the motor hand area to a knob on the precentral gyrus. A new landmark. Brain. 1997;120(Pt 1):141-57.",
+    "year": 1997
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Stimulating motor cortex during awake surgery evokes muscle activity in the arm",
+    "finding": "Xie and colleagues stimulated primary motor cortex electrically during awake surgery for glioma in 13 patients. Muscle synergies seen in voluntary movement before surgery were matched by stimulation-evoked synergies in 69% of cases. This is causal evidence.",
+    "quote": "Across 13 patients, 69% of the muscle synergies observed during preoperative voluntary behaviors could be matched to DES-evoked muscle synergies or their combination.",
+    "pmid": "42709812",
+    "doi": "10.1073/pnas.2604933123",
+    "cite": "Xie JJ, Huang S, Lau KYS, et al. Neuromotor modules revealed by direct electrical stimulation of the human primary motor cortex. Proc Natl Acad Sci U S A. 2026;123(37):e2604933123.",
+    "year": 2026
+   }
+  ],
+  "stimulation": {
+   "method": "direct electrical stimulation of motor cortex during awake craniotomy",
+   "effect": "Stimulating the primary motor cortex in awake patients evoked muscle activity in the upper limb. Most of the muscle patterns used in voluntary movement could be reproduced by stimulation.",
+   "quote": "Across 13 patients, 69% of the muscle synergies observed during preoperative voluntary behaviors could be matched to DES-evoked muscle synergies or their combination.",
+   "pmid": "42709812",
+   "doi": "10.1073/pnas.2604933123",
+   "cite": "Xie JJ, Huang S, Lau KYS, et al. Neuromotor modules revealed by direct electrical stimulation of the human primary motor cortex. Proc Natl Acad Sci U S A. 2026;123(37):e2604933123.",
+   "year": 2026
+  }
+ },
+ {
+  "id": "dorsal_attention_network",
+  "aliases": [
+   "dan",
+   "dorsal attention",
+   "dorsal frontoparietal network",
+   "top-down attention network"
+  ],
+  "hint": "intraparietal and frontal eye field regions for top-down orienting",
+  "summary": "The dorsal attention network is a set of regions along the intraparietal sulcus and the frontal eye fields whose resting fMRI signals rise and fall together. It is engaged when a person directs attention on purpose to a location or a feature, for example by following a cue. It includes the superior parietal lobule, the intraparietal sulcus, the frontal eye field and the area near MT. It is bilateral, unlike the right-lateralized ventral attention system that detects unexpected events. Its resting correlation structure matches the pattern seen in attention tasks.",
+  "where": "On the lateral surface the network covers the intraparietal sulcus and the adjacent superior parietal lobule, and the precentral sulcus region of the frontal eye field. It also reaches the posterior temporal-occipital area near MT. A lateral view shows it best.",
+  "does": "Corbetta and Shulman proposed that this system prepares and applies goal-directed selection of stimuli and responses, as when a cue says to look to the right. Fox and colleagues found the same bilateral system from resting correlations alone, so the pattern does not depend on a task being performed. Its regions control eye movements and spatial priority maps in parietal and frontal cortex. The network is largely task-positive, meaning it becomes more active during attention-demanding tasks while the default mode network becomes less active.",
+  "connects": "Frontal eye field and the intraparietal cortex are linked by the superior longitudinal fasciculus, and both project to the superior colliculus and visual cortex to bias spatial attention. The network is coupled with visual cortex in the visual network and anticorrelated with the default mode network. The ventral attention system, drawn in this atlas as the salience network, interacts with it as a circuit breaker for unexpected stimuli.",
+  "clinical": "Both attention systems are disrupted in unilateral spatial neglect, usually after right hemisphere stroke. Right frontal eye field stimulation with theta-burst TMS impairs performance on a cued attention task. Damage to the frontoparietal connections along the superior longitudinal fasciculus has been linked to neglect.",
+  "remember": "Dorsal means top-down: the frontal eye field and intraparietal sulcus point attention where you decide to look.",
+  "facts": [
+   "It includes the frontal eye field and the intraparietal sulcus.",
+   "Fox and colleagues found it from resting-state correlations alone in 2006.",
+   "Corbetta and Shulman contrasted it with a right-lateralized ventral system."
+  ],
+  "quiz": [
+   {
+    "q": "Which network, built around the intraparietal sulcus and frontal eye field, prepares goal-directed selection of stimuli?",
+    "type": "function"
+   },
+   {
+    "q": "Theta-burst TMS over the right frontal eye field worsened performance after attention shifts. Which network was targeted?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which Yeo network covers the intraparietal sulcus, superior parietal lobule and precentral sulcus region?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   8,
+   1,
+   2
+  ],
+  "see_also": [
+   "frontal_eye_field",
+   "intraparietal_sulcus",
+   "salience_network",
+   "superior_longitudinal_fasciculus"
+  ],
+  "how_we_know": "Task imaging first showed that attention-demanding tasks engage the same frontal and parietal regions, and later resting-state data showed that they are correlated even without a task. Brain stimulation and lesion data then test cause: TMS over the frontal eye field changes attention performance, and neglect after stroke shows the systems are needed. Correlated signal alone does not prove that two regions interact directly.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Two partly separate frontoparietal systems carry out different attention functions",
+    "finding": "Corbetta and Shulman reviewed task imaging and lesion studies. They proposed a dorsal system for top-down selection and a right-lateralized ventral system for detecting salient events. Both are disrupted in spatial neglect.",
+    "quote": "One system, which includes parts of the intraparietal cortex and superior frontal cortex, is involved in preparing and applying goal-directed (top-down) selection for stimuli and responses. Both attentional systems interact during normal vision, and both are disrupted in unilateral spatial neglect.",
+    "pmid": "11994752",
+    "doi": "10.1038/nrn755",
+    "cite": "Corbetta M, Shulman GL. Control of goal-directed and stimulus-driven attention in the brain. Nat Rev Neurosci. 2002;3(3):201-15.",
+    "year": 2002
+   },
+   {
+    "kind": "connectivity",
+    "claim": "The dorsal system appears in resting fluctuations with no task and no stimuli",
+    "finding": "Fox and colleagues examined correlations in spontaneous fMRI fluctuations in the absence of any task. They identified a bilateral dorsal attention system and a right-lateralized ventral attention system from the resting signal alone. This is correlational evidence.",
+    "quote": "We identify a bilateral dorsal attention system and a right-lateralized ventral attention system solely on the basis of spontaneous activity.",
+    "pmid": "16788060",
+    "doi": "10.1073/pnas.0604187103",
+    "cite": "Fox MD, Corbetta M, Snyder AZ, Vincent JL, Raichle ME. Spontaneous neuronal activity distinguishes human dorsal and ventral attention systems. Proc Natl Acad Sci U S A. 2006;103(26):10046-51.",
+    "year": 2006
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Theta-burst TMS over the right frontal eye field impairs attention shifting",
+    "finding": "Heinen and colleagues applied theta-burst TMS over the right frontal eye field and then scanned participants during a cued attention task. Performance on a visual discrimination task got worse after attention shifts in both hemifields, and the impairment recovered after about 20 minutes. This is causal evidence.",
+    "quote": "We found that TBS over the right FEF impaired performance on a visual discrimination task in both hemifields following attention shifts, while only left hemifield performance was affected when participants were cued to maintain the focus of attention.",
+    "pmid": "28254653",
+    "doi": "10.1016/j.neuropsychologia.2017.02.024",
+    "cite": "Heinen K, Feredoes E, Ruff CC, Driver J. Functional connectivity between prefrontal and parietal cortex drives visuo-spatial attention shifts. Neuropsychologia. 2017;99:81-91.",
+    "year": 2017
+   }
+  ],
+  "stimulation": {
+   "method": "theta-burst transcranial magnetic stimulation",
+   "effect": "Temporary suppression of the right frontal eye field made visual discrimination worse after a shift of attention. The effect wore off after roughly 20 minutes.",
+   "quote": "We found that TBS over the right FEF impaired performance on a visual discrimination task in both hemifields following attention shifts, while only left hemifield performance was affected when participants were cued to maintain the focus of attention.",
+   "pmid": "28254653",
+   "doi": "10.1016/j.neuropsychologia.2017.02.024",
+   "cite": "Heinen K, Feredoes E, Ruff CC, Driver J. Functional connectivity between prefrontal and parietal cortex drives visuo-spatial attention shifts. Neuropsychologia. 2017;99:81-91.",
+   "year": 2017
+  }
+ },
+ {
+  "id": "salience_network",
+  "aliases": [
+   "ventral attention network",
+   "van",
+   "salience ventral attention network",
+   "cingulo-opercular network",
+   "salience ventral attention"
+  ],
+  "hint": "anterior insula and dorsal anterior cingulate hubs",
+  "summary": "The salience network is a set of regions centered on the anterior insula and the dorsal anterior cingulate cortex whose resting fMRI signals are correlated. Seeley and colleagues described it in 2007 as a network that detects behaviourally relevant events and connects to limbic and subcortical structures. In Yeo's seven-network map it is labelled salience or ventral attention and also covers the temporoparietal junction and inferior frontal cortex, largely on the right. It is anticorrelated at rest with the default mode network. Its atrophy defines behavioural variant frontotemporal dementia.",
+  "where": "On the lateral surface the network covers the frontal operculum and insula, the inferior frontal cortex and the supramarginal gyrus and temporoparietal junction. On the medial surface it covers the dorsal anterior cingulate and the medial frontal cortex, with the bilateral anterior insula as its most consistent nodes. Medial and lateral views show different parts.",
+  "does": "Seeley and colleagues found that this network was coupled with measures of anxiety, whereas the executive-control network was coupled with working memory performance. Corbetta and Shulman described the ventral attention part as a circuit breaker that redirects attention to salient or unexpected events. The network is often described as marking what is worth attention and switching between internal and external modes, but the switching idea is a model, not a measurement. Different groups use different names for overlapping networks, which is why this atlas lists the ventral attention and cingulo-opercular names as aliases.",
+  "connects": "Its anterior insula and anterior cingulate nodes have strong connections to the amygdala, hypothalamus, striatum, thalamus and brainstem. It is anticorrelated with the default mode network and coupled with the frontoparietal control network during tasks. The ventral attention part is linked to the dorsal attention network.",
+  "clinical": "Behavioural variant frontotemporal dementia causes early atrophy and weaker connectivity in this network, with loss of empathy, disinhibition and changes in eating and social behaviour. Alzheimer's disease shows the reverse pattern, with the default mode network weakened and this network stronger. Stimulating the insula and anterior cingulate cortex in epilepsy patients evokes visceral and emotional sensations.",
+  "remember": "Salience means what stands out: the anterior insula and dorsal anterior cingulate flag it, and bvFTD is what happens when they are lost.",
+  "facts": [
+   "Seeley and colleagues named it in 2007 and anchored it on the dorsal anterior cingulate and orbital frontoinsular cortex.",
+   "It is anticorrelated with the default mode network at rest.",
+   "Behavioural variant frontotemporal dementia attenuates its connectivity."
+  ],
+  "quiz": [
+   {
+    "q": "Which network, anchored by the anterior insula and dorsal anterior cingulate, flags behaviourally relevant events?",
+    "type": "function"
+   },
+   {
+    "q": "Early loss of empathy and disinhibition in frontotemporal dementia goes with weakened connectivity in which network?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which Yeo network includes the frontal operculum, anterior insula and temporoparietal junction, largely on the right?",
+    "type": "location"
+   },
+   {
+    "q": "Alzheimer's disease strengthens this network while weakening the default mode network. Which network?",
+    "type": "connection"
+   }
+  ],
+  "refs": [
+   8,
+   2,
+   3
+  ],
+  "see_also": [
+   "anterior_insula",
+   "anterior_cingulate_cortex",
+   "default_mode_network",
+   "temporoparietal_junction"
+  ],
+  "how_we_know": "The network comes from resting-state correlations, from task imaging that shows the same regions coactivate, and from patients whose disease preferentially hits these regions. Intracranial stimulation of the insula and cingulate gives causal data about what those regions can evoke, but it does not stimulate the network as a whole.",
+  "evidence": [
+   {
+    "kind": "connectivity",
+    "claim": "A network anchored on anterior cingulate and insula is separable from an executive control network",
+    "finding": "Seeley and colleagues used task-free connectivity to identify a salience network anchored by the dorsal anterior cingulate and orbital frontoinsular cortex, and a separate executive-control network of dorsolateral frontal and parietal cortex. Anxiety ratings related to the salience network, and executive performance related to the executive-control network. This is correlational evidence.",
+    "quote": "We identified a \"salience network,\" anchored by dorsal anterior cingulate (dACC) and orbital frontoinsular cortices with robust connectivity to subcortical and limbic structures, and an \"executive-control network\" that links dorsolateral frontal and parietal neocortices. Prescan anxiety ratings correlated with intrinsic functional connectivity of the dACC node of the salience network, but with no region in the executive-control network, whereas executive task performance correlated with lateral parietal nodes of the executive-control network, but with no region in the salience network.",
+    "pmid": "17329432",
+    "doi": "10.1523/JNEUROSCI.5587-06.2007",
+    "cite": "Seeley WW, Menon V, Schatzberg AF, et al. Dissociable intrinsic connectivity networks for salience processing and executive control. J Neurosci. 2007;27(9):2349-56.",
+    "year": 2007
+   },
+   {
+    "kind": "imaging",
+    "claim": "A right-lateralized ventral system detects salient or unexpected stimuli",
+    "finding": "Corbetta and Shulman reviewed attention studies and proposed a ventral frontoparietal system, largely in the right hemisphere, that detects salient or unexpected stimuli and acts as a circuit breaker for the dorsal system. This is a synthesis of imaging and lesion evidence.",
+    "quote": "The other system, which includes the temporoparietal cortex and inferior frontal cortex, and is largely lateralized to the right hemisphere, is not involved in top-down selection. Instead, this system is specialized for the detection of behaviourally relevant stimuli, particularly when they are salient or unexpected.",
+    "pmid": "11994752",
+    "doi": "10.1038/nrn755",
+    "cite": "Corbetta M, Shulman GL. Control of goal-directed and stimulus-driven attention in the brain. Nat Rev Neurosci. 2002;3(3):201-15.",
+    "year": 2002
+   },
+   {
+    "kind": "connectivity",
+    "claim": "Salience and default mode connectivity split frontotemporal dementia from Alzheimer's disease",
+    "finding": "Zhou and colleagues ran task-free fMRI in 12 patients with behavioural variant frontotemporal dementia, 12 with Alzheimer's disease and 12 healthy controls. A combined index of salience and default mode connectivity classified the groups with 92% accuracy, and separated the two diseases completely. This is correlational evidence from patients.",
+    "quote": "As predicted, behavioural variant frontotemporal dementia attenuated Salience Network connectivity, most notably in frontoinsular, cingulate, striatal, thalamic and brainstem nodes, but enhanced connectivity within the Default Mode Network. Linear discriminant analysis achieved 92% clinical classification accuracy, including 100% separation of behavioural variant frontotemporal dementia and Alzheimer's disease.",
+    "pmid": "20410145",
+    "doi": "10.1093/brain/awq075",
+    "cite": "Zhou J, Greicius MD, Gennatas ED, et al. Divergent network connectivity changes in behavioural variant frontotemporal dementia and Alzheimer's disease. Brain. 2010;133(Pt 5):1352-67.",
+    "year": 2010,
+    "data": {
+     "title": "Accuracy of a salience plus default mode index",
+     "unit": "%",
+     "items": [
+      [
+       "all three groups",
+       92
+      ],
+      [
+       "bvFTD versus Alzheimer's",
+       100
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Stimulating insula and cingulate sites in epilepsy patients evokes visceral and emotional sensations",
+    "finding": "Soulier and colleagues reviewed 12,088 bipolar stimulations in 203 epilepsy patients, of which 543 evoked visceral or emotional sensations. Stimulation of insular and cingulate sites was significantly more associated with these sensations than stimulation of other cortex. This is causal evidence, though it tests single sites rather than the network.",
+    "quote": "In total, 543 stimulations evoked visceral and emotional sensations. Stimulations of operculo-insulolimbic structures (amygdala, anterior and posterior insula, anterior and mid-cingulate cortex, hippocampus, parahippocampus, temporal pole, frontal and parietal operculum) were significantly more associated with visceral and emotional sensations than all other cortical regions.",
+    "pmid": "36424874",
+    "doi": "10.1002/acn3.51694",
+    "cite": "Soulier H, Mauguiere F, Catenoix H, et al. Visceral and emotional responses to direct electrical stimulations of the cortex. Ann Clin Transl Neurol. 2023;10(1):5-17.",
+    "year": 2023
+   }
+  ],
+  "stimulation": {
+   "method": "direct electrical stimulation with intracranial electrodes in epilepsy patients",
+   "effect": "Stimulating the insula and cingulate cortex evoked visceral sensations and emotional feelings more often than stimulating other cortex. The result is about single sites, not the whole network.",
+   "quote": "In total, 543 stimulations evoked visceral and emotional sensations. Stimulations of operculo-insulolimbic structures (amygdala, anterior and posterior insula, anterior and mid-cingulate cortex, hippocampus, parahippocampus, temporal pole, frontal and parietal operculum) were significantly more associated with visceral and emotional sensations than all other cortical regions.",
+   "pmid": "36424874",
+   "doi": "10.1002/acn3.51694",
+   "cite": "Soulier H, Mauguiere F, Catenoix H, et al. Visceral and emotional responses to direct electrical stimulations of the cortex. Ann Clin Transl Neurol. 2023;10(1):5-17.",
+   "year": 2023
+  }
+ },
+ {
+  "id": "limbic_network",
+  "aliases": [
+   "limbic resting state network",
+   "orbitofrontal temporal pole network",
+   "limbic rsn"
+  ],
+  "hint": "underside of the frontal lobe and tip of the temporal lobe",
+  "summary": "The limbic network is a small set of regions on the underside of the frontal lobe and the tip of the temporal lobe whose resting fMRI signals are correlated. In the Yeo seven-network map it is made up mainly of orbitofrontal cortex and the temporal pole. It does not include the hippocampus, amygdala or cingulate cortex, which are the structures most people mean by the limbic system, so the name is a label for this parcel and not a claim that it covers the classical limbic system. Its regions are linked to reward value, emotion and social meaning. It is also the least reliable of the seven maps, because MRI signal is weak at the base of the frontal lobe and the temporal pole.",
+  "where": "On the inferior surface, the network covers the orbital gyri of the frontal lobe and the tip of the temporal lobe, the temporal pole. It lies just above the orbit and anterior to the middle cranial fossa. An inferior view shows it best, and a lateral view shows the temporal pole end.",
+  "does": "The orbitofrontal part is tied to the value of rewards and punishers: a meta-analysis of imaging studies suggests that medial orbitofrontal activity tracks reward value, whereas lateral orbitofrontal activity relates to evaluating punishers that may change behaviour. The temporal pole is proposed to bind processed perceptual input to visceral emotional responses, for example in recognising familiar faces and in theory of mind. Evidence is mixed on how unified the network is, and the two ends have different clinical profiles. The signal in these regions is vulnerable to susceptibility artifacts near the air-filled sinuses and the ear canals, so resting maps here are noisier than elsewhere.",
+  "connects": "The uncinate fasciculus links the lateral orbitofrontal cortex with the anterior temporal lobe and is the main white matter route between the two ends. The temporal pole is also connected with the amygdala, and the orbitofrontal cortex with the striatum, hypothalamus and insula. The network is in the middle of the correlation map between the default mode network and the salience network.",
+  "clinical": "Bilateral ventromedial prefrontal lesions leave intelligence intact but produce poor real-life decisions: on a gambling task, patients choose options with high immediate gains despite larger future losses. Anterior temporal damage is central in semantic dementia and in the temporal lobe variants of frontotemporal dementia. Electrical stimulation of the orbitofrontal cortex mostly evokes smell and taste.",
+  "remember": "Do not confuse the label with the limbic system: this parcel is the orbitofrontal cortex plus the temporal pole, and its MRI signal is the weakest of the seven.",
+  "facts": [
+   "In the Yeo seven-network map it covers orbitofrontal cortex and the temporal pole.",
+   "It excludes the hippocampus and amygdala, which belong to the classical limbic system.",
+   "Stimulation of the orbitofrontal cortex predominantly evokes olfactory and gustatory experiences."
+  ],
+  "quiz": [
+   {
+    "q": "Which Yeo network is made of orbitofrontal cortex and the temporal pole, with the weakest MRI signal of the seven?",
+    "type": "location"
+   },
+   {
+    "q": "Patients with bilateral ventromedial prefrontal lesions favour immediate gains on a gambling task. Which resting network includes this tissue?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which network sits on the underside of the frontal lobe and at the tip of the temporal lobe, linked by the uncinate fasciculus?",
+    "type": "connection"
+   }
+  ],
+  "refs": [
+   8,
+   3,
+   4
+  ],
+  "see_also": [
+   "orbitofrontal_cortex",
+   "temporal_pole",
+   "uncinate_fasciculus",
+   "default_mode_network"
+  ],
+  "how_we_know": "Most of the evidence for the two ends of this network comes from lesion studies, task imaging and intracranial stimulation of the orbitofrontal cortex, not from the resting-state map itself. The resting map is hard to measure well here because of signal dropout, so conclusions about the network as a unit are weaker than for the other networks.",
+  "evidence": [
+   {
+    "kind": "meta-analysis",
+    "claim": "Medial orbitofrontal cortex tracks reward value, lateral orbitofrontal cortex punishers",
+    "finding": "Kringelbach and Rolls reviewed imaging and neuropsychology of the orbitofrontal cortex and ran a meta-analysis of neuroimaging studies. They found a mediolateral distinction, with medial activity related to reward value and lateral activity to punishers.",
+    "quote": "One is a mediolateral distinction, whereby medial orbitofrontal cortex activity is related to monitoring the reward value of many different reinforcers, whereas lateral orbitofrontal cortex activity is related to the evaluation of punishers which may lead to a change in ongoing behaviour.",
+    "pmid": "15157726",
+    "doi": "10.1016/j.pneurobio.2004.03.006",
+    "cite": "Kringelbach ML, Rolls ET. The functional neuroanatomy of the human orbitofrontal cortex: evidence from neuroimaging and neuropsychology. Prog Neurobiol. 2004;72(5):341-72.",
+    "year": 2004
+   },
+   {
+    "kind": "connectivity",
+    "claim": "The temporal pole is tightly connected to limbic regions and links perception to emotion",
+    "finding": "Olson and colleagues reviewed studies in monkeys and humans. They concluded that the temporal pole has a role in social and emotional processing and that it is best described as binding processed perceptual input to visceral emotional responses. This is a review, so it summarises correlational and lesion work.",
+    "quote": "Anatomists have long considered it part of an extended limbic system based on its location posterior to the orbital frontal cortex and lateral to the amygdala, along with its tight connectivity to limbic and paralimbic regions. Here we review the literature in both non-human primates and humans to assess the temporal pole's putative role in social and emotional processing.",
+    "pmid": "17392317",
+    "doi": "10.1093/brain/awm052",
+    "cite": "Olson IR, Plotzker A, Ezzyat Y. The Enigmatic temporal pole: a review of findings on social and emotional processing. Brain. 2007;130(Pt 7):1718-31.",
+    "year": 2007
+   },
+   {
+    "kind": "lesion",
+    "claim": "Ventromedial prefrontal lesions make people favour immediate prospects over future consequences",
+    "finding": "Bechara and colleagues tested patients with bilateral ventromedial prefrontal lesions on gambling tasks in which the good decks gave high immediate punishment but higher later reward. The patients kept choosing the bad decks in both versions, and changing the future rewards or punishments did not change that. This is causal evidence from lesions.",
+    "quote": "Patients with VM lesions opted for the disadvantageous decks in both the original and variant versions of the gambling task. The SCRs of VM lesion patients after they had received a reward or punishment were not significantly different from those of controls.",
+    "pmid": "11050020",
+    "doi": "10.1093/brain/123.11.2189",
+    "cite": "Bechara A, Tranel D, Damasio H. Characterization of the decision-making deficit of patients with ventromedial prefrontal cortex lesions. Brain. 2000;123(Pt 11):2189-202.",
+    "year": 2000
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Stimulating the orbitofrontal cortex mostly evokes smell and taste",
+    "finding": "Yih and colleagues stimulated intracranial electrodes in 18 neurosurgical patients, in the orbitofrontal cortex, insula and anterior cingulate. Orbitofrontal stimulation mostly evoked smell and taste, and larger currents produced more intense experiences. This is causal evidence.",
+    "quote": "We report on rare iES data from 18 neurosurgical patients with implanted intracranial electrodes in the orbitofrontal cortex (OFC), the insula (INS) and the anterior portion of cingulate cortex (ACC). ACC stimulation elicited somatic and visceral sensations, whereas OFC stimulation predominantly elicited olfactory and gustatory responses, and INS stimulation elicited a mix of effects involving somatic and visceral sensations, olfaction and gustation.",
+    "pmid": "30843590",
+    "doi": "10.1093/scan/nsz015",
+    "cite": "Yih J, Beam DE, Fox KCR, Parvizi J. Intensity of affective experience is modulated by magnitude of intracranial electrical stimulation in human orbitofrontal, cingulate and insular cortices. Soc Cogn Affect Neurosci. 2019;14(4):339-351.",
+    "year": 2019
+   }
+  ],
+  "stimulation": {
+   "method": "direct intracranial electrical stimulation in neurosurgical patients",
+   "effect": "Stimulating the orbitofrontal cortex mostly evoked smells and tastes. Larger currents gave more intense experiences, and most reported experiences were unpleasant.",
+   "quote": "We report on rare iES data from 18 neurosurgical patients with implanted intracranial electrodes in the orbitofrontal cortex (OFC), the insula (INS) and the anterior portion of cingulate cortex (ACC). ACC stimulation elicited somatic and visceral sensations, whereas OFC stimulation predominantly elicited olfactory and gustatory responses, and INS stimulation elicited a mix of effects involving somatic and visceral sensations, olfaction and gustation.",
+   "pmid": "30843590",
+   "doi": "10.1093/scan/nsz015",
+   "cite": "Yih J, Beam DE, Fox KCR, Parvizi J. Intensity of affective experience is modulated by magnitude of intracranial electrical stimulation in human orbitofrontal, cingulate and insular cortices. Soc Cogn Affect Neurosci. 2019;14(4):339-351.",
+   "year": 2019
+  }
+ },
+ {
+  "id": "frontoparietal_control_network",
+  "aliases": [
+   "frontoparietal network",
+   "fpn",
+   "control network",
+   "central executive network",
+   "fpcn",
+   "executive control network",
+   "lateral frontoparietal network"
+  ],
+  "hint": "lateral prefrontal and inferior parietal regions for flexible control",
+  "summary": "The frontoparietal control network is a set of lateral prefrontal, inferior parietal, anterior cingulate and posterior temporal regions whose resting fMRI signals rise and fall together. Vincent and colleagues showed in 2008 that it sits between the dorsal attention network and the default mode network. It is engaged by tasks that demand working memory, rule switching and decision making. Its regions change their connectivity across tasks more than those of other networks do. Studies name it differently: central executive, executive control and frontoparietal control all refer to overlapping parcels.",
+  "where": "On the lateral surface the network covers the dorsolateral and ventrolateral prefrontal cortex around the middle frontal gyrus and the inferior frontal sulcus, and the inferior parietal lobule including the angular and supramarginal region. It also includes parts of the anterior cingulate and posterior middle temporal cortex. A lateral view shows most of it.",
+  "does": "Vincent and colleagues found that its regions lie next to and between those of the dorsal attention system and the default network, and that it includes regions known to support cognitive control and decision making. Dosenbach and colleagues described a frontoparietal control component with dorsolateral prefrontal cortex and intraparietal sulcus that emphasised start cues and errors, and may set up and adapt control trial by trial. Cole and colleagues found that its whole-brain connectivity pattern shifted more across tasks than that of other networks and could be used to identify the current task, which supports the idea of a flexible hub. These data are correlational, and whether a network is the cause of control or a reflection of it is still debated.",
+  "connects": "The superior longitudinal fasciculus links frontal and parietal nodes. The network is anatomically positioned between the dorsal attention network and the default mode network, and has been proposed to integrate information from both. It is coupled with the salience network, which Dosenbach and colleagues called a separate cingulo-opercular control network.",
+  "clinical": "Frontal lobe damage can leave memory and language intact but produce poor planning, perseveration and difficulty switching rules, called dysexecutive syndrome. Stimulation targeting the network with theta-burst TMS had effects on cognitive control tasks that depended on how connected the network was with default mode regions in each person. Left dorsolateral prefrontal TMS for depression is more effective at sites more anticorrelated with the subgenual cingulate.",
+  "remember": "Think of it as the middle manager: it sits physically between the dorsal attention network and the default mode network and switches its connections with the task.",
+  "facts": [
+   "Vincent and colleagues defined it in 2008 with BOLD correlations in 105 people.",
+   "It includes dorsolateral prefrontal cortex, anterior cingulate cortex and the inferior parietal lobule.",
+   "Its whole-brain connectivity changes more across tasks than that of other networks."
+  ],
+  "quiz": [
+   {
+    "q": "Which network, sitting between the dorsal attention and default mode networks, supports working memory and rule switching?",
+    "type": "function"
+   },
+   {
+    "q": "A patient with frontal damage has normal memory but cannot plan or switch rules. Which resting network covers the damaged lateral prefrontal cortex?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which Yeo network covers the middle frontal gyrus, the inferior frontal sulcus and the inferior parietal lobule?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   8,
+   2,
+   3
+  ],
+  "see_also": [
+   "dorsolateral_prefrontal_cortex",
+   "dorsal_attention_network",
+   "default_mode_network",
+   "superior_longitudinal_fasciculus"
+  ],
+  "how_we_know": "The network was defined from resting-state correlations and then tested with task imaging, which shows that the same regions respond across many demanding tasks. TMS tests cause, but results vary across people, and the best predictor of the effect was each person's baseline connectivity. Correlation alone does not show which node drives the others.",
+  "evidence": [
+   {
+    "kind": "connectivity",
+    "claim": "A third system sits between the dorsal attention and default networks",
+    "finding": "Vincent and colleagues used spontaneous BOLD correlations in three separate datasets with 105 people in total. They defined a frontoparietal control system next to the dorsal attention and default networks. This is correlational evidence.",
+    "quote": "Here spontaneous blood-oxygenation-level-dependent (BOLD) signal correlations were used in three separate functional magnetic resonance imaging data sets (n = 105) to define a third system, the frontoparietal control system, which is spatially interposed between these two previously defined systems. The frontoparietal control system includes many regions identified as supporting cognitive control and decision-making processes including lateral prefrontal cortex, anterior cingulate cortex, and inferior parietal lobule.",
+    "pmid": "18799601",
+    "doi": "10.1152/jn.90355.2008",
+    "cite": "Vincent JL, Kahn I, Snyder AZ, Raichle ME, Buckner RL. Evidence for a frontoparietal control system revealed by intrinsic functional connectivity. J Neurophysiol. 2008;100(6):3328-42.",
+    "year": 2008
+   },
+   {
+    "kind": "connectivity",
+    "claim": "Frontoparietal control is separable from a second cingulo-opercular control network",
+    "finding": "Dosenbach and colleagues applied graph theory to resting-state data and found two task-control networks. The frontoparietal one emphasised start cues and errors, and the cingulo-opercular one showed activity sustained across the task. This is correlational evidence.",
+    "quote": "A frontoparietal network included the dorsolateral prefrontal cortex and intraparietal sulcus. This network emphasized start-cue and error-related activity and may initiate and adapt control on a trial-by-trial basis.",
+    "pmid": "17576922",
+    "doi": "10.1073/pnas.0704320104",
+    "cite": "Dosenbach NU, Fair DA, Miezin FM, et al. Distinct brain networks for adaptive and stable task control in humans. Proc Natl Acad Sci U S A. 2007;104(26):11073-8.",
+    "year": 2007
+   },
+   {
+    "kind": "imaging",
+    "claim": "The network changes its brain-wide connectivity more than other networks across tasks",
+    "finding": "Cole and colleagues compared whole-brain connectivity across many task states. The frontoparietal network shifted its connectivity pattern more than the other networks, and the patterns could be used to identify the current task. This is correlational evidence.",
+    "quote": "We found that the FPN's brain-wide functional connectivity pattern shifted more than those of other networks across a variety of task states and that these connectivity patterns could be used to identify the current task.",
+    "pmid": "23892552",
+    "doi": "10.1038/nn.3470",
+    "cite": "Cole MW, Reynolds JR, Power JD, Repovs G, Anticevic A, Braver TS. Multi-task connectivity reveals flexible hubs for adaptive task control. Nat Neurosci. 2013;16(9):1348-55.",
+    "year": 2013
+   },
+   {
+    "kind": "stimulation",
+    "claim": "TMS to this network helps people differently depending on their baseline connectivity",
+    "finding": "Kim and Medaglia delivered theta-burst TMS to the lateral frontoparietal network, a dorsal attention network or the vertex, using targets mapped from each person's resting state. Those with more integrated control and default networks benefited most from control network stimulation, and those with more segregated networks benefited from dorsal network stimulation. This is causal evidence.",
+    "quote": "We found that baseline connectivity moderated stimulation outcomes: individuals with more integrated L-FPN/M-FPN networks benefited most from L-FPN stimulation, whereas those with more segregated networks showed greater improvements from D-FPN stimulation.",
+    "pmid": "42459500",
+    "doi": "10.1162/IMAG.a.1298",
+    "cite": "Kim B, Medaglia JD. Frontoparietal control-default mode connectivity predicts TMS effects on cognitive control. Imaging Neurosci (Camb). 2026;4:IMAG.a.1298.",
+    "year": 2026
+   }
+  ],
+  "stimulation": {
+   "method": "intermittent theta-burst transcranial magnetic stimulation",
+   "effect": "Stimulating the lateral frontoparietal network changed performance on cognitive control tasks, but only in people whose control and default networks were more integrated at baseline. A single target did not help everyone.",
+   "quote": "We found that baseline connectivity moderated stimulation outcomes: individuals with more integrated L-FPN/M-FPN networks benefited most from L-FPN stimulation, whereas those with more segregated networks showed greater improvements from D-FPN stimulation.",
+   "pmid": "42459500",
+   "doi": "10.1162/IMAG.a.1298",
+   "cite": "Kim B, Medaglia JD. Frontoparietal control-default mode connectivity predicts TMS effects on cognitive control. Imaging Neurosci (Camb). 2026;4:IMAG.a.1298.",
+   "year": 2026
+  }
+ },
+ {
+  "id": "default_mode_network",
+  "aliases": [
+   "dmn",
+   "default network",
+   "default mode",
+   "resting state network",
+   "task-negative network"
+  ],
+  "hint": "medial midline hubs that quiet down during demanding tasks",
+  "summary": "The default mode network is a set of regions, centered on the medial prefrontal cortex, the posterior cingulate and precuneus, and the angular gyrus, whose activity falls during demanding external tasks and rises at rest. Raichle and colleagues proposed a default mode of brain function in 2001 from regions that consistently decrease during goal-directed behaviour. Greicius and colleagues showed in 2003 that the posterior cingulate is strongly coupled with these regions at rest. It is anticorrelated at rest with networks for attention and control. It is engaged by autobiographical memory, imagining the future and thinking about other people's perspectives.",
+  "where": "The network includes medial prefrontal cortex, the posterior cingulate and precuneus on the medial surface, the angular gyrus and inferior parietal lobule on the lateral surface, the lateral and anterior temporal cortex, and the hippocampal formation deep in the medial temporal lobe. A medial view shows the midline hubs best, and a lateral view shows the parietal and temporal parts.",
+  "does": "Raichle and colleagues found that oxygen extraction in the awake resting brain is uniform and that a group of areas consistently show decreases during goal-directed tasks. Buckner and colleagues reviewed the network as an anatomically defined system active in internally focused tasks, including autobiographical memory retrieval, envisioning the future and conceiving the perspectives of others, and found it divides into subsystems: a medial temporal one that supplies memories, a medial prefrontal one that uses them for self-relevant simulation, and the posterior cingulate where they meet. Fox and colleagues showed that its resting fluctuations are anticorrelated with those of regions that increase during attention tasks. How much of this is mind-wandering and how much is more specific processing is debated.",
+  "connects": "The posterior cingulate and precuneus are the main hub, linked with the medial prefrontal cortex and the angular gyrus, and with the hippocampus through the cingulum and the fornix. It is anticorrelated with the dorsal attention network and with lateral prefrontal regions of the frontoparietal control network. Salience network nodes in the anterior insula are thought to help switch between internal and external modes, but that is a model.",
+  "clinical": "Alzheimer's disease reduces default mode activity in the posterior cingulate and hippocampus, and a measure of default mode connectivity may separate patients from healthy elderly people. Buckner and colleagues also discuss the network in autism and schizophrenia. In epilepsy patients, electrical stimulation of the posteromedial cortex produced no reported effects, and in one awake-surgery patient, stimulating white matter connected to the left posterior cingulate caused a transient loss of responsiveness.",
+  "remember": "Default means what the brain does when the task is off: the midline hubs fall quiet during demanding tasks and take over at rest.",
+  "facts": [
+   "Raichle and colleagues proposed a default mode of brain function in 2001.",
+   "It is anticorrelated at rest with attention and control networks.",
+   "The posterior cingulate and precuneus are the main posterior hub."
+  ],
+  "quiz": [
+   {
+    "q": "Which network falls quiet during demanding tasks and supports autobiographical memory and imagining the future?",
+    "type": "function"
+   },
+   {
+    "q": "Reduced resting activity in the posterior cingulate and hippocampus separates Alzheimer's disease from healthy ageing. Which network?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which Yeo network has hubs in the medial prefrontal cortex, posterior cingulate, precuneus and angular gyrus?",
+    "type": "location"
+   },
+   {
+    "q": "Which network is anticorrelated at rest with the dorsal attention network?",
+    "type": "connection"
+   }
+  ],
+  "refs": [
+   8,
+   2,
+   3
+  ],
+  "see_also": [
+   "posterior_cingulate_cortex",
+   "precuneus",
+   "angular_gyrus",
+   "ventromedial_prefrontal_cortex"
+  ],
+  "how_we_know": "The network was found three ways: PET and fMRI showing regions that decrease in many tasks, resting-state correlations among those regions, and patient data. Stimulation of the posteromedial hub produced no reported effect, which shows that the evidence for what the network does is mostly correlational and that causal tests are hard. Greicius and colleagues also found altered activity in 13 patients with mild Alzheimer's disease compared with 13 elderly controls.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "A set of regions consistently decreases during goal-directed tasks",
+    "finding": "Raichle and colleagues used PET to measure oxygen extraction across the resting brain and found it was remarkably uniform. They then pointed to a group of areas that consistently decrease from this baseline during many goal-directed tasks, and called it a default mode. This is correlational evidence.",
+    "quote": "Defining the baseline state of an area in this manner attaches meaning to a group of areas that consistently exhibit decreases from this baseline, during a wide variety of goal-directed behaviors monitored with positron-emission tomography and functional MRI. These decreases suggest the existence of an organized, baseline default mode of brain function that is suspended during specific goal-directed behaviors.",
+    "pmid": "11209064",
+    "doi": "10.1073/pnas.98.2.676",
+    "cite": "Raichle ME, MacLeod AM, Snyder AZ, Powers WJ, Gusnard DA, Shulman GL. A default mode of brain function. Proc Natl Acad Sci U S A. 2001;98(2):676-82.",
+    "year": 2001
+   },
+   {
+    "kind": "connectivity",
+    "claim": "The posterior cingulate is coupled with the same regions at rest and anticorrelated with lateral prefrontal cortex",
+    "finding": "Greicius and colleagues defined the posterior cingulate and ventral anterior cingulate from a working-memory task and measured their resting connectivity. The posterior cingulate was strongly coupled with the ventral anterior cingulate and other default regions, and showed inverse correlations with three lateral prefrontal regions. This is correlational evidence.",
+    "quote": "PCC was strongly coupled with vACC and several other brain regions implicated in the default mode network. Next, we examined the functional connectivity of PCC and vACC during a visual processing task and show that the resultant connectivity maps are virtually identical to those obtained during rest. Last, we defined three lateral prefrontal regions showing increased activity during the cognitive task and examined their resting-state connectivity. We report significant inverse correlations among all three lateral prefrontal regions and PCC, suggesting a mechanism for attenuation of default mode network activity during cognitive processing.",
+    "pmid": "12506194",
+    "doi": "10.1073/pnas.0135058100",
+    "cite": "Greicius MD, Krasnow B, Reiss AL, Menon V. Functional connectivity in the resting brain: a network analysis of the default mode hypothesis. Proc Natl Acad Sci U S A. 2003;100(1):253-8.",
+    "year": 2003
+   },
+   {
+    "kind": "connectivity",
+    "claim": "Task-positive and task-negative networks are anticorrelated in the resting brain",
+    "finding": "Fox and colleagues examined spontaneous fMRI fluctuations in the absence of a task. They found two opposed networks, one made of regions that routinely activate during tasks and one of regions that routinely deactivate, with correlations within each network and anticorrelations between them. This is correlational evidence.",
+    "quote": "We identify two diametrically opposed, widely distributed brain networks on the basis of both spontaneous correlations within each network and anticorrelations between networks. One network consists of regions routinely exhibiting task-related activations and the other of regions routinely exhibiting task-related deactivations.",
+    "pmid": "15976020",
+    "doi": "10.1073/pnas.0504136102",
+    "cite": "Fox MD, Snyder AZ, Vincent JL, Corbetta M, Van Essen DC, Raichle ME. The human brain is intrinsically organized into dynamic, anticorrelated functional networks. Proc Natl Acad Sci U S A. 2005;102(27):9673-8.",
+    "year": 2005
+   },
+   {
+    "kind": "meta-analysis",
+    "claim": "The network supports internally focused thought and has subsystems",
+    "finding": "Buckner and colleagues synthesised thirty years of imaging and monkey anatomy. They concluded that the default network is an anatomically defined system active in internally focused tasks such as autobiographical memory retrieval, envisioning the future and conceiving the perspectives of others. They also discuss its relevance to autism, schizophrenia and Alzheimer's disease. This is a review of correlational evidence.",
+    "quote": "Analysis of connectional anatomy in the monkey supports the presence of an interconnected brain system. Providing insight into function, the default network is active when individuals are engaged in internally focused tasks including autobiographical memory retrieval, envisioning the future, and conceiving the perspectives of others.",
+    "pmid": "18400922",
+    "doi": "10.1196/annals.1440.011",
+    "cite": "Buckner RL, Andrews-Hanna JR, Schacter DL. The brain's default network: anatomy, function, and relevance to disease. Ann N Y Acad Sci. 2008;1124:1-38.",
+    "year": 2008
+   }
+  ],
+  "stimulation": {
+   "method": "direct electrical stimulation with intracranial electrodes in epilepsy patients",
+   "effect": "Stimulating sites inside the posteromedial cortex, a main hub, produced no observable behavioural or reported effects, whereas sites just above and below produced movement or visual effects. A stimulation null does not show that the region is unimportant.",
+   "quote": "Data were collected from 885 stimulations in 25 patients implanted with intracranial electrodes across the PMC. While EBS of regions immediately dorsal or ventral to the PMC reliably produced somatomotor or visual effects, respectively, we found no observable behavioral or subjectively reported effects when sites within the boundaries of PMC were electrically perturbed.",
+   "pmid": "28100728",
+   "doi": "10.1212/WNL.0000000000003607",
+   "cite": "Foster BL, Parvizi J. Direct cortical stimulation of human posteromedial cortex. Neurology. 2017;88(7):685-691.",
+   "year": 2017
+  }
+ },
+ {
+  "id": "corpus_callosum",
+  "aliases": [
+   "callosum",
+   "callosal body",
+   "cc"
+  ],
+  "hint": "thick arch of white matter joining the two hemispheres",
+  "summary": "The corpus callosum is the largest commissural bundle of the brain, a thick sheet of axons that connects the left and right cerebral hemispheres. It forms the roof of the lateral ventricles and is divided from front to back into the rostrum, genu, body, isthmus and splenium. Fibres from homotopic cortical areas cross the midline in a roughly topographic order, with prefrontal fibres in the genu and occipital fibres in the splenium. It lets the hemispheres share perception, attention, memory and motor planning. Cutting it, as in callosotomy for epilepsy, produced the classic split-brain findings.",
+  "where": "On a midsagittal view the corpus callosum is the thick arch above the lateral ventricles and below the cingulate gyrus, with the genu curving at the front and the splenium thickened at the back. The model shows the dense core of the bundle from a probabilistic histology atlas, and not every fibre that crosses, so it is an approximation. A medial or superior view shows it best.",
+  "does": "It transfers information between the hemispheres so that each side can use what the other sees, feels and plans. Hofer and Frahm used diffusion tractography to divide it into five vertical segments carrying fibres to prefrontal, premotor and supplementary motor, primary motor, primary sensory, and parietal, temporal and occipital cortex. In split-brain patients each hemisphere has its own set of capacities, with the left specialised for language and speech and the right for tasks such as face recognition and attentional monitoring. Despite that, patients feel integrated, which Gazzaniga attributed to a left hemisphere interpreter. Strength of resting-state coupling between homotopic areas depends on callosal structure.",
+  "connects": "It is a commissural tract: it joins corresponding areas of the two hemispheres, plus some non-corresponding areas. Motor and sensory fibres cross in the body, visual fibres in the splenium, and prefrontal fibres in the genu. The anterior commissure carries a smaller share of the temporal and orbitofrontal crossing.",
+  "clinical": "Callosotomy is a palliative operation for drug-resistant epilepsy with drop attacks, because it stops seizure spread between hemispheres. After surgery patients may show disconnection signs, such as difficulty naming objects held in the left hand and, sometimes, alien hand behaviour. A lesion of the splenium can cause alexia without agraphia. Agenesis of the corpus callosum is a congenital malformation in which resting-state coupling between the hemispheres is markedly reduced.",
+  "remember": "Callosum means hard body: the one thick bridge between the hemispheres, genu at the knee in front and splenium like a bandage at the back.",
+  "facts": [
+   "It is the largest commissural white matter bundle.",
+   "Callosotomy freed 61.86% of patients from drop attacks in a pooled analysis of 1644 patients, compared with 12.38% for complete seizure freedom overall.",
+   "The model shows the dense core of the bundle from a histological atlas, not the full extent."
+  ],
+  "quiz": [
+   {
+    "q": "Which tract carries information between homotopic areas of the two hemispheres and was cut in the classic split-brain operations?",
+    "type": "function"
+   },
+   {
+    "q": "A patient with drug-resistant epilepsy and drop attacks has a palliative operation that cuts the bundle joining the hemispheres. Which structure?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which white matter bundle forms the roof of the lateral ventricles and has a genu in front and a splenium behind?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   11,
+   12
+  ],
+  "see_also": [
+   "cingulum",
+   "fornix",
+   "lateral_ventricle"
+  ],
+  "how_we_know": "Split-brain studies from the 1960s, based on patients who had the corpus callosum cut, gave the first causal evidence for what it does. Diffusion tractography maps where its fibres go in healthy people, but it infers pathways from water diffusion and is not a direct view of axons. Surgical series show the clinical result of cutting it.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Cutting the callosum shows that each hemisphere has its own specialised abilities",
+    "finding": "Gazzaniga reviewed forty years of studies of split-brain patients. They show a left hemisphere specialised for language and a right hemisphere specialised for face recognition and attentional monitoring, even though patients feel totally integrated. This is causal evidence from surgical disconnection.",
+    "quote": "Studies of split-brain patients over the last 40 years have resulted in numerous insights into the processes of perception, attention, memory, language and reasoning abilities.",
+    "pmid": "10869045",
+    "doi": "10.1093/brain/123.7.1293",
+    "cite": "Gazzaniga MS. Cerebral specialization and interhemispheric communication: does the corpus callosum enable the human condition? Brain. 2000;123(Pt 7):1293-326.",
+    "year": 2000
+   },
+   {
+    "kind": "imaging",
+    "claim": "Fibres from different cortical areas cross in different parts of the callosum",
+    "finding": "Hofer and Frahm used diffusion tractography in healthy people to find which part of the corpus callosum carries fibres from each cortical area. They distinguished five vertical segments and found that callosal motor fibres cross further back than earlier schemes had indicated. This is correlational evidence.",
+    "quote": "With DTI-based tractography, we distinguished five vertical segments of the CC, containing fibers projecting into prefrontal, premotor (and supplementary motor), primary motor, and primary sensory areas as well as into parietal, temporal, and occipital cortical areas.",
+    "pmid": "16854598",
+    "doi": "10.1016/j.neuroimage.2006.05.044",
+    "cite": "Hofer S, Frahm J. Topography of the human corpus callosum revisited--comprehensive fiber tractography using diffusion tensor magnetic resonance imaging. Neuroimage. 2006;32(3):989-94.",
+    "year": 2006
+   },
+   {
+    "kind": "meta-analysis",
+    "claim": "Callosotomy mainly stops drop attacks, and rarely stops all seizures",
+    "finding": "Wu and colleagues pooled 49 case series with 1644 patients who had drug-resistant epilepsy. Complete seizure freedom was 12.38%, and complete freedom from drop attacks was 61.86%. The evidence quality was low to moderate.",
+    "quote": "A total of 1644 patients with drug-resistant epilepsy (49 retrospective or prospective case series studies) underwent CC, and the follow-up time of all patients was at least 1 year. The rate of complete seizure freedom (SF) was 12.38% (95% confidence interval [CI], 8.17%-17.21%). Meanwhile, the rate of complete SF from drop attacks was 61.86% (95% CI, 51.87%-71.41%).",
+    "pmid": "36929636",
+    "doi": "10.1002/brb3.2964",
+    "cite": "Wu X, Ou S, Zhang H, et al. Long-term follow-up seizure outcomes after corpus callosotomy: A systematic review with meta-analysis. Brain Behav. 2023;13(4):e2964.",
+    "year": 2023,
+    "data": {
+     "title": "Complete seizure freedom after callosotomy",
+     "unit": "%",
+     "items": [
+      [
+       "All seizure types",
+       12.38
+      ],
+      [
+       "Drop attacks",
+       61.86
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "connectivity",
+    "claim": "Resting coupling between the hemispheres depends on the callosum",
+    "finding": "Yuan and colleagues compared nine people born without a corpus callosum with ten healthy people using diffusion MRI and resting-state fMRI. Interhemispheric functional connectivity was markedly reduced in agenesis, and it correlated with the number and fractional anisotropy of fibres crossing the callosum. This is correlational evidence from a natural experiment.",
+    "quote": "AgCC subjects showed markedly reduced VMHC compared to controls. VMHC was significantly correlated with the FN and FA of the fibers crossing the CC.",
+    "pmid": "32979843",
+    "doi": "10.1016/j.nicl.2020.102425",
+    "cite": "Yuan J, Song X, Kuan E, et al. The structural basis for interhemispheric functional connectivity: Evidence from individuals with agenesis of the corpus callosum. Neuroimage Clin. 2020;28:102425.",
+    "year": 2020
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "corticospinal_tract",
+  "aliases": [
+   "cst",
+   "pyramidal tract",
+   "corticospinal",
+   "pyramidal"
+  ],
+  "hint": "descending motor fibers from cortex through the internal capsule",
+  "summary": "The corticospinal tract is the main descending voluntary motor pathway. Its axons arise from pyramidal neurons in the primary motor cortex and from premotor and somatosensory areas, and they travel to the spinal cord. It is a projection tract: it runs from cortex through the corona radiata, the posterior limb of the internal capsule, the cerebral peduncle and the base of the pons, and then forms the pyramids of the medulla. Most fibres cross at the pyramidal decussation and descend as the lateral corticospinal tract, which controls the limbs. Damage anywhere along the path produces upper motor neuron signs.",
+  "where": "The model shows the dense core of the bundle from a probabilistic histology atlas, the part of the tract above the brainstem, running from the white matter under the motor strip through the internal capsule toward the cerebral peduncle. The tract is longer than what is drawn, because it continues through the brainstem and the cord. It lies lateral to the thalamus and medial to the lentiform nucleus in the internal capsule. A coronal or oblique view shows it best.",
+  "does": "It carries commands for voluntary, especially fine and skilled, movements of the opposite side of the body. Fibres to the hand and fingers are the most dependent on it, and their loss produces the most disabling deficits. The tract is somatotopic from the cortex down, with face fibres anterior and leg fibres posterior in the internal capsule. Stinear and colleagues showed in stroke survivors that how much of the tract is left, measured with TMS and diffusion MRI, predicts how much motor function can still be regained.",
+  "connects": "Origin is primary motor cortex, premotor cortex and somatosensory cortex. Fibres pass through the internal capsule and cerebral peduncle, then through the pons, and cross at the pyramidal decussation in the lower medulla. They end on interneurons and motor neurons in the spinal ventral horn.",
+  "clinical": "A lesion above the decussation, such as a capsular stroke, causes contralateral weakness, spasticity, hyperreflexia and an extensor plantar response, the Babinski sign. A lesion below the decussation causes ipsilateral signs. In chronic stroke, the loss of motor-evoked responses and high asymmetry of fractional anisotropy in the internal capsule predict poor recovery. In glioma surgery, subcortical stimulation is used to locate the tract so that it can be preserved.",
+  "remember": "Pyramidal tract: it makes the pyramids of the medulla, and most of it crosses there, so a lesion above it weakens the opposite side.",
+  "facts": [
+   "It descends through the posterior limb of the internal capsule.",
+   "Most fibres decussate in the lower medulla and descend as the lateral corticospinal tract.",
+   "Upper motor neuron lesions give spasticity, hyperreflexia and a Babinski sign."
+  ],
+  "quiz": [
+   {
+    "q": "Which projection tract carries voluntary motor commands from cortex to the spinal cord and forms the medullary pyramids?",
+    "type": "function"
+   },
+   {
+    "q": "A capsular stroke gives contralateral weakness, spasticity and a Babinski sign. Which tract is damaged?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which descending bundle runs through the posterior limb of the internal capsule and the cerebral peduncle, crossing in the lower medulla?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   4,
+   11
+  ],
+  "see_also": [
+   "primary_motor_cortex",
+   "somatomotor_network",
+   "thalamus",
+   "midbrain"
+  ],
+  "how_we_know": "Anatomy comes from histology and tract tracing, and function from lesions and stimulation. In patients, TMS and diffusion MRI link tract integrity to recovery after stroke, and subcortical stimulation during glioma surgery shows how close a probe is to the tract. Tractography can show where fibres probably run, but it does not show which axons carry which signal.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "The tract's position and variability are mapped from myelin-stained postmortem brains",
+    "finding": "Burgel and colleagues identified fibre tracts in myelin-stained sections of ten postmortem brains and registered them to a standard MRI space as probability maps. The corticospinal tract is among the bundles in the atlas, and the maps show how much its position varies between people.",
+    "quote": "The analyzed tracts include the corticospinal tract, optic and acoustic radiations, fornix, cingulum, corpus callosum, superior longitudinal, superior and inferior occipito-frontal and uncinate fascicles; sources and targets of fiber tracts include the lateral and medial geniculate nuclei and mamillary bodies.",
+    "pmid": "16236527",
+    "doi": "10.1016/j.neuroimage.2005.08.040",
+    "cite": "Burgel U, Amunts K, Hoemke L, Mohlberg H, Gilsbach JM, Zilles K. White matter fiber tracts of the human brain: three-dimensional mapping at microscopic resolution, topography and intersubject variability. Neuroimage. 2006;29(4):1092-105.",
+    "year": 2006
+   },
+   {
+    "kind": "lesion",
+    "claim": "How much tract is left predicts how much a stroke survivor can still regain",
+    "finding": "Stinear and colleagues studied 21 chronic stroke patients with arm weakness using TMS, fMRI and diffusion MRI. In patients with no motor-evoked responses, functional potential fell as the tract was more disrupted, and no meaningful gains were possible once asymmetry of fractional anisotropy exceeded 0.25. This is correlational evidence from lesions.",
+    "quote": "We studied 21 chronic stroke patients with upper limb impairment. In patients without MEPs, functional potential declines with increasing CST disruption, with no meaningful gains possible if FA asymmetry exceeds a value of 0.25.",
+    "pmid": "17148468",
+    "doi": "10.1093/brain/awl333",
+    "cite": "Stinear CM, Barber PA, Smale PR, Coxon JP, Fleming MK, Byblow WD. Functional potential in chronic stroke patients depends on corticospinal tract integrity. Brain. 2007;130(Pt 1):170-80.",
+    "year": 2007
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Stimulation thresholds in the white matter rise with distance from the tract",
+    "finding": "Ostry and colleagues stimulated the white matter during glioma and metastasis surgery in 25 patients and recorded motor-evoked potential thresholds. The current needed rose with distance from the tract, with correlation coefficients of 0.470 before and 0.338 after intraoperative MRI. This is causal evidence about where the tract is.",
+    "quote": "The correlation coefficient pre-iMRI was R = 0.470 (P < .001); post-iMRI, the correlation coefficient was R = 0.338 (P < .001).",
+    "pmid": "23863765",
+    "doi": "10.1227/NEU.0000000000000087",
+    "cite": "Ostry S, Belsan T, Otahal J, Benes V, Netuka D. Is intraoperative diffusion tensor imaging at 3.0T comparable to subcortical corticospinal tract mapping? Neurosurgery. 2013;73(5):797-807; discussion 806-7.",
+    "year": 2013,
+    "data": {
+     "title": "Current-distance correlation (R)",
+     "unit": "R",
+     "items": [
+      [
+       "Before intraoperative MRI",
+       0.47
+      ],
+      [
+       "After intraoperative MRI",
+       0.338
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": {
+   "method": "subcortical monopolar stimulation with motor-evoked potential recording during tumour surgery",
+   "effect": "Stimulating the white matter near the tract evokes muscle responses, and the current needed to evoke them grows with the distance of the probe from the tract. Surgeons use this to map the tract and keep resections away from it.",
+   "quote": "The linear current-distance correlation was found both in pre-iMRI and in post-iMRI data. Intraoperative image distortion appeared in 36%. Neurophysiological subcortical mapping remains superior to DTT.",
+   "pmid": "23863765",
+   "doi": "10.1227/NEU.0000000000000087",
+   "cite": "Ostry S, Belsan T, Otahal J, Benes V, Netuka D. Is intraoperative diffusion tensor imaging at 3.0T comparable to subcortical corticospinal tract mapping? Neurosurgery. 2013;73(5):797-807; discussion 806-7.",
+   "year": 2013
+  }
+ },
+ {
+  "id": "optic_radiation",
+  "aliases": [
+   "optic radiations",
+   "geniculocalcarine tract",
+   "geniculocalcarine radiation"
+  ],
+  "hint": "fibers from the thalamic relay of vision to the occipital pole",
+  "summary": "The optic radiation is the projection bundle that carries visual information from the lateral geniculate nucleus of the thalamus to primary visual cortex in the occipital lobe. It leaves the thalamus through the retrolenticular part of the internal capsule and fans out around the lateral ventricle. Its fibres split into an inferior part, which loops forward into the temporal lobe as Meyer's loop, and a more direct superior part through the parietal white matter. It ends in the banks of the calcarine sulcus. Damage causes a visual field defect in both eyes on the opposite side.",
+  "where": "The model shows the dense core of the bundle from a probabilistic histology atlas, a band running from the lateral geniculate nucleus along the lateral wall of the posterior horn of the lateral ventricle to the occipital pole. Meyer's loop curves forward over the temporal horn before turning back. A lateral or axial view shows it best.",
+  "does": "It relays a retinotopic map of the contralateral visual field from the lateral geniculate nucleus to V1. Fibres that carry the upper visual field run through the inferior part and Meyer's loop, and fibres for the lower visual field run through the superior part. Because the map is preserved, the location of a lesion predicts the shape of the field defect. In individuals the anterior tip of Meyer's loop varies a good deal, so surgeons cannot assume where it lies.",
+  "connects": "Input comes from the lateral geniculate nucleus, itself fed by the optic tract. Output goes to primary visual cortex around the calcarine sulcus. In the internal capsule the fibres lie next to the acoustic radiation.",
+  "clinical": "A lesion of Meyer's loop in the temporal lobe causes a contralateral superior quadrantanopia, the pie in the sky defect, and a parietal lesion causes an inferior quadrantanopia. A complete lesion of the radiation causes a contralateral homonymous hemianopia. Anterior temporal lobectomy often damages Meyer's loop, and tractography is used to predict the risk.",
+  "remember": "Meyer's loop is the temporal detour: damage there takes away the upper visual field on the opposite side, pie in the sky.",
+  "facts": [
+   "Meyer's loop carries upper visual field fibres through the temporal lobe.",
+   "The distance from the tip of Meyer's loop to the temporal pole ranged from 24 to 43 mm in patients.",
+   "A temporal lobe lesion gives a contralateral superior quadrantanopia."
+  ],
+  "quiz": [
+   {
+    "q": "Which tract carries visual information from the lateral geniculate nucleus to the calcarine cortex?",
+    "type": "function"
+   },
+   {
+    "q": "After anterior temporal lobectomy, a patient has lost the upper visual field on the opposite side in both eyes. Which fibres were cut?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which bundle passes along the lateral wall of the posterior horn of the lateral ventricle and includes a loop around the temporal horn?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   3,
+   4,
+   11,
+   12
+  ],
+  "see_also": [
+   "lateral_geniculate_nucleus",
+   "primary_visual_cortex",
+   "acoustic_radiation",
+   "calcarine_sulcus"
+  ],
+  "how_we_know": "Field defects after temporal lobe surgery and glioma resection give causal evidence about where the fibres run, and tractography and histology show the anatomy. Intraoperative stimulation in awake patients confirms where the radiation lies, but quadrant defects after surgery depend on both the resection size and on individual variation.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The anterior tip of Meyer's loop varies between people and predicts field loss after surgery",
+    "finding": "Yogarajah and colleagues used diffusion tractography in 20 controls and 21 patients after anterior temporal lobe surgery. In patients the tip of Meyer's loop lay 24 to 43 mm, mean 34 mm, behind the temporal pole. The distance from the tip to the temporal pole and the size of the resection predicted the postoperative field defects. This is correlational evidence, backed by lesion outcomes.",
+    "quote": "Nine patients suffered VFDs ranging from 22% to 87% of the contralateral superior quadrant. In patients, the range of distance from the tip of Meyer's loop to the temporal pole was 24-43 mm (mean 34 mm), and the range of distance from the tip of Meyer's loop to the temporal horn was -15 to +9 mm (mean 0 mm).",
+    "pmid": "19460796",
+    "doi": "10.1093/brain/awp114",
+    "cite": "Yogarajah M, Focke NK, Bonelli S, et al. Defining Meyer's loop-temporal lobe resections, visual field deficits and diffusion tensor tractography. Brain. 2009;132(Pt 6):1656-68.",
+    "year": 2009,
+    "data": {
+     "title": "Tip of Meyer's loop to temporal pole in patients",
+     "unit": "mm",
+     "items": [
+      [
+       "Shortest distance",
+       24
+      ],
+      [
+       "Mean distance",
+       34
+      ],
+      [
+       "Longest distance",
+       43
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "lesion",
+    "claim": "Temporal lobe surgery often causes field defects because it damages the optic radiation",
+    "finding": "Egan and colleagues tested visual fields in 29 patients after anterior temporal lobectomy or amygdalohippocampectomy. At 40 degrees from center, 11 of 15 lobectomy patients and 11 of 14 amygdalohippocampectomy patients had field defects, with no significant difference between operations. This is causal evidence from surgery.",
+    "quote": "Four of 14 AH patients (28%) had a VFD at 10 degrees from center and 11/14 (78%) had VFD at 40 degrees. One of 15 ATL patients (7%) had a VFD at 10 degrees from center and 11/15 (73%) had VFD at 40 degrees.",
+    "pmid": "11134379",
+    "doi": "10.1212/wnl.55.12.1818",
+    "cite": "Egan RA, Shults WT, So N, Burchiel K, Kellogg JX, Salinsky M. Visual field deficits in conventional anterior temporal lobectomy versus amygdalohippocampectomy. Neurology. 2000;55(12):1818-22.",
+    "year": 2000,
+    "data": {
+     "title": "Patients with a field defect at 40 degrees",
+     "unit": "%",
+     "items": [
+      [
+       "Amygdalohippocampectomy",
+       78
+      ],
+      [
+       "Temporal lobectomy",
+       73
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Stimulating the radiation in awake surgery produces visual disturbances and guides resection",
+    "finding": "Gras-Combe and colleagues stimulated the white matter during awake glioma surgery in 14 patients. All of them had transient visual symptoms when the radiation was stimulated, which marked where to stop. Only one patient had a permanent hemianopia, although 12 had been expected to develop a quadrantanopia.",
+    "quote": "All patients experienced visual symptoms during stimulation. These disturbances led the authors to stop the tumor resection at that level. Postoperatively, only 1 patient had a permanent hemianopia, despite an expected quadrantanopia in 12 cases.",
+    "pmid": "22794319",
+    "doi": "10.3171/2012.6.JNS111981",
+    "cite": "Gras-Combe G, Moritz-Gasser S, Herbet G, Duffau H. Intraoperative subcortical electrical mapping of optic radiations in awake surgery for glioma involving visual pathways. J Neurosurg. 2012;117(3):466-73.",
+    "year": 2012,
+    "data": {
+     "title": "Patients with visual field loss after awake mapping",
+     "unit": "patients",
+     "items": [
+      [
+       "Expected quadrantanopia",
+       12
+      ],
+      [
+       "Permanent hemianopia",
+       1
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": {
+   "method": "direct subcortical electrical stimulation during awake surgery",
+   "effect": "Stimulating the optic radiation caused transient visual disturbances in all 14 patients. Surgeons stopped the resection at that point and nearly all patients kept their visual field.",
+   "quote": "All patients experienced visual symptoms during stimulation. These disturbances led the authors to stop the tumor resection at that level.",
+   "pmid": "22794319",
+   "doi": "10.3171/2012.6.JNS111981",
+   "cite": "Gras-Combe G, Moritz-Gasser S, Herbet G, Duffau H. Intraoperative subcortical electrical mapping of optic radiations in awake surgery for glioma involving visual pathways. J Neurosurg. 2012;117(3):466-73.",
+   "year": 2012
+  }
+ },
+ {
+  "id": "acoustic_radiation",
+  "aliases": [
+   "auditory radiation",
+   "geniculotemporal radiation",
+   "auditory radiations",
+   "acoustic radiations"
+  ],
+  "hint": "fibers from the thalamic relay of hearing to Heschl's gyrus",
+  "summary": "The acoustic radiation is the projection bundle from the medial geniculate nucleus of the thalamus to the primary auditory cortex in Heschl's gyrus. It is a compact bundle that runs laterally through the sublenticular part of the internal capsule beneath the lentiform nucleus. Its exact course in humans has been hard to trace with tractography, and a recent study argues for dorsal and ventral branches. It carries tonotopically organised auditory information to cortex. Bilateral damage can cause cortical deafness.",
+  "where": "The model shows the dense core of the bundle from a probabilistic histology atlas. It runs from the medial geniculate nucleus on the posterior thalamus laterally and forward toward Heschl's gyrus on the superior temporal plane, below the posterior insula. It travels near the optic radiation. An axial view shows its transverse course best.",
+  "does": "It relays auditory information from the thalamic auditory relay to cortex. Maffei and colleagues describe a transversal course from the midline to the lateral convexity of the posterior temporal lobe, with a genu, stem and fan in dissection. The precise anatomy is not settled, and probabilistic tractography is limited here because the bundle is small and crosses other fibres.",
+  "connects": "Input comes from the medial geniculate nucleus, which receives auditory information from the inferior colliculus. Output goes to primary auditory cortex on Heschl's gyrus and to nearby auditory-responsive areas. It crosses regions also traversed by the optic radiation and by association pathways.",
+  "clinical": "Because each auditory cortex receives input from both ears, unilateral damage usually causes mild deficits. Bilateral subcortical lesions that interrupt the radiations are reported to cause auditory agnosia or cortical deafness, with preserved vision. These are rare cases, so the evidence is mostly case reports.",
+  "remember": "The auditory partner of the optic radiation: medial geniculate to Heschl's gyrus, running a transverse course past the optic fibres.",
+  "facts": [
+   "It connects the medial geniculate nucleus with Heschl's gyrus.",
+   "Dissection describes three parts: a genu, a stem and a fan.",
+   "Bilateral subcortical lesions are reported to cause cortical deafness or auditory agnosia."
+  ],
+  "quiz": [
+   {
+    "q": "Which compact tract carries auditory information from the medial geniculate nucleus to Heschl's gyrus?",
+    "type": "function"
+   },
+   {
+    "q": "Bilateral subcortical lesions leave vision intact but cause cortical deafness. Which pathway is interrupted?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   4,
+   11,
+   12
+  ],
+  "see_also": [
+   "medial_geniculate_nucleus",
+   "primary_auditory_cortex",
+   "heschls_gyrus",
+   "optic_radiation"
+  ],
+  "how_we_know": "The bundle is small and hard to image, so the evidence comes from histological atlases, fibre dissection in postmortem brains, and tractography in volunteers, and from rare patients with bilateral lesions. Stimulation data for the bundle itself do not exist in the studies found here.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "Dissection and tractography show a transverse bundle from thalamus to posterior temporal lobe",
+    "finding": "Maffei and colleagues combined micro-dissection of three human hemispheres with tractography from four Human Connectome Project datasets. Both approaches showed a transverse course from the midline to the posterior temporal lobe, and dissection showed a genu, stem and fan.",
+    "quote": "The acoustic radiation is a compact bundle of fibers conveying auditory information from the medial geniculate nucleus of the thalamus to the auditory cortex. Both techniques show the unique trajectory of the AR, a transversal course from the midline to the lateral convexity of the posterior temporal lobe.",
+    "pmid": "28866840",
+    "doi": "10.1007/s00429-017-1471-6",
+    "cite": "Maffei C, Jovicich J, De Benedictis A, et al. Topography of the human acoustic radiation as revealed by ex vivo fibers micro-dissection and in vivo diffusion-based tractography. Brain Struct Funct. 2018;223(1):449-459.",
+    "year": 2018
+   },
+   {
+    "kind": "lesion",
+    "claim": "Bilateral white matter lesions that overlap the radiation cause cortical deafness with vision spared",
+    "finding": "Poliva and colleagues used probabilistic tractography in 19 healthy adults, then overlaid the lesions from eight published patients with severe auditory agnosia or cortical deafness. In all eight, bilateral lesions overlapped one or both components of a proposed dorsal branch of the acoustic radiation while visual fields were preserved. The authors say the course of the radiation is not settled.",
+    "quote": "In all eight historical cases, bilateral lesions overlapped one or both components of the dAR while visual fields were preserved, suggesting relative sparing of the optic radiations and the vAR.",
+    "pmid": "41655453",
+    "doi": "10.1016/j.heares.2026.109551",
+    "cite": "Poliva O, Liu Y, Rafal RD. Auditory radiations: Evidence for dorsal and ventral branches. Hear Res. 2026;472:109551.",
+    "year": 2026
+   },
+   {
+    "kind": "histology",
+    "claim": "The radiation is included in a stereotaxic atlas built from ten postmortem brains",
+    "finding": "Burgel and colleagues mapped fibre tracts in myelin-stained sections of ten postmortem brains and registered them to a standard space. The atlas includes the acoustic radiation, together with the medial geniculate nucleus as its source.",
+    "quote": "The analyzed tracts include the corticospinal tract, optic and acoustic radiations, fornix, cingulum, corpus callosum, superior longitudinal, superior and inferior occipito-frontal and uncinate fascicles; sources and targets of fiber tracts include the lateral and medial geniculate nuclei and mamillary bodies.",
+    "pmid": "16236527",
+    "doi": "10.1016/j.neuroimage.2005.08.040",
+    "cite": "Burgel U, Amunts K, Hoemke L, Mohlberg H, Gilsbach JM, Zilles K. White matter fiber tracts of the human brain: three-dimensional mapping at microscopic resolution, topography and intersubject variability. Neuroimage. 2006;29(4):1092-105.",
+    "year": 2006
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "cingulum",
+  "aliases": [
+   "cingulum bundle",
+   "cingulate bundle"
+  ],
+  "hint": "limbic white matter arch curving over the callosal body",
+  "summary": "The cingulum is a long association bundle that lies within the cingulate gyrus and curves around the corpus callosum from the front of the brain to the medial temporal lobe. It contains fibres of many lengths, from short links between neighbouring cingulate areas to long connections between the frontal lobe and the parahippocampal gyrus. It links the anterior and posterior cingulate cortex, the medial prefrontal cortex, the precuneus and the medial temporal lobe. It is a major white matter route of the limbic system and of the default mode network. Lesions of the cingulum are used to treat intractable obsessive-compulsive disorder and pain.",
+  "where": "On a medial view the cingulum runs as a belt just beneath the cingulate gyrus and above the corpus callosum. It starts near the subcallosal area, arches over the genu, body and splenium, and descends into the parahippocampal gyrus. The model shows the dense core of the bundle from a probabilistic histology atlas, not every short fibre. A medial or sagittal view shows it best.",
+  "does": "It carries communication among medial frontal, cingulate, parietal and medial temporal regions that deal with emotion, memory, attention and evaluation. Catani and colleagues used tractography to show it in living people, among nine other fasciculi, and found the virtual maps matched the classical postmortem descriptions. The bundle contains many short fibres, so tractography of its whole length does not mean single axons run from front to back. Its function is inferred from imaging and lesion data and is not as well defined as that of the motor or visual tracts.",
+  "connects": "It links the anterior cingulate and medial prefrontal cortex with the posterior cingulate and precuneus, and its lower part links them with the parahippocampal gyrus and entorhinal cortex. It is part of the Papez circuit and of the wiring of the default mode network.",
+  "clinical": "In anterior cingulotomy for treatment-refractory obsessive-compulsive disorder, a lesion in the cingulate region improved symptoms in 32% to 45% of patients in one long-term series. Changes in cingulum integrity have been reported in Alzheimer's disease and other conditions, but a study in two cohorts of people with mild cognitive impairment found no link between cingulum integrity and amyloid or medial temporal atrophy.",
+  "remember": "Cingulum means belt: it is the belt of white matter inside the cingulate gyrus, wrapped over the callosum.",
+  "facts": [
+   "It runs within the cingulate gyrus above the corpus callosum.",
+   "In a 44-patient cingulotomy series for obsessive-compulsive disorder, 45% were at least partial responders.",
+   "Tractography reproduces the classical postmortem description of the cingulum."
+  ],
+  "quiz": [
+   {
+    "q": "Which association bundle lies within the cingulate gyrus and arches over the corpus callosum to the parahippocampal gyrus?",
+    "type": "location"
+   },
+   {
+    "q": "Anterior cingulotomy for refractory obsessive-compulsive disorder lesions which white matter bundle and cortex?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which tract links the posterior cingulate with the entorhinal region and belongs to the Papez circuit?",
+    "type": "connection"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4,
+   11,
+   12
+  ],
+  "see_also": [
+   "anterior_cingulate_cortex",
+   "posterior_cingulate_cortex",
+   "corpus_callosum",
+   "fornix"
+  ],
+  "how_we_know": "Tractography shows the bundle in living people and agrees with postmortem descriptions. Evidence about function comes mainly from cingulotomy outcomes, which also remove cingulate cortex, and from correlations between integrity and disease. No study found here stimulates the bundle on its own.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Tractography shows the cingulum and nine other fasciculi in living people",
+    "finding": "Catani and colleagues used diffusion tensor tractography to display ten white matter structures, including the cingulum, in living people. The virtual maps were faithful to the classical postmortem descriptions of white matter anatomy.",
+    "quote": "Specifically, we applied this technique to visualize in vivo (i) the superior longitudinal (arcuate) fasciculus, (ii) the inferior longitudinal fasciculus, (iii) the superior fronto-occipital (subcallosal) fasciculus, (iv) the inferior frontooccipital fasciculus, (v) the uncinate fasciculus, (vi) the cingulum, (vii) the anterior commissure, (viii) the corpus callosum, (ix) the internal capsule, and (x) the fornix.",
+    "pmid": "12482069",
+    "doi": "10.1006/nimg.2002.1136",
+    "cite": "Catani M, Howard RJ, Pajevic S, Jones DK. Virtual in vivo interactive dissection of white matter fasciculi in the human brain. Neuroimage. 2002;17(1):77-94.",
+    "year": 2002
+   },
+   {
+    "kind": "lesion",
+    "claim": "Cingulotomy helps some patients with treatment-refractory obsessive-compulsive disorder",
+    "finding": "Dougherty and colleagues followed 44 patients for a mean of 32 months after one or more cingulotomies. Fourteen patients (32%) met response criteria and six others (14%) were partial responders, so 20 patients (45%) were at least partial responders. This is causal evidence from an open series, without a control group.",
+    "quote": "At mean follow-up of 32 months after one or more cingulotomies, 14 patients (32%) met criteria for treatment response and six others (14%) were partial responders. Thus, 20 patients (45%) were at least partial responders at long-term follow-up after one or more cingulotomies.",
+    "pmid": "11823270",
+    "doi": "10.1176/appi.ajp.159.2.269",
+    "cite": "Dougherty DD, Baer L, Cosgrove GR, et al. Prospective long-term follow-up of 44 patients who received cingulotomy for treatment-refractory obsessive-compulsive disorder. Am J Psychiatry. 2002;159(2):269-75.",
+    "year": 2002,
+    "data": {
+     "title": "Outcome after cingulotomy for OCD",
+     "unit": "%",
+     "items": [
+      [
+       "Treatment responders",
+       32
+      ],
+      [
+       "Partial responders",
+       14
+      ],
+      [
+       "At least partial",
+       45
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "imaging",
+    "claim": "Cingulum integrity did not link amyloid to medial temporal atrophy in mild cognitive impairment",
+    "finding": "Vlegels and colleagues tested whether the cingulum connects amyloid in the cingulate cortex with medial temporal atrophy in 21 memory clinic patients and 37 patients from a replication cohort. Cingulum integrity was not associated with either measure in either sample. This is a negative result that does not support the hypothesis.",
+    "quote": "These findings, consistent in two independent cohorts, do not support our hypothesis that loss of white matter integrity of the cingulum is a connecting factor between cingulate gyrus Aβ deposition and MTL atrophy.",
+    "pmid": "35848018",
+    "doi": "10.3233/JAD-220024",
+    "cite": "Vlegels N, Ossenkoppele R, van der Flier WM, et al. Does Loss of Integrity of the Cingulum Bundle Link Amyloid-β Accumulation and Neurodegeneration in Alzheimer's Disease? J Alzheimers Dis. 2022;89(1):39-49.",
+    "year": 2022
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "superior_longitudinal_fasciculus",
+  "aliases": [
+   "slf",
+   "superior longitudinal fascicle",
+   "slf i ii iii"
+  ],
+  "hint": "long bundle linking frontal and parietal lobes above the insula",
+  "summary": "The superior longitudinal fasciculus is a large association bundle that links the frontal lobe with the parietal lobe and, in its arcuate part, with the temporal lobe. It runs above the insula and the putamen, lateral to the corona radiata. In humans it is described as three parts, SLF I to III, and the arcuate fasciculus curves around the sylvian fissure from the frontal to the temporal lobe. It carries information for spatial attention, in the right hemisphere especially, and for language, in the left. Damage causes neglect or aphasia depending on the side.",
+  "where": "The model shows the dense core of the bundle from a probabilistic histology atlas. It lies in the deep white matter of the lateral hemisphere, above the insula and arching from the frontal operculum back toward the inferior parietal lobule. The arcuate part continues down into the temporal lobe. A lateral or axial view shows it best.",
+  "does": "The fronto-parietal parts connect regions of the dorsal attention network and the frontoparietal control network. Catani and colleagues showed with tractography that the left arcuate fasciculus has a direct pathway between Broca and Wernicke territories and an indirect pathway through the inferior parietal cortex. In awake surgery, stimulating the arcuate fasciculus produces phonological errors, and stimulating the cortex where it ends can produce speech arrest. The bundle's role in the strict conduction aphasia model is debated, because cortical dysfunction alone can produce a similar picture.",
+  "connects": "It links the superior and middle frontal gyri, the precentral gyrus and the inferior frontal gyrus with the superior and inferior parietal lobules, and the arcuate part links the frontal operculum with the posterior temporal lobe. It runs beside the inferior fronto-occipital fasciculus and the uncinate fasciculus, which lie more ventrally.",
+  "clinical": "Damage to the left arcuate fasciculus is linked to conduction aphasia, in which repetition is poor and phonemic paraphasias are frequent while comprehension is better preserved. Right-sided damage to the fronto-parietal connections is linked to spatial neglect. In semantic dementia the fronto-parietal SLF is relatively spared, whereas the arcuate and uncinate fasciculi are damaged.",
+  "remember": "The superior longitudinal fasciculus is the long fronto-parietal highway above the insula, with the arcuate bend taking language to the temporal lobe.",
+  "facts": [
+   "It has three parts in humans, SLF I, II and III, and the arcuate fasciculus curves toward the temporal lobe.",
+   "Stimulating the arcuate fasciculus in awake surgery produced phonological paraphasias in 6 of 13 patients.",
+   "It is relatively spared in semantic dementia."
+  ],
+  "quiz": [
+   {
+    "q": "Which large association bundle links frontal and parietal lobes above the insula, with an arcuate part toward the temporal lobe?",
+    "type": "location"
+   },
+   {
+    "q": "Poor repetition with fluent phonemic paraphasias and good comprehension classically follows damage to which bundle?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which tract connects Broca's and Wernicke's territories directly and through an indirect route in the inferior parietal lobe?",
+    "type": "connection"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   11,
+   12
+  ],
+  "see_also": [
+   "brocas_area",
+   "wernickes_area",
+   "dorsal_attention_network",
+   "inferior_fronto_occipital_fasciculus"
+  ],
+  "how_we_know": "Tractography maps the bundle in living people, and awake-surgery stimulation tests what happens when it is disturbed. Stroke and dementia studies give correlations with deficits. The classical conduction aphasia model has been questioned, because cortical stimulation alone can mimic it.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Tractography shows a direct and an indirect pathway linking Broca and Wernicke territories",
+    "finding": "Catani and colleagues averaged diffusion MRI from 11 right-handed healthy men and reconstructed the left arcuate fasciculus. Besides the classical direct pathway, they found an indirect pathway through the inferior parietal lobe, which helps explain the varied presentations of conduction aphasia. This is correlational evidence.",
+    "quote": "Diffusion tensor magnetic resonance imaging data from 11 right-handed healthy male subjects were averaged, and the arcuate fasciculus of the left hemisphere reconstructed from this data using an interactive dissection technique. Beyond the classical arcuate pathway connecting Broca's and Wernicke's areas directly, we show a previously undescribed, indirect pathway passing through inferior parietal cortex.",
+    "pmid": "15597383",
+    "doi": "10.1002/ana.20319",
+    "cite": "Catani M, Jones DK, ffytche DH. Perisylvian language networks of the human brain. Ann Neurol. 2005;57(1):8-16.",
+    "year": 2005
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Cortical stimulation alone can produce a conduction aphasia picture",
+    "finding": "Anderson and colleagues stimulated the posterior superior temporal gyrus in an epilepsy patient. She made frequent phonemic paraphasias and repeated words poorly while her semantic knowledge was intact. This suggests that cortical dysfunction alone can cause conduction aphasia, and the arcuate fasciculus is not the only route to it. This is causal evidence in one patient.",
+    "quote": "We observed an epileptic patient who, during cortical stimulation of her posterior superior temporal gyrus, demonstrated frequent phonemic paraphasias, decreased repetition of words, and yet had intact semantic knowledge, a pattern consistent with conduction aphasia. These findings suggest that cortical dysfunction alone may induce conduction aphasia.",
+    "pmid": "10534369",
+    "doi": "10.1006/brln.1999.2135",
+    "cite": "Anderson JM, Gilmore R, Roper S, et al. Conduction aphasia and the arcuate fasciculus: A reexamination of the Wernicke-Geschwind model. Brain Lang. 1999;70(1):1-12.",
+    "year": 1999
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Stimulating the arcuate fasciculus in awake surgery causes phonological errors",
+    "finding": "Duffau and colleagues stimulated the white matter in 13 patients operated awake for glioma. Stimulating the inferior occipito-temporal fasciculus caused semantic paraphasias in all 13, and stimulating the arcuate fasciculus caused phonological paraphasias in 6. This is causal evidence.",
+    "quote": "Subcortically, semantic paraphasia were induced in the 13 patients by stimulating the IOF, and phonological paraphasia were generated in 6 patients by stimulating the arcuate fasciculus.",
+    "pmid": "19271103",
+    "doi": "10.1007/s00415-009-0053-9",
+    "cite": "Duffau H, Gatignol P, Moritz-Gasser S, Mandonnet E. Is the left uncinate fasciculus essential for language? A cerebral stimulation study. J Neurol. 2009;256(3):382-9.",
+    "year": 2009,
+    "data": {
+     "title": "Patients with errors during white matter stimulation",
+     "unit": "patients",
+     "items": [
+      [
+       "Semantic errors (IOF)",
+       13
+      ],
+      [
+       "Phonological (arcuate)",
+       6
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "connectivity",
+    "claim": "The fronto-parietal SLF is relatively spared in semantic dementia while arcuate and uncinate fibres are damaged",
+    "finding": "Agosta and colleagues tracked language pathways in five patients with semantic dementia and eight healthy controls. The arcuate and uncinate fasciculi had significantly lower fractional anisotropy, whereas the fronto-parietal SLF was relatively spared. This is correlational evidence in a small sample.",
+    "quote": "The arcuate and uncinate fasciculi demonstrated significantly higher mean diffusivity, parallel and transverse and significantly lower fractional anisotropy. The fronto-parietal superior longitudinal fasciculus was relatively spared, with a significant difference observed for transverse diffusivity and fractional anisotropy, only.",
+    "pmid": "19759202",
+    "doi": "10.1093/brain/awp233",
+    "cite": "Agosta F, Henry RG, Migliaccio R, et al. Language networks in semantic dementia. Brain. 2010;133(Pt 1):286-99.",
+    "year": 2010
+   }
+  ],
+  "stimulation": {
+   "method": "direct subcortical electrical stimulation during awake surgery",
+   "effect": "Stimulating the left arcuate fasciculus caused phonological paraphasias, which are sound-based word errors, in 6 of 13 patients.",
+   "quote": "Subcortically, semantic paraphasia were induced in the 13 patients by stimulating the IOF, and phonological paraphasia were generated in 6 patients by stimulating the arcuate fasciculus.",
+   "pmid": "19271103",
+   "doi": "10.1007/s00415-009-0053-9",
+   "cite": "Duffau H, Gatignol P, Moritz-Gasser S, Mandonnet E. Is the left uncinate fasciculus essential for language? A cerebral stimulation study. J Neurol. 2009;256(3):382-9.",
+   "year": 2009
+  }
+ },
+ {
+  "id": "inferior_fronto_occipital_fasciculus",
+  "aliases": [
+   "ifof",
+   "inferior occipitofrontal fasciculus",
+   "inferior fronto occipital fasciculus",
+   "ifo"
+  ],
+  "hint": "ventral long bundle running through the extreme capsule",
+  "summary": "The inferior fronto-occipital fasciculus is a long association bundle that runs along the ventral side of the hemisphere between the occipital and temporal regions and the frontal lobe. It passes through the extreme capsule, between the claustrum and the insular cortex. It is thought to carry the ventral semantic route of language and also non-verbal semantic information. Evidence for it comes from dissection and stimulation in awake surgery as well as tractography.",
+  "where": "The model shows the dense core of the bundle from a probabilistic histology atlas. It runs from the occipital lobe forward through the temporal stem and the extreme capsule to the orbitofrontal and lateral frontal cortex. It lies below the arcuate and superior longitudinal fasciculi. An axial or lateral view shows it best.",
+  "does": "Duffau and colleagues stimulated the white matter in 17 patients during awake surgery and located a main ventral subcortical pathway for semantics, within the dominant hemisphere, joining posterior and superior temporal areas with orbitofrontal and dorsolateral prefrontal regions. They proposed that it partly corresponds to this fasciculus. Herbet and colleagues later found that stimulation of the right-hemisphere fasciculus disturbed a non-verbal semantic task. It also carries visual information to the frontal lobe, though that part of its role is less established.",
+  "connects": "It links the occipital and posterior temporal cortex with the orbitofrontal and dorsolateral prefrontal cortex. It runs through the extreme capsule near the uncinate fasciculus, which joins the anterior temporal lobe to the orbitofrontal cortex through a hook.",
+  "clinical": "Stimulating the left bundle during glioma surgery causes semantic paraphasias, so surgeons map and spare it. Right-sided stimulation can interrupt non-verbal semantic processing, such as matching pictures by meaning. The bundle is not a standard stroke localisation sign in the way the corticospinal tract is.",
+  "remember": "The ventral highway: the occipital lobe and the frontal lobe joined through the extreme capsule, carrying meaning.",
+  "facts": [
+   "It passes through the extreme capsule.",
+   "Stimulating it in awake surgery causes semantic paraphasias.",
+   "In 12 of 13 patients with a right-sided glioma, stimulation of the right bundle disturbed a non-verbal semantic task."
+  ],
+  "quiz": [
+   {
+    "q": "Which ventral association bundle passes through the extreme capsule and is stimulated to produce semantic paraphasias in awake surgery?",
+    "type": "function"
+   },
+   {
+    "q": "Which long tract joins occipital and temporal cortex to orbitofrontal cortex running beneath the arcuate fasciculus?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   4,
+   11,
+   12
+  ],
+  "see_also": [
+   "uncinate_fasciculus",
+   "superior_longitudinal_fasciculus",
+   "orbitofrontal_cortex",
+   "insula"
+  ],
+  "how_we_know": "Awake surgery gives the strongest evidence: stimulation causes semantic errors at sites that match the course of the fasciculus. Postmortem fibre dissection and tractography agree on its course in humans. Some tracing studies in monkeys have questioned a direct occipital to frontal bundle, so its exact makeup is still discussed.",
+  "evidence": [
+   {
+    "kind": "stimulation",
+    "claim": "Stimulating a ventral subcortical pathway causes semantic errors",
+    "finding": "Duffau and colleagues operated on 17 patients with a low-grade glioma in the dominant hemisphere while they were awake. Stimulating cortical and subcortical sites caused semantic paraphasias. The authors concluded that there is a main ventral subcortical pathway for semantics that may partly correspond to the inferior fronto-occipital fasciculus. This is causal evidence.",
+    "quote": "Our results provide arguments in favour of the existence of a main ventral subcortical pathway underlying the semantic system, within the dominant hemisphere, joining the two essential cortical epicentres of this network: the posterior and superior temporal areas, and the orbitofrontal and dorsolateral prefontal regions. Such a ventral stream might anatomically partly correspond to the inferior fronto-occipital fasciculus.",
+    "pmid": "15705610",
+    "doi": "10.1093/brain/awh423",
+    "cite": "Duffau H, Gatignol P, Mandonnet E, Peruzzi P, Tzourio-Mazoyer N, Capelle L. New insights into the anatomo-functional connectivity of the semantic system: a study using cortico-subcortical electrostimulations. Brain. 2005;128(Pt 4):797-810.",
+    "year": 2005
+   },
+   {
+    "kind": "stimulation",
+    "claim": "The right-hemisphere bundle also supports non-verbal semantic processing",
+    "finding": "Herbet and colleagues stimulated the right hemisphere in 13 patients awake for glioma. At the subcortical level they found non-verbal semantic sites in 12 patients, 15 sites in all, and every responsive point lay on the course of the right fasciculus. This is causal evidence.",
+    "quote": "At the subcortical level, we found non-verbal semantic-related sites in all but one patient (n = 15 sites in 12 patients). Importantly, all these responsive stimulation points were located on the spatial course of the right inferior fronto-occipital fasciculus (IFOF).",
+    "pmid": "27568379",
+    "doi": "10.1007/s00429-016-1294-x",
+    "cite": "Herbet G, Moritz-Gasser S, Duffau H. Direct evidence for the contributive role of the right inferior fronto-occipital fasciculus in non-verbal semantic cognition. Brain Struct Funct. 2017;222(4):1597-1610.",
+    "year": 2017
+   }
+  ],
+  "stimulation": {
+   "method": "direct subcortical electrical stimulation during awake surgery",
+   "effect": "Stimulating the right-hemisphere bundle disrupted a picture-based non-verbal semantic task in 12 of 13 patients, and left-sided ventral stimulation caused semantic paraphasias.",
+   "quote": "At the subcortical level, we found non-verbal semantic-related sites in all but one patient (n = 15 sites in 12 patients). Importantly, all these responsive stimulation points were located on the spatial course of the right inferior fronto-occipital fasciculus (IFOF).",
+   "pmid": "27568379",
+   "doi": "10.1007/s00429-016-1294-x",
+   "cite": "Herbet G, Moritz-Gasser S, Duffau H. Direct evidence for the contributive role of the right inferior fronto-occipital fasciculus in non-verbal semantic cognition. Brain Struct Funct. 2017;222(4):1597-1610.",
+   "year": 2017
+  }
+ },
+ {
+  "id": "superior_fronto_occipital_fasciculus",
+  "aliases": [
+   "sfof",
+   "superior occipitofrontal fasciculus",
+   "sfo",
+   "subcallosal bundle"
+  ],
+  "hint": "deep bundle beside the lateral ventricle, debated in humans",
+  "summary": "The superior fronto-occipital fasciculus is a bundle that textbooks describe as running above the caudate nucleus and along the lateral ventricle from the frontal lobe back toward the parietal and occipital lobes. Whether it exists in the human brain is disputed. A connectome-based tractography and microdissection study concluded that it does not, and a second study found a bundle by tractography but not by dissection. The model shows what the histological atlas labels with this name, so treat the region as a contested structure and not an agreed tract. Its history of misidentified fibres is the main reason for the confusion.",
+  "where": "The model shows the dense core of the bundle from a probabilistic histology atlas. It lies deep in the white matter above the caudate nucleus and just under the corpus callosum, running medial to the corona radiata along the lateral ventricle. Bao and colleagues found a bundle there by tractography that ended mainly in parietal cortex rather than the occipital lobe. A coronal or axial view shows the region best.",
+  "does": "Its function is unsettled because its existence is. Thiebaut de Schotten and colleagues stimulated the white matter in awake patients and shifted line bisection to the right, and tracking identified the stimulated site as a section of the superior occipitofrontal fasciculus, a poorly known parietal-frontal pathway. Meola and colleagues later argued that reconstructions of this bundle come from false continuations between the superior thalamic peduncle and the stria terminalis. The fibres that stimulation disturbed may belong to a different bundle.",
+  "connects": "In the classical description it links the frontal lobe with the parietal and occipital lobes above the lateral ventricle. Schmahmann and Pandya traced the history of the name, which began with a misidentification of aberrant callosal fibres in people without a corpus callosum.",
+  "clinical": "No syndrome is reliably tied to this bundle, and the debate over its existence means that clinical claims should be treated with caution. The right-sided stimulation result suggests a role in symmetrical processing of the visual scene, but the fibres involved are disputed.",
+  "remember": "Superior and inferior fronto-occipital fasciculi are a classic pair, but only the inferior one is well supported in humans.",
+  "facts": [
+   "Meola and colleagues concluded in 2015 that the bundle does not exist in the human brain.",
+   "The term originated with Forel and Onufrowicz, who misidentified aberrant callosal fibres in patients with callosal agenesis.",
+   "Bao and colleagues found a tractography bundle that ends mainly in parietal cortex, not occipital cortex."
+  ],
+  "quiz": [
+   {
+    "q": "Which bundle, said to run above the caudate along the lateral ventricle, is argued not to exist in the human brain?",
+    "type": "function"
+   },
+   {
+    "q": "Which bundle's name began when Forel and Onufrowicz misidentified aberrant callosal fibres in callosal agenesis?",
+    "type": "connection"
+   }
+  ],
+  "refs": [
+   1,
+   4,
+   11,
+   12
+  ],
+  "see_also": [
+   "inferior_fronto_occipital_fasciculus",
+   "superior_longitudinal_fasciculus",
+   "corpus_callosum",
+   "caudate_nucleus"
+  ],
+  "how_we_know": "Be plain about this one: the evidence is in conflict. A study with deterministic tractography and microdissection concluded the bundle does not exist in humans, another study found it by tractography but not by dissection, and a stimulation study attributed an effect to it. Existence in monkeys is well documented.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "A connectome and dissection study concluded the bundle does not exist in humans",
+    "finding": "Meola and colleagues applied deterministic tractography to a template of 488 healthy people and to 80 Human Connectome Project subjects, and checked the results by dissection of postmortem brains. They found that earlier reconstructions came from false continuations between known tracts, and no other fibre tract in that location.",
+    "quote": "The imaging results showed that previous reconstructions of the SFOF were generated by two false continuations, namely between superior thalamic peduncle (STP) and stria terminalis (ST), and ST and posterior thalamic peduncle. The anatomical microdissection confirmed this finding. No other fiber tracts in the previously described location of the SFOF were identified. Hence, our data suggest that the SFOF does not exist in the human brain.",
+    "pmid": "26435158",
+    "doi": "10.1002/hbm.22990",
+    "cite": "Meola A, Comert A, Yeh FC, Stefaneanu L, Fernandez-Miranda JC. The controversial existence of the human superior fronto-occipital fasciculus: Connectome-based tractographic study with microdissection validation. Hum Brain Mapp. 2015;36(12):4964-71.",
+    "year": 2015
+   },
+   {
+    "kind": "imaging",
+    "claim": "Tractography finds a bundle there, but dissection does not confirm it",
+    "finding": "Bao and colleagues ran diffusion spectrum imaging in six adults and in a template of 842 Human Connectome Project subjects, then dissected four postmortem brains. Tractography showed a compact fascicle above the caudate that ended mainly in parietal cortex. They could not identify it in dissection.",
+    "quote": "We consider that this fiber bundle observed by tractography is the SFOF, although it terminates mainly at the parietal region, rather than occipital lobe. By contrast, we were unable to identify a fiber bundle corresponding to the SFOF in our fiber dissection study.",
+    "pmid": "29321729",
+    "doi": "10.3389/fnana.2017.00119",
+    "cite": "Bao Y, Wang Y, Wang W, Wang Y. The Superior Fronto-Occipital Fasciculus in the Human Brain Revealed by Diffusion Spectrum Imaging Tractography: An Anatomical Reality or a Methodological Artifact? Front Neuroanat. 2017;11:119.",
+    "year": 2017
+   },
+   {
+    "kind": "histology",
+    "claim": "The name came from a misidentification of callosal fibres",
+    "finding": "Schmahmann and Pandya reviewed the history of the term. It started when Forel and Onufrowicz mistook aberrant longitudinal callosal fibres in patients with callosal agenesis for a fronto-occipital bundle, and Dejerine later described an actual fascicle that could not be told apart from the subcallosal fasciculus of Muratoff.",
+    "quote": "The term \"FOF\" originated with Forel and Onufrowicz who misidentified aberrant longitudinally oriented callosal fibers in patients with callosal agenesis. This error was soon recognized, and Dejerine described an actual FOF linking frontal and occipital lobes, but gross dissection and lesion-degeneration methods could not distinguish the FOF from the subcallosal fasciculus of Muratoff and neighboring white matter bundles.",
+    "pmid": "17966054",
+    "doi": "10.1080/09647040600620468",
+    "cite": "Schmahmann JD, Pandya DN. The complex history of the fronto-occipital fasciculus. J Hist Neurosci. 2007;16(4):362-77.",
+    "year": 2007
+   }
+  ],
+  "stimulation": {
+   "method": "intraoperative electrical stimulation of the white matter during awake surgery",
+   "effect": "Stimulating the right inferior parietal lobule or deep white matter caused a rightward shift on a line bisection task, strongest with subcortical stimulation. The authors tracked the stimulated site as this bundle, but later work disputes that such a bundle exists.",
+   "quote": "Using this technique, we found that stimulation of the right inferior parietal lobule or the caudal superior temporal gyrus, but not of its rostral portion, determined rightward deviations on line bisection. However, the strongest shifts occurred with subcortical stimulation. Fiber tracking identified the stimulated site as a section of the superior occipitofrontal fasciculus, a poorly known parietal-frontal pathway.",
+   "pmid": "16195465",
+   "doi": "10.1126/science.1116251",
+   "cite": "Thiebaut de Schotten M, Urbanski M, Duffau H, et al. Direct evidence for a parietal-frontal pathway subserving spatial awareness in humans. Science. 2005;309(5744):2226-8.",
+   "year": 2005
+  }
+ },
+ {
+  "id": "uncinate_fasciculus",
+  "aliases": [
+   "uf",
+   "uncinate fascicle",
+   "uncinate"
+  ],
+  "hint": "hook-shaped bundle curving around the stem of the sylvian fissure",
+  "summary": "The uncinate fasciculus is a hook-shaped association bundle that connects the anterior temporal lobe with the orbitofrontal cortex and frontal pole. It curves around the stem of the lateral fissure and passes through the extreme capsule. It is bidirectional and joins memory-related temporal structures with the orbitofrontal regions that assign value. It is part of the ventral limbic system and is linked to social and emotional behaviour. In semantic dementia its integrity is reduced, but cutting it in awake surgery does not reliably cause a language deficit.",
+  "where": "The model shows the dense core of the bundle from a probabilistic histology atlas. It starts in the anterior temporal lobe near the temporal pole and amygdala, bends sharply upward and forward around the limen insulae, and ends in the orbitofrontal cortex and frontal pole. It lies lateral to the amygdala and medial to the insula. A lateral view with the insula removed or a sagittal view shows the hook.",
+  "does": "Von Der Heide and colleagues propose that the bundle lets temporal-lobe memory associations, such as a person's name, face and voice, change behaviour through the lateral orbitofrontal cortex, which biases decisions by value. Its bidirectional flow lets reward and punishment history modulate temporal memory representations. It has also been linked to episodic memory, language and social-emotional processing, but its exact function is not well understood. Stimulation data show that its role in language is smaller than that of neighbouring ventral pathways.",
+  "connects": "It joins the anterior temporal lobe, including the temporal pole and amygdala, with the lateral orbitofrontal cortex and Brodmann area 10. It runs near the inferior fronto-occipital fasciculus in the extreme capsule and it is the main white matter link between the two ends of the limbic network in the Yeo parcellation.",
+  "clinical": "In semantic dementia the uncinate fasciculus shows significantly higher mean diffusivity and lower fractional anisotropy, with loss of word and object knowledge. Abnormalities have been reported in several psychiatric disorders, though findings differ between studies. Surgeons have removed parts of it during awake glioma surgery without a lasting language deficit.",
+  "remember": "Uncinate means hooked: it hooks from the temporal pole up and forward to the orbitofrontal cortex, linking memory to value.",
+  "facts": [
+   "It connects the anterior temporal lobe with the lateral orbitofrontal cortex and Brodmann area 10.",
+   "Subcortical stimulation of it never elicited language disturbances in 13 awake patients.",
+   "In semantic dementia it shows higher mean diffusivity and lower fractional anisotropy."
+  ],
+  "quiz": [
+   {
+    "q": "Which hook-shaped bundle joins the anterior temporal lobe with the orbitofrontal cortex?",
+    "type": "connection"
+   },
+   {
+    "q": "Semantic dementia shows reduced fractional anisotropy in the arcuate and which bundle linking temporal pole and orbitofrontal cortex?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which bundle bends around the limen insulae and lies lateral to the amygdala in the extreme capsule region?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   3,
+   4,
+   11,
+   12
+  ],
+  "see_also": [
+   "orbitofrontal_cortex",
+   "temporal_pole",
+   "amygdala",
+   "inferior_fronto_occipital_fasciculus"
+  ],
+  "how_we_know": "Tractography and disease studies show what happens when the bundle is damaged, and awake-surgery stimulation tests language function. Its stimulation result is a negative one: it did not disturb language, which suggests that other ventral pathways can compensate.",
+  "evidence": [
+   {
+    "kind": "connectivity",
+    "claim": "The bundle joins lateral orbitofrontal cortex with the anterior temporal lobe",
+    "finding": "Von Der Heide and colleagues reviewed what is known about the uncinate fasciculus. They describe a bidirectional long-range tract linking lateral orbitofrontal cortex and Brodmann area 10 with the anterior temporal lobes, and propose that it lets memory-based associations guide decisions. This is a review of anatomy and clinical findings.",
+    "quote": "The uncinate fasciculus is a bidirectional, long-range white matter tract that connects lateral orbitofrontal cortex and Brodmann area 10 with the anterior temporal lobes.",
+    "pmid": "23649697",
+    "doi": "10.1093/brain/awt094",
+    "cite": "Von Der Heide RJ, Skipper LM, Klobusicky E, Olson IR. Dissecting the uncinate fasciculus: disorders, controversies and a hypothesis. Brain. 2013;136(Pt 6):1692-707.",
+    "year": 2013
+   },
+   {
+    "kind": "imaging",
+    "claim": "In semantic dementia the uncinate and arcuate fasciculi show lower fractional anisotropy",
+    "finding": "Agosta and colleagues tracked language-related pathways with diffusion tensor imaging in five patients with semantic dementia and eight healthy controls. The uncinate and arcuate fasciculi had higher mean diffusivity and lower fractional anisotropy in the patients. This is correlational evidence in a small sample.",
+    "quote": "The left inferior longitudinal fasciculus, arcuate fasciculus and fronto-parietal superior longitudinal fasciculus were tracked in five semantic dementia patients and eight healthy controls. The arcuate and uncinate fasciculi demonstrated significantly higher mean diffusivity, parallel and transverse and significantly lower fractional anisotropy.",
+    "pmid": "19759202",
+    "doi": "10.1093/brain/awp233",
+    "cite": "Agosta F, Henry RG, Migliaccio R, et al. Language networks in semantic dementia. Brain. 2010;133(Pt 1):286-99.",
+    "year": 2010
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Stimulating the left uncinate fasciculus did not disturb language in awake surgery",
+    "finding": "Duffau and colleagues studied 13 patients operated awake for a left anterior temporal or orbitofrontal glioma. Stimulating other pathways caused errors, but subcortical stimulation of the uncinate fasciculus never elicited language disturbances. All patients recovered after a transient deficit even though part of the bundle was removed. This is causal evidence that the bundle is not systematically essential for language.",
+    "quote": "Interestingly, subcortical stimulation never elicited any language disturbances when performed at the level of the UF. Moreover, after a transient postoperative language deficit, all patients recovered, despite the removal of at least one part of the UF, as confirmed by control MRI.",
+    "pmid": "19271103",
+    "doi": "10.1007/s00415-009-0053-9",
+    "cite": "Duffau H, Gatignol P, Moritz-Gasser S, Mandonnet E. Is the left uncinate fasciculus essential for language? A cerebral stimulation study. J Neurol. 2009;256(3):382-9.",
+    "year": 2009
+   }
+  ],
+  "stimulation": {
+   "method": "direct subcortical electrical stimulation during awake surgery",
+   "effect": "Stimulating the left uncinate fasciculus did not cause any language disturbance in 13 patients, whereas stimulating neighbouring pathways did. All patients recovered after surgery.",
+   "quote": "Interestingly, subcortical stimulation never elicited any language disturbances when performed at the level of the UF. Moreover, after a transient postoperative language deficit, all patients recovered, despite the removal of at least one part of the UF, as confirmed by control MRI.",
+   "pmid": "19271103",
+   "doi": "10.1007/s00415-009-0053-9",
+   "cite": "Duffau H, Gatignol P, Moritz-Gasser S, Mandonnet E. Is the left uncinate fasciculus essential for language? A cerebral stimulation study. J Neurol. 2009;256(3):382-9.",
+   "year": 2009
+  }
+ },
+ {
+  "id": "fornix",
+  "aliases": [
+   "fornices",
+   "fornix cerebri"
+  ],
+  "hint": "C-shaped arch from the hippocampus to the mammillary bodies",
+  "summary": "The fornix is a C-shaped bundle of axons that carries output from the hippocampal formation to the septal area, hypothalamus and mammillary bodies. It starts as the fimbria along the hippocampus, continues as the crus under the splenium of the corpus callosum, joins its partner as the body, and then splits into columns that arch in front of the interventricular foramen. It is an association and projection pathway in the Papez circuit. The mammillary bodies relay the signal to the anterior thalamic nucleus. Damage to it can cause anterograde amnesia.",
+  "where": "On a medial view the fornix runs as an arch beneath the corpus callosum, forming the lower margin of the septum pellucidum and the roof of the third ventricle. The model shows the dense core of the bundle from a probabilistic histology atlas, so the fimbria and the finer fibres are underrepresented. The columns descend toward the mammillary bodies in front of the thalamus.",
+  "does": "It is the main pathway by which the hippocampus communicates with the diencephalon and the septum. Tsivilis and colleagues studied 38 people with surgically removed colloid cysts and found that the volume of the mammillary bodies, which shrink after fornix damage, correlated with 13 of 14 tests of episodic recall but correlated poorly with recognition memory. This fits a view in which recall depends on hippocampal input to the diencephalon. The fornix is not the only route out of the hippocampus, which also projects through the entorhinal cortex.",
+  "connects": "Fibres arise from the hippocampus and subiculum, run through the fimbria and fornix, and end in the mammillary bodies, the septal nuclei and the anterior thalamus. The mammillary bodies project through the mammillothalamic tract to the anterior thalamic nucleus, which projects to the cingulate cortex in the Papez circuit.",
+  "clinical": "A penetrating head injury that cut both fornices produced persistent anterograde amnesia in a reported patient without damage to other known memory structures. Colloid cysts of the third ventricle can compress the fornices and cause memory loss. Deep brain stimulation aimed at the fornix has been tested in Alzheimer's disease, with safe surgery but no overall cognitive benefit in a randomised trial of 42 patients.",
+  "remember": "Fornix means arch: it is the memory arch from hippocampus to mammillary body, which is the first step of the Papez circuit.",
+  "facts": [
+   "It carries hippocampal output to the mammillary bodies, septal nuclei and anterior thalamus.",
+   "Mammillary body volume correlated with 13 of 14 episodic recall tests in people with colloid cysts.",
+   "Fornix deep brain stimulation in 42 patients with mild Alzheimer's disease showed no overall cognitive benefit."
+  ],
+  "quiz": [
+   {
+    "q": "Which C-shaped bundle carries output from the hippocampus to the mammillary bodies in the Papez circuit?",
+    "type": "connection"
+   },
+   {
+    "q": "A penetrating head injury cuts both of these arching fibres and leaves persistent anterograde amnesia. Which structure?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which arch runs beneath the corpus callosum and ends in columns in front of the thalamus?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   4,
+   11,
+   12
+  ],
+  "see_also": [
+   "hippocampus",
+   "mammillary_bodies",
+   "anterior_nucleus_of_thalamus",
+   "cingulum"
+  ],
+  "how_we_know": "Lesions and surgical cases give causal evidence that the fornix matters for recall, and MRI volume studies of people with colloid cysts relate it to memory scores. Deep brain stimulation trials in Alzheimer's disease test whether driving the pathway changes memory circuits, with early signals in a phase I trial and no overall benefit in a randomised phase II trial.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Isolated damage to both fornices can cause amnesia",
+    "finding": "D'Esposito and colleagues reported a patient with a penetrating head injury who developed significant, persistent anterograde amnesia. CT showed a lesion of the posterior parts of both fornices with no evidence of damage to the hippocampus, thalamus or basal forebrain. This is causal evidence in one patient.",
+    "quote": "CT revealed a lesion that involved the region of the proximal, posterior portion of both fornices without evidence of damage to other hippocampal pathways or to other structures known to be critical for memory, such as the hippocampus, thalamus, or basal forebrain.",
+    "pmid": "7644056",
+    "doi": "10.1212/wnl.45.8.1546",
+    "cite": "D'Esposito M, Verfaellie M, Alexander MP, Katz DI. Amnesia following traumatic bilateral fornix transection. Neurology. 1995;45(8):1546-50.",
+    "year": 1995
+   },
+   {
+    "kind": "imaging",
+    "claim": "Fornix and mammillary body volume track recall more than recognition memory",
+    "finding": "Tsivilis and colleagues measured 13 brain structures on MRI in 38 people with surgically removed colloid cysts. Mammillary body volume, which indexes fornix damage, correlated with 13 of 14 tests of episodic recall but correlated poorly with recognition memory. No other structure was consistently associated with memory.",
+    "quote": "Mammillary body volume significantly correlated with 13 out of 14 tests of episodic memory recall, but correlated poorly with recognition memory.",
+    "pmid": "18552840",
+    "doi": "10.1038/nn.2149",
+    "cite": "Tsivilis D, Vann SD, Denby C, et al. A disproportionate role for the fornix and mammillary bodies in recall versus recognition memory. Nat Neurosci. 2008;11(7):834-42.",
+    "year": 2008,
+    "data": {
+     "title": "Recall tests correlated with mammillary volume",
+     "unit": "tests",
+     "items": [
+      [
+       "Correlated",
+       13
+      ],
+      [
+       "Recall tests in all",
+       14
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "In a phase I trial, fornix stimulation activated the memory circuit and the default mode network",
+    "finding": "Laxton and colleagues implanted six patients with mild Alzheimer's disease and stimulated continuously for 12 months. Stimulation drove activity in entorhinal and hippocampal areas and in the default mode network, and PET showed a reversal of impaired glucose use in the temporal and parietal lobes. Cognitive results were suggestive in some patients, with no serious adverse events.",
+    "quote": "We conducted a phase I trial in 6 patients with mild AD receiving ongoing medication treatment. Patients received continuous stimulation for 12 months. DBS drove neural activity in the memory circuit, including the entorhinal, and hippocampal areas and activated the brain's default mode network.",
+    "pmid": "20687206",
+    "doi": "10.1002/ana.22089",
+    "cite": "Laxton AW, Tang-Wai DF, McAndrews MP, et al. A phase I trial of deep brain stimulation of memory circuits in Alzheimer's disease. Ann Neurol. 2010;68(4):521-34.",
+    "year": 2010
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "A randomised trial of fornix stimulation in 42 patients found no overall cognitive benefit",
+    "finding": "Lozano and colleagues randomised 42 patients with mild Alzheimer's disease to active or sham bilateral stimulation aimed at the fornix. Surgery and stimulation were safe, but there was no significant difference in the primary cognitive outcomes at 12 months. Post-hoc analysis suggested possible benefit in patients aged 65 and older.",
+    "quote": "We evaluated active \"on\" versus sham \"off\" bilateral DBS directed at the fornix-a major fiber bundle in the brain's memory circuit-in a randomized, double-blind trial (ClinicalTrials.gov NCT01608061) in 42 patients with mild AD. There were no significant differences in the primary cognitive outcomes (ADAS-Cog 13, CDR-SB) in the \"on\" versus \"off\" stimulation group at 12 months for the whole cohort.",
+    "pmid": "27567810",
+    "doi": "10.3233/JAD-160017",
+    "cite": "Lozano AM, Fosdick L, Chakravarty MM, et al. A Phase II Study of Fornix Deep Brain Stimulation in Mild Alzheimer's Disease. J Alzheimers Dis. 2016;54(2):777-87.",
+    "year": 2016
+   }
+  ],
+  "stimulation": {
+   "method": "deep brain stimulation of the fornix and hypothalamus",
+   "effect": "Continuous stimulation drove activity in the entorhinal and hippocampal regions and in the default mode network, and temporarily reversed low glucose use in the temporal and parietal lobes. Cognitive changes were possible but not firm in six patients.",
+   "quote": "We conducted a phase I trial in 6 patients with mild AD receiving ongoing medication treatment. Patients received continuous stimulation for 12 months. DBS drove neural activity in the memory circuit, including the entorhinal, and hippocampal areas and activated the brain's default mode network.",
+   "pmid": "20687206",
+   "doi": "10.1002/ana.22089",
+   "cite": "Laxton AW, Tang-Wai DF, McAndrews MP, et al. A phase I trial of deep brain stimulation of memory circuits in Alzheimer's disease. Ann Neurol. 2010;68(4):521-34.",
+   "year": 2010
+  }
+ }
+]

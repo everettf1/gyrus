@@ -1,0 +1,162 @@
+[
+ {
+  "region": "area_v3",
+  "pmid": "9278542",
+  "from": "Figure 14A",
+  "caption": "A flattened map of one person's visual cortex showing where activity was higher for moving than for stationary patterns. The labeled strip V3 stays nearly dark, while the neighboring area V3A and the motion area MT/MST light up.",
+  "notice": "Compare V3 with V3A: V3A responds strongly to motion and V3 barely does, which is the human difference from the macaque; this is imaging, so it shows a correlation.",
+  "short": "Tootell et al. 1997, J Neurosci",
+  "license": "",
+  "file": "area_v3_9278542.webp"
+ },
+ {
+  "region": "frontopolar_cortex",
+  "pmid": "21371485",
+  "from": "Figure 3",
+  "caption": "Left, the spot in right frontopolar cortex where damage went with poor time-based prospective memory (remembering to act at the right time). Right, patients with damage there (orange) did worse than other patients and controls on the time-based task.",
+  "notice": "The orange bars drop only in the time-based task, so damage to this spot impairs the function, which points to cause rather than correlation.",
+  "short": "Volle et al. 2011, Neuropsychologia",
+  "license": "CC BY",
+  "file": "frontopolar_cortex_21371485.webp"
+ },
+ {
+  "region": "orbitofrontal_cortex",
+  "pmid": "15157726",
+  "from": "Figure 12",
+  "caption": "Activations from many imaging studies plotted on the underside of the human frontal lobe. Blue circles and green diamonds mark reward-related activations and yellow triangles mark punishment-related ones.",
+  "notice": "The yellow triangles spread to the lateral sides while the reward markers sit more medially and the green ones sit in the middle; this is a meta-analysis of imaging, so it shows a correlation.",
+  "short": "Kringelbach et al. 2004, Prog Neurobiol",
+  "license": "",
+  "file": "orbitofrontal_cortex_15157726.webp"
+ },
+ {
+  "region": "prefrontal_cortex",
+  "pmid": "2918358",
+  "from": "Figure 3",
+  "caption": "Spike rasters and firing-rate histograms of one monkey prefrontal neuron, one panel for each of eight cue directions. The neuron fires through the delay between the cue and the response only when the cue was at 270 degrees.",
+  "notice": "Look at the 270 degree panel, where firing stays high for the whole delay (D) after the cue has gone: the neuron holds the location in memory, which is a recorded correlation.",
+  "short": "Funahashi et al. 1989, J Neurophysiol",
+  "license": "",
+  "file": "prefrontal_cortex_2918358.webp"
+ },
+ {
+  "region": "locus_coeruleus",
+  "pmid": "16022602",
+  "from": "Figure 4A-B",
+  "caption": "Firing of one monkey locus coeruleus neuron around a stimulus (arrow at time 0). It bursts after a target stimulus (A) but not after a nontarget stimulus (B).",
+  "notice": "The burst appears only for the relevant target, which fits a role in attention and arousal; this is a recording, so it shows a correlation.",
+  "short": "Aston-Jones et al. 2005, Annu Rev Neurosci",
+  "license": "",
+  "file": "locus_coeruleus_16022602.webp"
+ },
+ {
+  "region": "basal_ganglia",
+  "pmid": "2402638",
+  "from": "Figure 3A-B",
+  "caption": "Parkinsonian signs in MPTP-treated monkeys measured before and after a lesion of the subthalamic nucleus.",
+  "notice": "The signs improved after the lesion in the same animals, so this lesion test points to cause: an overactive subthalamic nucleus contributes to parkinsonism.",
+  "short": "Bergman et al. 1990, Science",
+  "license": "",
+  "file": "basal_ganglia_2402638.webp"
+ },
+ {
+  "region": "basal_ganglia",
+  "pmid": "16943402",
+  "from": "Figure 2A",
+  "caption": "Change from baseline after six months in quality-of-life scores, for patients given subthalamic stimulation (dark bars) or medication alone (pale bars).",
+  "notice": "The dark bars rise well above the pale ones for mobility, daily living and emotional well-being; because patients were randomly assigned, this supports cause.",
+  "short": "Deuschl et al. 2006, N Engl J Med",
+  "license": "",
+  "file": "basal_ganglia_16943402.webp"
+ },
+ {
+  "region": "putamen",
+  "pmid": "16107540",
+  "from": "Figure 1A",
+  "caption": "Putamen activation maps from a motor sequence task across five training sessions (T1 to T5), with the signal in the upper and lower putamen plotted across runs.",
+  "notice": "The activated area and its signal change as the sequence is learned across sessions; this is imaging, so it shows a correlation with learning.",
+  "short": "Lehéricy et al. 2005, Proc Natl Acad Sci U S A",
+  "license": "",
+  "file": "putamen_16107540.webp"
+ },
+ {
+  "region": "frontoparietal_control_network",
+  "pmid": "42459500",
+  "from": "Figure 8",
+  "caption": "Each row is one stimulation site (vertex, L-FPN-B, D-FPN). The left plots show performance before and after stimulation against baseline network connectivity, and the middle plots show the change after stimulation.",
+  "notice": "The slope of the middle plots differs by site, so the effect of stimulation depends on a person's baseline connectivity; stimulation was applied, which supports cause.",
+  "short": "Kim et al. 2026, Imaging Neurosci (Camb)",
+  "license": "CC BY",
+  "file": "frontoparietal_control_network_42459500.webp"
+ },
+ {
+  "region": "fornix",
+  "pmid": "27567810",
+  "from": "Figure 1A-B",
+  "caption": "Change in two dementia scores over 12 months for all 42 patients, with stimulation off (blue) and on (red). Higher means worse.",
+  "notice": "The off and on lines almost overlap, so fornix stimulation made no clear overall difference; this was a randomized trial, so the comparison tests cause.",
+  "short": "Lozano et al. 2016, J Alzheimers Dis",
+  "license": "CC BY NC",
+  "file": "fornix_27567810.webp"
+ },
+ {
+  "region": "substantia_nigra_pars_reticulata",
+  "pmid": "40325060",
+  "from": "Figure 4B",
+  "caption": "Firing rate of pars reticulata neurons recorded in patients with Parkinson's disease (PD) and dystonia (DT). Each dot is one neuron.",
+  "notice": "The PD box sits higher than the DT box, so firing is faster in Parkinson's disease; this is a recording, so it shows a correlation.",
+  "short": "Shi et al. 2025, NPJ Parkinsons Dis",
+  "license": "CC BY NC ND",
+  "file": "substantia_nigra_pars_reticulata_40325060.webp"
+ },
+ {
+  "region": "substantia_nigra_pars_reticulata",
+  "pmid": "23757762",
+  "from": "Figure 4",
+  "caption": "Freezing of gait scores at baseline, with standard subthalamic stimulation, and with combined subthalamic and pars reticulata stimulation, measured immediately (A) and at three weeks (B). Lower is better.",
+  "notice": "The combined condition sits lowest, so adding pars reticulata stimulation may help freezing; it was a small trial in 12 patients, so it is a hint, not proof.",
+  "short": "Weiss et al. 2013, Brain",
+  "license": "CC BY NC",
+  "file": "substantia_nigra_pars_reticulata_23757762.webp"
+ },
+ {
+  "region": "anterior_cingulate_gyrus",
+  "pmid": "30107501",
+  "from": "Figure 3",
+  "caption": "Yellow dots mark stimulation sites on the inner surface of the brain that produced goal-oriented behavior (top) or affective responses (bottom). The affective sites cluster in the front-most part of the cingulate.",
+  "notice": "Stimulating the front of the cingulate produced emotional responses, while the part just behind gave motor behavior; stimulation shows cause.",
+  "short": "Caruana et al. 2018, Brain",
+  "license": "",
+  "file": "anterior_cingulate_gyrus_30107501.webp"
+ },
+ {
+  "region": "posterior_midcingulate_gyrus",
+  "pmid": "15995724",
+  "from": "Figure 3A",
+  "caption": "Peak activation sites from imaging studies of painful stimulation, plotted on the inner surface of the brain. Purple dots are painful heat on the skin and orange dots are painful visceral stimulation.",
+  "notice": "Pain peaks from many studies gather in the midcingulate area; this is imaging, so it shows a correlation, not that the area is needed for pain.",
+  "short": "Vogt 2005, Nat Rev Neurosci",
+  "license": "",
+  "file": "posterior_midcingulate_gyrus_15995724.webp"
+ },
+ {
+  "region": "superior_precentral_sulcus",
+  "pmid": "40356402",
+  "from": "Figure 1A-B",
+  "caption": "Sites in the precentral sulcus (left and right brains) where electrical stimulation moved the eyes. Dots in the superior part (SP, purple) and the inferior part (IP, blue) are colored by the type of eye movement.",
+  "notice": "Many dots lie in the superior part, where stimulation drove eye movements, so this shows cause.",
+  "short": "Jin et al. 2025, Brain Behav",
+  "license": "",
+  "file": "superior_precentral_sulcus_40356402.webp"
+ },
+ {
+  "region": "acoustic_radiation",
+  "pmid": "28866840",
+  "from": "Figure 4 (subject S1)",
+  "caption": "The acoustic radiation reconstructed with tractography in one healthy subject, shown from the side, front, above and behind. It runs as a bundle from the thalamus toward the temporal lobe.",
+  "notice": "In the view from above, the bundle sweeps outward from the thalamus on both sides; tractography maps the tract's course and does not test cause.",
+  "short": "Maffei et al. 2018, Brain Struct Funct",
+  "license": "",
+  "file": "acoustic_radiation_28866840.webp"
+ }
+]

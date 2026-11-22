@@ -1,0 +1,27 @@
+1. Neuropsychology. 2000 Jul;14(3):341-52. doi: 10.1037//0894-4105.14.3.341.
+
+Cerebellar volume decline in normal aging, alcoholism, and Korsakoff's syndrome: 
+relation to ataxia.
+
+Sullivan EV(1), Deshmukh A, Desmond JE, Lim KO, Pfefferbaum A.
+
+Author information:
+(1)Department of Psychiatry and Behavioral Sciences, Stanford University School 
+of Medicine, California 94305-5717, USA. edie@stanford.edu
+
+The authors used magnetic resonance imaging to measure gray and white matter 
+volumes in cerebellar hemispheres and 4 vermian regions in 61 normal control 
+(NC) men aged 23-72 years, 25 men with uncomplicated alcoholism (ALC), and 8 men 
+and 1 woman with alcoholic Korsakoff s syndrome (KS). NC and ALC took 
+quantitative gait and balance tests. Gray but not white matter volume declined 
+with normal age in both hemispheres and anterior-superior vermis. ALC had gray 
+but not white matter cerebellar hemisphere volume deficits, whereas KS had 
+deficits in both tissue types. ALC and KS had gray and white matter volume 
+deficits in anterior superior but not posterior inferior vermis. ALC had a 1 SD 
+ataxia deficit, significantly and selectively correlated with white matter 
+volume in anterior superior vermis. Regional distribution but not severity of 
+cerebellar volume deficits is similar in alcoholic individuals whether or not 
+complicated by KS and relates to ataxia.
+
+DOI: 10.1037//0894-4105.14.3.341
+PMID: 10928737 [Indexed for MEDLINE]

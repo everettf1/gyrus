@@ -1,0 +1,36 @@
+1. J Neurophysiol. 2011 Jun;105(6):2891-6. doi: 10.1152/jn.01149.2009. Epub 2011 
+Apr 13.
+
+Dissociating the contributions of human frontal eye fields and posterior 
+parietal cortex to visual search.
+
+Muggleton NG(1), Kalla R, Juan CH, Walsh V.
+
+Author information:
+(1)Institute of Cognitive Neuroscience and Department of Psychology, University 
+College London, London, United Kingdom. n.muggleton@ucl.ac.uk
+
+Imaging, lesion, and transcranial magnetic stimulation (TMS) studies have 
+implicated a number of regions of the brain in searching for a target defined by 
+a combination of attributes. The necessity of both frontal eye fields (FEF) and 
+posterior parietal cortex (PPC) in task performance has been shown by the 
+application of TMS over these regions. The effects of stimulation over these two 
+areas have, thus far, proved to be remarkably similar and the only dissociation 
+reported being in the timing of their involvement. We tested the hypotheses that 
+1) FEF contributes to performance in terms of visual target detection (possibly 
+by modulation of activity in extrastriate areas with respect to the target), and 
+2) PPC is involved in translation of visual information for action. We used a 
+task where the presence (and location) of the target was indicated by an eye 
+movement. Task disruption was seen with FEF TMS (with reduced accuracy on the 
+task) but not with PPC stimulation. When a search task requiring a manual 
+response was presented, disruption with PPC TMS was seen. These results show 
+dissociation of FEF and PPC contributions to visual search performance and that 
+PPC involvement seems to be dependent on the response required by the task, 
+whereas this is not the case for FEF. This supports the idea of FEF involvement 
+in visual processes in a manner that might not depend on the required response, 
+whereas PPC seems to be involved when a manual motor response to a stimulus is 
+required.
+
+DOI: 10.1152/jn.01149.2009
+PMCID: PMC3118747
+PMID: 21490286 [Indexed for MEDLINE]

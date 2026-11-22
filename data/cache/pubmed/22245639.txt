@@ -1,0 +1,48 @@
+1. Neuroimage. 2012 Mar;60(1):409-18. doi: 10.1016/j.neuroimage.2011.12.072. Epub
+ 2012 Jan 5.
+
+Spatial segregation of somato-sensory and pain activations in the human 
+operculo-insular cortex.
+
+Mazzola L(1), Faillenot I, Barral FG, Mauguière F, Peyron R.
+
+Author information:
+(1)Neurology Department, University Hospital, St-Etienne, France. 
+lauremazzola@yahoo.fr
+
+The role of operculo-insular region in the processing of somato-sensory inputs, 
+painful or not, is now well established. However, available maps from previous 
+literature show a substantial overlap of cortical areas activated by these 
+stimuli, and the region referred to as the "secondary somatosensory area (SII)" 
+is widely distributed in the parietal operculum. Differentiating SII from 
+posterior insula cortex, which is anatomically contiguous, is not easy, 
+explaining why the "operculo-insular" label has been introduced to describe 
+activations by somatosensory stimuli in this cortical region. Based on the 
+recent cyto-architectural parcellation of the human insular/SII cortices 
+(Eickhoff et al., 2006, Kurth et al., 2010), the present study investigates with 
+functional MRI (fMRI), whether these structural subdivisions could subserve 
+distinct aspects of discriminative somato-sensory functions, including pain. 
+Responses to five types of stimuli applied on the left hand of 25 healthy 
+volunteers were considered: i) tactile stimuli; ii) passive movements; iii) 
+innocuous cold stimuli; iv) non-noxious warm and v) heat pain. Our results show 
+different patterns of activation depending on the type of somato-sensory 
+stimulation. The posterior part of SII (OP1 area), contralateral to stimuli, was 
+the only sub-region activated by all type of stimuli and might therefore be 
+considered as a common cortical target for different types of somato-sensory 
+inputs. Proprioceptive stimulation by passive finger movements activated the 
+posterior part of SII (OP1 sub-region) bilaterally and the contralateral median 
+part of insula (PreCG and MSG). Innocuous cooling activated the contralateral 
+posterior part of SII (OP1) and the dorsal posterior and median part of insula 
+(OP2, PostCG). Pain stimuli induced the most widespread and intense activation 
+that was bilateral in SII (OP1, OP4) and distributed to all sub-regions of 
+contralateral insula (except OP2) and to the anterior part of the ipsilateral 
+insula (PreCG, MSG, ASG). However, the posterior granular part of insula 
+contralateral to stimulus (Ig area) and the anterior part of SII bilaterally 
+(OP4) were specifically activated during pain stimulation. This raises the 
+question whether these latter areas could be the anatomical substrate of the 
+sensory-discriminative processing of thermal pain.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuroimage.2011.12.072
+PMID: 22245639 [Indexed for MEDLINE]

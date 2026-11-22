@@ -1,0 +1,40 @@
+1. J Cogn Neurosci. 2013 Jun;25(6):961-8. doi: 10.1162/jocn_a_00372. Epub 2013
+Feb  14.
+
+Transcranial magnetic stimulation to the transverse occipital sulcus affects 
+scene but not object processing.
+
+Ganaden RE(1), Mullin CR, Steeves JK.
+
+Author information:
+(1)Centre for Vision Research and Department of Psychology, York University, 
+Toronto, Ontario M3J 1P3, Canada.
+
+Traditionally, it has been theorized that the human visual system identifies and 
+classifies scenes in an object-centered approach, such that scene recognition 
+can only occur once key objects within a scene are identified. Recent research 
+points toward an alternative approach, suggesting that the global image features 
+of a scene are sufficient for the recognition and categorization of a scene. We 
+have previously shown that disrupting object processing with repetitive TMS to 
+object-selective cortex enhances scene processing possibly through a release of 
+inhibitory mechanisms between object and scene pathways [Mullin, C. R., & 
+Steeves, J. K. E. TMS to the lateral occipital cortex disrupts object processing 
+but facilitates scene processing. Journal of Cognitive Neuroscience, 23, 
+4174-4184, 2011]. Here we show the effects of TMS to the transverse occipital 
+sulcus (TOS), an area implicated in scene perception, on scene and object 
+processing. TMS was delivered to the TOS or the vertex (control site) while 
+participants performed an object and scene natural/nonnatural categorization 
+task. Transiently interrupting the TOS resulted in significantly lower 
+accuracies for scene categorization compared with control conditions. This 
+demonstrates a causal role of the TOS in scene processing and indicates its 
+importance, in addition to the parahippocampal place area and retrosplenial 
+cortex, in the scene processing network. Unlike TMS to object-selective cortex, 
+which facilitates scene categorization, disrupting scene processing through 
+stimulation of the TOS did not affect object categorization. Further analysis 
+revealed a higher proportion of errors for nonnatural scenes that led us to 
+speculate that the TOS may be involved in processing the higher spatial 
+frequency content of a scene. This supports a nonhierarchical model of scene 
+recognition.
+
+DOI: 10.1162/jocn_a_00372
+PMID: 23410031 [Indexed for MEDLINE]

@@ -1,0 +1,30 @@
+1. Nat Neurosci. 2003 Jul;6(7):750-7. doi: 10.1038/nn1075.
+
+Non-invasive mapping of connections between human thalamus and cortex using 
+diffusion imaging.
+
+Behrens TE(1), Johansen-Berg H, Woolrich MW, Smith SM, Wheeler-Kingshott CA, 
+Boulby PA, Barker GJ, Sillery EL, Sheehan K, Ciccarelli O, Thompson AJ, Brady 
+JM, Matthews PM.
+
+Author information:
+(1)Centre for Functional Magnetic Resonance Imaging of the Brain, University of 
+Oxford, John Radcliffe Hospital, Oxford OX3 9DU, UK.
+
+Evidence concerning anatomical connectivities in the human brain is sparse and 
+based largely on limited post-mortem observations. Diffusion tensor imaging has 
+previously been used to define large white-matter tracts in the living human 
+brain, but this technique has had limited success in tracing pathways into gray 
+matter. Here we identified specific connections between human thalamus and 
+cortex using a novel probabilistic tractography algorithm with diffusion imaging 
+data. Classification of thalamic gray matter based on cortical connectivity 
+patterns revealed distinct subregions whose locations correspond to nuclei 
+described previously in histological studies. The connections that we found 
+between thalamus and cortex were similar to those reported for non-human 
+primates and were reproducible between individuals. Our results provide the 
+first quantitative demonstration of reliable inference of anatomical 
+connectivity between human gray matter structures using diffusion data and the 
+first connectivity-based segmentation of gray matter.
+
+DOI: 10.1038/nn1075
+PMID: 12808459 [Indexed for MEDLINE]

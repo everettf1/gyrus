@@ -1,0 +1,35 @@
+1. Brain Lang. 1990 May;38(4):515-33. doi: 10.1016/0093-934x(90)90135-4.
+
+Sulcus topography of the parietal opercular region: an anatomic and MR study.
+
+Steinmetz H(1), Ebeling U, Huang YX, Kahn T.
+
+Author information:
+(1)Department of Neurology, Heinrich-Heine-University Düsseldorf, F.R.G.
+
+The study describes the sulcal and gyral topography, variability, and left-right 
+asymmetry of the parietal operculum. Eighty postmortem hemispheres as well as 
+sagittal magnetic resonance images from 20 health volunteers (40 hemispheres) 
+were evaluated. Four different types of parietal opercular sulcus topography 
+were recognized. Most frequently, and conforming with the anatomic "textbook 
+pattern", the inferior postcentral sulcus (POCS) is the sulcus anterior to the 
+posterior ascending ramus (PAR) of the Sylvian fissure (type 1). Variations were 
+the following: lack of a PAR (type 2), interposition of an intermediate 
+opercular sulcus and gyrus between PAR and POCS (type 3), and direct transition 
+of PAR into POCS with subsequent lack of a classical supramarginal gyrus (type 
+4). Inconstancy of the sulcal standard arrangement was especially pronounced 
+among left hemispheres, where the patterns differed from type 1 in one third of 
+the cases. Types 2 and 3 were significantly more frequent in left hemispheres, 
+whereas type 4 occurred significantly more frequently in right hemispheres. Upon 
+intraindividual left-right comparison, a remarkable 38% of the brains showed 
+gross asymmetry of the parietal opercular sulcus patterns, characterized by a 
+left type 2 or 3 and/or a right type 4; another 5% exhibited a reverse type of 
+asymmetry. The findings supplement previous data on gross variability and 
+left-right asymmetry of the posterior Sylvian fissure and its lower bank. They 
+indicate that the Sylvian fissure is an unreliable landmark with respect to 
+inferior parietal structures especially in left hemispheres. Individual mapping 
+of perisylvian topography may contribute to studies on structural-functional 
+relationship.
+
+DOI: 10.1016/0093-934x(90)90135-4
+PMID: 2375980 [Indexed for MEDLINE]

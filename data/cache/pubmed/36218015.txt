@@ -1,0 +1,41 @@
+1. Ann Neurol. 2023 Jan;93(1):175-183. doi: 10.1002/ana.26532. Epub 2022 Oct 25.
+
+Responses of Chemosensory Perception to Stimulation of the Human Brain.
+
+Li Y(1)(2), Tan Z(1)(2), Wang J(3), Cai Y(1)(2), Wang M(3), Zhou W(1)(2), Wang 
+L(1)(2).
+
+Author information:
+(1)CAS Key Laboratory of Mental Health, Institute of Psychology, Beijing, China.
+(2)Department of Psychology, University of Chinese Academy of Sciences, Beijing, 
+China.
+(3)Sanbo Brain Hospital, Capital Medical University, Beijing, China.
+
+OBJECTIVE: Significant advances have been made in our understanding of the 
+neural substrates of human chemosensory processing, involving the piriform 
+cortex, insula, and orbitofrontal cortex. However, the important and challenging 
+issues are to localize the brain regions with high anatomic precision that can 
+causally produce chemosensory perception and further delineate the topography of 
+different classifications of chemosensory perception.
+METHODS: We quantitatively measured subjective responses of chemosensory 
+perception to intracranial electrical stimulation over the brain in 
+neurosurgical patients (n = 302) with medically refractory epilepsy.
+RESULTS: The chemosensory perceptions including olfaction, gustation, and 
+chemesthesis were elicited in 21 of 302 patients (7%). Chemosensory responses 
+were evoked in 53 (0.2%) of 21,661 stimulated sites. The highest response rate 
+(1.8%) was in the insula (37/2,051 stimulated sites from 15/163 patients). The 
+chemosensory perception emerged predominantly during stimulation of the insula 
+along the central sulcus axis. Notably, there existed a distinct pattern that 
+the anteroventral insula predominately represented orthonasal olfaction, whereas 
+different chemosensory modalities converged in the mid-dorsal insula.
+INTERPRETATION: This study provided a detailed characterization of chemosensory 
+perception across the brain, especially in the insula. These results suggest 
+that the cortex along the banks of the central sulcus of the insula may play a 
+role in producing the supramodal sensation of flavor. It also indicates that 
+dysfunction of the central insula should be considered during the evaluation of 
+chemosensory-related epileptic seizures. ANN NEUROL 2023;93:175-183.
+
+© 2022 American Neurological Association.
+
+DOI: 10.1002/ana.26532
+PMID: 36218015 [Indexed for MEDLINE]

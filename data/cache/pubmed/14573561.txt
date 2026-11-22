@@ -1,0 +1,37 @@
+1. J Neurophysiol. 2004 Feb;91(2):736-45. doi: 10.1152/jn.00648.2003. Epub 2003
+Oct  22.
+
+Microstimulation in the region of the human thalamic principal somatic sensory 
+nucleus evokes sensations like those of mechanical stimulation and movement.
+
+Ohara S(1), Weiss N, Lenz FA.
+
+Author information:
+(1)Department of Neurosurgery, Johns Hopkins Hospital, Baltimore, Maryland 
+21278-7713, USA.
+
+We explored the region of human thalamic somatic sensory nucleus (ventral 
+caudal, Vc), corresponding to monkey ventral posterior (VP), with threshold 
+microstimulation (TMIS) during stereotactic procedures for the treatment of 
+tremor. Of 122 sites in 116 patients (124 thalami) where mechanical (touch, 
+pressure, and sharp) or movement [movement through the body (movement) and 
+vibration] sensations were evoked, 72 sites were found in the core or in 
+adjacent regions, posterior-inferior (33), inferior (4), and posterior to the 
+core (13). Sites where TMIS evoked touch were less frequently found in the core 
+than those where movement or pressure sensations were evoked. Pressure was more 
+commonly (P < 0.05) evoked than vibration at sites where cells had intraoral 
+receptive fields (RFs). Touch and vibration were more commonly (P < 0.05) evoked 
+than pressure at sites where cells had facial RFs, consistent with the relative 
+density of rapidly adapting (RA) receptors in the mouth and face. Sites 
+described as deep and movement were found superior and anterior in the core, 
+consistent with the location of cells responding to stimulation of muscle 
+afferents. At 72 of 122 sites, TMIS evoked the same sensation at two or more 
+sites in the same plane. Of these sites, 58 are adjacent to each other, in a 
+cluster, consistent with studies of the localization of cells responding to 
+different modalities. These results demonstrate that mechanical and movement 
+sensations can be evoked by stimulation in the region of Vc. The characteristics 
+of these sites suggest that the sensations are evoked by stimulation of pathways 
+specific to cutaneous and deep mechanoreceptors.
+
+DOI: 10.1152/jn.00648.2003
+PMID: 14573561 [Indexed for MEDLINE]

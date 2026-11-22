@@ -1,0 +1,47 @@
+1. J Neurosci. 2012 Oct 24;32(43):14915-20. doi: 10.1523/JNEUROSCI.2609-12.2012.
+
+Electrical stimulation of human fusiform face-selective regions distorts face 
+perception.
+
+Parvizi J(1), Jacques C, Foster BL, Witthoft N, Rangarajan V, Weiner KS, 
+Grill-Spector K.
+
+Author information:
+(1)Laboratory of Behavioral and Cognitive Neurology, Department of Neurology and 
+Neurological Sciences, Université Catholique de Louvain, 1348 Louvain, Belgium. 
+jparvizi@stanford.edu
+
+Erratum in
+    J Neurosci. 2013 Jan 16;33(3):1291. Withoft, Nathan [corrected to Witthoft, 
+Nathan].
+
+Comment in
+    Nat Rev Neurosci. 2012 Dec;13(12):812. doi: 10.1038/nrn3395.
+
+Face-selective neural responses in the human fusiform gyrus have been widely 
+examined. However, their causal role in human face perception is largely 
+unknown. Here, we used a multimodal approach of electrocorticography (ECoG), 
+high-resolution functional magnetic resonance imaging (fMRI), and electrical 
+brain stimulation (EBS) to directly investigate the causal role of 
+face-selective neural responses of the fusiform gyrus (FG) in face perception in 
+a patient implanted with subdural electrodes in the right inferior temporal 
+lobe. High-resolution fMRI identified two distinct FG face-selective regions 
+[mFus-faces and pFus-faces (mid and posterior fusiform, respectively)]. ECoG 
+revealed a striking anatomical and functional correspondence with fMRI data 
+where a pair of face-selective electrodes, positioned 1 cm apart, overlapped 
+mFus-faces and pFus-faces, respectively. Moreover, electrical charge delivered 
+to this pair of electrodes induced a profound face-specific perceptual 
+distortion during viewing of real faces. Specifically, the subject reported a 
+"metamorphosed" appearance of faces of people in the room. Several controls 
+illustrate the specificity of the effect to the perception of faces. EBS of 
+mFus-faces and pFus-faces neither produced a significant deficit in naming 
+pictures of famous faces on the computer, nor did it affect the appearance of 
+nonface objects. Further, the appearance of faces remained unaffected during 
+both sham stimulation and stimulation of a pair of nearby electrodes that were 
+not face-selective. Overall, our findings reveal a striking convergence of fMRI, 
+ECoG, and EBS, which together offer a rare causal link between functional 
+subsets of the human FG network and face perception.
+
+DOI: 10.1523/JNEUROSCI.2609-12.2012
+PMCID: PMC3517886
+PMID: 23100414 [Indexed for MEDLINE]

@@ -1,0 +1,26 @@
+1. Trends Neurosci. 2000 Oct;23(10):475-83. doi: 10.1016/s0166-2236(00)01633-7.
+
+Common regions of the human frontal lobe recruited by diverse cognitive demands.
+
+Duncan J(1), Owen AM.
+
+Author information:
+(1)MRC Cognition and Brain Sciences Unit, CB2 2EF, Cambridge, UK.
+
+Though many neuroscientific methods have been brought to bear in the search for 
+functional specializations within prefrontal cortex, little consensus has 
+emerged. To assess the contribution of functional neuroimaging, this article 
+reviews patterns of frontal-lobe activation associated with a broad range of 
+different cognitive demands, including aspects of perception, response 
+selection, executive control, working memory, episodic memory and problem 
+solving. The results show a striking regularity: for many demands, there is a 
+similar recruitment of mid-dorsolateral, mid-ventrolateral and dorsal anterior 
+cingulate cortex. Much of the remainder of frontal cortex, including most of the 
+medial and orbital surfaces, is largely insensitive to these demands. 
+Undoubtedly, these results provide strong evidence for regional specialization 
+of function within prefrontal cortex. This specialization, however, takes an 
+unexpected form: a specific frontal-lobe network that is consistently recruited 
+for solution of diverse cognitive problems.
+
+DOI: 10.1016/s0166-2236(00)01633-7
+PMID: 11006464 [Indexed for MEDLINE]

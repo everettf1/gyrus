@@ -1,0 +1,33 @@
+1. Nat Neurosci. 2004 Feb;7(2):189-95. doi: 10.1038/nn1176. Epub 2004 Jan 18.
+
+Neural systems supporting interoceptive awareness.
+
+Critchley HD(1), Wiens S, Rotshtein P, Ohman A, Dolan RJ.
+
+Author information:
+(1)Wellcome Department of Imaging Neuroscience, Institute of Neurology, 
+University College London, and Autonomic Unit, National Hospital for Neurology 
+and Neurosurgery, University College London Hospitals, UK. 
+h.critchley@fil.ion.ucl.ac.uk
+
+Comment in
+    Nat Neurosci. 2004 Feb;7(2):102-3. doi: 10.1038/nn0204-102.
+
+Influential theories of human emotion argue that subjective feeling states 
+involve representation of bodily responses elicited by emotional events. Within 
+this framework, individual differences in intensity of emotional experience 
+reflect variation in sensitivity to internal bodily responses. We measured 
+regional brain activity by functional magnetic resonance imaging (fMRI) during 
+an interoceptive task wherein subjects judged the timing of their own 
+heartbeats. We observed enhanced activity in insula, somatomotor and cingulate 
+cortices. In right anterior insular/opercular cortex, neural activity predicted 
+subjects' accuracy in the heartbeat detection task. Furthermore, local gray 
+matter volume in the same region correlated with both interoceptive accuracy and 
+subjective ratings of visceral awareness. Indices of negative emotional 
+experience correlated with interoceptive accuracy across subjects. These 
+findings indicate that right anterior insula supports a representation of 
+visceral responses accessible to awareness, providing a substrate for subjective 
+feeling states.
+
+DOI: 10.1038/nn1176
+PMID: 14730305 [Indexed for MEDLINE]

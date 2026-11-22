@@ -1,0 +1,34 @@
+1. Proc Natl Acad Sci U S A. 2007 Jun 26;104(26):11073-8. doi: 
+10.1073/pnas.0704320104. Epub 2007 Jun 18.
+
+Distinct brain networks for adaptive and stable task control in humans.
+
+Dosenbach NU(1), Fair DA, Miezin FM, Cohen AL, Wenger KK, Dosenbach RA, Fox MD, 
+Snyder AZ, Vincent JL, Raichle ME, Schlaggar BL, Petersen SE.
+
+Author information:
+(1)Department of Radiology, Washington University, St. Louis, MO 63110, USA. 
+ndosenbach@wustl.edu
+
+Control regions in the brain are thought to provide signals that configure the 
+brain's moment-to-moment information processing. Previously, we identified 
+regions that carried signals related to task-control initiation, maintenance, 
+and adjustment. Here we characterize the interactions of these regions by 
+applying graph theory to resting state functional connectivity MRI data. In 
+contrast to previous, more unitary models of control, this approach suggests the 
+presence of two distinct task-control networks. A frontoparietal network 
+included the dorsolateral prefrontal cortex and intraparietal sulcus. This 
+network emphasized start-cue and error-related activity and may initiate and 
+adapt control on a trial-by-trial basis. The second network included dorsal 
+anterior cingulate/medial superior frontal cortex, anterior insula/frontal 
+operculum, and anterior prefrontal cortex. Among other signals, these regions 
+showed activity sustained across the entire task epoch, suggesting that this 
+network may control goal-directed behavior through the stable maintenance of 
+task sets. These two independent networks appear to operate on different time 
+scales and affect downstream processing via dissociable mechanisms.
+
+DOI: 10.1073/pnas.0704320104
+PMCID: PMC1904171
+PMID: 17576922 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

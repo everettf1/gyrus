@@ -1,0 +1,72 @@
+1. N Engl J Med. 2010 Jun 3;362(22):2077-91. doi: 10.1056/NEJMoa0907083.
+
+Pallidal versus subthalamic deep-brain stimulation for Parkinson's disease.
+
+Follett KA(1), Weaver FM, Stern M, Hur K, Harris CL, Luo P, Marks WJ Jr, 
+Rothlind J, Sagher O, Moy C, Pahwa R, Burchiel K, Hogarth P, Lai EC, Duda JE, 
+Holloway K, Samii A, Horn S, Bronstein JM, Stoner G, Starr PA, Simpson R, 
+Baltuch G, De Salles A, Huang GD, Reda DJ; CSP 468 Study Group.
+
+Collaborators: Follett K, Stern M, Weaver F, Ippolito D, Stoner G, Barnett T, 
+Bukowski K, DeNicolo R, Hur K, Jimenez J, Luo P, Motyka J, Reda D, Simon T, 
+Thakkar B, Woolson R, Fye C, Gagne W, Harris C, Heemskerk J, Moy C, Sheehy P, 
+O'Leary T, Huang GD, Fiore L, Hall R, Stroupe K, Burchiel K, Follett K, Fye C, 
+Harris C, Heemskerk J, Hur K, Koller W, Marks WJ Jr, Moy C, Pahwa R, Reda D, 
+Rothlind J, Sagher O, Sheehy P, Stern M, Weaver F, Bakay R, Chappell R, Hart R, 
+Holloway R Jr, McCabe G, Schenkman M, Taha J, Buckelew J, Fye C, Garin M, Matzek 
+S, Smith D, Bronstein J, Duda J, Hogarth P, Holloway K, Horn S, Lai EC, Marks WJ 
+Jr, Samii A, Atassi F, Bello C, Bunting-Perry L, Conn T, Cugley A, Eubank N, 
+Fincher L, Franks R, Harris T, Haselman M, Heath S, Hirsch M, Janovsky V, Lanier 
+E, Lloyd M, Loehner S, O'Connor S, Ordonez L, Maccarone H, Massey-Makhoul K, 
+Matthews M, Meyn E, Mimura K, Morrow W, Searles T, Valotta J, Vasthare U, Volz 
+M, Ward C, Warker R, Watson H, Willson P, Baron M, Calabrese V, Colcher A, Farag 
+E, Henry E, Hou JG, Kang G, Kleiner-Fisman G, Nutt J, Ostrem J, Sarwar A, 
+Subramanian I, Vanek Z, Baltuch G, Burchiel K, De Salles A, Eller J, Holloway K, 
+Larson P, Simpson R, Starr P, Carne W, Erikson T, Jaggi J, Kreutzer J, Mendez M, 
+Moberg P, Ragland J, Rothlind J, Seel R, Soety E, Storzbach D, Troster A, York 
+M.
+
+Author information:
+(1)Iowa City Veterans Affairs Medical Center, Iowa City, USA.
+
+Comment in
+    J Neurol. 2010 Aug;257(8):1411-4. doi: 10.1007/s00415-010-5668-3.
+    N Engl J Med. 2010 Sep 2;363(10):987; author reply 988. doi: 
+10.1056/NEJMc1007650.
+    N Engl J Med. 2010 Sep 2;363(10):987-8; author reply 988. doi: 
+10.1056/NEJMc1007650.
+
+BACKGROUND: Deep-brain stimulation is the surgical procedure of choice for 
+patients with advanced Parkinson's disease. The globus pallidus interna and the 
+subthalamic nucleus are accepted targets for this procedure. We compared 
+24-month outcomes for patients who had undergone bilateral stimulation of the 
+globus pallidus interna (pallidal stimulation) or subthalamic nucleus 
+(subthalamic stimulation).
+METHODS: At seven Veterans Affairs and six university hospitals, we randomly 
+assigned 299 patients with idiopathic Parkinson's disease to undergo either 
+pallidal stimulation (152 patients) or subthalamic stimulation (147 patients). 
+The primary outcome was the change in motor function, as blindly assessed on the 
+Unified Parkinson's Disease Rating Scale, part III (UPDRS-III), while patients 
+were receiving stimulation but not receiving antiparkinsonian medication. 
+Secondary outcomes included self-reported function, quality of life, 
+neurocognitive function, and adverse events.
+RESULTS: Mean changes in the primary outcome did not differ significantly 
+between the two study groups (P=0.50). There was also no significant difference 
+in self-reported function. Patients undergoing subthalamic stimulation required 
+a lower dose of dopaminergic agents than did those undergoing pallidal 
+stimulation (P=0.02). One component of processing speed (visuomotor) declined 
+more after subthalamic stimulation than after pallidal stimulation (P=0.03). The 
+level of depression worsened after subthalamic stimulation and improved after 
+pallidal stimulation (P=0.02). Serious adverse events occurred in 51% of 
+patients undergoing pallidal stimulation and in 56% of those undergoing 
+subthalamic stimulation, with no significant between-group differences at 24 
+months.
+CONCLUSIONS: Patients with Parkinson's disease had similar improvement in motor 
+function after either pallidal or subthalamic stimulation. Nonmotor factors may 
+reasonably be included in the selection of surgical target for deep-brain 
+stimulation. (ClinicalTrials.gov numbers, NCT00056563 and NCT01076452.)
+
+2010 Massachusetts Medical Society
+
+DOI: 10.1056/NEJMoa0907083
+PMID: 20519680 [Indexed for MEDLINE]

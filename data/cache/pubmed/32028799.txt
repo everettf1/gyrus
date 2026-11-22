@@ -1,0 +1,47 @@
+1. Clin EEG Neurosci. 2020 Jul;51(4):275-284. doi: 10.1177/1550059420904180. Epub
+ 2020 Feb 6.
+
+Orbitofrontal Sulcogyral Pattern as a Transdiagnostic Trait Marker of Early 
+Neurodevelopment in the Social Brain.
+
+Nakamura M(1), Nestor PG(2)(3)(4), Shenton ME(2)(5).
+
+Author information:
+(1)Showa University, Tokyo, Japan.
+(2)Veterans Affairs Boston Healthcare System, Brockton Division, Brockton, MA, 
+USA.
+(3)Harvard Medical School, Boston, MA, USA.
+(4)University of Massachusetts, Boston, MA, USA.
+(5)Brigham and Women's Hospital, Harvard Medical School, Boston, MA, USA.
+
+Objective. To systematically assess previous findings on the orbitofrontal 
+sulcogyral pattern in psychiatric disorders and to address the utility of this 
+pattern as a transdiagnostic trait marker of early neurodevelopment in the 
+social brain. Methods. An online literature search was conducted using the 
+PubMed database from inception to August 2019. Studies included in this review 
+were based on the Chiavaras's original classification method of this H-shaped 
+sulcus (type I, II, and III), intermediate orbital sulcus (IOS), and posterior 
+orbital sulcus (POS). Results. Twenty-six studies were included in the review. 
+Sixteen studies (62%) focused on schizophrenia spectrum (Sz) disorders, and the 
+remaining studies focused on autism spectrum disorder (ASD), 
+attention-deficit/hyperactivity disorder (ADHD), history of extremely preterm 
+and extremely low birth weight, bipolar disorder (BD), panic disorder, 
+obsessive-compulsive disorder, cannabis users, and pathological gambling. In Sz, 
+compared with healthy controls, the orbitofrontal sulcogyral pattern was 
+decreased in type I, increased in type II and III, and there were fewer numbers 
+of IOS and POS reported, although specificity in sex and hemispheric dominance 
+was not consistent. BD and neurodevelopmental disorders in ASD and ADHD showed a 
+similar pattern of alteration to that observed in the Sz. Conclusions. The 
+present review of the orbitofrontal sulcogyral pattern indicated that type I 
+expression might reflect a neurodevelopmental protective marker, and type II and 
+III expressions, as well as fewer numbers of IOS and POS, might reflect 
+neurodevelopmental risk markers. These trait markers may be transdiagnostic 
+among socially disabling diseases.
+
+DOI: 10.1177/1550059420904180
+PMCID: PMC7338703
+PMID: 32028799 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author(s) declared no potential conflicts of 
+interest with respect to the research, authorship, and/or publication of this 
+article.

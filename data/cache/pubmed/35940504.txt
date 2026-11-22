@@ -1,0 +1,50 @@
+1. World Neurosurg. 2022 Nov;167:e165-e171. doi: 10.1016/j.wneu.2022.07.110. Epub
+ 2022 Aug 6.
+
+The Central Sulcus of the Insula: A Highly Reliable Radiographic Landmark for 
+Identification of the Rolandic Sulcus.
+
+Bakhaidar M(1), Bokhari R(2), Hall JA(3), Mirza FA(4).
+
+Author information:
+(1)Departments of Neurology and Neurosurgery, Montreal Neurological Hospital and 
+Institute, McGill University, Montreal, Quebec, Canada; Neurosurgical Simulation 
+and Artificial Intelligence Learning Centre, Department of Neurology and 
+Neurosurgery, Montreal Neurological Hospital and Institute, McGill University, 
+Montreal, Quebec, Canada; Department of Surgery, Division of Neurosurgery, 
+Faculty of Medicine, King Abdulaziz University, Jeddah, Saudi Arabia. Electronic 
+address: Mohamad.bakhaidar@mail.mcgill.ca.
+(2)Departments of Neurology and Neurosurgery, Montreal Neurological Hospital and 
+Institute, McGill University, Montreal, Quebec, Canada; Department of Surgery, 
+Division of Neurosurgery, Faculty of Medicine, King Abdulaziz University, 
+Jeddah, Saudi Arabia.
+(3)Departments of Neurology and Neurosurgery, Montreal Neurological Hospital and 
+Institute, McGill University, Montreal, Quebec, Canada.
+(4)Department of Neurosurgery, Kentucky Neuroscience Institute, University of 
+Kentucky, Lexington, Kentucky, USA.
+
+BACKGROUND: Anatomic studies have suggested that the central insular sulcus 
+(CIS) runs in line with the Rolandic sulcus (RS). The radiographic relationship 
+between the RS and CIS has not been systematically studied. This study aims to 
+evaluate the applicability of using the CIS as a radiologic landmark to identify 
+the RS.
+METHODS: We retrospectively reviewed 100 consecutive normal magnetic resonance 
+imaging (MRI) scans (200 hemispheres) performed at a single institution. MRI 
+scans with any intracranial pathology or finding were excluded. Sagittal and 
+axial fluid-attenuated inversion recovery sequences were used in this study. Two 
+evaluators independently evaluated the relationship of the CIS and RS in all MRI 
+scans. A predefined 3-step method was then used to identify the CIS, RS, and 
+hand motor area in sagittal and axial images.
+RESULTS: The CIS was found to be correlated with the RS in 191 hemispheres 
+(95.5%). In the remaining 9 hemispheres, the postcentral sulcus represented the 
+most correlated sulcus with the CIS (7 hemispheres). The interrater agreement 
+was 0.673 (P < 0.05), indicating a substantial agreement. The hand motor area 
+was identified in the same section as the CIS in 175 hemispheres (87.5%).
+CONCLUSIONS: The CIS is a highly reliable radiographic landmark for the 
+identification of the RS. The hand motor area can also be identified reliably 
+using this method.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.wneu.2022.07.110
+PMID: 35940504 [Indexed for MEDLINE]

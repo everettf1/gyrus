@@ -1,0 +1,49 @@
+1. N Engl J Med. 2000 Feb 17;342(7):461-8. doi: 10.1056/NEJM200002173420703.
+
+A comparison of continuous thalamic stimulation and thalamotomy for suppression 
+of severe tremor.
+
+Schuurman PR(1), Bosch DA, Bossuyt PM, Bonsel GJ, van Someren EJ, de Bie RM, 
+Merkus MP, Speelman JD.
+
+Author information:
+(1)Department of Neurology, Academic Medical Center, Amsterdam, The Netherlands.
+
+Comment in
+    N Engl J Med. 2000 Feb 17;342(7):505-7. doi: 10.1056/NEJM200002173420711.
+
+BACKGROUND: Deep-brain stimulation through an electrode implanted in the 
+thalamus was developed as an alternative to thalamotomy for the treatment of 
+drug-resistant tremor. Stimulation is thought to be as effective as thalamotomy 
+but to have fewer complications. We examined the effects of these two procedures 
+on the functional abilities of patients with drug-resistant tremor due to 
+Parkinson's disease, essential tremor, or multiple sclerosis.
+METHODS: Sixty-eight patients (45 with Parkinson's disease, 13 with essential 
+tremor, and 10 with multiple sclerosis) were randomly assigned to undergo 
+thalamotomy or thalamic stimulation. The primary outcome measure was the change 
+in functional abilities six months after surgery, as measured by the Frenchay 
+Activities Index. Scores for this index can range from 0 to 60, with higher 
+scores indicating better function. Secondary outcome measures were the severity 
+of tremor, the number of adverse effects, and patients' assessment of the 
+outcome.
+RESULTS: Functional status improved more in the thalamic-stimulation group than 
+in the thalamotomy group, as indicated by increases in the score for the 
+Frenchay Activities Index (from 31.4 to 36.3 and from 32.0 to 32.5, 
+respectively; difference between groups, 4.4 points; 95 percent confidence 
+interval, 2.0 to 6.9). After adjustment for base-line characteristics, 
+multivariate analysis also showed that the thalamic-stimulation group had 
+greater improvement (difference between groups, 5.1 points; 95 percent 
+confidence interval, 2.3 to 7.9). Tremor was suppressed completely or almost 
+completely in 27 of 34 patients in the thalamotomy group and in 30 of 33 
+patients in the thalamic-stimulation group. One patient in the 
+thalamic-stimulation group died perioperatively after an intracerebral 
+hemorrhage. With the exception of this incident, thalamic stimulation was 
+associated with significantly fewer adverse effects than thalamotomy. Functional 
+status was reported as improved by 8 patients in the thalamotomy group, as 
+compared with 18 patients in the thalamic-stimulation group (P=0.01).
+CONCLUSIONS: Thalamic stimulation and thalamotomy are equally effective for the 
+suppression of drug-resistant tremor, but thalamic stimulation has fewer adverse 
+effects and results in a greater improvement in function.
+
+DOI: 10.1056/NEJM200002173420703
+PMID: 10675426 [Indexed for MEDLINE]

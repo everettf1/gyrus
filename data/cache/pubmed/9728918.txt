@@ -1,0 +1,25 @@
+1. Neuron. 1998 Aug;21(2):373-83. doi: 10.1016/s0896-6273(00)80546-2.
+
+An area within human ventral cortex sensitive to "building" stimuli: evidence 
+and implications.
+
+Aguirre GK(1), Zarahn E, D'Esposito M.
+
+Author information:
+(1)Department of Neurology, University of Pennsylvania, School of Medicine, 
+Philadelphia 19104, USA.
+
+Isolated, ventral brain lesions in humans occasionally produce specific 
+impairments in the ability to use landmarks, particularly buildings, for 
+way-finding. Using functional MRI, we tested the hypothesis that there exists a 
+cortical region specialized for the perception of buildings. Across subjects, a 
+region straddling the right lingual sulcus was identified that possessed the 
+functional correlates predicted for a specialized building area. A series of 
+experiments discounted several alternative explanations for the behavior of this 
+site. These results are discussed in terms of their impact upon our 
+understanding of the functional structure of visual processing, disorders of 
+topographical disorientation, and the influence of environmental conditions upon 
+neural organization.
+
+DOI: 10.1016/s0896-6273(00)80546-2
+PMID: 9728918 [Indexed for MEDLINE]

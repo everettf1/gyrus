@@ -1,0 +1,48 @@
+1. J Neurosci. 2019 May 8;39(19):3627-3639. doi: 10.1523/JNEUROSCI.2060-18.2019. 
+Epub 2019 Mar 4.
+
+The Human Ventromedial Prefrontal Cortex: Sulcal Morphology and Its Influence on 
+Functional Organization.
+
+Lopez-Persem A(1), Verhagen L(2), Amiez C(3), Petrides M(4), Sallet J(1).
+
+Author information:
+(1)Wellcome Integrative Neuroimaging Centre, Department of Experimental 
+Psychology, University of Oxford, Oxford OX1 3SR, United Kingdom, 
+lopez.alizee@gmail.com Jerome.sallet@psy.ox.ac.uk.
+(2)Wellcome Integrative Neuroimaging Centre, Department of Experimental 
+Psychology, University of Oxford, Oxford OX1 3SR, United Kingdom.
+(3)University of Lyon, Université Lyon 1, INSERM, Stem Cell and Brain Research 
+Institute U1208, 69500 Bron, France, and.
+(4)Montreal Neurological Institute, McGill University, Montreal, Quebec H3A2B4, 
+Canada.
+
+The ventromedial prefrontal cortex (vmPFC), which comprises several distinct 
+cytoarchitectonic areas, is a key brain region supporting decision-making 
+processes, and it has been shown to be one of the main hubs of the Default Mode 
+Network, a network classically activated during resting state. We here examined 
+the interindividual variability in the vmPFC sulcal morphology in 57 humans (37 
+females) and demonstrated that the presence/absence of the inferior rostral 
+sulcus and the subgenual intralimbic sulcus influences significantly the sulcal 
+organization of this region. Furthermore, the sulcal organization influences the 
+location of the vmPFC peak of the Default Mode Network, demonstrating that the 
+location of functional activity can be affected by local sulcal patterns. These 
+results are critical for the investigation of the function of the vmPFC and show 
+that taking into account the sulcal variability might be essential to guide the 
+interpretation of neuroimaging studies.SIGNIFICANCE STATEMENT The ventromedial 
+prefrontal cortex (vmPFC) is one of the main hubs of the Default Mode Network 
+and plays a central role in value coding and decision-making. The present study 
+provides a complete description of the interindividual variability of anatomical 
+morphology of this large portion of prefrontal cortex and its relation to 
+functional organization. We have shown that two supplementary medial sulci 
+predominantly determine the organization of the vmPFC, which in turn affects the 
+location of the functional peak of activity in this region. Those results show 
+that taking into account the variability in sulcal patterns might be essential 
+to guide the interpretation of neuroimaging studies of the human brain and of 
+the vmPFC in particular.
+
+Copyright © 2019 Lopez-Persem et al.
+
+DOI: 10.1523/JNEUROSCI.2060-18.2019
+PMCID: PMC6510347
+PMID: 30833514 [Indexed for MEDLINE]

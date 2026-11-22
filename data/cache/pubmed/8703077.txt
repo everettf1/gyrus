@@ -1,0 +1,30 @@
+1. Science. 1996 Sep 6;273(5280):1399-402. doi: 10.1126/science.273.5280.1399.
+
+A neostriatal habit learning system in humans.
+
+Knowlton BJ(1), Mangels JA, Squire LR.
+
+Author information:
+(1)Department of Psychology, University of California, Los Angeles, CA 90024, 
+USA.
+
+Comment in
+    Science. 1996 Sep 6;273(5280):1353-4. doi: 10.1126/science.273.5280.1353.
+
+Amnesic patients and nondemented patients with Parkinson's disease were given a 
+probabilistic classification task in which they learned which of two outcomes 
+would occur on each trial, given the particular combination of cues that 
+appeared. Amnesic patients exhibited normal learning of the task but had 
+severely impaired declarative memory for the training episode. In contrast, 
+patients with Parkinson's disease failed to learn the probabilistic 
+classification task, despite having intact memory for the training episode. This 
+double dissociation shows that the limbic-diencephalic regions damaged in 
+amnesia and the neostriatum damaged in Parkinson's disease support separate and 
+parallel learning systems. In humans, the neostriatum (caudate nucleus and 
+putamen) is essential for the gradual, incremental learning of associations that 
+is characteristic of habit learning. The neostriatum is important not just for 
+motor behavior and motor learning but also for acquiring nonmotor dispositions 
+and tendencies that depend on new associations.
+
+DOI: 10.1126/science.273.5280.1399
+PMID: 8703077 [Indexed for MEDLINE]

@@ -1,0 +1,41 @@
+1. Brain. 2006 Nov;129(Pt 11):2874-84. doi: 10.1093/brain/awl248. Epub 2006 Sep
+26.
+
+Selective affection of hippocampal CA-1 neurons in patients with transient 
+global amnesia without long-term sequelae.
+
+Bartsch T(1), Alfke K, Stingele R, Rohr A, Freitag-Wolf S, Jansen O, Deuschl G.
+
+Author information:
+(1)Department of Neurology, University Hospital Schleswig-Holstein Kiel, 
+Germany.
+
+The aetiology, pathomechanisms and anatomical correlates of transient global 
+amnesia (TGA) still remain obscure. Recently, focal MR-signal diffusion-weighted 
+imaging (DWI) changes in the hippocampus have been described in patients with 
+TGA, but the exact localization, long term outcome and pathophysiological nature 
+of these lesions still remain unknown. The topography and time course of 
+hippocampal DWI lesions in 41 TGA patients was studied using serial 3 T 
+high-resolution MR-imaging and correlated to clinical and neuropsychometric 
+results. Of these, 29 patients showed 36 DWI lesions with corresponding T(2) 
+lesions in the hippocampus within a time window of 48 h after onset. Almost all 
+lesions (94%; 34/36) were selectively found in the CA-1 sector (Sommer sector) 
+of the hippocampal cornu ammonis. Most DWI lesions (8/10) were already 
+detectable in the peri-acute phase <6 h after onset of symptoms. A follow-up 
+study 4-6 months after the episode did not show evidence for residual structural 
+sequelae of these lesions (n = 20/20). A venous MR angiography of the 
+intracranial dural sinus showed an asymmetric venous drainage in 21/24 (88%) 
+patients. In 11/16 (69%) patients with unilateral lesions, the asymmetry 
+corresponded to the side of the DWI lesion. Significant episodic verbal memory 
+deficits in the acute phase (n = 14/18) were associated with lesions of the 
+dominant hemisphere while impairment of visuospatial memory was associated with 
+lesions of the non-dominant hemisphere. Persistent neuropsychological sequelae 
+were not detected 4-6 months after the episode (n = 16). This is the first 
+prospective study combining high-resolution imaging and neuropsychometry 
+analysing the detailed functional anatomy and outcome of hippocampal DWI/T(2) 
+lesions in TGA supporting the view the TGA being a benign transient disorder. 
+The TGA can be considered a model for a focal transient perturbation of memory 
+circuits in the temporo-mesial region.
+
+DOI: 10.1093/brain/awl248
+PMID: 17003071 [Indexed for MEDLINE]

@@ -1,0 +1,72 @@
+1. J Alzheimers Dis. 2016 Sep 6;54(2):777-87. doi: 10.3233/JAD-160017.
+
+A Phase II Study of Fornix Deep Brain Stimulation in Mild Alzheimer's Disease.
+
+Lozano AM(1), Fosdick L(2), Chakravarty MM(3), Leoutsakos JM(4), Munro C(4), Oh 
+E(4)(5), Drake KE(2), Lyman CH(4), Rosenberg PB(4), Anderson WS(6), Tang-Wai 
+DF(1)(7), Pendergrass JC(8), Salloway S(9), Asaad WF(10), Ponce FA(11), Burke 
+A(12), Sabbagh M(13), Wolk DA(14), Baltuch G(15), Okun MS(16), Foote KD(16), 
+McAndrews MP(1), Giacobbe P(1), Targum SD(2), Lyketsos CG(4), Smith GS(4).
+
+Author information:
+(1)Departments of Medicine (Neurology), Surgery (Neurosurgery) Psychology and 
+Psychiatry, University of Toronto, Toronto, ON, Canada.
+(2)Functional Neuromodulation Ltd, Minneapolis, MN, USA.
+(3)Cerebral Imaging Centre, Douglas Mental Health University Institute, 
+Montreal, QC, Canada; Departments of Psychiatry and Biomedical Engineering, 
+McGill University, Montreal, QC, Canada.
+(4)Memory and Alzheimer's Treatment Center & Alzheimer's Disease Research 
+Center, Division of Geriatric Psychiatry and Neuropsychiatry, Department of 
+Psychiatry and Behavioral Sciences, Johns Hopkins University School of Medicine, 
+Baltimore, MD, USA.
+(5)Department of Medicine, Division of Geriatric Medicine and Gerontology, Johns 
+Hopkins University School of Medicine, Baltimore, MD, USA.
+(6)Department of Neurosurgery, Johns Hopkins University School of Medicine, 
+Baltimore, MD, USA.
+(7)University Health Network Memory Clinic, University of Toronto, Division of 
+Neurology, Toronto, ON, Canada.
+(8)Clintara LLC, Boston, MA, USA.
+(9)Department of Neurology, Butler Hospital and the Alpert Medical School of 
+Brown University, Providence, RI, USA.
+(10)Department of Neurosurgery, Rhode Island Hospital and the Alpert Medical 
+School of Brown University, Providence, RI, USA.
+(11)Division of Neurological Surgery, Barrow Neurological Institute, St. 
+Joseph's Hospital and Medical Center, Phoenix, AZ, USA.
+(12)Banner Alzheimer's Institute, Phoenix, AZ, USA.
+(13)Department of Neurology, University of Arizona College of Medicine, Phoenix, 
+AZ, USA.
+(14)Penn Memory Center, Department of Neurology, University of Pennsylvania, 
+Philadelphia, PA, USA.
+(15)Department of Neurosurgery, University of Pennsylvania, Philadelphia, PA, 
+USA.
+(16)Departments of Neurology and Neurosurgery, University of Florida Center for 
+Movement Disorders and Neurorestoration, Gainesville, FL, USA.
+
+BACKGROUND: Deep brain stimulation (DBS) is used to modulate the activity of 
+dysfunctional brain circuits. The safety and efficacy of DBS in dementia is 
+unknown.
+OBJECTIVE: To assess DBS of memory circuits as a treatment for patients with 
+mild Alzheimer's disease (AD).
+METHODS: We evaluated active "on" versus sham "off" bilateral DBS directed at 
+the fornix-a major fiber bundle in the brain's memory circuit-in a randomized, 
+double-blind trial (ClinicalTrials.gov NCT01608061) in 42 patients with mild AD. 
+We measured cognitive function and cerebral glucose metabolism up to 12 months 
+post-implantation.
+RESULTS: Surgery and electrical stimulation were safe and well tolerated. There 
+were no significant differences in the primary cognitive outcomes (ADAS-Cog 13, 
+CDR-SB) in the "on" versus "off" stimulation group at 12 months for the whole 
+cohort. Patients receiving stimulation showed increased metabolism at 6 months 
+but this was not significant at 12 months. On post-hoc analysis, there was a 
+significant interaction between age and treatment outcome: in contrast to 
+patients <65 years old (n = 12) whose results trended toward being worse with 
+DBS ON versus OFF, in patients≥65 (n = 30) DBS-f ON treatment was associated 
+with a trend toward both benefit on clinical outcomes and a greater increase in 
+cerebral glucose metabolism.
+CONCLUSION: DBS for AD was safe and associated with increased cerebral glucose 
+metabolism. There were no differences in cognitive outcomes for participants as 
+a whole, but participants aged≥65 years may have derived benefit while there was 
+possible worsening in patients below age 65 years with stimulation.
+
+DOI: 10.3233/JAD-160017
+PMCID: PMC5026133
+PMID: 27567810 [Indexed for MEDLINE]

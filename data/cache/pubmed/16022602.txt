@@ -1,0 +1,29 @@
+1. Annu Rev Neurosci. 2005;28:403-50. doi:
+10.1146/annurev.neuro.28.061604.135709.
+
+An integrative theory of locus coeruleus-norepinephrine function: adaptive gain 
+and optimal performance.
+
+Aston-Jones G(1), Cohen JD.
+
+Author information:
+(1)Laboratory of Neuromodulation and Behavior, Department of Psychiatry, 
+University of Pennsylvania, Philadelphia, PA 19104, USA. gaj@mail.med.upenn.edu
+
+Historically, the locus coeruleus-norepinephrine (LC-NE) system has been 
+implicated in arousal, but recent findings suggest that this system plays a more 
+complex and specific role in the control of behavior than investigators 
+previously thought. We review neurophysiological and modeling studies in monkey 
+that support a new theory of LC-NE function. LC neurons exhibit two modes of 
+activity, phasic and tonic. Phasic LC activation is driven by the outcome of 
+task-related decision processes and is proposed to facilitate ensuing behaviors 
+and to help optimize task performance (exploitation). When utility in the task 
+wanes, LC neurons exhibit a tonic activity mode, associated with disengagement 
+from the current task and a search for alternative behaviors (exploration). 
+Monkey LC receives prominent, direct inputs from the anterior cingulate (ACC) 
+and orbitofrontal cortices (OFC), both of which are thought to monitor 
+task-related utility. We propose that these frontal areas produce the above 
+patterns of LC activity to optimize utility on both short and long timescales.
+
+DOI: 10.1146/annurev.neuro.28.061604.135709
+PMID: 16022602 [Indexed for MEDLINE]

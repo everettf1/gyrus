@@ -1,0 +1,23 @@
+1. Nat Neurosci. 2002 Feb;5(2):99-100. doi: 10.1038/nn794.
+
+Deficits in spatial coding and feature binding following damage to spatiotopic 
+maps in the human pulvinar.
+
+Ward R(1), Danziger S, Owen V, Rafal R.
+
+Author information:
+(1)Centre for Cognitive Neuroscience, University of Wales, Bangor LL57 2AS, UK. 
+r.ward@bangor.ac.uk
+
+We report a patient with unilateral damage to the rostral part of the pulvinar 
+who was impaired in localizing stimuli in the inferior visual field 
+contralateral to the lesion and who made errors in the binding of shape and 
+color in that quadrant. The findings demonstrate the importance of the pulvinar 
+in spatial coding and provide support for the function of the thalamus in 
+binding of features. They also provide evidence for a homology between the 
+visual field maps of the inferior and lateral subdivisions of the pulvinar in 
+monkeys and in humans, such that the inferior visual field is represented in the 
+rostral part of the nucleus.
+
+DOI: 10.1038/nn794
+PMID: 11780145 [Indexed for MEDLINE]

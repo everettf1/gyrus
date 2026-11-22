@@ -1,0 +1,122 @@
+[
+ {
+  "region": "piriform_cortex",
+  "pmid": "19483688",
+  "from": "Figure 7",
+  "caption": "Brain activity patterns in the posterior piriform cortex for minty, woody and citrus odors (filled symbols), placed in the same space as people's ratings of how similar those odors smell (open symbols). The two sets of points overlap closely.",
+  "notice": "Odors that smell alike have alike piriform patterns, and the red line in panel b falls outside the random distribution, so the match is not chance; this is a correlation.",
+  "short": "Howard et al. 2009, Nat Neurosci",
+  "license": "",
+  "file": "piriform_cortex_19483688.webp"
+ },
+ {
+  "region": "secondary_visual_cortex",
+  "pmid": "1884174",
+  "from": "Figure 7",
+  "caption": "Visual field maps for the left and right eye of a patient with a tumour in the right parieto-occipital cortex. The lower left quarter of the field is missing, with a straight edge along the horizontal line.",
+  "notice": "The same quarter-field loss with a sharp horizontal edge shows in both eyes, which fits damage to V2 and V3 causing the defect (a lesion, so closer to cause).",
+  "short": "Horton et al. 1991, Brain",
+  "license": "",
+  "file": "secondary_visual_cortex_1884174.webp"
+ },
+ {
+  "region": "occipital_lobe",
+  "pmid": "6850272",
+  "from": "Figure 5A and B",
+  "caption": "Responses of a patient with damage to the occipital regions when a target moved horizontally at different speeds: counts of 'yes' (motion seen), 'no' and 'uncertain' answers. As speed rises, 'no' answers climb and 'yes' answers fall to zero.",
+  "notice": "The patient's loss of seeing motion at higher speeds, while other vision was kept, points to areas beyond V1 handling motion; lesion evidence, so closer to cause.",
+  "short": "Zihl et al. 1983, Brain",
+  "license": "",
+  "file": "occipital_lobe_6850272.webp"
+ },
+ {
+  "region": "uncinate_fasciculus",
+  "pmid": "23649697",
+  "from": "Figure 1 (human panel)",
+  "caption": "Reconstruction of the human uncinate fasciculus from tractography on a brain surface, reproduced from Thiebaut de Schotten et al. (2012). The red bundle runs from frontal areas (10, 11, 47) back and down to the temporal pole (38).",
+  "notice": "See how the bundle links orbitofrontal cortex at the front with the anterior temporal lobe, which is the connection the card describes.",
+  "short": "Von Der Heide et al. 2013, Brain",
+  "license": "",
+  "file": "uncinate_fasciculus_23649697.webp"
+ },
+ {
+  "region": "subiculum",
+  "pmid": "18356518",
+  "from": "Figure 3",
+  "caption": "Bias scores for areas of the medial temporal lobe in human fMRI. Scores near 0 mean pattern separation and scores near 1 mean pattern completion.",
+  "notice": "The subiculum bar sits above the midpoint, toward completion, while CA3/DG is near 0; this is a correlation from imaging.",
+  "short": "Bakker et al. 2008, Science",
+  "license": "",
+  "file": "subiculum_18356518.webp"
+ },
+ {
+  "region": "heschls_gyrus",
+  "pmid": "12068300",
+  "from": "Figure 4",
+  "caption": "Three scatter plots of non-musicians, amateurs and professionals: early auditory response size, gray matter volume of anteromedial Heschl's gyrus (amHG), and musical aptitude score. Each pair rises together.",
+  "notice": "Each plot slopes upward (r = 0.87, 0.71 and 0.83), so bigger Heschl's gyrus goes with stronger response and higher aptitude; this is a correlation.",
+  "short": "Schneider et al. 2002, Nat Neurosci",
+  "license": "",
+  "file": "heschls_gyrus_12068300.webp"
+ },
+ {
+  "region": "middle_temporal_gyrus",
+  "pmid": "15037129",
+  "from": "Figure 4",
+  "caption": "Left-hemisphere brain slices marking four areas where damage went with poor sentence comprehension. The middle temporal gyrus (MTG) is shown in red.",
+  "notice": "Patients with damage in the red MTG area scored worse on sentence comprehension, evidence from lesions that points to cause.",
+  "short": "Dronkers et al. 2004, Cognition",
+  "license": "",
+  "file": "middle_temporal_gyrus_15037129.webp"
+ },
+ {
+  "region": "short_insular_gyri",
+  "pmid": "17255515",
+  "from": "Figure 2B",
+  "caption": "Pie charts for patients who never quit smoking (blue), quit without losing the urge (yellow) and quit with their smoking addiction disrupted (red), for patients with no insula damage, left insula, right insula, or either.",
+  "notice": "Red is a much larger share in the insula-damaged groups than in the no-insula group, so insular damage is linked to losing the urge; lesions suggest cause.",
+  "short": "Naqvi et al. 2007, Science",
+  "license": "",
+  "file": "short_insular_gyri_17255515.webp"
+ },
+ {
+  "region": "transverse_frontopolar_gyri",
+  "pmid": "10335843",
+  "from": "Figure 4",
+  "caption": "Brain slices at two heights with yellow spots near the front of the brain where activity was specific to the branching condition, with a main task held while another was carried out.",
+  "notice": "The yellow spots sit in frontopolar cortex, so this area is active when a main goal is kept while sub-goals run; imaging shows correlation.",
+  "short": "Koechlin et al. 1999, Nature",
+  "license": "",
+  "file": "transverse_frontopolar_gyri_10335843.webp"
+ },
+ {
+  "region": "central_sulcus",
+  "pmid": "9055804",
+  "from": "Figure 8",
+  "caption": "MRI of a volunteer. In the horizontal slice (A) arrows mark the precentral knob, omega-shaped on the left and epsilon-shaped on the right; in the side view (B) arrows mark the posteriorly directed hook.",
+  "notice": "Look for the knob that bulges backward into the central sulcus, the landmark for the motor hand area.",
+  "short": "Yousry et al. 1997, Brain",
+  "license": "",
+  "file": "central_sulcus_9055804.webp"
+ },
+ {
+  "region": "superior_frontal_sulcus",
+  "pmid": "38544425",
+  "from": "Figure 1",
+  "caption": "Sulcal map of the lateral surface of the human brain (Petrides). The anterior part of the superior frontal sulcus is outlined in green and the posterior part in red.",
+  "notice": "The sulcus runs between the superior frontal gyrus (SFG) and middle frontal gyrus (MFG), and the posterior part reaches toward the precentral sulcus.",
+  "short": "Drudik et al. 2024, Hum Brain Mapp",
+  "license": "",
+  "file": "superior_frontal_sulcus_38544425.webp"
+ },
+ {
+  "region": "intralaminar_nuclei",
+  "pmid": "24032641",
+  "from": "Figure 3",
+  "caption": "Average change in major seizure frequency from baseline over 12 months after centromedian thalamic electrodes were implanted, for all patients, generalised epilepsy and frontal lobe epilepsy.",
+  "notice": "Seizures fall most in the generalised group and less in the frontal group once stimulation starts; this is a trial, so it supports cause.",
+  "short": "Valentín et al. 2013, Epilepsia",
+  "license": "",
+  "file": "intralaminar_nuclei_24032641.webp"
+ }
+]

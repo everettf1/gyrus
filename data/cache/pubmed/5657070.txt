@@ -1,0 +1,16 @@
+1. Science. 1968 Jul 12;161(3837):186-7. doi: 10.1126/science.161.3837.186.
+
+Human brain: left-right asymmetries in temporal speech region.
+
+Geschwind N, Levitsky W.
+
+We have found marked anatomical asymmetries between tile upper surfaces of the 
+human right and left temporal lobes. The planum temporale (the area behind 
+Hesch's gyrus) is larger on the left in 65 percent of brains; on the right it is 
+larger in only 11 percent. The left planum is on the average one-third longer 
+than the planum. This area makes up part of the temporal speech cortex, whose 
+importance is well established on the basis of both anatomical findings in 
+aphasic patients ans cortical stimulation at operation.
+
+DOI: 10.1126/science.161.3837.186
+PMID: 5657070 [Indexed for MEDLINE]

@@ -1,0 +1,59 @@
+1. Ther Adv Neurol Disord. 2023 Nov 16;16:17562864231207272. doi: 
+10.1177/17562864231207272. eCollection 2023.
+
+The vascular locked-in and locked-in-plus syndrome: A retrospective case series.
+
+Schnetzer L(1)(2)(3)(4), Steinbacher J(5), Bauer G(6), Kunz AB(7)(3), Bergmann 
+J(7)(2), Kronbichler M(2)(8), Trinka E(7)(2)(3)(4), McCoy M(7).
+
+Author information:
+(1)Department of Neurology, Neurological Intensive Care and Neurorehabilitation, 
+Christian Doppler Medical Centre, Paracelsus Medical University, 
+Ignaz-Harrer-Straße 79, Salzburg A-5020, Austria.
+(2)Neuroscience Institute, Christian Doppler Medical Centre, Centre for 
+Cognitive Neuroscience Salzburg, Paracelsus Medical University, Salzburg, 
+Austria.
+(3)Karl Landsteiner Institute of Neurorehabilitation and Space Neurology, 
+Salzburg, Austria.
+(4)Spinal Cord Injury and Tissue Regeneration Centre, Paracelsus Medical 
+University, Salzburg, Austria.
+(5)Department of Neuroradiology, Christian Doppler Medical Centre, Paracelsus 
+Medical University, Salzburg, Austria.
+(6)Department of Neurology, Medical University of Innsbruck, Innsbruck, Austria.
+(7)Department of Neurology, Neurological Intensive Care and Neurorehabilitation, 
+Christian Doppler Medical Centre, Centre for Cognitive Neuroscience Salzburg, 
+Paracelsus Medical University, Salzburg, Austria.
+(8)Department of Psychology, Centre for Cognitive Neuroscience Salzburg, Paris 
+Lodron University of Salzburg, Salzburg, Austria.
+
+The locked-in syndrome (LiS) is defined as the loss of most voluntary muscle 
+movements with preserved cognitive abilities due to a ventral pontine lesion. 
+However, some patients may also have severe impairment of consciousness 
+[locked-in plus syndrome (LiPS)]. Here we aimed to explore structural 
+differences between LiS and LiPS patients of vascular aetiology, focusing on 
+lesion patterns and locations to better delineate the clinical spectrum of LiS 
+and LiPS. In this retrospective case series study, we report nine patients (two 
+women), ages 29-74 years (median 50) with LiS and LiPS who were diagnosed 
+between 2007 and 2021. Clinical parameters, MRI findings including the lesioned 
+structures, and a shape feature calculation are presented for every patient. The 
+lesioned structures were determined by a senior neuroradiologist. Two of nine 
+patients had fully retained consciousness (LiS) and seven showed various degrees 
+of impaired consciousness (LiPS). Lesions of LiS patients are round and confined 
+to the pons, whereas lesions of LiPS patients are more elongated and reach 
+neighbouring areas such as the mesencephalon, thalamus or ascending reticular 
+activating system. Lesions involving the mesencephalon and the thalamus are 
+strong indicators of LiPS, whereas for lesions restricted to the pons, the 
+dorsal extension and the associated damage to the ascending reticular activating 
+system are crucial to differentiate LiS from LiPS. Recognizing LiPS using 
+clinical and radiological findings is important as these patients may need 
+different therapies and care and, most importantly, should not be mistaken as 
+unresponsive wakefulness syndrome.
+
+© The Author(s), 2023.
+
+DOI: 10.1177/17562864231207272
+PMCID: PMC10655646
+PMID: 38021476
+
+Conflict of interest statement: The authors declare that there is no conflict of 
+interest.

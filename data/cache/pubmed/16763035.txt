@@ -1,0 +1,36 @@
+1. J Neurosci. 2006 Jun 7;26(23):6282-7. doi: 10.1523/JNEUROSCI.0638-06.2006.
+
+The neural basis of imitation is body part specific.
+
+Goldenberg G(1), Karnath HO.
+
+Author information:
+(1)Neuropsychological Department, Bogenhausen Hospital, D-81925 Munich, Germany. 
+Georg.Goldenberg@extern.lrz-muenchen.de
+
+Imitation is an important constituent of the behavioral repertoire of human 
+beings. We use imitation for learning motor skills, for facilitating 
+comprehension of other persons' actions and mental states, and as a 
+communicative reference to actions or people. Although some non-human species 
+display imitative behaviors, none of them equals the versatility and perfection 
+of human imitation. The versatility and apparent ease of human imitation is, 
+however, not at all self-evident when one considers the neural and cognitive 
+transformations that must be accomplished for successful imitation. Imitation of 
+meaningless gestures poses a particular challenge for our brain, because 
+similarity between the body of the model and one's own body must bridge 
+fundamental differences between the perspective and modalities of perceiving and 
+controlling one's own and other bodies. We analyzed the locations of 
+left-hemisphere lesions disturbing imitation of meaningless gestures and found a 
+clear-cut body part specificity. Disturbed imitation of finger postures was 
+associated with anterior lesions including the opercular portion of the inferior 
+frontal gyrus, whereas disturbed imitation of hand postures was associated with 
+posterior lesions affecting the inferior parietal lobule and 
+temporo-parieto-occipital junction. These locations do not correspond with known 
+somatotopic maps of motor representations. Rather, they argue for an 
+intermediate step of processing interpolated between perception and execution of 
+gestures as has been suggested by the mirror neuron and the body part coding 
+hypotheses.
+
+DOI: 10.1523/JNEUROSCI.0638-06.2006
+PMCID: PMC6675202
+PMID: 16763035 [Indexed for MEDLINE]

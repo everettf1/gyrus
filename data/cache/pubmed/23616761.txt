@@ -1,0 +1,43 @@
+1. Front Hum Neurosci. 2013 Apr 18;7:150. doi: 10.3389/fnhum.2013.00150. 
+eCollection 2013.
+
+Dissociating the Role of the pre-SMA in Response Inhibition and Switching: A 
+Combined Online and Offline TMS Approach.
+
+Obeso I(1), Robles N, Marrón EM, Redolar-Ripoll D.
+
+Author information:
+(1)Cognitive Neuro-Lab, Cognitive Neuroscience and Information Technologies 
+Research Program, IN3, Open University of Catalonia Barcelona, Spain ; Reward 
+and Decision Making Group, Cognitive Neuroscience Center, CNRS, Lyon 1 
+University Lyon, France.
+
+The pre-supplementary motor area (pre-SMA) is considered to be a key node in the 
+cognitive control of actions that require rapid updating, inhibition, or 
+switching, as well as working memory. It is now recognized that the pre-SMA is 
+part of a "cognitive control" network involving the inferior frontal gyrus (IFG) 
+and subcortical regions, such as the striatum and subthalamic nucleus. However, 
+two important questions remain to be addressed. First, it is not clear if the 
+main role of the pre-SMA in cognitive control lies in inhibition or switching of 
+actions. From imaging evidence, the right pre-SMA is consistently recruited 
+during inhibition and switching, but the extent to which it participates 
+specifically in either of these processes is unknown. Secondly, the pre-SMA may 
+perform inhibition and switching alone or as part of a larger brain network. The 
+present study used online and offline transcranial magnetic stimulation (TMS) to 
+dissociate the roles of pre-SMA in cognitive control, but also to investigate 
+the potential contribution of connectivity between the pre-SMA and IFG. We 
+applied continuous theta burst stimulation (cTBS) over the right IFG before 
+participants performed a stop switching task while receiving single TMS pulses 
+over the right pre-SMA. The results were compared to a sham cTBS session and 
+pulses applied over the vertex region. Significant worsening of inhibition as 
+well as response adaptation during inhibition was found when applying pulses 
+over the pre-SMA. However, no such worsening was observed in switch trials. 
+Additionally, after cTBS over the IFG, inhibition was also delayed, suggesting 
+its critical necessity in stopping of actions. The results reveal a key 
+contribution of the pre-SMA in inhibition and could suggest a dissociative role 
+in the switching of actions. These findings indicate there is an essential union 
+between IFG and pre-SMA during inhibition.
+
+DOI: 10.3389/fnhum.2013.00150
+PMCID: PMC3629293
+PMID: 23616761

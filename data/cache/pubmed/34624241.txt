@@ -1,0 +1,136 @@
+1. Lancet Child Adolesc Health. 2021 Nov;5(11):814-824. doi: 
+10.1016/S2352-4642(21)00274-1. Epub 2021 Oct 6.
+
+Postoperative speech impairment and surgical approach to posterior fossa tumours 
+in children: a prospective European multicentre cohort study.
+
+Grønbæk JK(1), Wibroe M(2), Toescu S(3), Frič R(4), Thomsen BL(5), Møller LN(2), 
+Grillner P(6), Gustavsson B(7), Mallucci C(8), Aquilina K(9), Fellows GA(10), 
+Molinari E(11), Hjort MA(12), Westerholm-Ormio M(13), Kiudeliene R(14), Mudra 
+K(15), Hauser P(16), van Baarsen K(17), Hoving E(17), Zipfel J(18), Nysom K(2), 
+Schmiegelow K(19), Sehested A(2), Juhler M(20), Mathiasen R(21); CMS study 
+group.
+
+Collaborators: Grønbæk JK, Wibroe M, Toescu S, Frič R, Møller LN, Grillner P, 
+Gustavsson B, Mallucci C, Aquilina K, Molinari E, Hjort MA, Westerholm-Ormio M, 
+Kiudeliene R, Mudra K, Hauser P, van Baarsen K, Hoving E, Zipfel J, Nysom K, 
+Schmiegelow K, Sehested A, Juhler M, Mathiasen R, Kjærsgaard M, Bøgeskov L, 
+Skjøth-Rasmussen J, Hauerberg Tamm J, Poulsgaard L, Gudrunardottir T, Grønbæk 
+SK, Blichfeldt A, Raben-Levetzau FN, Thude Callesen M, Rathe M, Klokker RB, von 
+Oettingen G, Mikkelsen T, Henriksen LT, Cortnum S, Tofting-Olesen K, Karppinen 
+A, Solem K, Torsvik IK, Mosand AK, Simonsen LR, Ehrstedt C, Kristiansen I, 
+Fritzson K, Balestrand Haga L, Fagerholt HK, Stømqvist Blixt H, Sundgren H, 
+Håkansson Y, Castor C, Nyman P, Wretman A, Nilsson P, Bjørklund AC, Sabel M, 
+Haij IL, Nilsson F, Olausson H, Cummings C, Flemming J, Afolabi D, Phipps K, 
+Kamaly I, Williams S, Jeelani NU, McArthur D, Wiles E, Walker D, Cooper R, 
+Fellows G, Hoole L, Slater K, Kandasamy J, McAndrew R, McLaughlin K, Schumann M, 
+Avula S, Pizer B, Rutkauskiene G, Matukevicius A, van den Abbeele L, Markia B, 
+Pálmafy B, Clausen N, Ottosen Møller KM, Thomassen H, Cappelen J, Stensvold E, 
+Devennay I, Lønnqvist T, Nordfors K, Lähteenmäki P.
+
+Author information:
+(1)Department of Neurosurgery, The University Hospital Rigshospitalet, 
+Copenhagen, Denmark; Department of Paediatrics and Adolescent Medicine, The 
+University Hospital Rigshospitalet, Copenhagen, Denmark.
+(2)Department of Paediatrics and Adolescent Medicine, The University Hospital 
+Rigshospitalet, Copenhagen, Denmark.
+(3)Department of Neurosurgery, Great Ormond Street Hospital for Children, 
+London, UK; Developmental Imaging and Biophysics Section, University College 
+London Great Ormond Street Institute of Child Health, London, UK.
+(4)Department of Neurosurgery, Oslo University Hospital, Oslo, Norway.
+(5)Department of Biostatistics, University of Copenhagen, Copenhagen, Denmark.
+(6)Pediatric Oncology Unit, Astrid Lindgrens Childrens Hospital, Karolinska 
+University Hospital, Stockholm, Sweden.
+(7)Department of Neurosurgery, Karolinska University Hospital, Stockholm, 
+Sweden.
+(8)Department of Paediatric Neurosurgery, Alder Hey Children's NHS Foundation 
+Trust, Liverpool, UK.
+(9)Department of Neurosurgery, Great Ormond Street Hospital for Children, 
+London, UK.
+(10)Department of Paediatric Neurosurgery, Bristol Royal Hospital for Children, 
+Bristol, UK.
+(11)Department of Neurology, The Queen Elizabeth University Hospital, University 
+of Glasgow, Glasgow, UK.
+(12)Department of Pediatric Hematology and Oncology, St Olavs Hospital, 
+Trondheim, Norway.
+(13)Hospital for Children and Adolescents, Helsinki University Hospital, 
+Finland.
+(14)Center of Pediatric Oncology and Hematology at Pediatric Department and 
+Hospital of Kauno Klinikos, Lithuanian University of Health Sciences, Kaunas, 
+Lithuania.
+(15)2nd Department of Pediatrics, Semmelweis University, Budapest, Hungary.
+(16)2nd Department of Pediatrics, Semmelweis University, Budapest, Hungary; 
+Pediatric Oncology and Transplantation Unit, Velkey László Child's Health 
+Center, Borsod-Abaúj-Zemplén County University Teaching Hospital, Miskolc, 
+Hungary.
+(17)Princess Máxima Center for Pediatric Oncology, Utrecht, Netherlands.
+(18)Division of Pediatric Neurosurgery, Department of Neurosurgery, University 
+Hospital Tübingen, Tübingen, Germany.
+(19)Department of Paediatrics and Adolescent Medicine, The University Hospital 
+Rigshospitalet, Copenhagen, Denmark; Institute of Clinical Medicine, Faculty of 
+Medicine, University of Copenhagen, Copenhagen, Denmark.
+(20)Department of Neurosurgery, The University Hospital Rigshospitalet, 
+Copenhagen, Denmark; Institute of Clinical Medicine, Faculty of Medicine, 
+University of Copenhagen, Copenhagen, Denmark; Department of Neurosurgery, 
+Aarhus University Hospital, Aarhus, Denmark.
+(21)Department of Paediatrics and Adolescent Medicine, The University Hospital 
+Rigshospitalet, Copenhagen, Denmark. Electronic address: 
+rene.mathiasen@regionh.dk.
+
+BACKGROUND: Brain tumours are the most common solid tumours in childhood. Half 
+of these tumours occur in the posterior fossa, where surgical removal is 
+complicated by the risk of cerebellar mutism syndrome, of which postoperative 
+speech impairment (POSI) is a cardinal symptom, in up to 25% of patients. The 
+surgical approach to midline tumours, mostly undertaken by transvermian or 
+telovelar routes, has been proposed to influence the risk of POSI. We aimed to 
+investigate the risk of developing POSI, the time course of its resolution, and 
+its association with surgical approach and other clinical factors.
+METHODS: In this observational prospective multicentre cohort study, we included 
+children (aged <18 years) undergoing primary surgery for a posterior fossa 
+tumour at 26 centres in nine European countries. Within 72 h of surgery, the 
+operating neurosurgeon reported details on the tumour location, surgical 
+approach used, duration of surgery, use of traction, and other predetermined 
+factors, using a standardised surgical report form. At 2 weeks, 2 months, and 1 
+year after surgery, a follow-up questionnaire was filled out by a paediatrician 
+or neurosurgeon, including neurological examination and assessment of speech. 
+Speech was classified as mutism, reduced speech, or habitual speech. POSI was 
+defined as either mutism or severely reduced speech. Ordinal logistic regression 
+was used to analyse the risk of POSI.
+FINDINGS: Between Aug 11, 2014, and Aug 24, 2020, we recruited 500 children. 426 
+(85%) patients underwent primary tumour surgery and had data available for 
+further analysis. 192 (45%) patients were female, 234 (55%) patients were male, 
+81 (19%) patients were aged 0-2 years, 129 (30%) were aged 3-6 years, and 216 
+(51%) were aged 7-17 years. 0f 376 with known postoperative speech status, 112 
+(30%) developed POSI, 53 (14%) developed mutism (median 1 day [IQR 0-2]; range 
+0-10 days), and 59 (16%) developed reduced speech after surgery (0 days [0-1]; 
+0-4 days). Mutually adjusted analyses indicated that the independent risk 
+factors for development of POSI were younger age (linear spline, p=0·0087), 
+tumour location (four levels, p=0·0010), and tumour histology (five levels, 
+p=0·0030); surgical approach (six levels) was not a significant risk factor 
+(p=0·091). Tumour location outside the fourth ventricle and brainstem had a 
+lower risk of POSI (with fourth ventricle as reference, odds ratio (OR) for 
+cerebellar vermis 0·34 [95% CI 0·14-0·77] and OR for cerebellar hemispheres 0·23 
+[0·07-0·70]). Compared with pilocytic or pilomyxoid astrocytoma, a higher risk 
+of POSI was seen for medulloblastoma (OR 2·85 [1·47-5·60]) and atypical teratoid 
+rhabdoid tumour (10·30 [2·10-54·45]). We did not find an increased risk of POSI 
+for transvermian surgical approach compared with telovelar (0·89 [0·46-1·73]). 
+Probability of speech improvement from mutism reached 50% around 16 days after 
+mutism onset.
+INTERPRETATION: Our data suggest that a midline tumour location, younger age, 
+and high-grade tumour histology all increase the risk of speech impairment after 
+posterior fossa tumour surgery. We found no evidence to recommend a preference 
+for telovelar over transvermian surgical approach in the management of posterior 
+fossa tumours in children in relation to the risk of developing POSI.
+FUNDING: The Danish Childhood Cancer Foundation, the Swedish Childhood Cancer 
+Foundation, the UK Brain Tumour Charity, the Danish Cancer Society, Det Kgl 
+Kjøbenhavnske Skydeselskab og Danske Broderskab, the Danish Capitol Regions 
+Research Fund, Dagmar Marshall Foundation, Rigshospitalet's Research Fund, and 
+Brainstrust.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S2352-4642(21)00274-1
+PMID: 34624241 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests We declare no competing 
+interests.

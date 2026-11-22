@@ -1,0 +1,33 @@
+1. J Neurosci. 2001 Aug 15;21(16):RC159. doi: 10.1523/JNEUROSCI.21-16-j0002.2001.
+
+Anticipation of increasing monetary reward selectively recruits nucleus 
+accumbens.
+
+Knutson B(1), Adams CM, Fong GW, Hommer D.
+
+Author information:
+(1)National Institute on Alcohol Abuse and Alcoholism, National Institutes of 
+Health, Bethesda, Maryland 20892-1610, USA. knutson@odin.niaaa.nih.gov
+
+Comment in
+    J Neurosci. 2002 May 1;22(9):3303-5.
+
+Comparative studies have implicated the nucleus accumbens (NAcc) in the 
+anticipation of incentives, but the relative responsiveness of this neural 
+substrate during anticipation of rewards versus punishments remains unclear. 
+Using event-related functional magnetic resonance imaging, we investigated 
+whether the anticipation of increasing monetary rewards and punishments would 
+increase NAcc blood oxygen level-dependent contrast (hereafter, "activation") in 
+eight healthy volunteers. Whereas anticipation of increasing rewards elicited 
+both increasing self-reported happiness and NAcc activation, anticipation of 
+increasing punishment elicited neither. However, anticipation of both rewards 
+and punishments activated a different striatal region (the medial caudate). At 
+the highest reward level ($5.00), NAcc activation was correlated with individual 
+differences in self-reported happiness elicited by the reward cues. These 
+findings suggest that whereas other striatal areas may code for expected 
+incentive magnitude, a region in the NAcc codes for expected positive incentive 
+value.
+
+DOI: 10.1523/JNEUROSCI.21-16-j0002.2001
+PMCID: PMC6763187
+PMID: 11459880 [Indexed for MEDLINE]

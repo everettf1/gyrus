@@ -1,0 +1,29 @@
+1. Lancet. 1991 Feb 16;337(8738):403-6. doi: 10.1016/0140-6736(91)91175-t.
+
+Long-term suppression of tremor by chronic stimulation of the ventral 
+intermediate thalamic nucleus.
+
+Benabid AL(1), Pollak P, Gervason C, Hoffmann D, Gao DM, Hommel M, Perret JE, de 
+Rougemont J.
+
+Author information:
+(1)Department of Clinical and Biological Neurosciences, INSERM Preclinical 
+Neurobiology U 318, Joseph Fourier University of Grenoble, France.
+
+The usefulness of high-frequency stimulation of the ventral intermediate nucleus 
+(Vim) as the first neurosurgical procedure in disabling tremor was assessed in 
+26 patients with Parkinson's disease and 6 with essential tremor. 7 of these 
+patients had already undergone thalamotomy contralateral to the stimulated side, 
+and 11 others had bilateral Vim stimulation at the same time. Chronic 
+stimulating electrodes connected to a pulse generator were implanted in the Vim. 
+Tremor amplitude at rest, during posture holding, and during action and 
+intention manoeuvres was assessed by means of accelerometry. Of the 43 thalami 
+stimulated, 27 showed complete relief from tremor and 11 major improvement 
+(88%). The improvement was maintained for up to 29 months (mean follow-up 13 [SD 
+9] months). Adverse effects were mild and could be eradicated by reduction or 
+cessation of stimulation. This reversibility and adaptability, allowing control 
+of side-effects, make thalamic stimulation preferable to thalamotomy, especially 
+when treatment of both sides of the brain is needed.
+
+DOI: 10.1016/0140-6736(91)91175-t
+PMID: 1671433 [Indexed for MEDLINE]

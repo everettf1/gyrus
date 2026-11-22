@@ -1,0 +1,46 @@
+1. Brain Struct Funct. 2024 Dec;229(9):2137-2147. doi:
+10.1007/s00429-024-02831-2.  Epub 2024 Jul 16.
+
+Duplicated Heschl's gyrus associations with phonological decoding.
+
+Eckert MA(1).
+
+Author information:
+(1)Department of Otolaryngology - Head and Neck Surgery, Medical University of 
+South Carolina, Charleston, SC, 29425, USA. eckert@musc.edu.
+
+The reason(s) for why a complete duplication of the left hemisphere Heschl's 
+gyrus (HG) has been observed in people with reading disability are unclear. This 
+study was designed to replicate and advance understanding of the HG and 
+phonological decoding association, as well as test competing hypotheses that 
+this HG duplication association is specifically localized to the HG or could be 
+due to co-occurring atypical development of other brain regions that support 
+reading and language development. Participants were selected on the basis of 
+having a duplicated left hemisphere HG (N = 96) or a single HG (N = 96) and 
+matched according to age, sex, and research site in this multi-site study. 
+Duplicated and single HG morphology specific templates were created to determine 
+the extent to which HG sizes were related to phonological decoding within each 
+HG morphology group. The duplicated HG group had significantly lower 
+phonological decoding (F = 4.48, p = 0.04) but not verbal IQ (F = 1.39, 
+p = 0.41) compared to the single HG group. In addition, larger HG were 
+significantly associated with lower phonological decoding in the duplicated HG 
+group, with effects driven by the size of the lateral HG after controlling for 
+age, sex, research site, and handedness (ps < 0.05). Brain regions that 
+exhibited structural covariance with HG did not clearly explain the HG and 
+phonological decoding associations. Together, the results suggest that presence 
+of a duplicated HG indicates some risk for lower phonological decoding ability 
+compared to verbal IQ, but the reason(s) for this association remain unclear.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s00429-024-02831-2
+PMCID: PMC11612011
+PMID: 39012481 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval: The data were 
+collected in accordance with the Declaration of Helsinki with Institutional 
+Review Board approval at each contributing research sites and then de-identified 
+prior to data sharing with Institutional Review Board approval from the Medical 
+University of South Carolina to received de-identified data. Competing 
+interests: The author has no relevant financial or non-financial interests to 
+disclose.

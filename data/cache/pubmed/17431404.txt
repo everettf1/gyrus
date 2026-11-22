@@ -1,0 +1,24 @@
+1. Nat Rev Neurosci. 2007 May;8(5):393-402. doi: 10.1038/nrn2113. Epub 2007 Apr
+13.
+
+The cortical organization of speech processing.
+
+Hickok G(1), Poeppel D.
+
+Author information:
+(1)Department of Cognitive Sciences and the Center for Cognitive Neuroscience, 
+University of California, Irvine, California 92697-5100, USA.
+
+Despite decades of research, the functional neuroanatomy of speech processing 
+has been difficult to characterize. A major impediment to progress may have been 
+the failure to consider task effects when mapping speech-related processing 
+systems. We outline a dual-stream model of speech processing that remedies this 
+situation. In this model, a ventral stream processes speech signals for 
+comprehension, and a dorsal stream maps acoustic speech signals to frontal lobe 
+articulatory networks. The model assumes that the ventral stream is largely 
+bilaterally organized--although there are important computational differences 
+between the left- and right-hemisphere systems--and that the dorsal stream is 
+strongly left-hemisphere dominant.
+
+DOI: 10.1038/nrn2113
+PMID: 17431404 [Indexed for MEDLINE]

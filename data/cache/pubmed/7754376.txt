@@ -1,0 +1,29 @@
+1. Science. 1995 May 12;268(5212):889-93. doi: 10.1126/science.7754376.
+
+Borders of multiple visual areas in humans revealed by functional magnetic 
+resonance imaging.
+
+Sereno MI(1), Dale AM, Reppas JB, Kwong KK, Belliveau JW, Brady TJ, Rosen BR, 
+Tootell RB.
+
+Author information:
+(1)University of California, San Diego, La Jolla 92093-0515, USA.
+
+Comment in
+    Science. 1995 May 12;268(5212):803-4. doi: 10.1126/science.7754365.
+
+The borders of human visual areas V1, V2, VP, V3, and V4 were precisely and 
+noninvasively determined. Functional magnetic resonance images were recorded 
+during phase-encoded retinal stimulation. This volume data set was then sampled 
+with a cortical surface reconstruction, making it possible to calculate the 
+local visual field sign (mirror image versus non-mirror image representation). 
+This method automatically and objectively outlines area borders because adjacent 
+areas often have the opposite field sign. Cortical magnification factor curves 
+for striate and extrastriate cortical areas were determined, which showed that 
+human visual areas have a greater emphasis on the center-of-gaze than their 
+counterparts in monkeys. Retinotopically organized visual areas in humans extend 
+anteriorly to overlap several areas previously shown to be activated by written 
+words.
+
+DOI: 10.1126/science.7754376
+PMID: 7754376 [Indexed for MEDLINE]

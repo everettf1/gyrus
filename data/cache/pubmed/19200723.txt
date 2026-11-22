@@ -1,0 +1,36 @@
+1. Curr Biol. 2009 Feb 24;19(4):319-24. doi: 10.1016/j.cub.2009.01.007. Epub 2009
+ Feb 5.
+
+Triple dissociation of faces, bodies, and objects in extrastriate cortex.
+
+Pitcher D(1), Charles L, Devlin JT, Walsh V, Duchaine B.
+
+Author information:
+(1)Institute of Cognitive Neuroscience and Cognitive, Perceptual, and Brain 
+Sciences, University College London, UK. d.pitcher@ucl.ac.uk
+
+Comment in
+    Curr Biol. 2009 Feb 24;19(4):R160-2. doi: 10.1016/j.cub.2008.12.037.
+
+Neuroscientists have long debated whether focal brain regions perform specific 
+cognitive functions [1-5], and the issue remains central to a current debate 
+about visual object recognition. The distributed view of cortical function 
+suggests that object discrimination depends on dispersed but functionally 
+overlapping representations spread across visual cortex [6-8]. The modular view 
+claims different categories of objects are discriminated in functionally 
+segregated and specialized cortical areas [9-11]. To test these competing 
+theories, we delivered transcranial magnetic stimulation (TMS) over three 
+adjacent functionally localized areas in extrastriate cortex. In three 
+experiments, participants performed discrimination tasks involving faces, 
+bodies, and objects while TMS was delivered over the right occipital face area 
+(rOFA) [12], the right extrastriate body area (rEBA) [13], or the right lateral 
+occipital area (rLO) [14]. All three experiments showed a task selective 
+dissociation with performance impaired only by stimulation at the site selective 
+for that category: TMS over rOFA impaired discrimination of faces but not 
+objects or bodies; TMS over rEBA impaired discrimination of bodies but not faces 
+or objects; TMS over rLO impaired discrimination of objects but not faces or 
+bodies. The results support a modular account in which category-selective areas 
+contribute solely to discrimination of their preferred categories.
+
+DOI: 10.1016/j.cub.2009.01.007
+PMID: 19200723 [Indexed for MEDLINE]

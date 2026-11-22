@@ -1,0 +1,1457 @@
+[
+ {
+  "id": "anterior_nucleus_of_thalamus",
+  "how_we_know": "The strongest causal evidence is a randomized, blinded trial of deep brain stimulation of this nucleus for epilepsy, and post-mortem counts of neurons in alcoholic Korsakoff syndrome. Imaging and recordings of the human anterior nucleus are scarce because it is small, so the head direction claim rests mostly on animal work. The memory role is supported by lesion and pathology data rather than by direct tests in healthy people.",
+  "evidence": [
+   {
+    "kind": "clinical trial",
+    "claim": "The nucleus is a deep brain stimulation target for drug-resistant epilepsy",
+    "finding": "The SANTE trial randomized 110 adults with refractory partial seizures to bilateral stimulation of the anterior nuclei or no stimulation for 3 months. Median seizure frequency fell 40.4% in the stimulated group and 14.5% in the control group. This is causal evidence: switching the stimulation on changed seizure counts.",
+    "quote": "Unadjusted median declines at the end of the blinded phase were 14.5% in the control group and 40.4% in the stimulated group.",
+    "pmid": "20331461",
+    "doi": "10.1111/j.1528-1167.2010.02536.x",
+    "cite": "Fisher R, Salanova V, Witt T, et al. Electrical stimulation of the anterior nucleus of thalamus for treatment of refractory epilepsy. Epilepsia. 2010;51(5):899-908.",
+    "year": 2010,
+    "data": {
+     "title": "Median decline in seizure frequency, blinded phase",
+     "unit": "%",
+     "items": [
+      [
+       "control group",
+       14.5
+      ],
+      [
+       "stimulated group",
+       40.4
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "The nucleus is a deep brain stimulation target for drug-resistant epilepsy",
+    "finding": "The SANTE participants were followed after the blinded phase. The median seizure reduction was 41% at 1 year and 69% at 5 years. This follow-up had no control group, so it shows durability rather than proof of effect.",
+    "quote": "The median percent seizure reduction from baseline at 1 year was 41%, and 69% at 5 years.",
+    "pmid": "25663221",
+    "doi": "10.1212/WNL.0000000000001334",
+    "cite": "Salanova V, Witt T, Worth R, et al. Long-term efficacy and safety of thalamic stimulation for drug-resistant partial epilepsy. Neurology. 2015;84(10):1017-25.",
+    "year": 2015,
+    "data": {
+     "title": "Median seizure reduction from baseline",
+     "unit": "%",
+     "items": [
+      [
+       "1 year",
+       41
+      ],
+      [
+       "5 years",
+       69
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "histology",
+    "claim": "Damage to the mammillary bodies and anterior thalamus produces the amnesia of Korsakoff syndrome",
+    "finding": "The authors counted neurons with unbiased stereology in post-mortem brains of alcoholics with and without Korsakoff psychosis. Loss in the mammillary and mediodorsal nuclei was found in both amnesic and non-amnesic alcoholics with Wernicke encephalopathy. Loss in the anterior thalamic nuclei was found consistently only in those with Korsakoff psychosis, which singles this nucleus out. This is correlational pathology, not an experiment.",
+    "quote": "However, neuronal loss in the anterior thalamic nuclei was found consistently only in alcoholic Korsakoff's psychosis.",
+    "pmid": "10611128",
+    "doi": "10.1093/brain/123.1.141",
+    "cite": "Harding A, Halliday G, Caine D, et al. Degeneration of anterior thalamic nuclei differentiates alcoholics with amnesia. Brain. 2000;123(Pt 1):141-54.",
+    "year": 2000
+   }
+  ],
+  "stimulation": {
+   "method": "deep brain stimulation (bilateral, high frequency)",
+   "effect": "Bilateral stimulation of the anterior nuclei reduced seizures in adults with drug-resistant epilepsy. Stimulated patients were also more likely to report depression or memory problems as adverse events.",
+   "quote": "Bilateral stimulation of the anterior nuclei of the thalamus reduces seizures.",
+   "pmid": "20331461",
+   "doi": "10.1111/j.1528-1167.2010.02536.x",
+   "cite": "Fisher R, Salanova V, Witt T, et al. Electrical stimulation of the anterior nucleus of thalamus for treatment of refractory epilepsy. Epilepsia. 2010;51(5):899-908.",
+   "year": 2010
+  }
+ },
+ {
+  "id": "mediodorsal_nucleus",
+  "how_we_know": "Human lesion studies and a rare stimulation experiment give the causal evidence, while animal work supplies most of the circuit detail. Thalamic strokes seldom stay inside this nucleus, so lesion studies group patients by nucleus and compare them with controls. The Korsakoff pathology data show degeneration here but do not separate it from the nearby anterior nucleus.",
+  "evidence": [
+   {
+    "kind": "stimulation",
+    "claim": "Mediodorsal function supports working memory and executive function",
+    "finding": "Eight patients with deep brain stimulators implanted in the anterior thalamus for epilepsy did a cognitive task while stimulation was switched on and off. The lead tips reached the mediodorsal nucleus in these patients. Stimulating the mediodorsal nucleus raised total errors (odds ratio 2.26) and working memory errors (odds ratio 2.88) compared with stimulating the anterior nucleus a few millimeters away.",
+    "quote": "In comparison to stimulation of the control location, when MD was stimulated, participants committed 2.26 times more errors in general (total errors; OR = 2.26, 95% CI [1.69, 3.01]) and 2.86 times more working memory-related errors specifically (incorrect button presses; OR = 2.88, CI [1.95, 4.24]).",
+    "pmid": "28777058",
+    "doi": "10.1162/jocn_a_01176",
+    "cite": "Peräkylä J, Sun L, Lehtimäki K, et al. Causal evidence from humans for the role of mediodorsal nucleus of the thalamus in working memory. J Cogn Neurosci. 2017;29(12):2090-2102.",
+    "year": 2017,
+    "data": {
+     "title": "Odds ratio of errors, mediodorsal vs control stimulation",
+     "unit": "odds ratio",
+     "items": [
+      [
+       "total errors",
+       2.26
+      ],
+      [
+       "working memory errors",
+       2.88
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "lesion",
+    "claim": "In humans, lesions produce deficits resembling prefrontal damage",
+    "finding": "The authors tested executive function in 15 patients with focal thalamic lesions and 34 comparison patients whose lesions spared the thalamus. Patients with mediodorsal lesions were more impaired than patients with other thalamic lesions and than comparison patients. Lesion network mapping tied these lesion sites to the anterior cingulate, dorsomedial prefrontal cortex and frontoparietal network.",
+    "quote": "We found that patients with mediodorsal thalamic lesions exhibited more severe impairment in executive function when compared to both patients with thalamic lesions that spared the mediodorsal nucleus and to comparison patients with lesions outside the thalamus.",
+    "pmid": "32902335",
+    "doi": "10.1162/jocn_a_01628",
+    "cite": "Hwang K, Bruss J, Tranel D, et al. Network localization of executive function deficits in patients with focal thalamic lesions. J Cogn Neurosci. 2020;32(12):2303-2319.",
+    "year": 2020
+   },
+   {
+    "kind": "histology",
+    "claim": "Damage here contributes to the memory loss of Korsakoff syndrome",
+    "finding": "Post-mortem neuron counts in alcoholics showed substantial loss in the mammillary and mediodorsal nuclei in both amnesic and non-amnesic patients with Wernicke encephalopathy. Because loss here was not specific to the amnesic group, this study supports a contribution but not a sole cause. The anterior nucleus, not the mediodorsal, differed between groups.",
+    "quote": "Neurodegeneration of the hypothalamic mamillary nuclei and the mediodorsal thalamic nuclei was substantial in both non-amnesic and amnesic alcoholics with Wernicke's encephalopathy.",
+    "pmid": "10611128",
+    "doi": "10.1093/brain/123.1.141",
+    "cite": "Harding A, Halliday G, Caine D, et al. Degeneration of anterior thalamic nuclei differentiates alcoholics with amnesia. Brain. 2000;123(Pt 1):141-54.",
+    "year": 2000
+   }
+  ],
+  "stimulation": {
+   "method": "deep brain stimulation (high frequency, switched on and off)",
+   "effect": "High-frequency stimulation at the mediodorsal nucleus made patients commit more errors on a working memory task. Stimulating the control site in the anterior nucleus did not do this.",
+   "quote": "In conclusion, disrupting and recovering MD's function with high-frequency electric stimulation modulated participants' online working memory performance providing causal, in vivo evidence from humans for the role of MD in human working memory.",
+   "pmid": "28777058",
+   "doi": "10.1162/jocn_a_01176",
+   "cite": "Peräkylä J, Sun L, Lehtimäki K, et al. Causal evidence from humans for the role of mediodorsal nucleus of the thalamus in working memory. J Cogn Neurosci. 2017;29(12):2090-2102.",
+   "year": 2017
+  }
+ },
+ {
+  "id": "ventral_anterior_nucleus",
+  "how_we_know": "The ventral anterior nucleus is small and sits next to the ventral lateral nucleus, so most human data cover both together. The evidence here is post-mortem mapping of its inputs and stroke lesion studies that name the two nuclei jointly. Direct stimulation results for this nucleus alone are not available.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "It takes basal ganglia output and conveys it to the cortex",
+    "finding": "The authors stained serial sections of human thalamus and outlined three motor territories by their afferents: nigral, pallidal and cerebellar. The first two are the basal ganglia territories that textbooks place in the ventral anterior nucleus, and the cerebellar one is the ventral lateral nucleus. The abstract does not name the nuclei, so this item shows the layout of the motor thalamus rather than a function.",
+    "quote": "We compared those immunocytochemical staining patterns with underlying cytoarchitecture and used the latter to outline the three afferent territories in a continuous series of sagittal Nissl-stained sections of the human thalamus.",
+    "pmid": "30023427",
+    "doi": "10.1523/ENEURO.0060-18.2018",
+    "cite": "Ilinsky I, Horn A, Paul-Gilloteaux P, et al. Human motor thalamus reconstructed in 3D from continuous sagittal sections with identified subcortical afferent territories. eNeuro. 2018;5(3).",
+    "year": 2018
+   },
+   {
+    "kind": "lesion",
+    "claim": "It projects to premotor and prefrontal areas",
+    "finding": "Lesion symptom mapping in patients with thalamic stroke linked aphasia to damage in the left ventrolateral and ventral anterior nuclei. A connectivity map built from 1000 healthy people then showed that these lesion sites connect most strongly to Broca's area, followed by the superior and middle frontal gyri. The two nuclei cannot be separated in this study.",
+    "quote": "Using lesion symptom mapping, we demonstrate that lesions in the left ventrolateral and ventral anterior thalamic nucleus are most strongly associated with aphasia in general and with impaired semantic and phonemic fluency and complex comprehension in particular.",
+    "pmid": "38849518",
+    "doi": "10.1038/s42003-024-06399-9",
+    "cite": "Rangus I, Rios AS, Horn A, et al. Fronto-thalamic networks and the left ventral thalamic nuclei play a key role in aphasia after thalamic stroke. Commun Biol. 2024;7(1):700.",
+    "year": 2024
+   },
+   {
+    "kind": "lesion",
+    "claim": "It contributes to initiation and planning of movement and to cortical language and attention networks",
+    "finding": "The authors mapped infarcts in 65 patients with an isolated thalamic stroke onto functional territories. Thalamic aphasia pointed to the ventral territory, which holds the motor, somatosensory and language nuclei, with a positive predictive value of 63%. The ventral territory is larger than the ventral anterior nucleus, so this is a regional result.",
+    "quote": "Thalamic aphasia had a PPV of 63% each for involvement of the anterolateral VT and ventral FT.",
+    "pmid": "36416937",
+    "doi": "10.1007/s00062-022-01225-3",
+    "cite": "Rauch M, Schüre JR, Lieschke F, et al. Topographic mapping of isolated thalamic infarcts using vascular and novel probabilistic functional thalamic landmarks. Clin Neuroradiol. 2023;33(2):435-444.",
+    "year": 2023
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "ventral_lateral_nucleus",
+  "how_we_know": "This nucleus has the best causal evidence in the thalamus because surgeons have lesioned or stimulated its ventral intermediate part for tremor for decades. Randomized trials compare thalamotomy, stimulation and sham procedures. The results show that disrupting the cerebellar relay stops tremor, which does not by itself show the full function of the nucleus.",
+  "evidence": [
+   {
+    "kind": "clinical trial",
+    "claim": "Lesion of the ventral lateral region reduces essential tremor",
+    "finding": "In a randomized, sham-controlled trial, 76 patients with essential tremor had focused ultrasound thalamotomy or a sham procedure. Hand tremor scores fell from 18.1 to 9.6 after thalamotomy and from 16.0 to 15.8 after sham. Side effects included gait disturbance in 36% and numbness or paresthesias in 38%.",
+    "quote": "Hand-tremor scores improved more after focused ultrasound thalamotomy (from 18.1 points at baseline to 9.6 at 3 months) than after the sham procedure (from 16.0 to 15.8 points); the between-group difference in the mean change was 8.3 points (95% confidence interval [CI], 5.9 to 10.7; P<0.001).",
+    "pmid": "27557301",
+    "doi": "10.1056/NEJMoa1600159",
+    "cite": "Elias WJ, Lipsman N, Ondo WG, et al. A randomized trial of focused ultrasound thalamotomy for essential tremor. N Engl J Med. 2016;375(8):730-9.",
+    "year": 2016,
+    "data": {
+     "title": "Hand tremor score (0 to 32, higher is worse)",
+     "unit": "points",
+     "items": [
+      [
+       "thalamotomy, baseline",
+       18.1
+      ],
+      [
+       "thalamotomy, 3 months",
+       9.6
+      ],
+      [
+       "sham, baseline",
+       16.0
+      ],
+      [
+       "sham, 3 months",
+       15.8
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "Deep brain stimulation or lesion of the Vim reduces tremor",
+    "finding": "Sixty-eight patients with tremor from Parkinson disease, essential tremor or multiple sclerosis were randomly assigned to thalamotomy or thalamic stimulation. Tremor was suppressed completely or almost completely in 27 of 34 thalamotomy patients and 30 of 33 stimulation patients. Stimulation gave fewer adverse effects and a larger gain in daily function.",
+    "quote": "Tremor was suppressed completely or almost completely in 27 of 34 patients in the thalamotomy group and in 30 of 33 patients in the thalamic-stimulation group.",
+    "pmid": "10675426",
+    "doi": "10.1056/NEJM200002173420703",
+    "cite": "Schuurman PR, Bosch DA, Bossuyt PM, et al. A comparison of continuous thalamic stimulation and thalamotomy for suppression of severe tremor. N Engl J Med. 2000;342(7):461-8.",
+    "year": 2000
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "Deep brain stimulation of the Vim reduces parkinsonian and essential tremor",
+    "finding": "In 98 analyzed patients who had stimulation of the ventral intermediate nucleus, mean tremor improvement at 1 year was 70% in Parkinson disease, 66% in essential tremor and 41% in dystonia. Benefit in the first two groups lasted beyond 10 years, while the dystonia response faded. This was an observational study with no control group.",
+    "quote": "Patients with PD and ET had sustained improvement in tremor with VIM stimulation (mean improvement, 70% and 66% at 1 year; 63% and 48% beyond 10 years, respectively; p < 0.05). Patients with dystonia exhibited a moderate response at 1-year follow-up (41% tremor improvement, p = 0.027), which was not sustained after 5 years (30% improvement, p = 0.109).",
+    "pmid": "28768840",
+    "doi": "10.1212/WNL.0000000000004295",
+    "cite": "Cury RG, Fraix V, Castrioto A, et al. Thalamic deep brain stimulation for tremor in Parkinson disease, essential tremor, and dystonia. Neurology. 2017;89(13):1416-1423.",
+    "year": 2017,
+    "data": {
+     "title": "Mean tremor improvement at 1 year after VIM stimulation",
+     "unit": "%",
+     "items": [
+      [
+       "Parkinson disease",
+       70
+      ],
+      [
+       "essential tremor",
+       66
+      ],
+      [
+       "dystonia",
+       41
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": {
+   "method": "deep brain stimulation of the ventral intermediate nucleus",
+   "effect": "Chronic stimulation of the ventral intermediate nucleus suppressed tremor in Parkinson disease and essential tremor, with the benefit lasting more than 10 years in many patients.",
+   "quote": "Patients with PD and ET had sustained improvement in tremor with VIM stimulation (mean improvement, 70% and 66% at 1 year; 63% and 48% beyond 10 years, respectively; p < 0.05).",
+   "pmid": "28768840",
+   "doi": "10.1212/WNL.0000000000004295",
+   "cite": "Cury RG, Fraix V, Castrioto A, et al. Thalamic deep brain stimulation for tremor in Parkinson disease, essential tremor, and dystonia. Neurology. 2017;89(13):1416-1423.",
+   "year": 2017
+  }
+ },
+ {
+  "id": "ventral_posterolateral_nucleus",
+  "how_we_know": "Human data come from stereotactic surgery, where microelectrodes in awake patients record from and stimulate the somatosensory thalamus, and from small thalamic strokes. The surgical papers call this region the ventral caudal nucleus (Vc), which corresponds to the monkey ventral posterior nucleus. Strokes rarely respect nuclear borders, so lesion results describe the region rather than one nucleus.",
+  "evidence": [
+   {
+    "kind": "stimulation",
+    "claim": "It relays somatic sensation to the primary somatosensory cortex",
+    "finding": "During tremor surgery, the authors stimulated through a microelectrode in the region of the ventral caudal nucleus. Of 122 sites in 116 patients, stimulation evoked touch, pressure, vibration or movement sensations. This is causal: stimulating the nucleus produced the sensation.",
+    "quote": "These results demonstrate that mechanical and movement sensations can be evoked by stimulation in the region of Vc.",
+    "pmid": "14573561",
+    "doi": "10.1152/jn.00648.2003",
+    "cite": "Ohara S, Weiss N, Lenz FA. Microstimulation in the region of the human thalamic principal somatic sensory nucleus evokes sensations like those of mechanical stimulation and movement. J Neurophysiol. 2004;91(2):736-45.",
+    "year": 2004
+   },
+   {
+    "kind": "lesion",
+    "claim": "A thalamic stroke here may be followed by severe burning pain (Dejerine-Roussy syndrome)",
+    "finding": "Patients with small thalamic strokes and central post-stroke pain had their lesions mapped on MRI and were tested for sensation. All lesions involved the posterior ventral caudal nucleus, and all tested patients had altered cold pain and touch sensation. The authors conclude that lesions of this nucleus are enough to impair cold sensation and produce central pain.",
+    "quote": "Therefore, there are modality-specific subnuclear structures in the posterior thalamus, but lesions of Vc not involving VMpo are sufficient to impair cold sensibility and to produce CPSP.",
+    "pmid": "17475808",
+    "doi": "10.1523/JNEUROSCI.0716-07.2007",
+    "cite": "Kim JH, Greenspan JD, Coghill RC, Ohara S, Lenz FA. Lesions limited to the human thalamic principal somatosensory nucleus (ventral caudal) are associated with loss of cold sensations and central pain. J Neurosci. 2007;27(18):4995-5004.",
+    "year": 2007
+   },
+   {
+    "kind": "lesion",
+    "claim": "A thalamic stroke here causes contralateral loss of body sensation",
+    "finding": "In 65 patients with an isolated thalamic infarct, a hemisensory syndrome was the most frequent symptom. It did not point to any single thalamic territory, so a sensory stroke by itself does not prove the lesion sits in this nucleus. Sensory loss together with weakness pointed to the inferolateral territory, which contains it.",
+    "quote": "The most frequent symptom was a hemisensory syndrome (58%), which was not specific for any territory.",
+    "pmid": "36416937",
+    "doi": "10.1007/s00062-022-01225-3",
+    "cite": "Rauch M, Schüre JR, Lieschke F, et al. Topographic mapping of isolated thalamic infarcts using vascular and novel probabilistic functional thalamic landmarks. Clin Neuroradiol. 2023;33(2):435-444.",
+    "year": 2023
+   }
+  ],
+  "stimulation": {
+   "method": "intraoperative microstimulation of the ventral caudal nucleus",
+   "effect": "Stimulating the region of the principal somatosensory nucleus in awake patients evoked sensations of touch, pressure, vibration and movement.",
+   "quote": "These results demonstrate that mechanical and movement sensations can be evoked by stimulation in the region of Vc.",
+   "pmid": "14573561",
+   "doi": "10.1152/jn.00648.2003",
+   "cite": "Ohara S, Weiss N, Lenz FA. Microstimulation in the region of the human thalamic principal somatic sensory nucleus evokes sensations like those of mechanical stimulation and movement. J Neurophysiol. 2004;91(2):736-45.",
+   "year": 2004
+  }
+ },
+ {
+  "id": "pulvinar",
+  "how_we_know": "Human evidence comes mainly from patients with pulvinar strokes and from high-field fMRI. Lesion studies include only a handful of patients each, and strokes spread into neighboring thalamus, so results are suggestive. Most circuit detail comes from monkeys.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Pulvinar lesions cause deficits in attention and visual spatial processing",
+    "finding": "The authors tested spatial and temporal attention in three patients with different pulvinar lesions. The patient with anterior damage had strong spatial but not temporal deficits. The patient with posterior damage had clear temporal deficits and much smaller spatial problems.",
+    "quote": "The patient with anterior damage showed strong spatial but not temporal attention deficits, while the patient with posterior damage showed clear temporal attention deficits, but much reduced spatial problems.",
+    "pmid": "18669494",
+    "doi": "10.1093/brain/awn135",
+    "cite": "Arend I, Rafal R, Ward R. Spatial and temporal deficits are regionally dissociable in patients with pulvinar lesions. Brain. 2008;131(Pt 8):2140-52.",
+    "year": 2008
+   },
+   {
+    "kind": "lesion",
+    "claim": "It supports visual attention and the filtering of distractors",
+    "finding": "Three patients with chronic one-sided lesions of the ventral pulvinar judged the orientation of a target grating among distractors. Contrast thresholds on the affected side rose only when a salient distractor competed with the target. The authors interpret this as a necessary role in selecting a target against distractors.",
+    "quote": "These observations provide the first evidence that the human pulvinar plays a necessary role in modulating physical saliency in attentional selection, and supports a homology in global pulvinar structure between humans and monkey.",
+    "pmid": "19237580",
+    "doi": "10.1073/pnas.0810086106",
+    "cite": "Snow JC, Allen HA, Rafal RD, Humphreys GW. Impaired attentional selection following lesions to human pulvinar: evidence for homology between human and monkey. Proc Natl Acad Sci U S A. 2009;106(10):4054-9.",
+    "year": 2009
+   },
+   {
+    "kind": "imaging",
+    "claim": "The pulvinar links association cortices and supports visual attention",
+    "finding": "In an fMRI study at 3 tesla, the lateral geniculate nucleus responded to simple flickering checkerboards, but the pulvinar did not. Regions of the mediodorsal pulvinar on both sides were consistently activated when subjects attended to the stimuli. This is correlational: it shows the region is active during attention, not that it is needed.",
+    "quote": "However, regions in the mediodorsal right and left pulvinar were found to be consistently activated by bilaterally presented flickering checkerboard stimuli, when subjects attended to the stimuli.",
+    "pmid": "13679404",
+    "doi": "10.1152/jn.00553.2003",
+    "cite": "Kastner S, O'Connor DH, Fukui MM, et al. Functional imaging of the human lateral geniculate nucleus and pulvinar. J Neurophysiol. 2004;91(1):438-48.",
+    "year": 2004
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "lateral_geniculate_nucleus",
+  "how_we_know": "The human LGN is small and deep, so most evidence comes from high-field fMRI, rare strokes and monkey experiments in which the nucleus is switched off. The monkey inactivation study is the clearest causal test, but it is not a human result. Direct stimulation of the human LGN has not been reported in a PubMed abstract.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "The LGN is the thalamic relay for vision",
+    "finding": "Animal study in macaque monkeys with chronic lesions of primary visual cortex (V1). Stimuli in the blind field still drove fMRI activity in extrastriate areas and the animals could locate them. After temporary inactivation of the LGN, the fMRI responses and the detection behavior were both abolished.",
+    "quote": "However, following reversible inactivation of the LGN in the V1-lesioned hemisphere, fMRI responses and behavioural detection were abolished.",
+    "pmid": "20574422",
+    "doi": "10.1038/nature09179",
+    "cite": "Schmid MC, Mrowka SW, Turchi J, et al. Blindsight depends on the lateral geniculate nucleus. Nature. 2010;466(7304):373-7.",
+    "year": 2010
+   },
+   {
+    "kind": "imaging",
+    "claim": "Each LGN receives information from the contralateral visual hemifield",
+    "finding": "Healthy volunteers viewed flickering checkerboards that alternated between the right and left hemifields in a 3 tesla scanner. The LGN was reliably activated, and its activation peak fell within about 2 mm of its anatomical location on structural images. This is correlational and shows the LGN is active during vision.",
+    "quote": "Flickering checkerboard stimuli presented in alternation to the right and left hemifields reliably activated the LGN.",
+    "pmid": "13679404",
+    "doi": "10.1152/jn.00553.2003",
+    "cite": "Kastner S, O'Connor DH, Fukui MM, et al. Functional imaging of the human lateral geniculate nucleus and pulvinar. J Neurophysiol. 2004;91(1):438-48.",
+    "year": 2004
+   },
+   {
+    "kind": "lesion",
+    "claim": "A lesion of the LGN causes a contralateral homonymous hemianopia",
+    "finding": "A 58-year-old man had right-sided visual loss. Examination showed a right homonymous hemianopia, and imaging showed an acute stroke of the left lateral geniculate body. This is a single case report, so it illustrates the pattern rather than measuring how often it occurs.",
+    "quote": "Examination revealed a right homonymous hemianopia. Computed tomography imaging revealed an acute stroke of the left lateral geniculate body.",
+    "pmid": "33870940",
+    "doi": "10.1097/WNO.0000000000001226",
+    "cite": "Naguib MM, Woodland MB, Foroozan R. Characteristic visual field defect from lateral geniculate body stroke. J Neuroophthalmol. 2021;41(4):e756-e758.",
+    "year": 2021
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "medial_geniculate_nucleus",
+  "how_we_know": "The human MGN is studied with 7 tesla fMRI, tractography and the occasional intracranial recording from a patient with an electrode in the nucleus. These methods show where sounds are represented and which paths exist, but not whether the nucleus is needed. The entry's lesion claims about cortical deafness rest on case reports that are not included here.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Its ventral part preserves the tonotopic map",
+    "finding": "The authors used 7 tesla fMRI to map frequency tuning in the human inferior colliculus and medial geniculate body during natural sounds. The inferior colliculus showed one tonotopic gradient, and the medial geniculate body showed two tonotopic maps that reflect its two subdivisions. No topographic map of sound location was found.",
+    "quote": "Frequency tuning was organized in one tonotopic gradient in the IC, whereas two tonotopic maps characterized the MGB reflecting two MGB subdivisions.",
+    "pmid": "26597173",
+    "doi": "10.1038/srep17048",
+    "cite": "Moerel M, De Martino F, Uğurbil K, et al. Processing of frequency and location in human subcortical auditory structures. Sci Rep. 2015;5:17048.",
+    "year": 2015
+   },
+   {
+    "kind": "recording",
+    "claim": "The MGN is the thalamic relay for hearing",
+    "finding": "The authors recorded auditory evoked potentials at the same time from the medial geniculate body and Heschl's gyrus in one patient. The first thalamic response preceded the first cortical response by 3.5 ms, and the lowest tone frequencies gave the strongest responses at two time points. The authors suggest the thalamus does more than simple relaying.",
+    "quote": "P21 and N50 amplitudes were strongest for lowest tone frequencies, suggesting possible MGB tonotopic organization.",
+    "pmid": "12383244",
+    "doi": "10.1046/j.1460-9568.2002.02162.x",
+    "cite": "Yvert B, Fischer C, Guénot M, et al. Simultaneous intracerebral EEG recordings of early auditory thalamic and cortical activity in human. Eur J Neurosci. 2002;16(6):1146-50.",
+    "year": 2002
+   },
+   {
+    "kind": "tracing",
+    "claim": "A medial division also conveys sound information to the amygdala",
+    "finding": "Tractography on Human Connectome Project diffusion scans found a white matter tract from the inferior colliculus to the basolateral amygdala through the medial geniculate body. Higher fiber density in this tract went with better hearing in noise and higher self-reported fearfulness. This is connectivity evidence from living people, not a test of function.",
+    "quote": "Our findings revealed a robust white matter tract connecting the inferior colliculus to basolateral amygdala via the medial geniculate body (MGB) of the thalamus.",
+    "pmid": "41839572",
+    "doi": "10.1523/JNEUROSCI.1431-25.2026",
+    "cite": "Kosteletou-Kassotaki E, Cinca-Tomás MT, Varriano F, et al. A direct auditory subcortical route to the amygdala associated with fear in humans. J Neurosci. 2026;46(15).",
+    "year": 2026
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "substantia_nigra",
+  "how_we_know": "The link to Parkinson disease is established by post-mortem counts of pigmented dopamine neurons and by what happens when the cells are lost, not by imaging alone. The studies below count neurons in brains from patients at known disease durations. Causal evidence also comes from toxins and from dopamine drugs, which are not covered in these abstracts. The reward role is less certain because fMRI cannot separate the substantia nigra from the neighboring ventral tegmental area.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "Degeneration of SNc dopamine neurons causes Parkinson's disease",
+    "finding": "The authors counted pigmented neurons in the caudal substantia nigra of 36 controls and 20 patients with Parkinson disease. Loss in Parkinson disease was greatest in the lateral ventral tier of the pars compacta (91%), then the medial ventral tier (71%) and the dorsal tier (56%). The pattern was the opposite of normal ageing, which spares the lateral ventral tier.",
+    "quote": "Regionally, the pattern was opposite to ageing. Loss was greatest in the lateral ventral tier (average loss 91%) followed by the medial ventral tier (71%) and the dorsal tier (56%).",
+    "pmid": "1933245",
+    "doi": "10.1093/brain/114.5.2283",
+    "cite": "Fearnley JM, Lees AJ. Ageing and Parkinson's disease: substantia nigra regional selectivity. Brain. 1991;114(Pt 5):2283-301.",
+    "year": 1991,
+    "data": {
+     "title": "Pigmented neuron loss in Parkinson disease, by tier",
+     "unit": "%",
+     "items": [
+      [
+       "lateral ventral tier",
+       91
+      ],
+      [
+       "medial ventral tier",
+       71
+      ],
+      [
+       "dorsal tier",
+       56
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "histology",
+    "claim": "Symptoms appear only after a large proportion of these neurons has been lost",
+    "finding": "From the same cell counts, the authors estimated how much of the nigra is gone when symptoms begin. At symptom onset there was a 68% loss in the lateral ventral tier and a 48% loss in the caudal nigra as a whole. This is an estimate from cross-sectional autopsy cases, not a follow-up of individuals.",
+    "quote": "It was calculated that at the onset of symptoms there was a 68% cell loss in the lateral ventral tier and a 48% loss in the caudal nigra as a whole.",
+    "pmid": "1933245",
+    "doi": "10.1093/brain/114.5.2283",
+    "cite": "Fearnley JM, Lees AJ. Ageing and Parkinson's disease: substantia nigra regional selectivity. Brain. 1991;114(Pt 5):2283-301.",
+    "year": 1991,
+    "data": {
+     "title": "Estimated cell loss at symptom onset",
+     "unit": "%",
+     "items": [
+      [
+       "lateral ventral tier",
+       68
+      ],
+      [
+       "caudal nigra as a whole",
+       48
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "histology",
+    "claim": "Degeneration of SNc dopamine neurons causes Parkinson's disease",
+    "finding": "The authors studied brains from 28 patients with Parkinson disease who had been diagnosed 1 to 27 years earlier, plus 9 elderly controls. In the substantia nigra pars compacta, tyrosine hydroxylase-positive neurons were already 50 to 90% lost at the earliest time points, with little further loss later. Loss of dopamine fibers in the putamen was nearly complete by 4 years.",
+    "quote": "In the substantia nigra pars compacta, there was a 50-90% loss of tyrosine hydroxylase-positive neurons from the earliest time points studied with only marginal additional loss thereafter.",
+    "pmid": "23884810",
+    "doi": "10.1093/brain/awt192",
+    "cite": "Kordower JH, Olanow CW, Dodiya HB, et al. Disease duration and the integrity of the nigrostriatal system in Parkinson's disease. Brain. 2013;136(Pt 8):2419-31.",
+    "year": 2013
+   },
+   {
+    "kind": "imaging",
+    "claim": "Dopamine from the SNc also signals reward and supports learning",
+    "finding": "High-resolution fMRI of the human midbrain separated clusters that respond to reward anticipation from clusters that respond to novelty. A caudal medial cluster and a lateral cluster in the right substantia nigra were mainly modulated by reward anticipation. The scans cannot cleanly separate the substantia nigra from the ventral tegmental area, which is why the region is labeled SN/VTA.",
+    "quote": "We demonstrate that distinct clusters within the caudal portion of the medial SN/VTA and the lateral portion of the right SN are predominantly modulated by the anticipation of reward, while a more rostral part of the medial SN/VTA was exclusively modulated by novelty.",
+    "pmid": "21723396",
+    "doi": "10.1016/j.neuroimage.2011.06.038",
+    "cite": "Krebs RM, Heipertz D, Schuetze H, et al. Novelty increases the mesolimbic functional connectivity of the substantia nigra/ventral tegmental area (SN/VTA) during reward anticipation: evidence from high-resolution fMRI. Neuroimage. 2011;58(2):647-55.",
+    "year": 2011
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "ventral_tegmental_area",
+  "how_we_know": "The VTA is too small for most scans, so human evidence relies on fMRI tailored to the brainstem and on drug studies that raise or lower dopamine. The original recordings of dopamine neurons coding prediction error are from monkeys. Human imaging shows the VTA is active with reward and novelty but cannot show that its dopamine neurons are the cause.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Dopamine neurons here signal reward prediction error",
+    "finding": "The authors used fMRI tuned to image the brainstem while people received primary rewards or won or lost money. The VTA signal followed a positive reward prediction error, and no significant VTA response was seen to non-rewarding events. The ventral striatum encoded both positive and negative prediction errors.",
+    "quote": "When primary rewards were used in an experiment, the VTA blood oxygen level-dependent (BOLD) response reflected a positive reward prediction error, whereas the VStr encoded positive and negative reward prediction errors.",
+    "pmid": "18309087",
+    "doi": "10.1126/science.1150605",
+    "cite": "D'Ardenne K, McClure SM, Nystrom LE, et al. BOLD responses reflecting dopaminergic signals in the human ventral tegmental area. Science. 2008;319(5867):1264-7.",
+    "year": 2008
+   },
+   {
+    "kind": "imaging",
+    "claim": "Neurons here fire for cues that predict rewards",
+    "finding": "In an fMRI experiment, cues predicted either novel or familiar pictures. The dopaminergic midbrain (substantia nigra and VTA together) was activated by cues that predicted novel pictures, as it is by cues that predict reward. The authors conclude that reward and novelty share signals in this region.",
+    "quote": "These data reveal commonalities in SN/VTA responses to anticipating reward and anticipating novel stimuli.",
+    "pmid": "17764976",
+    "doi": "10.1016/j.neuroimage.2007.06.038",
+    "cite": "Wittmann BC, Bunzeck N, Dolan RJ, et al. Anticipation of novelty recruits reward system and hippocampus while promoting recollection. Neuroimage. 2007;38(1):194-202.",
+    "year": 2007
+   },
+   {
+    "kind": "imaging",
+    "claim": "Dopamine drives motivation and reinforcement in the mesolimbic pathway",
+    "finding": "People learned to choose rewarded actions after taking L-DOPA, which raises dopamine, or haloperidol, which blocks it. Reward prediction error signals in the striatum were stronger with L-DOPA and weaker with haloperidol, and L-DOPA subjects chose the most rewarding action more often. This is a drug manipulation of the dopamine system with fMRI in the striatum, not a test of the VTA itself.",
+    "quote": "Here we show that, during instrumental learning, the magnitude of reward prediction error expressed in the striatum is modulated by the administration of drugs enhancing (3,4-dihydroxy-L-phenylalanine; L-DOPA) or reducing (haloperidol) dopaminergic function.",
+    "pmid": "16929307",
+    "doi": "10.1038/nature05051",
+    "cite": "Pessiglione M, Seymour B, Flandin G, et al. Dopamine-dependent prediction errors underpin reward-seeking behaviour in humans. Nature. 2006;442(7106):1042-5.",
+    "year": 2006
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "red_nucleus",
+  "how_we_know": "The human red nucleus is mapped with diffusion tractography and studied through midbrain strokes. Its tract, the rubrospinal tract, is hard to find in living people, and strokes in the area rarely spare nearby fibers, so lesion results are not specific to the nucleus. Direct stimulation data are not available.",
+  "evidence": [
+   {
+    "kind": "tracing",
+    "claim": "In humans the rubrospinal tract is small and arises from the red nucleus",
+    "finding": "The authors used diffusion tensor tractography in 21 healthy volunteers. They isolated the rubrospinal tract in only 27 of 42 hemispheres. Every identified tract originated in the red nucleus and crossed the midline in the ventral tegmental decussation.",
+    "quote": "Among 42 hemispheres of 21 subjects, RSTs were isolated in 27 hemispheres (64.28%) of 15 subjects. All identified tracts originated from the red nucleus and crossed the midline via ventral tegmental decussation.",
+    "pmid": "21911039",
+    "doi": "10.1016/j.neulet.2011.08.054",
+    "cite": "Yang HS, Kwon HG, Hong JH, et al. The rubrospinal tract in the human brain: diffusion tensor imaging study. Neurosci Lett. 2011;504(1):45-8.",
+    "year": 2011
+   },
+   {
+    "kind": "connectivity",
+    "claim": "The corticospinal tract predominates in humans, but the rubral pathway still relates to motor impairment",
+    "finding": "In 144 patients with chronic capsular or pontine stroke and 91 controls, the authors reconstructed rubral pathways from Human Connectome Project data. Diffusion measures of the rubrospinal tract explained 39.2% of the variance in motor scores in capsular stroke and 48.8% in pontine stroke. The link remained after controlling for the corticospinal tract, so the human rubral system may matter more than a vestige.",
+    "quote": "Finally, multiple regression modelling found that rubral tract FA explained 39.2% of the variance in FMA scores for CS patients, and 48.8% of the variance in FMA scores for PS patients.",
+    "pmid": "31835285",
+    "doi": "10.1016/j.nicl.2019.102090",
+    "cite": "Guo J, Liu J, Wang C, et al. Differential involvement of rubral branches in chronic capsular and pontine stroke. Neuroimage Clin. 2019;24:102090.",
+    "year": 2019,
+    "data": {
+     "title": "Variance in Fugl-Meyer motor score explained by rubral tract FA",
+     "unit": "%",
+     "items": [
+      [
+       "capsular stroke",
+       39.2
+      ],
+      [
+       "pontine stroke",
+       48.8
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "lesion",
+    "claim": "Midbrain tegmental lesions cause Claude syndrome",
+    "finding": "The authors reviewed 520 posterior circulation stroke patients and found 48 with isolated midbrain infarcts. Claude syndrome, which involves the red nucleus region, was the most common syndrome, in 21 of the 48 patients. The study classifies syndromes by clinical signs and does not map the red nucleus itself.",
+    "quote": "Of the 48 patients, 21 (43.8%) had Claude syndrome, 9 (18.8%) had Wernekink commisure syndrome, 6 (12.5%) had ataxic hemiparesis, 3 (6.3%) had Parinaud syndrome, 3 (6.3%) had Weber syndrome, 4 (8.3%) had Nothnagel syndrome, and 1 patient had a pure sensory stroke (2.1%).",
+    "pmid": "39216034",
+    "doi": "10.4103/neurol-india.NI_270_20",
+    "cite": "Sheetal S, Thomas R, Byju P, et al. A cross-sectional study of clinical spectrum and outcome of pure midbrain strokes. Neurol India. 2024;72(4):784-790.",
+    "year": 2024
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "locus_coeruleus",
+  "how_we_know": "Most of what is known about locus coeruleus firing comes from recordings in monkeys and rats, because the nucleus is tiny and deep. In people, pupil size and neuromelanin MRI give an indirect window, and post-mortem counts show it is lost early in Alzheimer and Parkinson disease. These are correlational findings, and no human stimulation study is included here.",
+  "evidence": [
+   {
+    "kind": "recording",
+    "claim": "It regulates arousal, vigilance and attention, and firing rises with novelty and surprise",
+    "finding": "Animal study in monkeys. The review draws on neurophysiology and modeling to propose that LC neurons have two modes. Phasic activation follows task-related decisions and helps performance, and tonic activity goes with disengagement from the task and searching for alternatives.",
+    "quote": "We review neurophysiological and modeling studies in monkey that support a new theory of LC-NE function. LC neurons exhibit two modes of activity, phasic and tonic.",
+    "pmid": "16022602",
+    "doi": "10.1146/annurev.neuro.28.061604.135709",
+    "cite": "Aston-Jones G, Cohen JD. An integrative theory of locus coeruleus-norepinephrine function: adaptive gain and optimal performance. Annu Rev Neurosci. 2005;28:403-50.",
+    "year": 2005
+   },
+   {
+    "kind": "imaging",
+    "claim": "Its firing rises with novelty, stress and surprise",
+    "finding": "The authors recorded pupil size and fMRI together in healthy people. Pupil diameter covaried with BOLD activity in a dorsal pontine cluster that overlapped the LC, located with neuromelanin-sensitive imaging and an LC atlas. The same link showed phasic changes with oddball stimulus relevance, a feature of animal LC activity.",
+    "quote": "Simultaneous pupillometry and fMRI revealed a relationship between continuous pupil diameter and BOLD activity in a dorsal pontine cluster overlapping with the LC, as localized via neuromelanin-sensitive structural imaging and an LC atlas.",
+    "pmid": "24510607",
+    "doi": "10.1002/hbm.22466",
+    "cite": "Murphy PR, O'Connell RG, O'Sullivan M, et al. Pupil diameter covaries with BOLD activity in human locus coeruleus. Hum Brain Mapp. 2014;35(8):4140-54.",
+    "year": 2014
+   },
+   {
+    "kind": "histology",
+    "claim": "Loss of locus coeruleus neurons is among the earliest changes in Alzheimer's and Parkinson's disease",
+    "finding": "The authors counted neurons in post-mortem brains from 86 people with Alzheimer disease, 19 with Parkinson disease and 13 healthy elderly people. Neuronal loss was greatest in the locus coeruleus in both diseases, with effect sizes of 3.16 in Alzheimer disease and 6.47 in Parkinson disease. The substantia nigra showed little loss in Alzheimer disease.",
+    "quote": "Cases of AD showed the greatest neuronal loss in the LC (ES = 3.16) followed by the NB (ES = 1.10), but variable loss in the SN (ES = 0.16). Cases of PD also showed the greatest neuronal loss in the LC (ES = 6.47), followed by the SN (ES = 2.58) and the NB (ES = 0.85).",
+    "pmid": "12633144",
+    "doi": "10.1001/archneur.60.3.337",
+    "cite": "Zarow C, Lyness SA, Mortimer JA, et al. Neuronal loss is greater in the locus coeruleus than nucleus basalis and substantia nigra in Alzheimer and Parkinson diseases. Arch Neurol. 2003;60(3):337-41.",
+    "year": 2003,
+    "data": {
+     "title": "Neuronal loss vs healthy controls (effect size)",
+     "unit": "effect size",
+     "items": [
+      [
+       "AD, locus coeruleus",
+       3.16
+      ],
+      [
+       "AD, nucleus basalis",
+       1.1
+      ],
+      [
+       "AD, substantia nigra",
+       0.16
+      ],
+      [
+       "PD, locus coeruleus",
+       6.47
+      ],
+      [
+       "PD, substantia nigra",
+       2.58
+      ],
+      [
+       "PD, nucleus basalis",
+       0.85
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "histology",
+    "claim": "Loss of locus coeruleus neurons is among the earliest changes in Alzheimer's and Parkinson's disease",
+    "finding": "The authors stained 2332 unselected brains from people aged 1 to 100 years for abnormal tau. Fifty-eight brains had tau mainly in the locus coeruleus and none in the cortex, a stage earlier than the first cortical changes in the transentorhinal region. The authors suggest Alzheimer tauopathy may begin in the lower brainstem.",
+    "quote": "Fifty-eight cases had subcortical tau predominantly in the locus coeruleus, but there was no abnormal cortical tau (subcortical Stages a-c).",
+    "pmid": "22002422",
+    "doi": "10.1097/NEN.0b013e318232a379",
+    "cite": "Braak H, Thal DR, Ghebremedhin E, Del Tredici K. Stages of the pathologic process in Alzheimer disease: age categories from 1 to 100 years. J Neuropathol Exp Neurol. 2011;70(11):960-9.",
+    "year": 2011
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "raphe_nuclei",
+  "how_we_know": "Human evidence on the raphe is indirect. It comes from post-mortem counts of serotonin neurons, PET maps of serotonin receptors in living patients, and experiments that lower serotonin by diet. The raphe firing patterns in sleep and waking come from animal recordings, and no human stimulation study is included here.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "The raphe nuclei are the main source of serotonin and regulate autonomic and respiratory function",
+    "finding": "The authors examined frozen medullae from infants who died of sudden infant death syndrome and from controls who died of other causes. The medulla holds serotonin neurons, including those of the raphe nuclei. SIDS cases had more serotonin neurons (148.04 against 72.56) and lower serotonin 1A receptor binding in regions that control homeostatic function. This is a post-mortem comparison, so it shows an association with SIDS and not the cause.",
+    "quote": "Compared with controls, SIDS cases had a significantly higher 5-HT neuron count (mean [SD], 148.04 [51.96] vs 72.56 [52.36] cells, respectively; P<.001)",
+    "pmid": "17077377",
+    "doi": "10.1001/jama.296.17.2124",
+    "cite": "Paterson DS, Trachtenberg FL, Thompson EG, et al. Multiple serotonergic brainstem abnormalities in sudden infant death syndrome. JAMA. 2006;296(17):2124-32.",
+    "year": 2006,
+    "data": {
+     "title": "Serotonin neurons counted in the medulla (mean)",
+     "unit": "cells",
+     "items": [
+      [
+       "SIDS cases",
+       148.04
+      ],
+      [
+       "controls",
+       72.56
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "Selective serotonin reuptake inhibitors raise synaptic serotonin to relieve depression",
+    "finding": "Twenty-one patients whose depression was in remission on antidepressants drank a tryptophan-free amino acid mixture, which lowers brain serotonin, in a double-blind crossover test. Fourteen of the 21 relapsed into depression, and they recovered within 24 to 48 hours of eating normally. This is causal evidence that serotonin availability maintains the antidepressant effect.",
+    "quote": "Fourteen of the 21 remitted depressed patients receiving antidepressants experienced a depressive relapse after the tryptophan-free amino acid drink, with gradual (24 to 48 hours) return to the remitted state on return to regular food intake.",
+    "pmid": "2184795",
+    "doi": "10.1001/archpsyc.1990.01810170011002",
+    "cite": "Delgado PL, Charney DS, Price LH, et al. Serotonin function and the mechanism of antidepressant action. Reversal of antidepressant-induced remission by rapid depletion of plasma tryptophan. Arch Gen Psychiatry. 1990;47(5):411-8.",
+    "year": 1990
+   },
+   {
+    "kind": "imaging",
+    "claim": "Reduced serotonin signaling is linked to depression and anxiety",
+    "finding": "PET scans in 16 unmedicated patients with panic disorder and 15 matched controls measured serotonin 1A receptor binding. The patients had lower binding in the anterior cingulate, the posterior cingulate and the raphe. Binding did not differ between patients with and without depression, and the scans are correlational.",
+    "quote": "PD patients showed lower DV in the anterior cingulate (t = 4.3; p < 0.001), posterior cingulate (t = 4.1; p < 0.001), and raphe (t = 3.1; p = 0.004).",
+    "pmid": "14736842",
+    "doi": "10.1523/JNEUROSCI.4921-03.2004",
+    "cite": "Neumeister A, Bain E, Nugent AC, et al. Reduced serotonin type 1A receptor binding in panic disorder. J Neurosci. 2004;24(3):589-91.",
+    "year": 2004,
+    "data": {
+     "title": "Lower receptor binding in panic disorder (t value)",
+     "unit": "t value",
+     "items": [
+      [
+       "anterior cingulate",
+       4.3
+      ],
+      [
+       "posterior cingulate",
+       4.1
+      ],
+      [
+       "raphe",
+       3.1
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "midbrain",
+  "how_we_know": "Human midbrain evidence comes from stroke case series, fMRI of the colliculi and rare stimulation in patients with implanted electrodes. Strokes in the midbrain usually involve several nuclei and tracts at once, so syndromes are named by their signs. The stimulation result below is a single case in a pain patient.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "A midbrain infarct causes an oculomotor palsy with weakness on the other side (Weber syndrome)",
+    "finding": "Over 5 years, 48 of 520 posterior circulation stroke patients (9.2%) had an isolated midbrain infarct. Gait ataxia occurred in 40 and third nerve palsy in 29, and the syndromes included Weber syndrome in 3 patients. Eye movement signs dominate because the oculomotor nuclei and nerve fibers lie in the midbrain.",
+    "quote": "Clinical manifestations included gait ataxia in 40 patients (83.3%), third nerve palsy in 29 (60.41%), fourth nerve palsy in 4 (8.3%), internuclear ophtalmoplegia in 9 (18.8%), upgaze paresis in 3 (6.3%), hemiparesis in 4 (8.3%), and cheiro-oral paraesthesia in 4 (8.3%).",
+    "pmid": "39216034",
+    "doi": "10.4103/neurol-india.NI_270_20",
+    "cite": "Sheetal S, Thomas R, Byju P, et al. A cross-sectional study of clinical spectrum and outcome of pure midbrain strokes. Neurol India. 2024;72(4):784-790.",
+    "year": 2024,
+    "data": {
+     "title": "Signs in 48 patients with isolated midbrain stroke",
+     "unit": "%",
+     "items": [
+      [
+       "gait ataxia",
+       83.3
+      ],
+      [
+       "third nerve palsy",
+       60.41
+      ],
+      [
+       "internuclear ophthalmoplegia",
+       18.8
+      ],
+      [
+       "fourth nerve palsy",
+       8.3
+      ],
+      [
+       "upgaze paresis",
+       6.3
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "lesion",
+    "claim": "Parinaud syndrome, from a pineal tumor, causes upgaze palsy",
+    "finding": "This review explains how dorsal midbrain damage produces the signs of Parinaud syndrome. Upward gaze palsy follows disruption of three structures: the rostral interstitial nucleus of the medial longitudinal fasciculus, the interstitial nucleus of Cajal and the posterior commissure. It reports no patient numbers, so it explains mechanism rather than measuring frequency.",
+    "quote": "In upward gaze palsy, three structures are disrupted: the rostral interstitial nucleus of the medial longitudinal fasciculus (riMLF), interstitial nucleus of Cajal (iNC), and the posterior commissure.",
+    "pmid": "34827468",
+    "doi": "10.3390/brainsci11111469",
+    "cite": "Ortiz JF, Eissa-Garces A, Ruxmohan S, et al. Understanding Parinaud's syndrome. Brain Sci. 2021;11(11).",
+    "year": 2021
+   },
+   {
+    "kind": "imaging",
+    "claim": "The superior colliculus directs saccades and orienting",
+    "finding": "Six healthy adults did memory-guided saccade tasks during high-resolution fMRI. The map of receptive fields in the human superior colliculus resembled the primate map, and its activity persisted through the delay and encoded remembered locations. This shows the colliculus is active in saccade tasks and also holds spatial information, beyond simple eye movement commands.",
+    "quote": "Neural activity within human (5 male and 1 female) SC persisted throughout a retention interval of several types of modified memory-guided saccade tasks.",
+    "pmid": "33115927",
+    "doi": "10.1523/JNEUROSCI.2016-20.2020",
+    "cite": "Rahmati M, DeSimone K, Curtis CE, Sreenivasan KK. Spatially specific working memory activity in the human superior colliculus. J Neurosci. 2020;40(49):9487-9495.",
+    "year": 2020
+   }
+  ],
+  "stimulation": {
+   "method": "deep brain stimulation of the periaqueductal gray (single case)",
+   "effect": "In one patient implanted for chronic pain, stimulating the midbrain periaqueductal gray increased the slowing of heart rate in anticipation of a shock. Stimulating a control site bordering the gray did not.",
+   "quote": "Deep brain stimulation in the PAG significantly increased threat bradycardia responses (i.e. reduced heart rate for threat vs. safety) compared to no stimulation, whereas control-site stimulation bordering the PAG did not significantly affect threat bradycardia.",
+   "pmid": "41928404",
+   "doi": "10.1080/13554794.2026.2640909",
+   "cite": "Klaassen FH, de Voogd LD, Hulsman AM, et al. Stimulation of the human periaqueductal gray induces threat bradycardia: a case report. Neurocase. 2026;32(2):65-75.",
+   "year": 2026
+  }
+ },
+ {
+  "id": "pons",
+  "how_we_know": "Most human evidence comes from pontine strokes, which show what is lost when part of the pons is damaged. Case series are small and lesions seldom stay in one structure, so results describe regions of the pons. There are no stimulation results for the pons, and imaging of such a small structure is limited.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "A basal pontine infarct can cause locked-in syndrome",
+    "finding": "The authors define locked-in syndrome as loss of most voluntary muscle movement with preserved cognition after a ventral pontine lesion. In nine patients with vascular locked-in syndrome, lesions confined to the pons left consciousness intact (2 patients). Lesions that extended into the midbrain, thalamus or reticular activating system went with impaired consciousness (7 patients).",
+    "quote": "Lesions of LiS patients are round and confined to the pons, whereas lesions of LiPS patients are more elongated and reach neighbouring areas such as the mesencephalon, thalamus or ascending reticular activating system.",
+    "pmid": "38021476",
+    "doi": "10.1177/17562864231207272",
+    "cite": "Schnetzer L, Steinbacher J, Bauer G, et al. The vascular locked-in and locked-in-plus syndrome: a retrospective case series. Ther Adv Neurol Disord. 2023;16:17562864231207272.",
+    "year": 2023
+   },
+   {
+    "kind": "lesion",
+    "claim": "The pons relays cortical information to the cerebellum and controls facial movement and swallowing",
+    "finding": "The authors mapped lesions in 25 patients with focal infarcts in the basilar pons. Weakness came from damage to descending corticospinal fibers, whereas limb incoordination came from damage to the pontine neurons that link cortex to the opposite cerebellar hemisphere. Facial movement and speech mapped to the rostral and medial basilar pons.",
+    "quote": "Structure-function correlations indicate that strength is conveyed by the corticofugal fibres destined for the spinal cord, whereas dysmetria results from lesions involving the neurons of the basilar pons that link the ipsilateral cerebral cortex with the contralateral cerebellar hemisphere.",
+    "pmid": "15128614",
+    "doi": "10.1093/brain/awh138",
+    "cite": "Schmahmann JD, Ko R, MacMore J. The human basis pontis: motor syndromes and topographic organization. Brain. 2004;127(Pt 6):1269-91.",
+    "year": 2004
+   },
+   {
+    "kind": "lesion",
+    "claim": "The pons contributes to sleep, including REM generation",
+    "finding": "The authors compared polysomnography in 15 patients with brainstem stroke, 16 with lacunar non-brainstem stroke and 15 healthy controls. REM sleep muscle activity was lower in the brainstem stroke group. The lesions that overlapped most in patients with reduced muscle activity lay in the medioventral pons.",
+    "quote": "Magnetic resonance imaging-based lesion analysis indicated an area of maximum overlap in the medioventral pontine region for patients with reduced phasic muscle activity index.",
+    "pmid": "35609965",
+    "doi": "10.1111/jsr.13640",
+    "cite": "Tellenbach N, Schmidt MH, Alexiev F, et al. REM sleep and muscle atonia in brainstem stroke: a quantitative polysomnographic and lesion analysis study. J Sleep Res. 2023;32(2):e13640.",
+    "year": 2023
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "medulla_oblongata",
+  "how_we_know": "Evidence in people comes from lateral medullary strokes, which are common enough for large MRI case series, and from post-mortem staining of the respiratory network. Strokes produce a recognizable pattern of signs, but they also damage fibers passing through the medulla. Stimulation of the medulla is not done in people for research.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Wallenberg syndrome causes Horner's syndrome, ataxia and loss of pain and temperature",
+    "finding": "Thirty-three consecutive patients with lateral medullary syndrome were examined and imaged. Horner's syndrome appeared in 91%, ipsilateral ataxia in 85% and contralateral loss of pain sensation in 85%, with nystagmus in 61% and facial weakness in 42%. The authors conclude the triad of Horner's syndrome, ipsilateral ataxia and contralateral hypalgesia identifies the lesion.",
+    "quote": "Horner's syndrome was found in 91%, ipsilateral ataxia in 85%, and contralateral hypalgesia in 85%. Nystagmus (61%) and facial weakness (42%) were less frequent.",
+    "pmid": "8503798",
+    "doi": "10.1001/archneur.1993.00540060049016",
+    "cite": "Sacco RL, Freddo L, Bello JA, et al. Wallenberg's lateral medullary syndrome. Clinical-magnetic resonance imaging correlations. Arch Neurol. 1993;50(6):609-14.",
+    "year": 1993,
+    "data": {
+     "title": "Signs in 33 patients with lateral medullary syndrome",
+     "unit": "%",
+     "items": [
+      [
+       "Horner's syndrome",
+       91
+      ],
+      [
+       "ipsilateral ataxia",
+       85
+      ],
+      [
+       "contralateral hypalgesia",
+       85
+      ],
+      [
+       "nystagmus",
+       61
+      ],
+      [
+       "facial weakness",
+       42
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "lesion",
+    "claim": "Lateral medullary infarction usually comes from a vertebral or PICA artery stroke",
+    "finding": "In 130 consecutive patients with pure lateral medullary infarction, angiograms in 123 patients showed vertebral artery disease in 67% and posterior inferior cerebellar artery disease in 10%. The vertebral artery was the more common culprit in this series, though the entry names both. Rostral lesions went with more dysphagia and facial paresis, and caudal lesions with more severe gait ataxia.",
+    "quote": "Angiograms performed in 123 patients showed vertebral artery (VA) disease in 67% and posterior inferior cerebellar artery (PICA) disease in 10%.",
+    "pmid": "12805095",
+    "doi": "10.1093/brain/awg169",
+    "cite": "Kim JS. Pure lateral medullary infarction: clinical-radiological correlation of 130 acute, consecutive patients. Brain. 2003;126(Pt 8):1864-72.",
+    "year": 2003,
+    "data": {
+     "title": "Artery disease on angiography (123 patients)",
+     "unit": "%",
+     "items": [
+      [
+       "vertebral artery",
+       67
+      ],
+      [
+       "PICA",
+       10
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "histology",
+    "claim": "The medulla contributes to respiratory rhythm",
+    "finding": "The authors stained serial brainstem sections from 19 normal people and from patients with multiple system atrophy (10) or spinocerebellar ataxia type 3 (8). They located the human homologue of the pre-Botzinger complex in the ventrolateral medulla. Neurons there were reduced in the patients with breathing problems but preserved in those with swallowing problems only.",
+    "quote": "Using serially sectioned brainstems from 19 normal individuals and patients suffering from neurodegenerative diseases (multiple system atrophy, n = 10; spinocerebellar ataxia type 3, n = 8), we have identified a circumscribed area of the ventrolateral medulla that represents the human homologue of the pre-Bötzinger complex and have mapped its longitudinal and horizontal extents.",
+    "pmid": "21115469",
+    "doi": "10.1093/brain/awq327",
+    "cite": "Schwarzacher SW, Rüb U, Deller T. Neuroanatomical characteristics of the human pre-Bötzinger complex and its involvement in neurodegenerative brainstem diseases. Brain. 2011;134(Pt 1):24-35.",
+    "year": 2011
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "cerebellum",
+  "how_we_know": "Lesion studies of patients with disease confined to the cerebellum show that damage causes thinking and mood changes as well as clumsiness. Meta-analyses of fMRI show which cerebellar lobules are active for motor and cognitive tasks, which is correlational. Transcranial magnetic stimulation over the cerebellum shows its output reaches the motor cortex.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "The cerebellum contributes to cognition and language through links with prefrontal and parietal cortex",
+    "finding": "The authors examined 20 patients with disease confined to the cerebellum, using bedside tests, neuropsychology and MRI. Lesions of the posterior lobe and vermis produced impaired executive function, spatial cognition, personality change and language deficits. They named this the cerebellar cognitive affective syndrome.",
+    "quote": "These changes were characterized by: impairment of executive functions such as planning, set-shifting, verbal fluency, abstract reasoning and working memory; difficulties with spatial cognition including visual-spatial organization and memory; personality change with blunting of affect or disinhibited and inappropriate behaviour; and language deficits including agrammatism and dysprosodia.",
+    "pmid": "9577385",
+    "doi": "10.1093/brain/121.4.561",
+    "cite": "Schmahmann JD, Sherman JC. The cerebellar cognitive affective syndrome. Brain. 1998;121(Pt 4):561-79.",
+    "year": 1998
+   },
+   {
+    "kind": "meta-analysis",
+    "claim": "Anterior cerebellum handles movement and posterior cerebellum handles cognition and emotion",
+    "finding": "The authors pooled neuroimaging studies of cerebellar activation across motor, somatosensory, language, working memory, spatial, executive and emotional tasks. Sensorimotor tasks activated the anterior lobe, and higher-level tasks activated the posterior lobe. This is correlational and shows where activity appears, not that the region is necessary.",
+    "quote": "These data provide support for an anterior sensorimotor vs. posterior cognitive/emotional dichotomy in the human cerebellum.",
+    "pmid": "18835452",
+    "doi": "10.1016/j.neuroimage.2008.08.039",
+    "cite": "Stoodley CJ, Schmahmann JD. Functional topography in the human cerebellum: a meta-analysis of neuroimaging studies. Neuroimage. 2009;44(2):489-501.",
+    "year": 2009
+   },
+   {
+    "kind": "imaging",
+    "claim": "The cerebellum has maps of the body for movement",
+    "finding": "Using fMRI in 46 people during movements of the lips, tongue, hands and feet, the authors found two body maps. A larger upside-down map lay in the superior cerebellum, and a smaller doubled map lay in the inferior cerebellum. The maps resembled those proposed 50 years earlier from animal work.",
+    "quote": "The activation mapped as two distinct homunculoid representations. One, a more extended representation, was located upside down in the superior cerebellum, and a second one, doubled and smaller, in the inferior cerebellum.",
+    "pmid": "11346886",
+    "doi": "10.1002/hbm.1025",
+    "cite": "Grodd W, Hülsmann E, Lotze M, et al. Sensorimotor mapping of the human cerebellum: fMRI evidence of somatotopic organization. Hum Brain Mapp. 2001;13(2):55-73.",
+    "year": 2001
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Cerebellar output travels through the dentate and thalamus to the motor cortex",
+    "finding": "In healthy volunteers, a magnetic pulse over the cerebellum was followed 5 to 8 ms later by suppression of the motor cortex. The effect was strong for small motor responses and much weaker for larger ones. The authors attribute it to Purkinje cells inhibiting the dentatothalamocortical pathway.",
+    "quote": "Conditioning magnetic stimulation of the cerebellum suppresses the motor cortex 5-8 ms later, probably through activation of cerebellar Purkinje cells, which inhibit the dentatothalamocortical pathway.",
+    "pmid": "11685404",
+    "doi": "10.1007/s002210100862",
+    "cite": "Pinto AD, Chen R. Suppression of the motor cortex by magnetic stimulation of the cerebellum. Exp Brain Res. 2001;140(4):505-10.",
+    "year": 2001
+   }
+  ],
+  "stimulation": {
+   "method": "transcranial magnetic stimulation over the cerebellum",
+   "effect": "A single magnetic pulse over the cerebellum suppressed the response of the motor cortex 5 to 8 ms later in healthy volunteers.",
+   "quote": "Conditioning magnetic stimulation of the cerebellum suppresses the motor cortex 5-8 ms later, probably through activation of cerebellar Purkinje cells, which inhibit the dentatothalamocortical pathway.",
+   "pmid": "11685404",
+   "doi": "10.1007/s002210100862",
+   "cite": "Pinto AD, Chen R. Suppression of the motor cortex by magnetic stimulation of the cerebellum. Exp Brain Res. 2001;140(4):505-10.",
+   "year": 2001
+  }
+ },
+ {
+  "id": "anterior_lobe_of_cerebellum",
+  "how_we_know": "Lesion maps from stroke, MRI volumes in alcoholism and fMRI meta-analysis all point to the anterior lobe's role in posture, gait and movement. The lesion results are group-level and come from strokes that rarely stay within one lobe. No human stimulation result is available for this lobe alone.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "The anterior lobe controls muscle tone, posture and gait",
+    "finding": "Stroke lesions were mapped in 75 patients with acute vertigo, dizziness or imbalance. Patients with an acute imbalance syndrome, with posture and gait imbalance but no spontaneous nystagmus, were 58.7% of the group. Their lesion core lay in the anterior cerebellar lobe and deep cerebellar nuclei.",
+    "quote": "In AIS, the lesion core was located in the anterior cerebellar lobe and deep cerebellar nuclei (superior cerebellar artery/posterior inferior cerebellar artery territory) connecting to the bilateral pontomesencephalic tegmentum through the superior cerebellar peduncle.",
+    "pmid": "42848973",
+    "doi": "10.1212/WNL.0000000000218624",
+    "cite": "Möhwald K, Hadzhikolev H, Eberle L, et al. Acute imbalance syndrome vs acute vestibular syndrome: clinical and topographical differentiation. Neurology. 2026;107(9):e218624.",
+    "year": 2026
+   },
+   {
+    "kind": "imaging",
+    "claim": "Alcohol damage to the anterior vermis causes a wide-based gait and leg ataxia",
+    "finding": "The authors measured cerebellar volumes by MRI in 61 healthy men, 25 men with alcoholism and 9 with alcoholic Korsakoff syndrome. The alcoholic groups had gray and white matter deficits in the anterior superior vermis but not the posterior inferior vermis. Their ataxia, about 1 standard deviation below normal, correlated with white matter volume in the anterior superior vermis.",
+    "quote": "ALC had a 1 SD ataxia deficit, significantly and selectively correlated with white matter volume in anterior superior vermis.",
+    "pmid": "10928737",
+    "doi": "10.1037//0894-4105.14.3.341",
+    "cite": "Sullivan EV, Deshmukh A, Desmond JE, et al. Cerebellar volume decline in normal aging, alcoholism, and Korsakoff's syndrome: relation to ataxia. Neuropsychology. 2000;14(3):341-52.",
+    "year": 2000
+   },
+   {
+    "kind": "meta-analysis",
+    "claim": "It receives proprioceptive input and has a map for movement",
+    "finding": "A meta-analysis of neuroimaging studies found that sensorimotor tasks activated lobule V of the anterior lobe and the adjacent lobule VI, with extra foci in lobule VIII. The same analysis found the posterior lobe involved in higher-level tasks. This is correlational.",
+    "quote": "In agreement with previous investigations, sensorimotor tasks activated anterior lobe (lobule V) and adjacent lobule VI, with additional foci in lobule VIII.",
+    "pmid": "18835452",
+    "doi": "10.1016/j.neuroimage.2008.08.039",
+    "cite": "Stoodley CJ, Schmahmann JD. Functional topography in the human cerebellum: a meta-analysis of neuroimaging studies. Neuroimage. 2009;44(2):489-501.",
+    "year": 2009
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "posterior_lobe_of_cerebellum",
+  "how_we_know": "The posterior lobe's role in thinking comes from patients with lesions of the posterior lobe and vermis and from fMRI meta-analysis. Lesion studies suggest it is needed, and the imaging shows which tasks activate which lobules. Mutism after tumor surgery in children is mostly tied to midline tumors, so it does not isolate the hemispheres.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Lesions of the posterior lobe produce the cerebellar cognitive affective syndrome",
+    "finding": "In 20 patients with disease confined to the cerebellum, behavioral changes were clinically prominent when the lesion involved the posterior lobe and the vermis. In some cases they were the most noticeable part of the presentation. Anterior lobe lesions caused only minor changes in the same patients.",
+    "quote": "Behavioural changes were clinically prominent in patients with lesions involving the posterior lobe of the cerebellum and the vermis, and in some cases they were the most noticeable aspects of the presentation.",
+    "pmid": "9577385",
+    "doi": "10.1093/brain/121.4.561",
+    "cite": "Schmahmann JD, Sherman JC. The cerebellar cognitive affective syndrome. Brain. 1998;121(Pt 4):561-79.",
+    "year": 1998
+   },
+   {
+    "kind": "meta-analysis",
+    "claim": "The posterior lobe takes part in language, working memory and executive function",
+    "finding": "The meta-analysis found peaks in lobule VI and Crus I for language and verbal working memory. Executive tasks involved lobules VI, Crus I and VIIB. Language was heavily right-lateralized, which fits crossed cerebro-cerebellar projections.",
+    "quote": "The posterior lobe was involved in higher-level tasks. ALE peaks were identified in lobule VI and Crus I for language and verbal working memory; lobule VI for spatial tasks; lobules VI, Crus I and VIIB for executive functions; and lobules VI, Crus I and medial VII for emotional processing.",
+    "pmid": "18835452",
+    "doi": "10.1016/j.neuroimage.2008.08.039",
+    "cite": "Stoodley CJ, Schmahmann JD. Functional topography in the human cerebellum: a meta-analysis of neuroimaging studies. Neuroimage. 2009;44(2):489-501.",
+    "year": 2009
+   },
+   {
+    "kind": "lesion",
+    "claim": "Posterior lobe damage can cause cerebellar mutism after posterior fossa tumor surgery in children",
+    "finding": "A European multicentre cohort followed children after surgery for posterior fossa tumors. Of 376 with known speech status, 30% developed postoperative speech impairment, 14% mutism and 16% reduced speech. Tumors in the cerebellar hemispheres carried a lower risk than tumors in the fourth ventricle, so the risk is highest at the midline.",
+    "quote": "0f 376 with known postoperative speech status, 112 (30%) developed POSI, 53 (14%) developed mutism (median 1 day [IQR 0-2]; range 0-10 days), and 59 (16%) developed reduced speech after surgery",
+    "pmid": "34624241",
+    "doi": "10.1016/S2352-4642(21)00274-1",
+    "cite": "Grønbæk JK, Wibroe M, Toescu S, et al. Postoperative speech impairment and surgical approach to posterior fossa tumours in children: a prospective European multicentre cohort study. Lancet Child Adolesc Health. 2021;5(11):814-824.",
+    "year": 2021,
+    "data": {
+     "title": "Speech outcome after posterior fossa tumor surgery",
+     "unit": "%",
+     "items": [
+      [
+       "any speech impairment",
+       30
+      ],
+      [
+       "mutism",
+       14
+      ],
+      [
+       "reduced speech",
+       16
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "flocculonodular_lobe",
+  "how_we_know": "In people the evidence is small strokes of the nodulus and the posterior cerebellum that produce vertigo and abnormal eye movements. Direct recordings of nodulus neurons come from monkeys. Strokes here are rare, so case series are small.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "A lesion causes vertigo, nystagmus and a tendency to fall",
+    "finding": "Eight patients with isolated nodular infarction were studied with full neurotological testing and MRI. All had isolated vertigo with moderate to severe imbalance. Most had nystagmus and fell toward the opposite side, which mimicked an inner ear problem, though head impulse and caloric tests were normal.",
+    "quote": "All patients presented with isolated vertigo and moderate to severe imbalance. The most common manifestation was unilateral nystagmus and falling in the opposite direction, which mimicked peripheral vestibulopathy.",
+    "pmid": "19109545",
+    "doi": "10.1161/STROKEAHA.108.527762",
+    "cite": "Moon IS, Kim JS, Choi KD, et al. Isolated nodular infarction. Stroke. 2009;40(2):487-91.",
+    "year": 2009
+   },
+   {
+    "kind": "lesion",
+    "claim": "It controls balance and eye position through connections with the vestibular nuclei",
+    "finding": "In 75 patients with MRI-proven stroke and vertigo, those with acute vestibular syndrome (with spontaneous nystagmus) had lesions mostly in the posterior cerebellar and flocculonodular lobe. These lesions connected to the vestibular nucleus on the same side and to the medial longitudinal fascicle through the inferior cerebellar peduncle.",
+    "quote": "AVS stroke lesions were mostly located in the posterior cerebellar/flocculonodular lobe (posterior inferior cerebellar artery/anterior inferior cerebellar artery territory) and connected to the ipsilesional vestibular nucleus (VN) and bilateral medial longitudinal fascicle (MLF) through the inferior cerebellar peduncle.",
+    "pmid": "42848973",
+    "doi": "10.1212/WNL.0000000000218624",
+    "cite": "Möhwald K, Hadzhikolev H, Eberle L, et al. Acute imbalance syndrome vs acute vestibular syndrome: clinical and topographical differentiation. Neurology. 2026;107(9):e218624.",
+    "year": 2026
+   },
+   {
+    "kind": "recording",
+    "claim": "It adjusts gaze and balance using vestibular signals about head motion",
+    "finding": "Animal study in rhesus monkeys. The authors recorded Purkinje cells in the nodulus and uvula during active and passive head movements. Neurons encoded head motion in space whether the movement was self-generated or imposed, so they did not cancel out predicted self-motion. The nodulus and uvula are neighboring parts of the vestibular cerebellum.",
+    "quote": "We found neurons responsive to passive translations remained equally sensitive to self-generated movements, encoding net head motion in space irrespective of its source.",
+    "pmid": "41741448",
+    "doi": "10.1038/s41467-026-69909-9",
+    "cite": "Mildren RL, Cullen KE. Ground-truth encoding of self-motion in the primate cerebellar nodulus and uvula. Nat Commun. 2026;17(1).",
+    "year": 2026
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "vermis",
+  "how_we_know": "Evidence includes MRI volumes in alcoholic patients, lesion maps of eye movement deficits after cerebellar stroke, and cohort data on children after tumor surgery. Strokes and tumors rarely damage the vermis alone, so results are group-level. No stimulation result for the vermis is included.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Vermis damage from chronic alcohol use causes ataxia with a wide-based gait",
+    "finding": "MRI in 61 healthy men, 25 men with alcoholism and 9 with alcoholic Korsakoff syndrome showed volume loss in the anterior superior vermis but not the posterior inferior vermis. The alcoholic men had a 1 standard deviation ataxia deficit on gait and balance tests. It correlated with white matter volume in that part of the vermis.",
+    "quote": "ALC and KS had gray and white matter volume deficits in anterior superior but not posterior inferior vermis. ALC had a 1 SD ataxia deficit, significantly and selectively correlated with white matter volume in anterior superior vermis.",
+    "pmid": "10928737",
+    "doi": "10.1037//0894-4105.14.3.341",
+    "cite": "Sullivan EV, Deshmukh A, Desmond JE, et al. Cerebellar volume decline in normal aging, alcoholism, and Korsakoff's syndrome: relation to ataxia. Neuropsychology. 2000;14(3):341-52.",
+    "year": 2000
+   },
+   {
+    "kind": "lesion",
+    "claim": "The vermis controls head and eye position",
+    "finding": "Lesion mapping compared 17 patients with cerebellar infarction and normal smooth pursuit against 11 with deficient pursuit gain. The uvula and part of the vermal pyramid were the structures commonly damaged in patients with deficits in pursuit, optokinetic slow phases and fixation suppression of the vestibulo-ocular reflex.",
+    "quote": "The uvula and partly the vermal pyramid were found to be the structures commonly damaged in patients with deficient gain of the horizontal sinusoidal smooth pursuit eye movement, of the slow phase of the OKN and impaired fixation suppression of vestibulo-ocular reflex; and were less involved in patients with intact smooth pursuit system.",
+    "pmid": "19567703",
+    "doi": "10.1093/brain/awp165",
+    "cite": "Baier B, Stoeter P, Dieterich M. Anatomical correlates of ocular motor deficits in cerebellar lesions. Brain. 2009;132(Pt 8):2114-24.",
+    "year": 2009
+   },
+   {
+    "kind": "lesion",
+    "claim": "Vermis lesions, for example from a medulloblastoma, cause truncal ataxia and mutism risk in children",
+    "finding": "A prospective cohort of 500 children undergoing surgery for posterior fossa tumors found that a midline tumor location, younger age and high-grade histology all raised the risk of speech impairment after surgery. The study reports speech outcomes, not ataxia, so it supports the vermis link only through the midline location.",
+    "quote": "Our data suggest that a midline tumour location, younger age, and high-grade tumour histology all increase the risk of speech impairment after posterior fossa tumour surgery.",
+    "pmid": "34624241",
+    "doi": "10.1016/S2352-4642(21)00274-1",
+    "cite": "Grønbæk JK, Wibroe M, Toescu S, et al. Postoperative speech impairment and surgical approach to posterior fossa tumours in children: a prospective European multicentre cohort study. Lancet Child Adolesc Health. 2021;5(11):814-824.",
+    "year": 2021
+   },
+   {
+    "kind": "meta-analysis",
+    "claim": "The vermis takes part in emotional processing through cerebellar-limbic circuitry",
+    "finding": "The meta-analysis of cerebellar neuroimaging found that emotional processing involved vermal lobule VII. The authors link this to cerebellar-limbic circuitry. This is correlational evidence from task-based imaging.",
+    "quote": "Emotional processing involved vermal lobule VII, implicated in cerebellar-limbic circuitry.",
+    "pmid": "18835452",
+    "doi": "10.1016/j.neuroimage.2008.08.039",
+    "cite": "Stoodley CJ, Schmahmann JD. Functional topography in the human cerebellum: a meta-analysis of neuroimaging studies. Neuroimage. 2009;44(2):489-501.",
+    "year": 2009
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "precentral_gyrus",
+  "how_we_know": "Penfield's stimulation maps of the 1930s and 1950s first drew the motor homunculus, and surgeons still map the gyrus with electrical stimulation in awake surgery. Modern fMRI localizes the hand area, and stroke cases show which weakness follows a small lesion. Stimulation and lesions show the region is needed, and fMRI shows only where activity rises.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The hand region appears as an inverted omega-shaped knob, a landmark for the central sulcus",
+    "finding": "The authors used fMRI to find the part of the precentral gyrus that most often held motor hand function. It was a knob-like structure shaped like an omega or epsilon in the axial plane. On cadaver brains the knob matched the middle knee of the central sulcus, so it is a reliable landmark.",
+    "quote": "The segment of the precentral gyrus that most often contained motor hand function was a knob-like structure, that is shaped like an omega or epsilon in the axial plane and like a hook in the sagittal plane.",
+    "pmid": "9055804",
+    "doi": "10.1093/brain/120.1.141",
+    "cite": "Yousry TA, Schmid UD, Alkadhi H, et al. Localization of the motor hand area to a knob on the precentral gyrus. A new landmark. Brain. 1997;120(Pt 1):141-57.",
+    "year": 1997
+   },
+   {
+    "kind": "lesion",
+    "claim": "Damage causes contralateral weakness, with the pattern depending on the part of the homunculus",
+    "finding": "Six patients had isolated hand weakness from a stroke. MRI showed infarcts in the hand knob area of the primary motor cortex in five, and one had an infarct in the postcentral gyrus that spared the precentral gyrus. Two patients with uniform digit weakness also had damage in the inferior parietal lobule, so the knob is not the only control center for the hand.",
+    "quote": "MRI showed acute infarctions involving the hand knob area of the primary motor cortex (M1) in five patients and the postcentral gyrus sparing the precentral gyrus in one patient.",
+    "pmid": "17000462",
+    "doi": "10.1016/S0929-6646(09)60276-X",
+    "cite": "Chen PL, Hsu HY, Wang PY. Isolated hand weakness in cortical infarctions. J Formos Med Assoc. 2006;105(10):861-5.",
+    "year": 2006
+   },
+   {
+    "kind": "stimulation",
+    "claim": "The gyrus is the main target of motor mapping in neurosurgery",
+    "finding": "During awake craniotomy for glioma in 13 patients, surgeons stimulated the primary motor cortex electrically and recorded upper limb muscles. About 69% of the muscle activation patterns seen in voluntary movement before surgery could be matched to patterns evoked by the stimulation. This suggests the gyrus encodes groups of muscles that move together.",
+    "quote": "Across 13 patients, 69% of the muscle synergies observed during preoperative voluntary behaviors could be matched to DES-evoked muscle synergies or their combination.",
+    "pmid": "42709812",
+    "doi": "10.1073/pnas.2604933123",
+    "cite": "Xie JJ, Huang S, Lau KYS, et al. Neuromotor modules revealed by direct electrical stimulation of the human primary motor cortex. Proc Natl Acad Sci U S A. 2026;123(37):e2604933123.",
+    "year": 2026
+   }
+  ],
+  "stimulation": {
+   "method": "direct electrical stimulation in awake craniotomy",
+   "effect": "Stimulating the primary motor cortex during glioma surgery evoked contractions of upper limb muscles in patterns that matched the muscle groups used in voluntary movement.",
+   "quote": "Across 13 patients, 69% of the muscle synergies observed during preoperative voluntary behaviors could be matched to DES-evoked muscle synergies or their combination.",
+   "pmid": "42709812",
+   "doi": "10.1073/pnas.2604933123",
+   "cite": "Xie JJ, Huang S, Lau KYS, et al. Neuromotor modules revealed by direct electrical stimulation of the human primary motor cortex. Proc Natl Acad Sci U S A. 2026;123(37):e2604933123.",
+   "year": 2026
+  }
+ },
+ {
+  "id": "postcentral_gyrus",
+  "how_we_know": "Direct electrical stimulation in awake surgery shows what patients feel when the gyrus is activated, and imaging maps the body representation. Stroke studies show which sensory losses follow damage. A 2018 stimulation study of 50 patients found some differences from the seminal Penfield maps, so the classic homunculus is a simplification.",
+  "evidence": [
+   {
+    "kind": "stimulation",
+    "claim": "Each area has its own map of the opposite side of the body",
+    "finding": "In 50 patients having surgery with no sensory deficit, the authors stimulated 647 sites on Brodmann area 1 and found 258 positive somatosensory responses in the postcentral gyrus (40%). Within the hand representation, the little finger lay medially and the thumb laterally, and fingertips lay more caudally than the proximal phalanges. Patients described discriminative touch almost exclusively.",
+    "quote": "For 647 sites stimulated on Brodmann Area 1 (and 1025 in gyri nearby), 258 positive points for somatosensory response (40%) were found in the postcentral gyrus.",
+    "pmid": "29285773",
+    "doi": "10.1113/JP275243",
+    "cite": "Roux FE, Djidjeli I, Durand JB. Functional architecture of the somatosensory homunculus detected by electrostimulation. J Physiol. 2018;596(5):941-956.",
+    "year": 2018,
+    "data": {
+     "title": "Brodmann area 1 stimulation sites",
+     "unit": "sites",
+     "items": [
+      [
+       "sites stimulated",
+       647
+      ],
+      [
+       "positive responses",
+       258
+      ]
+     ]
+    }
+   },
+   {
+    "kind": "imaging",
+    "claim": "Brodmann area 3 lies in the sulcal wall, area 1 on the crown and area 2 at the back",
+    "finding": "Using 7 tesla fMRI and touch to individual fingers, the authors found each finger represented in three subregions of S1 in the postcentral gyrus. In each of the three areas the fingers were ordered in sequence from thumb to little finger. Finger selectivity was strongest in area 3b.",
+    "quote": "Utilizing the high BOLD sensitivity and spatial resolution at 7T, we found that each finger is represented within three subregions of S1 in the postcentral gyrus.",
+    "pmid": "22965769",
+    "doi": "10.1002/hbm.22172",
+    "cite": "Martuzzi R, van der Zwaag W, Farthouat J, et al. Human finger somatotopy in areas 3b, 1, and 2: a 7T fMRI study using a natural stimulus. Hum Brain Mapp. 2014;35(1):213-26.",
+    "year": 2014
+   },
+   {
+    "kind": "lesion",
+    "claim": "Damage causes loss of fine touch and proprioception on the opposite side",
+    "finding": "In 101 patients with ischemic stroke, 59.4% had impairment in at least one somatosensory modality, with light touch affected most often and temperature least often. Lesion mapping tied the deficits to the primary and secondary somatosensory cortex and the insula. Most deficits recovered within 3 months.",
+    "quote": "Sixty patients (59.4%) showed impairment in at least one somatosensory modality. Light touch was most frequently affected (38.7%), whereas temperature was least frequently affected (21.8%).",
+    "pmid": "30943883",
+    "doi": "10.1161/STROKEAHA.118.023750",
+    "cite": "Kessner SS, Schlemm E, Cheng B, et al. Somatosensory deficits after ischemic stroke. Stroke. 2019;50(5):1116-1123.",
+    "year": 2019,
+    "data": {
+     "title": "Stroke patients with somatosensory deficits (n = 101)",
+     "unit": "%",
+     "items": [
+      [
+       "any modality",
+       59.4
+      ],
+      [
+       "light touch",
+       38.7
+      ],
+      [
+       "temperature",
+       21.8
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": {
+   "method": "direct cortical electrical stimulation in awake surgery",
+   "effect": "Stimulating the postcentral gyrus produced discriminative touch sensations on the opposite side of the body, mainly in the hand and tongue.",
+   "quote": "Positive stimulations were detected through the 'on/off' outbreak effect and discriminative touch sensations were the sensations reported almost exclusively by all patients during stimulation.",
+   "pmid": "29285773",
+   "doi": "10.1113/JP275243",
+   "cite": "Roux FE, Djidjeli I, Durand JB. Functional architecture of the somatosensory homunculus detected by electrostimulation. J Physiol. 2018;596(5):941-956.",
+   "year": 2018
+  }
+ },
+ {
+  "id": "superior_frontal_gyrus",
+  "how_we_know": "Electrical stimulation through electrodes on the medial frontal surface maps the supplementary motor area, and resection studies show what is lost when it is removed. A lesion study of the left gyrus tests its role in working memory. The gyrus is large, so each result applies to a sub-region, not the whole gyrus.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Its dorsal and medial parts take part in working memory",
+    "finding": "The authors compared 8 patients whose left prefrontal lesion was restricted to the superior frontal gyrus with 11 healthy controls and two other patient groups on n-back working memory tasks. The patients had a working memory deficit that grew with task difficulty and was larger for spatial material. The lateral and posterior part of the gyrus, near Brodmann area 8, contributed most.",
+    "quote": "As expected, patients with a left SFG lesion exhibited a WM deficit when compared with all control groups, and the impairment increased with the complexity of the tasks.",
+    "pmid": "16984899",
+    "doi": "10.1093/brain/awl244",
+    "cite": "du Boisgueheneuc F, Levy R, Volle E, et al. Functions of the left superior frontal gyrus in humans: a lesion study. Brain. 2006;129(Pt 12):3315-28.",
+    "year": 2006
+   },
+   {
+    "kind": "lesion",
+    "claim": "Removal of the supplementary motor area causes temporary contralateral akinesia that recovers over weeks",
+    "finding": "Twenty-three patients had fMRI before surgery to remove medial frontal lesions. After surgery, 11 had a motor deficit marked by a global reduction in spontaneous movement on the opposite side. All recovered within weeks or months, and the deficit occurred when the posterior SMA proper was resected.",
+    "quote": "Following surgery, 11 patients had a motor deficit from which all patients recovered within a few weeks or months. The deficit was similar across patients, consisting of a global reduction in spontaneous movements contralateral to the operated side with variable severity.",
+    "pmid": "11552019",
+    "doi": "10.1212/wnl.57.5.871",
+    "cite": "Krainik A, Lehéricy S, Duffau H, et al. Role of the supplementary motor area in motor deficit following medial frontal lobe surgery. Neurology. 2001;57(5):871-8.",
+    "year": 2001
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Its posterior medial portion holds the supplementary motor area, which plans and sequences movement",
+    "finding": "In 13 epilepsy patients with electrodes on the medial surface of the hemispheres, stimulation below the seizure threshold showed a body map in supplementary motor cortex. Legs were represented posteriorly, the head and face most anteriorly and the arms between them. Stimulation sometimes evoked complex movements and an urge to move.",
+    "quote": "Electrical stimulation mapping with currents below the threshold of afterdischarges showed somatotopic organization of supplementary motor cortex with the lower extremities represented posteriorly, head and face most anteriorly, and the upper extremities between these two regions.",
+    "pmid": "1941101",
+    "doi": "10.1523/JNEUROSCI.11-11-03656.1991",
+    "cite": "Fried I, Katz A, McCarthy G, et al. Functional organization of human supplementary motor cortex studied by electrical stimulation. J Neurosci. 1991;11(11):3656-66.",
+    "year": 1991
+   }
+  ],
+  "stimulation": {
+   "method": "subdural electrode grid stimulation in epilepsy patients",
+   "effect": "Stimulating the supplementary motor cortex evoked movements in a front-to-back body map, with legs posterior and face anterior. Some patients reported an urge to move, and stimulation just in front of the face area caused vocalization or speech arrest.",
+   "quote": "Electrical stimulation mapping with currents below the threshold of afterdischarges showed somatotopic organization of supplementary motor cortex with the lower extremities represented posteriorly, head and face most anteriorly, and the upper extremities between these two regions.",
+   "pmid": "1941101",
+   "doi": "10.1523/JNEUROSCI.11-11-03656.1991",
+   "cite": "Fried I, Katz A, McCarthy G, et al. Functional organization of human supplementary motor cortex studied by electrical stimulation. J Neurosci. 1991;11(11):3656-66.",
+   "year": 1991
+  }
+ },
+ {
+  "id": "middle_frontal_gyrus",
+  "how_we_know": "Working memory results come from fMRI meta-analysis and from lesion studies of dorsolateral prefrontal cortex, which includes much of this gyrus but is not identical to it. The eye field is mapped by electrical stimulation in epilepsy patients. Studies name the dorsolateral prefrontal cortex or the frontal lobe, not always the middle frontal gyrus.",
+  "evidence": [
+   {
+    "kind": "meta-analysis",
+    "claim": "Its anterior and middle parts are dorsolateral prefrontal cortex, which supports working memory",
+    "finding": "The authors pooled 668 sets of activation coordinates from 24 studies of the n-back working memory task. The dorsolateral and ventrolateral prefrontal cortex were among the regions activated robustly, along with premotor, cingulate, frontal pole and parietal cortex. This is correlational, and it shows involvement across studies without showing necessity.",
+    "quote": "We found the following cortical regions were activated robustly (voxelwise false discovery rate = 1%): lateral premotor cortex; dorsal cingulate and medial premotor cortex; dorsolateral and ventrolateral prefrontal cortex; frontal poles; and medial and lateral posterior parietal cortex.",
+    "pmid": "15846822",
+    "doi": "10.1002/hbm.20131",
+    "cite": "Owen AM, McMillan KM, Laird AR, et al. N-back working memory paradigm: a meta-analysis of normative functional neuroimaging studies. Hum Brain Mapp. 2005;25(1):46-59.",
+    "year": 2005
+   },
+   {
+    "kind": "lesion",
+    "claim": "Dorsolateral lesions produce executive dysfunction",
+    "finding": "The authors compared 19 patients with dorsolateral prefrontal lesions, 152 with other lesions and 54 without brain lesions on working memory and reasoning tests. Dorsolateral damage was associated with deficits in manipulating verbal and spatial knowledge. The left side was needed for manipulating information in working memory, and the right side for a broader range of reasoning.",
+    "quote": "DlPFC damage was associated with deficits in the manipulation of verbal and spatial knowledge, with left dlPFC necessary for manipulating information in working memory and right dlPFC critical for manipulating information in a broader range of reasoning contexts.",
+    "pmid": "22789779",
+    "doi": "10.1016/j.cortex.2012.05.022",
+    "cite": "Barbey AK, Koenigs M, Grafman J. Dorsolateral prefrontal contributions to human working memory. Cortex. 2013;49(5):1195-205.",
+    "year": 2013
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Its posterior end contains the frontal eye field, which drives voluntary saccades",
+    "finding": "In 19 awake patients with subdural electrodes for epilepsy surgery, stimulation of the frontal lobe produced eye movements toward the opposite side. The movements were saccadic in 84% and were followed by head turning in 58%, and in most patients the eye fields lay at or in front of the motor representation. The abstract does not name the gyrus, so this supports the frontal eye field described in the entry.",
+    "quote": "They were saccadic in 16 patients (84%). Head version, always following the eye deviation, occurred in 11 patients (58%).",
+    "pmid": "2300252",
+    "doi": "10.1212/wnl.40.2.296",
+    "cite": "Godoy J, Lüders H, Dinner DS, et al. Versive eye movements elicited by cortical stimulation of the human brain. Neurology. 1990;40(2):296-9.",
+    "year": 1990,
+    "data": {
+     "title": "Eye movements evoked by stimulation (19 patients)",
+     "unit": "% of patients",
+     "items": [
+      [
+       "saccadic eye movements",
+       84
+      ],
+      [
+       "head version",
+       58
+      ]
+     ]
+    }
+   }
+  ],
+  "stimulation": {
+   "method": "subdural electrode stimulation in awake epilepsy patients",
+   "effect": "Stimulating the frontal eye field region in front of the motor strip made the eyes move to the opposite side, usually in jerks (saccades), often with the head turning after them.",
+   "quote": "They were saccadic in 16 patients (84%). Head version, always following the eye deviation, occurred in 11 patients (58%).",
+   "pmid": "2300252",
+   "doi": "10.1212/wnl.40.2.296",
+   "cite": "Godoy J, Lüders H, Dinner DS, et al. Versive eye movements elicited by cortical stimulation of the human brain. Neurology. 1990;40(2):296-9.",
+   "year": 1990
+  }
+ },
+ {
+  "id": "fusiform_gyrus",
+  "how_we_know": "The face area was found with fMRI, which is correlational. Stimulation through intracranial electrodes in epilepsy patients tests cause, and lesion reviews show which damage produces prosopagnosia and achromatopsia. Whether the face area is specific to faces or reflects expertise is still debated.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The mid-fusiform part contains the fusiform face area, which responds strongly to faces",
+    "finding": "Using fMRI, the authors found an area in the fusiform gyrus in 12 of the 15 people tested that was more active for faces than for common objects. In follow-up tests, this area also responded more to intact than scrambled faces and to faces than to houses or hands. They concluded it is selectively involved in face perception.",
+    "quote": "Using functional magnetic resonance imaging (fMRI), we found an area in the fusiform gyrus in 12 of the 15 subjects tested that was significantly more active when the subjects viewed faces than when they viewed assorted common objects.",
+    "pmid": "9151747",
+    "doi": "10.1523/JNEUROSCI.17-11-04302.1997",
+    "cite": "Kanwisher N, McDermott J, Chun MM. The fusiform face area: a module in human extrastriate cortex specialized for face perception. J Neurosci. 1997;17(11):4302-11.",
+    "year": 1997
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Damage to the right or both fusiform gyri causes prosopagnosia",
+    "finding": "Ten epilepsy patients with intracranial electrodes in the left (5 patients, 30 sites) or right (5 patients, 26 sites) fusiform gyrus were tested. Face-selective recordings occurred on both sides, but only stimulation of the right fusiform gyrus changed the conscious perception of faces. Stimulating strongly face-selective left sites caused non-face visual changes such as phosphenes.",
+    "quote": "Only EBS of the right FG caused changes in the conscious perception of faces, whereas EBS of strongly face-selective regions in the left FG produced non-face-related visual changes, such as phosphenes.",
+    "pmid": "25232118",
+    "doi": "10.1523/JNEUROSCI.0527-14.2014",
+    "cite": "Rangarajan V, Hermes D, Foster BL, et al. Electrical stimulation of the left and right human fusiform gyrus causes different effects in conscious face perception. J Neurosci. 2014;34(38):12828-36.",
+    "year": 2014
+   },
+   {
+    "kind": "lesion",
+    "claim": "Damage near this gyrus can cause achromatopsia, loss of color vision",
+    "finding": "The authors pooled 92 published case reports of cerebral achromatopsia. The lesions overlapped most in a small region of ventral occipital cortex, near areas that imaging links to color perception. A similar analysis of prosopagnosia found several regions of high lesion overlap beside it.",
+    "quote": "Lesion overlap analyses revealed a relatively small region of high overlap in ventral occipital cortex.",
+    "pmid": "15858161",
+    "doi": "10.1093/cercor/bhi096",
+    "cite": "Bouvier SE, Engel SA. Behavioral deficits and cortical damage loci in cerebral achromatopsia. Cereb Cortex. 2006;16(2):183-91.",
+    "year": 2006
+   }
+  ],
+  "stimulation": {
+   "method": "intracranial electrical stimulation in an epilepsy patient",
+   "effect": "Stimulating face-selective sites in the right fusiform gyrus made the faces of people in the room look distorted or metamorphosed, while nonface objects looked normal.",
+   "quote": "Moreover, electrical charge delivered to this pair of electrodes induced a profound face-specific perceptual distortion during viewing of real faces.",
+   "pmid": "23100414",
+   "doi": "10.1523/JNEUROSCI.2609-12.2012",
+   "cite": "Parvizi J, Jacques C, Foster BL, et al. Electrical stimulation of human fusiform face-selective regions distorts face perception. J Neurosci. 2012;32(43):14915-20.",
+   "year": 2012
+  }
+ },
+ {
+  "id": "parahippocampal_gyrus",
+  "how_we_know": "The place area was found with fMRI, and a rare stimulation case supports its causal role. Alzheimer pathology staging comes from post-mortem staining of thousands of brains. The entorhinal part is covered by the staging data, while the scene-selective part is covered by imaging and stimulation.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Its posterior part processes scenes and spatial layout and includes the parahippocampal place area",
+    "finding": "Using fMRI, the authors found a region in human parahippocampal cortex that responded selectively to passively viewed scenes. It responded weakly to single objects and not at all to faces. Empty rooms drove it as strongly as furnished rooms, so it appears to encode the layout of local space.",
+    "quote": "This region, which we name the 'parahippocampal place area' (PPA), responds selectively and automatically in functional magnetic resonance imaging (fMRI) to passively viewed scenes, but only weakly to single objects and not at all to faces.",
+    "pmid": "9560155",
+    "doi": "10.1038/33402",
+    "cite": "Epstein R, Kanwisher N. A cortical representation of the local visual environment. Nature. 1998;392(6676):598-601.",
+    "year": 1998
+   },
+   {
+    "kind": "stimulation",
+    "claim": "A scene-selective area in this region processes scenes and spatial layout",
+    "finding": "In one epilepsy patient, fMRI and intracranial EEG identified a place-selective area in the collateral sulcus and medial fusiform gyrus. Electrical stimulation of that area caused a visual hallucination of indoor and outdoor scenes. Stimulating the more lateral basal temporal cortex instead distorted faces.",
+    "quote": "Bipolar direct electrical stimulation of a cortical area in the collateral sulcus and medial fusiform gyrus, which was place-selective according to both fMRI and iEEG, induced a topographic visual hallucination: the patient described seeing indoor and outdoor scenes that included views of the neighborhood he lives in.",
+    "pmid": "24741031",
+    "doi": "10.1523/JNEUROSCI.5202-13.2014",
+    "cite": "Mégevand P, Groppe DM, Goldfinger MS, et al. Seeing scenes: topographic visual hallucinations evoked by direct electrical stimulation of the parahippocampal place area. J Neurosci. 2014;34(16):5399-405.",
+    "year": 2014
+   },
+   {
+    "kind": "histology",
+    "claim": "Neurofibrillary tangles appear first in the entorhinal cortex in Alzheimer disease",
+    "finding": "The authors stained 2332 brains from people aged 1 to 100 years for abnormal tau. Among cortical areas, abnormal tau appeared first in the transentorhinal region (Stage 1a, 38 cases), at the border of the entorhinal region. They also found tau in the locus coeruleus before any cortical involvement.",
+    "quote": "Cortical involvement (abnormal tau in neurites) was identified first in the transentorhinal region (Stage 1a, 38 cases).",
+    "pmid": "22002422",
+    "doi": "10.1097/NEN.0b013e318232a379",
+    "cite": "Braak H, Thal DR, Ghebremedhin E, Del Tredici K. Stages of the pathologic process in Alzheimer disease: age categories from 1 to 100 years. J Neuropathol Exp Neurol. 2011;70(11):960-9.",
+    "year": 2011
+   }
+  ],
+  "stimulation": {
+   "method": "direct electrical stimulation with intracranial electrodes (single patient)",
+   "effect": "Stimulating the place-selective area in the collateral sulcus and medial fusiform gyrus made the patient see indoor and outdoor scenes, including views of his own neighborhood.",
+   "quote": "Bipolar direct electrical stimulation of a cortical area in the collateral sulcus and medial fusiform gyrus, which was place-selective according to both fMRI and iEEG, induced a topographic visual hallucination: the patient described seeing indoor and outdoor scenes that included views of the neighborhood he lives in.",
+   "pmid": "24741031",
+   "doi": "10.1523/JNEUROSCI.5202-13.2014",
+   "cite": "Mégevand P, Groppe DM, Goldfinger MS, et al. Seeing scenes: topographic visual hallucinations evoked by direct electrical stimulation of the parahippocampal place area. J Neurosci. 2014;34(16):5399-405.",
+   "year": 2014
+  }
+ }
+]

@@ -1,0 +1,42 @@
+1. Alcohol Clin Exp Res. 1999 Oct;23(10):1629-36.
+
+In vivo mammillary body volume deficits in amnesic and nonamnesic alcoholics.
+
+Sullivan EV(1), Lane B, Deshmukh A, Rosenbloom MJ, Desmond JE, Lim KO, 
+Pfefferbaum A.
+
+Author information:
+(1)Stanford University School of Medicine, Palo Alto, California, USA. 
+edie@leland.stanford.edu
+
+BACKGROUND: Neuropathological studies use the presence of mammillary body (MB) 
+pathology as a cardinal, diagnostic feature of Wernicke's encephalopathy (WE) in 
+neuropsychiatric diseases, most notably alcoholism. Although Korsakoffs Syndrome 
+(KS), which is marked behaviorally by dense global amnesia, is a typical sequela 
+of WE, it remains controversial whether these two conditions necessarily 
+co-occur and whether MB pathology is therefore a diagnostic requisite for KS.
+METHODS: We investigated these issues by examining, in vivo, 24 nonamnesic 
+alcoholics (ALC), 5 amnesic alcoholics (KS), and 51 normal controls with 
+three-dimensional MRI and memory testing. MB volume was determined from 
+successive, 1 mm thick slices.
+RESULTS: The ALC group had significantly smaller MB volumes bilaterally (mean = 
+54.5 +/- 22.0 mm3) than controls (mean = 66.3 +/- 17.1 mm3), and the KS group 
+had even smaller MB volumes than the ALC group (mean = 20.7 +/- 14.8 mm3). Only 
+2 ALC patients met historical clinical criteria for past WE, and their MB 
+volumes were well within range of the remaining 22 ALC patients. Although all 
+five KS patients met historical clinical criteria for WE, three KS did not have 
+accompanying dementia and had the same degree of MB volume loss as the ALC; the 
+remaining two KS had accompanying dementia and MB volumes half the volume of the 
+ALC group and of KS patients without dementia.
+CONCLUSIONS: These findings provide volumetric in vivo evidence that: (1) MB 
+volume deficits do occur in alcoholics without amnesia, although these deficits 
+are not present in ail such alcoholics; (2) greater MB volume deficits are 
+present in alcoholics with clinically detectable amnesia or dementia; (3) MB 
+shrinkage is related to severity of cognitive and memory dysfunction, which 
+suggests a continuum of MB pathology in chronic alcoholism to KS; and (4) the 
+presence of WE in all of the KS patients and in the two ALC patients with the 
+greatest long-term declarative memory deficit supports the possibility of an 
+additional and unique pathology distinguishing nonamnesic and amnesic 
+alcoholism.
+
+PMID: 10549995 [Indexed for MEDLINE]

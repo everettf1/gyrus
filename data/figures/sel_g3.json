@@ -1,0 +1,102 @@
+[
+ {
+  "region": "frontal_eye_field",
+  "pmid": "3875696",
+  "from": "Figure 2B-C",
+  "caption": "Two PET blood flow images from one volunteer during rapid, alternating eye movements: the scan (B) and the percent change from rest (C). Two bright spots on the outer front of the brain, one on each side, show where blood flow rose.",
+  "notice": "The two bright patches in panel C are the frontal eye fields lighting up during saccades, which is a correlation between activity and eye movements.",
+  "short": "Fox et al. 1985, J Neurophysiol",
+  "license": "",
+  "file": "frontal_eye_field_3875696.webp"
+ },
+ {
+  "region": "frontal_eye_field",
+  "pmid": "21490286",
+  "from": "Figure 2A",
+  "caption": "How well people detected a search target with and without a magnetic pulse over the frontal eye field (left) or over the posterior parietal cortex (right). Lower bars mean worse detection.",
+  "notice": "Detection dropped only when the pulse hit the frontal eye field, not the parietal site, which points to a cause because the stimulation changed behavior.",
+  "short": "Muggleton et al. 2011, J Neurophysiol",
+  "license": "",
+  "file": "frontal_eye_field_21490286.webp"
+ },
+ {
+  "region": "medulla_oblongata",
+  "pmid": "21115469",
+  "from": "Figure 5B-C",
+  "caption": "Stained neurons in a slice of the lower brainstem at the level of the pre-Botzinger complex, in a control brain (B) and in a brain from a patient with multiple system atrophy (C). The graphs on the right count labelled cells along the length of the medulla.",
+  "notice": "Look at the red arrow: the control shows a tall peak of cells there and the patient's brain almost none, so loss of these medulla neurons goes with breathing trouble (a correlation in tissue).",
+  "short": "Schwarzacher et al. 2011, Brain",
+  "license": "",
+  "file": "medulla_oblongata_21115469.webp"
+ },
+ {
+  "region": "mammillary_bodies",
+  "pmid": "10549995",
+  "from": "Figure 2",
+  "caption": "Mammillary body volume for each person, left side on top and right side below, in controls (NCS), alcoholics (ALC) and two groups of alcoholics with Korsakoff syndrome (KS-AMN and KS-DEM).",
+  "notice": "The circles sit lower step by step from controls to alcoholics to the Korsakoff groups, so smaller mammillary bodies go with worse memory loss, a correlation.",
+  "short": "Sullivan et al. 1999, Alcohol Clin Exp Res",
+  "license": "",
+  "file": "mammillary_bodies_10549995.webp"
+ },
+ {
+  "region": "centromedial_amygdala",
+  "pmid": "26926791",
+  "from": "Figure 6",
+  "caption": "How much more each amygdala part responded to negative pictures than to neutral ones, in signal change (a) and in time to peak (b). Total is the whole amygdala, CeM is the centromedial group, BA the basal group and LA the lateral nucleus.",
+  "notice": "The pink CeM bar is the tallest in both graphs, so this group responds most to negative images, which is a correlation seen on fMRI.",
+  "short": "Hrybouski et al. 2016, Neuroimage",
+  "license": "",
+  "file": "centromedial_amygdala_26926791.webp"
+ },
+ {
+  "region": "pars_opercularis",
+  "pmid": "10441759",
+  "from": "Figure 17",
+  "caption": "Two 3D reconstructed brains with areas 44 and 45 of Broca's region marked on the side of the frontal lobe, with the nearby sulci labelled.",
+  "notice": "Look at how the marked area 44 sits at the back of the lower frontal lobe but its edges do not follow the grooves exactly, so the gyrus is only an approximate landmark.",
+  "short": "Amunts et al. 1999, J Comp Neurol",
+  "license": "",
+  "file": "pars_opercularis_10441759.webp"
+ },
+ {
+  "region": "inferior_temporal_gyrus",
+  "pmid": "10632099",
+  "from": "Figure 1",
+  "caption": "Brain rendering for six patients with semantic dementia, showing in orange where gray matter is thinner than in healthy older people. Columns are left side, right side, inner left side and underside.",
+  "notice": "The orange shrinkage is strongest on the lower left side of the temporal lobe in the left lateral and ventral views, so loss here goes with loss of word meaning, a correlation.",
+  "short": "Mummery et al. 2000, Ann Neurol",
+  "license": "",
+  "file": "inferior_temporal_gyrus_10632099.webp"
+ },
+ {
+  "region": "marginal_sulcus",
+  "pmid": "9798401",
+  "from": "Plate I, Figs. 15 and 16",
+  "caption": "Two axial MRI slices through the top of the head. In the first the arrow shows a groove running back from the central sulcus toward the marginal ramus, and in the second the arrow marks a forked marginal ramus.",
+  "notice": "Find the arrow near the back of each slice: the marginal ramus is the short groove curving up near the midline just behind the central sulcus, which makes it a useful landmark.",
+  "short": "Erbìl et al. 1998, Okajimas Folia Anat Jpn",
+  "license": "",
+  "file": "marginal_sulcus_9798401.webp"
+ },
+ {
+  "region": "inferior_frontal_sulcus",
+  "pmid": "38989632",
+  "from": "Figure 3a-b",
+  "caption": "A right hemisphere with the inferior frontal sulcus traced in red (left), and the white matter surface of the same hemisphere, where the sulcus is dark blue and the arrows mark where it joins neighbouring sulci (right).",
+  "notice": "Follow the red line: it runs along the side of the frontal lobe above the inferior frontal gyrus, marking that gyrus's upper edge. In this brain it forks at its front end, one of the forms the paper describes.",
+  "short": "Nolan et al. 2024, Hum Brain Mapp",
+  "license": "CC BY NC ND",
+  "file": "inferior_frontal_sulcus_38989632.webp"
+ },
+ {
+  "region": "lateral_posterior_nucleus",
+  "pmid": "26156987",
+  "from": "Figure 3 (subject S1)",
+  "caption": "Brain slices through the thalamus of one person, from front to back in rows. Colors show which part of the visual field each spot responds to, and the outlines mark the visual pulvinar areas.",
+  "notice": "Colors change in an orderly way across the pulvinar, so it holds a map of the visual field, which is a correlation seen on fMRI.",
+  "short": "Arcaro et al. 2015, J Neurosci",
+  "license": "",
+  "file": "lateral_posterior_nucleus_26156987.webp"
+ }
+]

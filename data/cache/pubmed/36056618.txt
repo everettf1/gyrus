@@ -1,0 +1,54 @@
+1. Hum Brain Mapp. 2023 Feb 1;44(2):418-428. doi: 10.1002/hbm.26059. Epub 2022
+Sep  3.
+
+The effect of hunger state on hypothalamic functional connectivity in response 
+to food cues.
+
+Kullmann S(1)(2), Veit R(1), Crabtree DR(3)(4), Buosi W(3), Androutsos O(5), 
+Johnstone AM(3), Manios Y(6), Preissl H(1)(2), Smeets PAM(7)(8).
+
+Author information:
+(1)Institute for Diabetes Research and Metabolic Diseases of the Helmholtz 
+Center Munich at the University of Tübingen, German Center for Diabetes Research 
+(DZD), Tübingen, Germany.
+(2)Department of Internal Medicine, Division of Diabetology, Endocrinology and 
+Nephrology, Eberhard Karls University Tübingen, Tübingen, Germany.
+(3)The Rowett Institute, University of Aberdeen, Aberdeen, Scotland.
+(4)Division of Biomedical Sciences, Centre for Health Science, University of the 
+Highlands and Islands, Inverness, UK.
+(5)Department of Nutrition and Dietetics, School of Physical Education, Sport 
+Science and Dietetics, University of Thessaly, Volos, Greece.
+(6)Department of Nutrition-Dietetics, School of Health Science and Education, 
+Harokopio University, Athens, Greece.
+(7)Division of Human Nutrition and Health, Wageningen University, Wageningen, 
+The Netherlands.
+(8)Image Sciences Institute, University Medical Center Utrecht Brain Center, 
+Utrecht University, Utrecht, The Netherlands.
+
+The neural underpinnings of the integration of internal and external cues that 
+reflect nutritional status are poorly understood in humans. The hypothalamus is 
+a key integrative area involved in short- and long-term energy intake 
+regulation. Hence, we examined the effect of hunger state on the hypothalamus 
+network using functional magnetic resonance imaging. In a multicenter study, 
+participants performed a food cue viewing task either fasted or sated on two 
+separate days. We evaluated hypothalamic functional connectivity (FC) using 
+psychophysiological interactions during high versus low caloric food cue viewing 
+in 107 adults (divided into four groups based on age and body mass index [BMI]; 
+age range 24-76 years; BMI range 19.5-41.5 kg/m2 ). In the sated compared to the 
+fasted condition, the hypothalamus showed significantly higher FC with the 
+bilateral caudate, the left insula and parts of the left inferior frontal 
+cortex. Interestingly, we observed a significant interaction between hunger 
+state and BMI group in the dorsolateral prefrontal cortex (DLPFC). Participants 
+with normal weight compared to overweight and obesity showed higher FC between 
+the hypothalamus and DLPFC in the fasted condition. The current study showed 
+that task-based FC of the hypothalamus can be modulated by internal (hunger 
+state) and external cues (i.e., food cues with varying caloric content) with a 
+general enhanced communication in the sated state and obesity-associated 
+differences in hypothalamus to DLPFC communication. This could potentially 
+promote overeating in persons with obesity.
+
+© 2022 The Authors. Human Brain Mapping published by Wiley Periodicals LLC.
+
+DOI: 10.1002/hbm.26059
+PMCID: PMC9842901
+PMID: 36056618 [Indexed for MEDLINE]

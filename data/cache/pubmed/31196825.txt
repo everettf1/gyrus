@@ -1,0 +1,32 @@
+1. Epilepsy Behav. 2019 Aug;97:296-303. doi: 10.1016/j.yebeh.2019.03.051. Epub
+2019  Jun 10.
+
+Electrical stimulation of the human claustrum.
+
+Bickel S(1), Parvizi J(2).
+
+Author information:
+(1)Laboratory of Behavioral and Cognitive Neuroscience, Stanford Human 
+Intracranial Cognitive Electrophysiology Program, Department of Neurology and 
+Neurological Sciences, Stanford University, Stanford, CA 94305, United States of 
+America.
+(2)Laboratory of Behavioral and Cognitive Neuroscience, Stanford Human 
+Intracranial Cognitive Electrophysiology Program, Department of Neurology and 
+Neurological Sciences, Stanford University, Stanford, CA 94305, United States of 
+America. Electronic address: jparvizi@stanford.edu.
+
+To probe the causal importance of the claustrum in human subjective experience, 
+we delivered electrical pulses either unilaterally or bilaterally within the 
+core of this structure in five neurosurgical patients implanted with 
+intracranial electrodes. Patients reported subjective experiences in various 
+sensory domains and exhibited reflexive movements after real but not sham 
+stimulations. However, none of the stimulations evoked loss of consciousness or 
+lack of subjective awareness even with strong bilateral stimulations. Our study 
+is the first to probe the effects of electrical perturbation of human claustrum 
+through electrodes implanted within the claustrum itself and provide novel 
+causal information about the human claustrum.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.yebeh.2019.03.051
+PMID: 31196825 [Indexed for MEDLINE]

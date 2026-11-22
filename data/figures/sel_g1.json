@@ -1,0 +1,122 @@
+[
+ {
+  "region": "primary_somatosensory_cortex",
+  "pmid": "29285773",
+  "from": "Figure 4",
+  "caption": "Sites on the surface of the brain where electrical stimulation made patients feel touch, colored by body part. Body points (feet to wrist) run along the postcentral gyrus and head points (green) sit at its lower, outer end.",
+  "notice": "Follow the colors from feet and legs near the midline to the face at the side: stimulation caused the sensation, so this is causal evidence for a map of the body on the cortex.",
+  "short": "Roux et al. 2018, J Physiol",
+  "license": "",
+  "file": "primary_somatosensory_cortex_29285773.webp"
+ },
+ {
+  "region": "temporoparietal_junction",
+  "pmid": "20351278",
+  "from": "Figure 3",
+  "caption": "Moral judgments after magnetic stimulation of the right TPJ (dark bars) or a control spot (light bars). Judgments run from permissible at the top to forbidden at the bottom.",
+  "notice": "Look at the attempted harm bars (negative belief, neutral outcome), marked with a star: after right TPJ stimulation people judged them as less forbidden, so disrupting the region caused the change.",
+  "short": "Young et al. 2010, Proc Natl Acad Sci U S A",
+  "license": "",
+  "file": "temporoparietal_junction_20351278.webp"
+ },
+ {
+  "region": "temporoparietal_junction",
+  "pmid": "24486722",
+  "from": "Figure 3",
+  "caption": "Brain maps combining many imaging studies of theory of mind. Row A pools all studies and the rows below show where different task groups overlap.",
+  "notice": "Look for the spots on the back sides of the brain, at the temporoparietal junction on both sides, that stay lit in every row: this is correlation, since the maps come from imaging.",
+  "short": "Schurz et al. 2014, Neurosci Biobehav Rev",
+  "license": "",
+  "file": "temporoparietal_junction_24486722.webp"
+ },
+ {
+  "region": "caudate_nucleus",
+  "pmid": "31504220",
+  "from": "Figure 2",
+  "caption": "Beta wave power recorded from the caudate (A to C) and the dorsolateral prefrontal cortex (D to F) while patients got feedback in a learning task. Blue is correct trials and red is incorrect trials.",
+  "notice": "In the caudate plots (B and C), beta power after feedback is higher for correct than incorrect answers, a correlation that ties the caudate to learning from feedback.",
+  "short": "Bick et al. 2019, Brain",
+  "license": "",
+  "file": "caudate_nucleus_31504220.webp"
+ },
+ {
+  "region": "anterior_lobe_of_cerebellum",
+  "pmid": "18835452",
+  "from": "Figure 1a",
+  "caption": "Slices through the cerebellum showing where each kind of task was active across many imaging studies. The last panel labels the lobules, and the Motor panel shows a strong spot near the midline.",
+  "notice": "Compare the Motor and Somatosensory panels with the labeled atlas: movement tasks activate the upper cerebellum, near lobules V and VI. This is correlation from imaging.",
+  "short": "Stoodley et al. 2009, Neuroimage",
+  "license": "",
+  "file": "anterior_lobe_of_cerebellum_18835452.webp"
+ },
+ {
+  "region": "paracentral_lobule",
+  "pmid": "9414011",
+  "from": "Figure 2",
+  "caption": "PET scans of women straining the pelvic floor or the abdomen compared with rest, shown from above and on the inner surface of each hemisphere. Bright spots mark increased blood flow.",
+  "notice": "In the middle row, the pelvic floor spots sit at the top of the inner surface of the hemisphere, the most medial part of motor cortex. This is correlation from imaging.",
+  "short": "Blok et al. 1997, J Comp Neurol",
+  "license": "",
+  "file": "paracentral_lobule_9414011.webp"
+ },
+ {
+  "region": "postcentral_gyrus",
+  "pmid": "29285773",
+  "from": "Figure 2A to C",
+  "caption": "Stimulation sites on the postcentral gyrus where patients felt touch on each finger, colored by finger. Panels B and C zoom in on the left and right hemispheres, with each dot marking the average site for one finger.",
+  "notice": "Follow the colors across the gyrus: the little finger (pink) sits to one end and the thumb (red) at the other, so the fingers are laid out in an ordered map. Stimulation caused the feelings, so this is causal.",
+  "short": "Roux et al. 2018, J Physiol",
+  "license": "",
+  "file": "postcentral_gyrus_29285773.webp"
+ },
+ {
+  "region": "anterior_ascending_ramus",
+  "pmid": "35441988",
+  "from": "Figure 5",
+  "caption": "Four brains, one per row, each showing the anterior ascending ramus (aals, red) and the horizontal ramus (hals, blue) of the lateral sulcus. The left picture marks the grooves on the brain, the middle shows them inside the brain surface and the right shows the grooves alone.",
+  "notice": "Compare the red and blue grooves from row to row: their shape and number differ between brains, so identifying the ramus takes care.",
+  "short": "Wang et al. 2022, Brain Struct Funct",
+  "license": "CC BY",
+  "file": "anterior_ascending_ramus_35441988.webp"
+ },
+ {
+  "region": "anterior_transverse_collateral_sulcus",
+  "pmid": "29966775",
+  "from": "Figure 2",
+  "caption": "Underside of twelve brains with the collateral sulcus painted red, the rhinal sulcus yellow and the occipitotemporal sulcus green.",
+  "notice": "Look at how the red line branches, breaks or joins its neighbors from one brain to the next: the same sulcus takes different forms in different people.",
+  "short": "Ovalioglu et al. 2018, World Neurosurg",
+  "license": "",
+  "file": "anterior_transverse_collateral_sulcus_29966775.webp"
+ },
+ {
+  "region": "lunate_sulcus",
+  "pmid": "16835937",
+  "from": "Figure 3 (top)",
+  "caption": "Back views of individual human brains where a lunate sulcus or a composite lunate sulcus was found, with each sulcus marked in blue and numbered by subject.",
+  "notice": "Compare the blue lines from brain to brain: their position and shape vary a lot, so the human lunate sulcus is not one fixed landmark.",
+  "short": "Allen et al. 2006, Anat Rec A Discov Mol Cell Evol Biol",
+  "license": "",
+  "file": "lunate_sulcus_16835937.webp"
+ },
+ {
+  "region": "lateral_orbital_sulcus",
+  "pmid": "35597228",
+  "from": "Figure 2",
+  "caption": "Cartoons of the four pattern types of the grooves on the underside of the frontal lobe. The lateral orbital sulcus is drawn in blue and the medial orbital sulcus in red.",
+  "notice": "Look at the blue lines from type to type and from row to row: they are split, joined or shifted, which shows how much this sulcus varies between people.",
+  "short": "Troiani et al. 2022, Psychiatry Res Neuroimaging",
+  "license": "",
+  "file": "lateral_orbital_sulcus_35597228.webp"
+ },
+ {
+  "region": "postcentral_sulcus",
+  "pmid": "26296305",
+  "from": "Figure 2",
+  "caption": "A left hemisphere with the postcentral sulcus (PoCS) divided into five colored segments, s1 to s5, and dots showing where leg, hand, mouth and other movements gave activity.",
+  "notice": "Notice the gaps between the colored segments, marked by arrowheads: the sulcus is often broken into pieces, and it lies just behind the central sulcus (CS).",
+  "short": "Zlatkina et al. 2016, Eur J Neurosci",
+  "license": "",
+  "file": "postcentral_sulcus_26296305.webp"
+ }
+]

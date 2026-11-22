@@ -1,0 +1,58 @@
+1. Brain Sci. 2021 Nov 6;11(11):1469. doi: 10.3390/brainsci11111469.
+
+Understanding Parinaud's Syndrome.
+
+Ortiz JF(1), Eissa-Garces A(2), Ruxmohan S(3), Cuenca V(2), Kaur M(4), Fabara 
+SP(5), Khurana M(6), Parwani J(7), Paez M(8), Anwar F(1), Tamton H(3), Cueva 
+W(3).
+
+Author information:
+(1)California Institute of Behavioral Neuroscience & Psychology, Faifield, CA 
+94534, USA.
+(2)School of Medicine, Colegio de Ciencias de la Salud, Universidad San 
+Francisco de Quito, Quito 170901, Ecuador.
+(3)Neurology Department, Larkin Community Hospital, South Miami, FL 33143, USA.
+(4)Government Medical College, Patiala 147001, India.
+(5)School of Medicine, Colegio de Ciencias de la Salud, Universidad Católica de 
+Santiago de Guayaquil, Guayaquil 090615, Ecuador.
+(6)Department of Public Health, University of California, Berkeley, CA 94720, 
+USA.
+(7)School of Medicine, Neurology Department, Lokmanya Tilak Municipal Medical 
+College, Mumbai 4000022, India.
+(8)School of Medicine, Colegio de Ciencias de la Salud, Pontificia Universidad 
+Católica del Ecuador, Quito 170143, Ecuador.
+
+Parinaud's syndrome involves dysfunction of the structures of the dorsal 
+midbrain. We investigated the pathophysiology related to the signs and symptoms 
+to better understand the symptoms of Parinaud's syndrome: diplopia, blurred 
+vision, visual field defects, ptosis, squint, and ataxia, and Parinaud's main 
+signs of upward gaze paralysis, upper eyelid retraction, convergence retraction 
+nystagmus (CRN), and pseudo-Argyll Robertson pupils. In upward gaze palsy, three 
+structures are disrupted: the rostral interstitial nucleus of the medial 
+longitudinal fasciculus (riMLF), interstitial nucleus of Cajal (iNC), and the 
+posterior commissure. In CRN, there is a continuous discharge of the medial 
+rectus muscle because of the lack of inhibition of supranuclear fibers. In 
+Collier's sign, the posterior commissure and the iNC are mainly involved. In the 
+vicinity of the iNC, there are two essential groups of cells, the M-group cells 
+and central caudal nuclear (CCN) group cells, which are important for vertical 
+gaze, and eyelid control. Overstimulation of the M group of cells and increased 
+firing rate of the CCN group causing eyelid retraction. External compression of 
+the posterior commissure, and pretectal area causes pseudo-Argyll Robertson 
+pupils. Pseudo-Argyll Robertson pupils constrict to accommodation and have a 
+slight response to light (miosis) as opposed to Argyll Robertson pupils were 
+there is no response to a light stimulus. In Parinaud's syndrome patients 
+conserve a slight response to light because an additional pathway to a pupillary 
+light response that involves attention to a conscious bright/dark stimulus. 
+Diplopia is mainly due to involvement of the trochlear nerve (IVth cranial 
+nerve. Blurry vision is related to accommodation problems, while the visual 
+field defects are a consequence of chronic papilledema that causes optic 
+neuropathy. Ptosis in Parinaud's syndrome is caused by damage to the oculomotor 
+nerve, mainly the levator palpebrae portion. We did not find a reasonable 
+explanation for squint. Finally, ataxia is caused by compression of the superior 
+cerebellar peduncle.
+
+DOI: 10.3390/brainsci11111469
+PMCID: PMC8615667
+PMID: 34827468
+
+Conflict of interest statement: The authors declare no conflict of interest.

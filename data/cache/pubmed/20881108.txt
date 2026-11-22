@@ -1,0 +1,35 @@
+1. J Neurosci. 2010 Sep 29;30(39):12897-901. doi: 10.1523/JNEUROSCI.3077-10.2010.
+
+Medial parietal cortex encodes perceived heading direction in humans.
+
+Baumann O(1), Mattingley JB.
+
+Author information:
+(1)Queensland Brain Institute and School of Psychology, University of 
+Queensland, St. Lucia, Queensland 4072, Australia. o.baumann@uq.edu.au
+
+The ability to encode and update representations of heading direction is crucial 
+for successful navigation. In rats, head-direction cells located within the 
+limbic system alter their firing rate in accordance with the animal's current 
+heading. To date, however, the neural structures that underlie an allocentric or 
+viewpoint-independent sense of direction in humans remain unknown. Here we used 
+functional magnetic resonance imaging (fMRI) to measure neural adaptation to 
+distinctive landmarks associated with one of four heading directions in a 
+virtual environment. Our experiment consisted of two phases: a "learning phase," 
+in which participants actively navigated the virtual maze; and a "test phase," 
+in which participants viewed pairs of images from the maze while undergoing 
+fMRI. We found that activity within the medial parietal cortex--specifically, 
+Brodmann area 31--was modulated by learned heading, suggesting that this region 
+contains neural populations involved in the encoding and retrieval of 
+allocentric heading information in humans. These results are consistent with 
+clinical case reports of patients with acquired lesions of medial posterior 
+brain regions, who exhibit deficits in forming and recalling links between 
+landmarks and directional information. Our findings also help to explain why 
+navigation disturbances are commonly observed in patients with Alzheimer's 
+disease, whose pathology typically includes the cortical region we have 
+identified as being crucial for maintaining representations of heading 
+direction.
+
+DOI: 10.1523/JNEUROSCI.3077-10.2010
+PMCID: PMC6633521
+PMID: 20881108 [Indexed for MEDLINE]

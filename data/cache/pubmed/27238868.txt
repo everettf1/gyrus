@@ -1,0 +1,43 @@
+1. Neuron. 2016 Jun 15;90(6):1165-1173. doi: 10.1016/j.neuron.2016.04.037. Epub 
+2016 May 26.
+
+Ventral Pallidum Neurons Encode Incentive Value and Promote Cue-Elicited 
+Instrumental Actions.
+
+Richard JM(1), Ambroggi F(2), Janak PH(3), Fields HL(4).
+
+Author information:
+(1)Department of Neurology, The Wheeler Center for the Neurobiology of 
+Addiction, University of California, San Francisco, San Francisco, CA 94158, 
+USA; Department of Psychological and Brain Sciences, Krieger School of Arts and 
+Sciences, Johns Hopkins University, Baltimore, MD 21218, USA. Electronic 
+address: jocelyn.richard@jhu.edu.
+(2)Department of Neurology, The Wheeler Center for the Neurobiology of 
+Addiction, University of California, San Francisco, San Francisco, CA 94158, 
+USA; Aix-Marseille Université, CNRS, LNC UMR 7291, 13331 Marseille, France.
+(3)Department of Psychological and Brain Sciences, Krieger School of Arts and 
+Sciences, Johns Hopkins University, Baltimore, MD 21218, USA; The Solomon H. 
+Snyder Department of Neuroscience, Johns Hopkins School of Medicine, Johns 
+Hopkins University, Baltimore, MD 21218, USA.
+(4)Department of Neurology, The Wheeler Center for the Neurobiology of 
+Addiction, University of California, San Francisco, San Francisco, CA 94158, 
+USA. Electronic address: howard.fields@ucsf.edu.
+
+The ventral pallidum (VP) is posited to contribute to reward seeking by 
+conveying upstream signals from the nucleus accumbens (NAc). Yet, very little is 
+known about how VP neuron responses contribute to behavioral responses to 
+incentive cues. Here, we recorded activity of VP neurons in a cue-driven 
+reward-seeking task previously shown to require neural activity in the NAc. We 
+find that VP neurons encode both learned cue value and subsequent reward seeking 
+and that activity in VP neurons is required for robust cue-elicited reward 
+seeking. Surprisingly, the onset of VP neuron responses occurs at a shorter 
+latency than cue-elicited responses in NAc neurons. This suggests that this VP 
+encoding is not a passive response to signals generated in the NAc and that VP 
+neurons integrate sensory and motivation-related information received directly 
+from other mesocorticolimbic inputs.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neuron.2016.04.037
+PMCID: PMC4911300
+PMID: 27238868 [Indexed for MEDLINE]

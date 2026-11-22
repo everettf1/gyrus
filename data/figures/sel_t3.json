@@ -1,0 +1,132 @@
+[
+ {
+  "region": "t_concept_neurons_1",
+  "pmid": "15973409",
+  "from": "Figure 1a",
+  "caption": "One neuron in the hippocampus of a patient who viewed many pictures. Each small block shows spikes (dots) and a firing histogram for one picture. The neuron fires to the pictures of one actress alone (shaded box) and hardly at all to the other faces, animals and buildings.",
+  "notice": "Compare the shaded box with the rest: every picture of the same person on her own drives the cell, and almost nothing else does. This is a correlation between firing and who is shown.",
+  "short": "Quiroga et al. 2005, Nature",
+  "license": "",
+  "file": "t_concept_neurons_1_15973409.webp"
+ },
+ {
+  "region": "t_concept_neurons_1",
+  "pmid": "22760181",
+  "from": "Figure 2A",
+  "caption": "An example concept cell in the entorhinal cortex. It fires to three pictures of the film character Luke Skywalker, to his written name and to his name spoken by two voices, but not to the other pictures and names in the lower row.",
+  "notice": "The top row shows the same cell responding to different pictures, text and sound of one concept, which is the pattern the review calls a concept cell. This is a recording, so a correlation.",
+  "short": "Quiroga 2012, Nat Rev Neurosci",
+  "license": "",
+  "file": "t_concept_neurons_1_22760181.webp"
+ },
+ {
+  "region": "t_concept_neurons_3",
+  "pmid": "18768680",
+  "from": "Figure 1",
+  "caption": "Responses of 20 example neurons from four medial temporal regions: parahippocampal cortex (PHC), entorhinal cortex (EC), hippocampus (Hipp) and amygdala (Amy). Each block shows spikes across six showings of a picture, with a firing histogram below.",
+  "notice": "Each block is a neuron that fired clearly after a picture appeared, the kind of selective response that was counted in all four regions.",
+  "short": "Mormann et al. 2008, J Neurosci",
+  "license": "",
+  "file": "t_concept_neurons_3_18768680.webp"
+ },
+ {
+  "region": "t_concept_neurons_3b",
+  "pmid": "18768680",
+  "from": "Figure 4A and 4B",
+  "caption": "Cumulative curves for the four regions. The top graph shows how long neurons took to respond. The lower graph shows how many pictures each neuron responded to.",
+  "notice": "The blue PHC line sits to the left in the top graph (faster) and to the right in the lower graph (more pictures per cell), so PHC neurons respond earlier and less selectively. This is a correlation across regions.",
+  "short": "Mormann et al. 2008, J Neurosci",
+  "license": "",
+  "file": "t_concept_neurons_3b_18768680.webp"
+ },
+ {
+  "region": "t_concept_neurons_4",
+  "pmid": "19631538",
+  "from": "Figure 2",
+  "caption": "A neuron in the entorhinal cortex. It fired to three pictures of Saddam Hussein, to his written name and to his spoken name (the sound icon), and little to other pictures and names.",
+  "notice": "The shaded box in the top row holds the responses: the same person drives the cell as a picture, as text and as a voice, which is a correlation with the person, not the image.",
+  "short": "Quian Quiroga et al. 2009, Curr Biol",
+  "license": "",
+  "file": "t_concept_neurons_4_19631538.webp"
+ },
+ {
+  "region": "t_concept_neurons_5",
+  "pmid": "17021178",
+  "from": "Figure 2",
+  "caption": "The estimated spread of sparseness across the recordings: the percentage of pictures that make a neuron respond. The solid curve uses a stricter threshold for a response and the dashed curve a looser one. The arrows mark each curve's average.",
+  "notice": "Both curves sit at a small percentage of pictures per neuron, which fits a sparse code in which each neuron responds to few stimuli.",
+  "short": "Waydo et al. 2006, J Neurosci",
+  "license": "",
+  "file": "t_concept_neurons_5_17021178.webp"
+ },
+ {
+  "region": "t_concept_neurons_6",
+  "pmid": "18299568",
+  "from": "Figure 1",
+  "caption": "A hippocampal neuron that responds to a picture of the patient's brother, shown for 33, 66, 132 and 264 ms. Blue marks in the spike plots are showings the patient recognized and red marks are showings that were not recognized.",
+  "notice": "At 33 ms the neuron fires only when the showing is recognized (blue), so firing follows recognition rather than the image alone. This is a correlation.",
+  "short": "Quiroga et al. 2008, Proc Natl Acad Sci U S A",
+  "license": "",
+  "file": "t_concept_neurons_6_18299568.webp"
+ },
+ {
+  "region": "t_concept_neurons_6",
+  "pmid": "28943091",
+  "from": "Figure 2A to 2C",
+  "caption": "Average firing of neurons in the amygdala, hippocampus and entorhinal cortex, and parahippocampal cortex when a picture was seen (green) or unseen (orange).",
+  "notice": "The green curve peaks higher and earlier than the orange one, most clearly in the amygdala, so unseen pictures give weaker, later responses. This is a correlation.",
+  "short": "Reber et al. 2017, Curr Biol",
+  "license": "",
+  "file": "t_concept_neurons_6_28943091.webp"
+ },
+ {
+  "region": "t_concept_neurons_7",
+  "pmid": "18772395",
+  "from": "Fig. 1B to 1D",
+  "caption": "A neuron in the entorhinal cortex. In B it fires while the patient watches Simpsons clips. In C and D it fires again, a moment before the patient says 'The Simpsons' aloud during free recall.",
+  "notice": "Look at the burst of firing just before the spoken report in D: the same cell that responded to the clip becomes active again before recall. This is a correlation.",
+  "short": "Gelbard-Sagiv et al. 2008, Science",
+  "license": "",
+  "file": "t_concept_neurons_7_18772395.webp"
+ },
+ {
+  "region": "t_concept_neurons_7",
+  "pmid": "11099042",
+  "from": "Figure 2",
+  "caption": "One neuron's firing during vision (a) and during visual imagery (b), grouped by type of picture. The neuron responds most to the objects group in both cases.",
+  "notice": "The same group of pictures drives the cell when seen and when only imagined, which is a correlation between firing and the content of imagery.",
+  "short": "Kreiman et al. 2000, Nature",
+  "license": "",
+  "file": "t_concept_neurons_7_11099042.webp"
+ },
+ {
+  "region": "t_concept_neurons_7",
+  "pmid": "20981100",
+  "from": "Figure 2C to 2F",
+  "caption": "Trials in which a patient made one of two overlaid pictures clearer by focusing on it. The colored lines track how visible each picture became over time, and the spike rows below show the neurons being used.",
+  "notice": "The patient moves the picture toward the target mainly while the units tied to the target picture are firing, so the firing was under the patient's control.",
+  "short": "Cerf et al. 2010, Nature",
+  "license": "",
+  "file": "t_concept_neurons_7_20981100.webp"
+ },
+ {
+  "region": "t_concept_neurons_8",
+  "pmid": "26139375",
+  "from": "Figure 5A to 5C",
+  "caption": "Average firing of 21 neurons to the preferred picture (P), the picture they did not fire to before (NP), and unrelated pictures, before and after the patient learned the pairing.",
+  "notice": "In the middle graph the green curve (after learning) rises well above the grey one (before), so the neurons started responding to the paired picture. This is a correlation.",
+  "short": "Ison et al. 2015, Neuron",
+  "license": "CC BY",
+  "file": "t_concept_neurons_8_26139375.webp"
+ },
+ {
+  "region": "t_concept_neurons_8",
+  "pmid": "34697305",
+  "from": "Fig. 2A and 2B",
+  "caption": "Average firing of the 61 concept neurons across the two pictures in a trial, whenever the first picture was the neuron's preferred concept. The heat map shows each neuron one row at a time.",
+  "notice": "After the second picture (a different, non-preferred concept) the blue main comparison line stays above the red no comparison line, so the cells fire again when a comparison is needed. This is a correlation.",
+  "short": "Bausch et al. 2021, Nat Commun",
+  "license": "CC BY",
+  "file": "t_concept_neurons_8_34697305.webp"
+ }
+]

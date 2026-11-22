@@ -1,0 +1,132 @@
+1. Nature. 2025 Jun;642(8066):133-142. doi: 10.1038/s41586-025-08888-1. Epub 2025
+ Apr 30.
+
+Adversarial testing of global neuronal workspace and integrated information 
+theories of consciousness.
+
+Cogitate Consortium; Ferrante O(#)(1), Gorska-Klimowska U(#)(2), Henin S(#)(3), 
+Hirschhorn R(#)(4), Khalaf A(#)(5), Lepauvre A(#)(6)(7), Liu L(#)(8)(9)(10), 
+Richter D(#)(7)(11), Vidal Y(#)(7), Bonacchi N(12)(13), Brown T(6), Sripad P(6), 
+Armendariz M(14)(15), Bendtz K(14)(15), Ghafari T(1)(16), Hetenyi D(1)(17), 
+Jeschke J(3), Kozma C(2)(18), Mazumder DR(14), Montenegro S(3), Seedat A(3), 
+Sharafeldin A(19), Yang S(20), Baillet S(21), Chalmers DJ(22), Cichy 
+RM(23)(24)(25), Fallon F(26), Panagiotaropoulos TI(27)(28), Blumenfeld H(5), de 
+Lange FP(7), Devore S(3), Jensen O(16)(29), Kreiman G(14)(15), Luo H(8)(30)(31), 
+Boly M(2)(32), Dehaene S(33)(34), Koch C(35)(36), Tononi G(2), Pitts M(37), 
+Mudrik L(4)(38), Melloni L(39)(40)(41).
+
+Author information:
+(1)Centre for Human Brain Health, School of Psychology, University of 
+Birmingham, Birmingham, UK.
+(2)Department of Psychiatry, University of Wisconsin-Madison, Madison, WI, USA.
+(3)Department of Neurology, New York University Grossman School of Medicine, New 
+York, NY, USA.
+(4)Sagol School of Neuroscience, Tel Aviv University, Tel Aviv, Israel.
+(5)Department of Neurology, Yale School of Medicine, New Haven, CT, USA.
+(6)Neural Circuits, Consciousness and Cognition Research Group, Max Planck 
+Institute for Empirical Aesthetics, Frankfurt am Main, Germany.
+(7)Donders Institute for Brain, Cognition and Behaviour, Radboud University 
+Nijmegen, Nijmegen, the Netherlands.
+(8)School of Psychological and Cognitive Sciences, Peking University, Beijing, 
+China.
+(9)Cognitive Science and Allied Health School, Beijing Language and Culture 
+University, Beijing, China.
+(10)Speech and Hearing Impairment and Brain Computer Interface LAB, Beijing 
+Language and Culture University, Beijing, China.
+(11)Mind, Brain and Behavior Research Center (CIMCYC), University of Granada, 
+Granada, Spain.
+(12)William James Center for Research, ISPA - Instituto Universitário, Lisbon, 
+Portugal.
+(13)Champalimaud Research, Lisbon, Portugal.
+(14)Boston Children's Hospital, Harvard Medical School, Boston, MA, USA.
+(15)Center for Brains, Minds and Machines, Cambridge, MA, USA.
+(16)Wellcome Centre for Integrative Neuroscience, Oxford Centre for Human Brain 
+Activity, Department of Psychiatry, University of Oxford, Oxford, UK.
+(17)Department of Imaging Neuroscience, UCL Queen Square Institute of Neurology, 
+University College London, London, UK.
+(18)CNNP Lab, School of Computing, Newcastle University, Newcastle upon Tyne, 
+UK.
+(19)Georgia Institute of Technology, Atlanta, GA, USA.
+(20)Department of Psychology, University of Amsterdam, Amsterdam, the 
+Netherlands.
+(21)Montreal Neurological Institute, McGill University, Montreal, Québec, 
+Canada.
+(22)Department of Philosophy, New York University, New York, NY, USA.
+(23)Department of Education and Psychology, Freie Universität Berlin, Berlin, 
+Germany.
+(24)Berlin School of Mind and Brain, Faculty of Philosophy, Humboldt-Universität 
+zu Berlin, Berlin, Germany.
+(25)Bernstein Center for Computational Neuroscience Berlin, Berlin, Germany.
+(26)Philosophy Department, Psychology Department, St John's University, Queens, 
+NY, USA.
+(27)Department of Psychology, National and Kapodistrian University of Athens, 
+Athens, Greece.
+(28)Centre for Basic Research, Biomedical Research Foundation of the Academy of 
+Athens (BRFAA), Athens, Greece.
+(29)Department of Experimental Psychology, University of Oxford, Oxford, UK.
+(30)IDG/McGovern Institute for Brain Research, Peking University, Beijing, 
+China.
+(31)Key Laboratory of Machine Perception (Ministry of Education), Peking 
+University, Beijing, China.
+(32)Department of Neurology, University of Wisconsin-Madison, Madison, WI, USA.
+(33)Cognitive Neuroimaging Unit, Commissariat à l'Energie Atomique (CEA), 
+Institut National de la Santé et de la Recherche Médicale (INSERM), Université 
+Paris-Saclay, NeuroSpin Center, Gif-sur-Yvette, France.
+(34)Collège de France, Université Paris-Sciences-Lettres (PSL), Paris, France.
+(35)Allen Institute, Seattle, WA, USA.
+(36)Tiny Blue Dot Foundation, Santa Monica, CA, USA.
+(37)Psychology Department, Reed College, Portland, OR, USA.
+(38)School of Psychological Sciences, Tel Aviv University, Tel Aviv, Israel.
+(39)Department of Neurology, New York University Grossman School of Medicine, 
+New York, NY, USA. lucia.mellonibuljevic@rub.de.
+(40)Neural Circuits, Consciousness and Cognition Research Group, Max Planck 
+Institute for Empirical Aesthetics, Frankfurt am Main, Germany. 
+lucia.mellonibuljevic@rub.de.
+(41)Predictive Brain Department, Research Center One Health Ruhr, University 
+Alliance Ruhr, Faculty of Psychology, Ruhr University Bochum, Bochum, Germany. 
+lucia.mellonibuljevic@rub.de.
+(#)Contributed equally
+
+Different theories explain how subjective experience arises from brain 
+activity1,2. These theories have independently accrued evidence, but have not 
+been directly compared3. Here we present an open science adversarial 
+collaboration directly juxtaposing integrated information theory (IIT)4,5 and 
+global neuronal workspace theory (GNWT)6-10 via a theory-neutral 
+consortium11-13. The theory proponents and the consortium developed and 
+preregistered the experimental design, divergent predictions, expected outcomes 
+and interpretation thereof12. Human participants (n = 256) viewed suprathreshold 
+stimuli for variable durations while neural activity was measured with 
+functional magnetic resonance imaging, magnetoencephalography and intracranial 
+electroencephalography. We found information about conscious content in visual, 
+ventrotemporal and inferior frontal cortex, with sustained responses in 
+occipital and lateral temporal cortex reflecting stimulus duration, and 
+content-specific synchronization between frontal and early visual areas. These 
+results align with some predictions of IIT and GNWT, while substantially 
+challenging key tenets of both theories. For IIT, a lack of sustained 
+synchronization within the posterior cortex contradicts the claim that network 
+connectivity specifies consciousness. GNWT is challenged by the general lack of 
+ignition at stimulus offset and limited representation of certain conscious 
+dimensions in the prefrontal cortex. These challenges extend to other theories 
+of consciousness that share some of the predictions tested here14-17. Beyond 
+challenging the theories, we present an alternative approach to advance 
+cognitive neuroscience through principled, theory-driven, collaborative research 
+and highlight the need for a quantitative framework for systematic theory 
+testing and building.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41586-025-08888-1
+PMCID: PMC12137136
+PMID: 40307561 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: C. Koch and G.T. are a 
+board members and have a financial interest in Intrinsic Powers, a company 
+developing a clinical device for assessing the presence and absence of 
+consciousness in patients. C. Koch is the Chief Scientist of the Tiny Blue Dot 
+Foundation in Santa Monica, CA. G.T. holds a patent for a method of assessing 
+anaesthetization (patent no.: US 8,457,731 B2). S.Dehaene is a co-inventor on 
+patent 2019 EP 2983586 (‘Methods to monitor consciousness’); and is an associate 
+at NeuroMeters, a company that applies these methods in clinical practice. None 
+of these affiliations impose restrictions on publication or present conflicts of 
+interest related to this study. The other authors declare no competing 
+interests.

@@ -1,0 +1,44 @@
+1. Biol Psychiatry. 2007 Dec 1;62(11):1208-16. doi:
+10.1016/j.biopsych.2007.01.018.  Epub 2007 Jun 14.
+
+Efficacy and safety of transcranial magnetic stimulation in the acute treatment 
+of major depression: a multisite randomized controlled trial.
+
+O'Reardon JP(1), Solvason HB, Janicak PG, Sampson S, Isenberg KE, Nahas Z, 
+McDonald WM, Avery D, Fitzgerald PB, Loo C, Demitrack MA, George MS, Sackeim HA.
+
+Author information:
+(1)Department of Psychiatry, University of Pennsylvania, 3535 Market Street, 
+Philadelphia, PA 19014, USA.
+
+Comment in
+    Biol Psychiatry. 2010 Jan 15;67(2):e13; author reply e15-7. doi: 
+10.1016/j.biopsych.2009.03.026.
+    Australas Psychiatry. 2019 Aug;27(4):411. doi: 10.1177/1039856218810152.
+
+BACKGROUND: We tested whether transcranial magnetic stimulation (TMS) over the 
+left dorsolateral prefrontal cortex (DLPFC) is effective and safe in the acute 
+treatment of major depression.
+METHODS: In a double-blind, multisite study, 301 medication-free patients with 
+major depression who had not benefited from prior treatment were randomized to 
+active (n = 155) or sham TMS (n = 146) conditions. Sessions were conducted five 
+times per week with TMS at 10 pulses/sec, 120% of motor threshold, 3000 
+pulses/session, for 4-6 weeks. Primary outcome was the symptom score change as 
+assessed at week 4 with the Montgomery-Asberg Depression Rating Scale (MADRS). 
+Secondary outcomes included changes on the 17- and 24-item Hamilton Depression 
+Rating Scale (HAMD) and response and remission rates with the MADRS and HAMD.
+RESULTS: Active TMS was significantly superior to sham TMS on the MADRS at week 
+4 (with a post hoc correction for inequality in symptom severity between groups 
+at baseline), as well as on the HAMD17 and HAMD24 scales at weeks 4 and 6. 
+Response rates were significantly higher with active TMS on all three scales at 
+weeks 4 and 6. Remission rates were approximately twofold higher with active TMS 
+at week 6 and significant on the MADRS and HAMD24 scales (but not the HAMD17 
+scale). Active TMS was well tolerated with a low dropout rate for adverse events 
+(4.5%) that were generally mild and limited to transient scalp discomfort or 
+pain.
+CONCLUSIONS: Transcranial magnetic stimulation was effective in treating major 
+depression with minimal side effects reported. It offers clinicians a novel 
+alternative for the treatment of this disorder.
+
+DOI: 10.1016/j.biopsych.2007.01.018
+PMID: 17573044 [Indexed for MEDLINE]

@@ -1,0 +1,1583 @@
+[
+ {
+  "id": "hypothalamus",
+  "aliases": [
+   "hypothalamic nuclei",
+   "hypothalamic area"
+  ],
+  "hint": "floor of the third ventricle, above the pituitary stalk",
+  "summary": "The hypothalamus is a small collection of nuclei in the ventral diencephalon that forms the floor and lower walls of the third ventricle. It sits below the thalamus and above the pituitary gland, which it controls through a portal blood supply and through axons that end in the posterior pituitary. It receives input from the limbic system, brainstem, retina and the body's own hormone and temperature signals, and it sends output to the pituitary, brainstem and spinal autonomic centers. It regulates body temperature, hunger and thirst, circadian rhythm, sleep and wakefulness, the stress response and reproductive hormones, and so keeps the internal state of the body stable.",
+  "where": "The hypothalamus lies below the hypothalamic sulcus on the wall of the third ventricle, inferior to the thalamus. It runs from the optic chiasm and lamina terminalis at the front to the mammillary bodies at the back, and the infundibulum and pituitary hang from its underside. It is seen best in a midsagittal view or from below.",
+  "does": "The hypothalamus holds the set points for body temperature, fluid balance and energy balance, and it drives behavior to correct them. The supraoptic and paraventricular nuclei make vasopressin and oxytocin, and the paraventricular nucleus also makes CRH for the stress axis. The suprachiasmatic nucleus is the main circadian clock and receives direct retinal input. Neurons in the lateral hypothalamus that make orexin (hypocretin) keep the waking state stable, and the lateral and ventromedial areas have long been tied to feeding. Human evidence for the detailed map is thinner than the animal evidence, so many nucleus-level functions come from rodents.",
+  "connects": "Afferents come from the hippocampus and subiculum through the fornix, the amygdala through the stria terminalis and ventral amygdalofugal pathway, the brainstem and the retina. Efferents reach the pituitary, the thalamus through the mammillothalamic tract, and the brainstem and spinal cord through the medial forebrain bundle and dorsal longitudinal fasciculus.",
+  "clinical": "Damage to the supraoptic and paraventricular pathway causes central diabetes insipidus, and damage after surgery for a craniopharyngioma can cause severe hypothalamic obesity. Loss of orexin neurons causes narcolepsy type 1 with cataplexy. A hypothalamic hamartoma causes gelastic (laughing) seizures and often precocious puberty.",
+  "remember": "Hypo-thalamus means under the thalamus, and it runs the four Fs: feeding, fighting, fleeing and mating, plus the thermostat and the clock.",
+  "facts": [
+   "The hypothalamus controls the anterior pituitary through releasing hormones carried in the hypophyseal portal veins.",
+   "The suprachiasmatic nucleus, just above the optic chiasm, is the master circadian clock.",
+   "Vasopressin and oxytocin are made in the hypothalamus and released from the posterior pituitary."
+  ],
+  "quiz": [
+   {
+    "q": "Which diencephalic structure holds the body's thermostat and links the brain to the pituitary gland?",
+    "type": "function"
+   },
+   {
+    "q": "A child has episodes of uncontrollable laughter followed by precocious puberty, and MRI shows a mass on the floor of the third ventricle. Which structure is involved?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which structure forms the floor of the third ventricle between the optic chiasm and the mammillary bodies?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   4,
+   10
+  ],
+  "see_also": [
+   "thalamus",
+   "mammillary_bodies",
+   "amygdala",
+   "habenula"
+  ],
+  "how_we_know": "Most of what we know about hypothalamic nuclei comes from lesion and stimulation work in animals, so human evidence is more limited. In people, postmortem histology shows which cells are lost in disease, patient series show what a hypothalamic lesion does, and fMRI shows how the region's connectivity shifts with hunger. Imaging of such a small structure is coarse, and stimulation has not produced a clean human feeding effect.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "Loss of lateral hypothalamic hypocretin (orexin) cells underlies narcolepsy",
+    "finding": "Researchers examined six brains from people with narcolepsy and screened 74 patients for gene mutations. Hypocretin peptides were globally lost in the perifornical hypothalamus of the narcoleptic brains, without scarring or inflammation. The data are correlational but point to a missing cell population as the cause.",
+    "quote": "In situ hybridization of the perifornical area and peptide radioimmunoassays indicated global loss of hypocretins, without gliosis or signs of inflammation in all human cases examined. Although hypocretin loci do not contribute significantly to genetic predisposition, most cases of human narcolepsy are associated with a deficient hypocretin system.",
+    "pmid": "10973318",
+    "doi": "10.1038/79690",
+    "cite": "Peyron C, Faraco J, Rogers W, et al. A mutation in a case of early onset narcolepsy and a generalized absence of hypocretin peptides in human narcoleptic brains. Nat Med. 2000;6(9):991-7.",
+    "year": 2000
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "A hypothalamic hamartoma causes gelastic seizures that surgery can relieve",
+    "finding": "Seventeen patients with refractory epilepsy from a hypothalamic hamartoma had the lesion removed or disconnected; sixteen had gelastic seizures. Eight became seizure-free, one had only brief gelastic seizures and eight were dramatically improved. The result is causal in direction, since cutting the lesion away from the hypothalamus stopped the seizures.",
+    "quote": "Eight patients became seizure-free, one patient had only brief gelastic seizures, and eight patients were dramatically improved with a mean follow up of 18.6 months (8 days to 43 months).",
+    "pmid": "12627881",
+    "data": {
+     "title": "Patients after disconnection surgery (17 treated)",
+     "unit": "patients",
+     "items": [
+      [
+       "Seizure-free",
+       8
+      ],
+      [
+       "Dramatically improved",
+       8
+      ],
+      [
+       "Only brief gelastic seizures",
+       1
+      ]
+     ]
+    },
+    "doi": "10.2176/nmc.43.61",
+    "cite": "Delalande O, Fohlen M. Disconnecting surgical treatment of hypothalamic hamartoma in children and adults with refractory epilepsy and proposal of a new classification. Neurol Med Chir (Tokyo). 2003;43(2):61-8.",
+    "year": 2003
+   },
+   {
+    "kind": "imaging",
+    "claim": "Hypothalamic connectivity changes with hunger state and food cues",
+    "finding": "In 107 adults who viewed food pictures once fasted and once sated, fMRI connectivity of the hypothalamus with the caudate, left insula and left inferior frontal cortex was higher when sated. This is correlational: it shows the region is engaged by hunger state, not that it is needed for it.",
+    "quote": "In the sated compared to the fasted condition, the hypothalamus showed significantly higher FC with the bilateral caudate, the left insula and parts of the left inferior frontal cortex.",
+    "pmid": "36056618",
+    "doi": "10.1002/hbm.26059",
+    "cite": "Kullmann S, Veit R, Crabtree DR, et al. The effect of hunger state on hypothalamic functional connectivity in response to food cues. Hum Brain Mapp. 2023;44(2):418-428.",
+    "year": 2023
+   }
+  ],
+  "stimulation": {
+   "method": "deep brain stimulation of the lateral hypothalamic area (4 patients with Prader-Willi syndrome)",
+   "effect": "Stimulation did not reduce weight in four patients with Prader-Willi syndrome: mean weight rose 9.6% at 6 months, and two developed stimulation-induced manic symptoms.",
+   "quote": "At 6 months after long-term DBS, patients had a mean 9.6% increase in weight, 5.8% increase in body mass index, 8.4% increase in abdominal circumference, 4.2% increase in neck circumference, 5.3% increase in the percentage of body fat, and 0% change in calorimetry compared with baseline. Two patients developed stimulation-induced manic symptoms.",
+   "pmid": "30646396",
+   "doi": "10.1001/jamanetworkopen.2018.5275",
+   "cite": "Franco RR, Fonoff ET, Alvarenga PG, et al. Assessment of Safety and Outcome of Lateral Hypothalamic Deep Brain Stimulation for Obesity in a Small Series of Patients With Prader-Willi Syndrome. JAMA Netw Open. 2018;1(7):e185275.",
+   "year": 2018
+  }
+ },
+ {
+  "id": "subthalamic_nucleus",
+  "aliases": [
+   "stn",
+   "corpus luysii",
+   "nucleus of luys",
+   "luys body"
+  ],
+  "hint": "lens-shaped cell mass sitting on top of the substantia nigra",
+  "summary": "The subthalamic nucleus is a small, lens-shaped nucleus at the junction of the diencephalon and midbrain, below the thalamus and above the substantia nigra. It is the only glutamatergic nucleus in the basal ganglia circuit, so it excites its targets while most other nuclei inhibit. It receives direct input from the cortex (the hyperdirect pathway) and from the external pallidum, and it drives the internal pallidum and substantia nigra pars reticulata. It acts as a brake on movement and is the most common target for deep brain stimulation in Parkinson's disease.",
+  "where": "The subthalamic nucleus sits ventral to the thalamus and zona incerta, dorsolateral to the substantia nigra and medial to the internal capsule and cerebral peduncle. It is a thin lens oriented obliquely in the coronal plane. It is easiest to find in a coronal or axial view at the level of the red nucleus.",
+  "does": "The subthalamic nucleus excites the output nuclei of the basal ganglia and so raises the inhibition that holds back thalamocortical movement signals. Cortical input through the hyperdirect pathway lets it halt an action quickly, which is why it is tied to stopping a prepared response. It also appears to slow decisions when options conflict, so that the wrong action is not chosen too fast. Its neurons fire in abnormal beta-frequency bursts in Parkinson's disease, which dopamine and stimulation both reduce.",
+  "connects": "It gets glutamatergic input from the motor and prefrontal cortex through the hyperdirect pathway and GABAergic input from the external pallidum in the indirect pathway. It sends glutamatergic output to the internal pallidum, the substantia nigra pars reticulata and the external pallidum.",
+  "clinical": "A stroke in the contralateral subthalamic nucleus classically causes hemiballismus, wild flinging movements of the limbs. High-frequency deep brain stimulation of the nucleus relieves tremor, rigidity and slowness in advanced Parkinson's disease, but can cause impulsivity, hypomania or speech problems. Stimulation outcomes show cause, whereas fMRI and recordings show correlation.",
+  "remember": "It is the one excitatory nucleus in the basal ganglia, the accelerator of the brake: it pushes the pallidum to inhibit the thalamus harder.",
+  "facts": [
+   "The subthalamic nucleus is the only glutamatergic (excitatory) nucleus in the basal ganglia circuit.",
+   "A lesion of the subthalamic nucleus causes contralateral hemiballismus.",
+   "High-frequency stimulation of the nucleus is a standard treatment for advanced Parkinson's disease."
+  ],
+  "quiz": [
+   {
+    "q": "Which basal ganglia nucleus is excitatory and receives direct cortical input through the hyperdirect pathway?",
+    "type": "connection"
+   },
+   {
+    "q": "A patient has sudden violent flinging movements of the right arm after a small stroke. Which nucleus on the opposite side is most likely hit?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which small lens-shaped nucleus lies just above the substantia nigra and medial to the internal capsule?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   4,
+   10
+  ],
+  "see_also": [
+   "globus_pallidus_externus",
+   "globus_pallidus_internus",
+   "substantia_nigra_pars_reticulata",
+   "basal_ganglia"
+  ],
+  "how_we_know": "The strongest human evidence is deep brain stimulation, which acts on the region directly and so shows cause. Stop-signal fMRI shows when the region is active but not that it is needed, and clinical trials show benefit without isolating one mechanism. Stimulation also spreads to neighbouring fibres and nuclei, so the effect cannot be assigned to the nucleus alone.",
+  "evidence": [
+   {
+    "kind": "clinical trial",
+    "claim": "Subthalamic stimulation relieves motor symptoms in advanced Parkinson's disease",
+    "finding": "In a randomized-pairs trial of 156 patients with advanced Parkinson's disease, stimulation plus medication was compared with medication alone for six months. Stimulation improved the UPDRS-III motor score by a mean of 19.6 points and the quality-of-life score (PDQ-39) by 9.5 points. Serious adverse events were more common with stimulation.",
+    "quote": "Pairwise comparisons showed that neurostimulation, as compared with medication alone, caused greater improvements from baseline to six months in the PDQ-39 (50 of 78 pairs, P=0.02) and the UPDRS-III (55 of 78, P<0.001), with mean improvements of 9.5 and 19.6 points, respectively.",
+    "pmid": "16943402",
+    "data": {
+     "title": "Mean improvement at 6 months with stimulation",
+     "unit": "points",
+     "items": [
+      [
+       "PDQ-39 quality of life",
+       9.5
+      ],
+      [
+       "UPDRS-III motor score",
+       19.6
+      ]
+     ]
+    },
+    "doi": "10.1056/NEJMoa060281",
+    "cite": "Deuschl G, Schade-Brittinger C, Krack P, et al. A randomized trial of deep-brain stimulation for Parkinson's disease. N Engl J Med. 2006;355(9):896-908.",
+    "year": 2006
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "The motor benefit of subthalamic stimulation lasts for years",
+    "finding": "The first 49 consecutive patients treated with bilateral subthalamic stimulation were followed for five years. Off-medication motor scores improved by 54 percent and activities of daily living by 49 percent compared with baseline. There was no control group, and some symptoms worsened as the disease progressed.",
+    "quote": "As compared with base line, the patients' scores at five years for motor function while off medication improved by 54 percent (P<0.001) and those for activities of daily living improved by 49 percent (P<0.001).",
+    "pmid": "14614167",
+    "data": {
+     "title": "Improvement at 5 years, off medication",
+     "unit": "%",
+     "items": [
+      [
+       "Motor function",
+       54
+      ],
+      [
+       "Activities of daily living",
+       49
+      ]
+     ]
+    },
+    "doi": "10.1056/NEJMoa035275",
+    "cite": "Krack P, Batir A, Van Blercom N, et al. Five-year follow-up of bilateral stimulation of the subthalamic nucleus in advanced Parkinson's disease. N Engl J Med. 2003;349(20):1925-34.",
+    "year": 2003
+   },
+   {
+    "kind": "imaging",
+    "claim": "The subthalamic nucleus is engaged when a prepared response is stopped",
+    "finding": "In healthy volunteers doing a stop-signal task, stopping an already started response activated the right inferior frontal cortex and the subthalamic nucleus, and the activation was larger in fast stoppers. This is correlational: it shows the region is active during stopping, not that it is required.",
+    "quote": "In experiment 1, Going significantly activated frontal, striatal, pallidal, and motor cortical regions, consistent with the direct pathway, whereas Stopping significantly activated right IFC and STN. In addition, Stopping-related activation was significantly greater for fast inhibitors than slow ones in both IFC and STN, and activity in these regions was correlated across subjects.",
+    "pmid": "16510720",
+    "doi": "10.1523/JNEUROSCI.4682-05.2006",
+    "cite": "Aron AR, Poldrack RA. Cortical and subcortical contributions to Stop signal response inhibition: role of the subthalamic nucleus. J Neurosci. 2006;26(9):2424-33.",
+    "year": 2006
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Subthalamic stimulation makes patients impulsive when decisions conflict",
+    "finding": "Parkinson's patients with stimulators were tested on and off stimulation. With the stimulator on, they sped up their decisions under high conflict instead of slowing down, and dopaminergic medication did not change this effect.",
+    "quote": "We showed that DBS selectively interferes with the normal ability to slow down when faced with decision conflict. While on DBS, patients actually sped up their decisions under high-conflict conditions.",
+    "pmid": "17962524",
+    "doi": "10.1126/science.1146157",
+    "cite": "Frank MJ, Samanta J, Moustafa AA, et al. Hold your horses: impulsivity, deep brain stimulation, and medication in parkinsonism. Science. 2007;318(5854):1309-12.",
+    "year": 2007
+   }
+  ],
+  "stimulation": {
+   "method": "chronic high-frequency deep brain stimulation (3 patients with Parkinson's disease)",
+   "effect": "Bilateral stimulation of the nucleus improved motor scores by 42 to 84 percent at 3 months in three patients, and in one patient stimulation could induce ballism that stopped when the current was reduced.",
+   "quote": "3 months after surgery, activities of daily living scores had improved by 58-88% and motor scores by 42-84%. In one patient, stimulation could induce ballism that was stopped by reduction of stimulation.",
+   "pmid": "7815888",
+   "doi": "10.1016/s0140-6736(95)90062-4",
+   "cite": "Limousin P, Pollak P, Benazzouz A, et al. Effect of parkinsonian signs and symptoms of bilateral subthalamic nucleus stimulation. Lancet. 1995;345(8942):91-5.",
+   "year": 1995
+  }
+ },
+ {
+  "id": "habenula",
+  "aliases": [
+   "habenular nuclei",
+   "habenular nucleus",
+   "lateral habenula",
+   "medial habenula"
+  ],
+  "hint": "tiny nucleus at the back of the thalamus beside the pineal",
+  "summary": "The habenula is a pair of small nuclei in the epithalamus, at the posterior dorsomedial edge of the thalamus beside the third ventricle and the pineal gland. It receives input from the basal ganglia, hypothalamus and limbic forebrain through the stria medullaris. It sends output through the fasciculus retroflexus to midbrain dopamine and serotonin cell groups. The lateral habenula signals disappointment and aversive outcomes, and it has become a target of research into depression.",
+  "where": "The habenula lies in the epithalamus, at the dorsal and posterior end of the medial thalamus, immediately in front of the pineal gland. It sits under the habenular trigone, a small triangle on the floor of the posterior third ventricle. It is best seen in a medial or posterior view with the thalamus faded.",
+  "does": "The lateral habenula fires when an expected reward fails to arrive and when an aversive cue appears, and it suppresses dopamine neurons in the midbrain through an inhibitory relay. It is therefore described as a source of negative reward signals, in work done mostly in monkeys and rodents. The medial habenula sends cholinergic output to the interpeduncular nucleus and has been linked to nicotine and aversion in animals. Human imaging is limited by the size of the region, and recent human findings do not always match the animal story.",
+  "connects": "Input comes through the stria medullaris from the lateral hypothalamus, the internal pallidum and limbic forebrain, and output runs through the fasciculus retroflexus to the ventral tegmental area, substantia nigra, raphe nuclei and interpeduncular nucleus.",
+  "clinical": "Overactivity of the lateral habenula is proposed as a mechanism of depression and anhedonia, though human imaging results are mixed. Deep brain stimulation of the lateral habenula has been tried in a small number of patients with treatment-resistant depression, bipolar disorder and OCD. It is not a standard treatment.",
+  "remember": "Habena means rein in Latin: the habenula holds back dopamine when an outcome disappoints.",
+  "facts": [
+   "The habenula belongs to the epithalamus, together with the pineal gland.",
+   "Its main output tract is the fasciculus retroflexus, which runs to the interpeduncular nucleus and midbrain.",
+   "Lateral habenula neurons are excited by no-reward cues and inhibit dopamine neurons."
+  ],
+  "quiz": [
+   {
+    "q": "Which epithalamic nucleus is excited when an expected reward fails to arrive and inhibits midbrain dopamine neurons?",
+    "type": "function"
+   },
+   {
+    "q": "A patient with depression that has not responded to any treatment receives a stimulator in this small nucleus beside the pineal gland. Which nucleus?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4,
+   10
+  ],
+  "see_also": [
+   "thalamus",
+   "ventral_tegmental_area",
+   "raphe_nuclei",
+   "hypothalamus"
+  ],
+  "how_we_know": "The core evidence is in monkeys and rodents, where neurons were recorded and stimulated directly. In people, high-field fMRI and volume measures are correlational, and deep brain stimulation has been tried only in a handful of patients. Findings from the animal work and from human imaging do not fully agree.",
+  "evidence": [
+   {
+    "kind": "recording",
+    "claim": "Lateral habenula neurons signal negative reward outcomes to dopamine neurons (monkey)",
+    "finding": "This is animal work. In rhesus monkeys doing a reward-biased saccade task, many habenula neurons were excited by a cue that predicted no reward and inhibited by a cue that predicted reward, the opposite of dopamine neurons. Weak electrical stimulation of the lateral habenula strongly inhibited dopamine neurons.",
+    "quote": "Many habenula neurons were excited by a no-reward-predicting target and inhibited by a reward-predicting target. In contrast, dopamine neurons were excited and inhibited by reward-predicting and no-reward-predicting targets, respectively. Furthermore, weak electrical stimulation of the lateral habenula elicited strong inhibitions in dopamine neurons.",
+    "pmid": "17522629",
+    "doi": "10.1038/nature05860",
+    "cite": "Matsumoto M, Hikosaka O. Lateral habenula as a source of negative reward signals in dopamine neurons. Nature. 2007;447(7148):1111-5.",
+    "year": 2007
+   },
+   {
+    "kind": "imaging",
+    "claim": "Habenula responses to aversive cues differ in major depression (human fMRI)",
+    "finding": "In 25 unmedicated depressed patients and 25 healthy volunteers, high-resolution fMRI measured habenula activity while shock-predicting cues were learned. In healthy volunteers activity rose as cues predicted shock, but in depressed patients it fell. This is the opposite of what animal models predicted and so shows that the human picture is unsettled.",
+    "quote": "In healthy volunteers, habenula activation increased as conditioned stimuli (CSs) became more strongly associated with electric shocks. This pattern was significantly different in MDD subjects, for whom habenula activation decreased significantly with increasing association between CSs and electric shocks.",
+    "pmid": "27240528",
+    "doi": "10.1038/mp.2016.81",
+    "cite": "Lawson RP, Nord CL, Seymour B, et al. Disrupted habenula function in major depression. Mol Psychiatry. 2017;22(2):202-208.",
+    "year": 2017
+   },
+   {
+    "kind": "meta-analysis",
+    "claim": "Habenula deep brain stimulation has been tried in very few patients",
+    "finding": "A review of clinical studies of deep brain stimulation aimed at the habenula found six studies covering only 11 patients in total, with conditions including refractory depression, bipolar disorder, OCD and schizophrenia. The authors conclude that more data are needed before the treatment is accepted.",
+    "quote": "The search yielded six studies, which included 11 patients in the final analysis. Treated conditions included refractory depression, bipolar disorder, OCD, schizophrenia, and major depressive disorder.",
+    "pmid": "35840520",
+    "doi": "10.1016/j.neurom.2022.05.005",
+    "cite": "Abraham ME, Ong V, Gendreau J, et al. Investigating Deep Brain Stimulation of the Habenula: A Review of Clinical Studies. Neuromodulation. 2023;26(2):292-301.",
+    "year": 2023
+   }
+  ],
+  "stimulation": {
+   "method": "bilateral deep brain stimulation of the lateral habenula (1 patient with treatment-resistant bipolar disorder)",
+   "effect": "In an 18-year-old patient with treatment-resistant bipolar disorder, bilateral stimulation of the lateral habenula was followed by improvements of 65 percent on average in depression scores over 24 months, reaching 96 percent at the last follow-up. This is a single case without a control group.",
+   "quote": "Continuous 24-month follow-up showed average improvements from baseline of 65.33%, 54.90%, 63.33%, and 48.72% for HDRS-17, BRMS, HAMA, and PSQI scores, respectively. At the final follow-up, improvement was 96.00%, 88.24%, 84.85%, and 69.23%, respectively.",
+   "pmid": "41030103",
+   "doi": "10.1002/brb3.70899",
+   "cite": "Jiang C, Du P, Guan L, et al. Long-Term Efficacy and Resting-State Functional Magnetic Resonance Imaging Changes of Deep Brain Stimulation in the Lateral Habenula Nucleus for Treatment-Resistant Bipolar Disorder. Brain Behav. 2025;15(10):e70899.",
+   "year": 2025
+  }
+ },
+ {
+  "id": "mammillary_bodies",
+  "aliases": [
+   "mammillary body",
+   "mamillary bodies",
+   "corpora mammillaria",
+   "mammillary nuclei"
+  ],
+  "hint": "paired round bumps on the underside behind the pituitary stalk",
+  "summary": "The mammillary bodies are two small round nuclei at the back of the hypothalamus, visible as paired bumps on the underside of the brain behind the pituitary stalk. They receive the main output of the hippocampal formation through the postcommissural fornix. They project through the mammillothalamic tract to the anterior nucleus of the thalamus, which then reaches the cingulate cortex. They are a relay in the Papez circuit and support the formation of new episodic memories.",
+  "where": "The mammillary bodies lie on the ventral surface of the hypothalamus, immediately behind the tuber cinereum and pituitary stalk and in front of the interpeduncular fossa. They are the most posterior part of the hypothalamus. Look for them from below or in a midsagittal view just under the thalamus.",
+  "does": "The mammillary bodies pass hippocampal information to the anterior thalamus and are part of the extended hippocampal system for episodic memory. Damage to them or to the fornix feeding them disrupts the recall of recent events more than the recognition of familiar items. They are not memory stores themselves. Their small size makes direct study in living people hard, so much of what is known comes from patients with lesions and from volume measures on MRI.",
+  "connects": "They receive the postcommissural fornix, mostly from the subiculum, and project through the mammillothalamic tract to the anterior thalamic nucleus and through the mammillotegmental tract to the midbrain tegmentum. The anterior thalamus then projects to the cingulate gyrus, closing the Papez circuit.",
+  "clinical": "Thiamine deficiency, most often from chronic alcohol use, damages the mammillary bodies in Wernicke encephalopathy (confusion, ataxia and eye movement abnormalities). If it is untreated it can progress to Korsakoff syndrome, with severe anterograde amnesia and confabulation. Mammillary body shrinkage also follows damage to the fornix.",
+  "remember": "Mammillary comes from mamma (breast): two small rounded bumps behind the pituitary stalk, and the hippocampus, via the fornix, ends here on the way to the Papez loop.",
+  "facts": [
+   "The mammillary bodies are a relay in the Papez circuit, between the fornix and the anterior thalamic nucleus.",
+   "Mammillary body atrophy is a classic finding in Wernicke-Korsakoff syndrome.",
+   "The mammillothalamic tract is also called the bundle of Vicq d'Azyr."
+  ],
+  "quiz": [
+   {
+    "q": "Which paired hypothalamic structures sit behind the pituitary stalk and receive the postcommissural fornix?",
+    "type": "location"
+   },
+   {
+    "q": "A patient with chronic alcohol use and thiamine deficiency has confusion, ataxia and eye movement problems, and later dense amnesia with confabulation. Which small structures usually show damage?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which structures send the mammillothalamic tract to the anterior thalamic nucleus?",
+    "type": "connection"
+   }
+  ],
+  "refs": [
+   1,
+   3,
+   4,
+   10
+  ],
+  "see_also": [
+   "fornix",
+   "anterior_nucleus_of_thalamus",
+   "hippocampus",
+   "hypothalamus"
+  ],
+  "how_we_know": "Most evidence comes from patients: postmortem counts of neurons in alcoholic Korsakoff syndrome and MRI volumes in people with alcohol-related amnesia or surgically damaged fornices. These are correlations with brain damage that is rarely limited to the mammillary bodies, so cause is hard to separate from damage to the neighbouring thalamus and fornix. No stimulation data exist for the structure.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Mammillary body volume falls in alcoholics and falls most in Korsakoff syndrome",
+    "finding": "MRI measured mammillary body volume in 24 nonamnesic alcoholics, 5 amnesic alcoholics with Korsakoff syndrome and 51 controls. Nonamnesic alcoholics had smaller volumes than controls and amnesic alcoholics had the smallest. The pattern is correlational and fits a continuum of damage.",
+    "quote": "The ALC group had significantly smaller MB volumes bilaterally (mean = 54.5 +/- 22.0 mm3) than controls (mean = 66.3 +/- 17.1 mm3), and the KS group had even smaller MB volumes than the ALC group (mean = 20.7 +/- 14.8 mm3).",
+    "pmid": "10549995",
+    "data": {
+     "title": "Mean mammillary body volume",
+     "unit": "mm3",
+     "items": [
+      [
+       "Controls",
+       66.3
+      ],
+      [
+       "Nonamnesic alcoholics",
+       54.5
+      ],
+      [
+       "Korsakoff syndrome",
+       20.7
+      ]
+     ]
+    },
+    "doi": "",
+    "cite": "Sullivan EV, Lane B, Deshmukh A, et al. In vivo mammillary body volume deficits in amnesic and nonamnesic alcoholics. Alcohol Clin Exp Res. 1999;23(10):1629-36.",
+    "year": 1999
+   },
+   {
+    "kind": "histology",
+    "claim": "Mammillary loss alone does not separate amnesic from non-amnesic alcoholics",
+    "finding": "Neurons were counted with unbiased stereology in postmortem brains. Mammillary nucleus and mediodorsal thalamic loss was substantial in both amnesic and non-amnesic alcoholics with Wernicke encephalopathy, but loss in the anterior thalamic nuclei appeared consistently only with Korsakoff psychosis. This suggests the thalamic target of the mammillothalamic tract matters for the amnesia.",
+    "quote": "Neurodegeneration of the hypothalamic mamillary nuclei and the mediodorsal thalamic nuclei was substantial in both non-amnesic and amnesic alcoholics with Wernicke's encephalopathy. However, neuronal loss in the anterior thalamic nuclei was found consistently only in alcoholic Korsakoff's psychosis.",
+    "pmid": "10611128",
+    "doi": "10.1093/brain/123.1.141",
+    "cite": "Harding A, Halliday G, Caine D, et al. Degeneration of anterior thalamic nuclei differentiates alcoholics with amnesia. Brain. 2000;123 ( Pt 1):141-54.",
+    "year": 2000
+   },
+   {
+    "kind": "lesion",
+    "claim": "Mammillary body size tracks recall memory more than recognition memory",
+    "finding": "MRI volumes of 13 brain structures were measured in 38 people with surgically removed colloid cysts. Mammillary body volume, which shrinks after fornix damage, correlated with 13 of 14 recall tests and poorly with recognition memory, and no other structure was consistently linked to memory.",
+    "quote": "Mammillary body volume significantly correlated with 13 out of 14 tests of episodic memory recall, but correlated poorly with recognition memory.",
+    "pmid": "18552840",
+    "doi": "10.1038/nn.2149",
+    "cite": "Tsivilis D, Vann SD, Denby C, et al. A disproportionate role for the fornix and mammillary bodies in recall versus recognition memory. Nat Neurosci. 2008;11(7):834-42.",
+    "year": 2008
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "ventral_pallidum",
+  "aliases": [
+   "vp",
+   "ventral globus pallidus"
+  ],
+  "hint": "reward output of the accumbens, beneath the anterior commissure",
+  "summary": "The ventral pallidum is the part of the pallidum that lies below the anterior commissure in the basal forebrain and belongs to the ventral basal ganglia. It receives dense GABAergic input from the nucleus accumbens and inputs from the amygdala and midbrain dopamine neurons. It sends output to the mediodorsal thalamus, the ventral tegmental area and the subthalamic nucleus. It is the main output station of the limbic loop and helps turn the value of a cue into motivated action.",
+  "where": "The ventral pallidum lies in the basal forebrain, ventral to the anterior commissure and medial to the putamen and the main globus pallidus. It sits behind the nucleus accumbens and is continuous with the globus pallidus above it. It is best seen in a coronal or sagittal view just under the anterior commissure.",
+  "does": "The ventral pallidum links reward processing to action. In rats, its neurons encode the learned value of reward cues and are needed for cue-triggered reward seeking, and a small zone in it amplifies the pleasure reaction to sweetness when stimulated with opioids. In people, fMRI work shows that a basal forebrain region in this area is engaged when reward amounts drive effort, even without awareness. Human data are limited because the structure is small and hard to separate from nearby tissue.",
+  "connects": "Main inputs are GABAergic projections from the nucleus accumbens and olfactory tubercle, plus the amygdala and midbrain dopamine neurons. Outputs go to the mediodorsal thalamus (which projects to prefrontal cortex), the ventral tegmental area, the subthalamic nucleus and the lateral habenula.",
+  "clinical": "Bilateral pallidal damage in humans can cause abulia, a loss of drive and initiative. The ventral pallidum is a focus of research on addiction and relapse, mostly in rodents, and on depression and anhedonia. It is not a routine clinical target.",
+  "remember": "Think of it as the last stop of the reward loop: the accumbens decides it wants something, and the ventral pallidum turns the wanting into action.",
+  "facts": [
+   "The ventral pallidum receives its main input from the nucleus accumbens and projects to the mediodorsal thalamus.",
+   "It is the output of the limbic loop of the basal ganglia.",
+   "A hedonic hotspot in the ventral pallidum amplifies sweetness liking in rats."
+  ],
+  "quiz": [
+   {
+    "q": "Which basal forebrain structure under the anterior commissure relays accumbens output to the mediodorsal thalamus?",
+    "type": "connection"
+   },
+   {
+    "q": "Rat studies show opioid stimulation of a cubic millimeter of this region amplifies the liking of sweetness. Which region?",
+    "type": "function"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4,
+   10
+  ],
+  "see_also": [
+   "nucleus_accumbens",
+   "globus_pallidus",
+   "ventral_tegmental_area",
+   "mediodorsal_nucleus"
+  ],
+  "how_we_know": "Most direct evidence comes from rats, with recordings and drug microinjections showing what the region does. In people, only fMRI evidence is available, and case reports of pallidal damage describe loss of drive; it is hard to isolate this tiny region. Stimulation data in humans are absent.",
+  "evidence": [
+   {
+    "kind": "recording",
+    "claim": "Ventral pallidal neurons encode cue value and are needed for cue-elicited reward seeking (rat)",
+    "finding": "This is animal work. In rats doing a cue-driven reward-seeking task, ventral pallidal neurons encoded the learned value of the cue and the reward seeking that followed, and activity there was required for robust seeking. Their responses began sooner than those of accumbens neurons.",
+    "quote": "We find that VP neurons encode both learned cue value and subsequent reward seeking and that activity in VP neurons is required for robust cue-elicited reward seeking. Surprisingly, the onset of VP neuron responses occurs at a shorter latency than cue-elicited responses in NAc neurons.",
+    "pmid": "27238868",
+    "doi": "10.1016/j.neuron.2016.04.037",
+    "cite": "Richard JM, Ambroggi F, Janak PH, et al. Ventral Pallidum Neurons Encode Incentive Value and Promote Cue-Elicited Instrumental Actions. Neuron. 2016;90(6):1165-1173.",
+    "year": 2016
+   },
+   {
+    "kind": "stimulation",
+    "claim": "A ventral pallidal hotspot works with the accumbens to amplify sweetness liking (rat)",
+    "finding": "This is animal work. In rats, opioid stimulation of small hotspots in the nucleus accumbens shell and ventral pallidum recruited each other, and both were needed together to enhance sucrose liking reactions, while the accumbens alone dominated opioid-driven eating.",
+    "quote": "We found that NAc and VP hotspots reciprocally modulated Fos expression in each other and that the two hotspots were needed together to enhance sucrose \"liking\" reactions, essentially cooperating within a single hedonic NAc-VP circuit.",
+    "pmid": "17301168",
+    "doi": "10.1523/JNEUROSCI.4205-06.2007",
+    "cite": "Smith KS, Berridge KC. Opioid limbic circuit for reward: interaction between hedonic hotspots of nucleus accumbens and ventral pallidum. J Neurosci. 2007;27(7):1594-605.",
+    "year": 2007
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "extended_amygdala",
+  "aliases": [
+   "bed nucleus of the stria terminalis",
+   "bnst",
+   "bst",
+   "central extended amygdala",
+   "sublenticular extended amygdala"
+  ],
+  "hint": "anxiety-linked cell strip beneath the lentiform nucleus",
+  "summary": "The extended amygdala is a continuous strip of cells that links the centromedial amygdala to the bed nucleus of the stria terminalis. The bed nucleus sits near the anterior commissure, and the sublenticular part runs along the underside of the lentiform nucleus. It shares cell types, chemicals and outputs with the central nucleus of the amygdala. It drives stress, anxiety and defensive responses, and it is a point where stress systems meet the reward circuit in addiction.",
+  "where": "The bed nucleus of the stria terminalis lies in the basal forebrain, next to the anterior commissure and the fornix, below the lateral ventricle and the head of the caudate. The sublenticular part runs below the lentiform nucleus toward the amygdala, and the stria terminalis connects the two. Look at it in a coronal view with the amygdala shown.",
+  "does": "The extended amygdala helps produce sustained anxiety and vigilance, and it organizes autonomic, hormonal and behavioral stress responses through its outputs to the hypothalamus and brainstem. An older view, mostly from rodents, held that the amygdala drives brief fear and the bed nucleus drives long anxiety. A large human fMRI study found that both regions show sustained responses to uncertain threat and brief bursts before certain threat, so the split is not clean. It also helps carry the negative, stressful side of drug withdrawal.",
+  "connects": "It exchanges fibres with the amygdala through the stria terminalis and the ventral amygdalofugal pathway, and it receives input from the hippocampus, prefrontal cortex and insula. Output goes to the hypothalamus, ventral tegmental area, periaqueductal gray and autonomic brainstem nuclei.",
+  "clinical": "Overactivity of the extended amygdala is linked to anxiety disorders and to the persistent worry seen in people with an anxious temperament. Deep brain stimulation near the bed nucleus has been tried for treatment-resistant obsessive-compulsive disorder, with a mean reduction in Y-BOCS of about 45 percent in a systematic review. It is also studied in addiction and PTSD.",
+  "remember": "Think of the amygdala stretched out like a snake: tail at the bed nucleus of the stria terminalis, head in the central amygdala.",
+  "facts": [
+   "The bed nucleus of the stria terminalis is the largest part of the extended amygdala.",
+   "The stria terminalis is the main fibre bundle linking the amygdala with the bed nucleus and hypothalamus.",
+   "Human fMRI shows the bed nucleus and central amygdala respond to uncertain threat."
+  ],
+  "quiz": [
+   {
+    "q": "Which cell strip links the central amygdala to a basal forebrain nucleus beside the anterior commissure and drives sustained anxiety?",
+    "type": "function"
+   },
+   {
+    "q": "A patient with severe treatment-resistant OCD receives deep brain stimulation near this nucleus of the stria terminalis. Which region?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4,
+   10
+  ],
+  "see_also": [
+   "amygdala",
+   "centromedial_amygdala",
+   "nucleus_accumbens",
+   "hypothalamus"
+  ],
+  "how_we_know": "Human fMRI shows which tasks engage the region but cannot separate the bed nucleus from the central amygdala at normal resolution. Monkey imaging and rodent studies give the causal tests. Deep brain stimulation near the bed nucleus in OCD shows effects of stimulating the area but also spreads to nearby fibre tracts.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The bed nucleus and central amygdala respond to threat anticipation in humans",
+    "finding": "In 220 adults, fMRI during anticipation of certain and uncertain threat showed a shared circuit including the central extended amygdala. Both the bed nucleus and the central amygdala showed sustained responses to uncertain, distant threat and bursts before certain threat, so their dynamics were statistically indistinguishable.",
+    "quote": "Here we used anatomical regions of interest to demonstrate that the BST and Ce exhibit statistically indistinguishable threat dynamics.",
+    "pmid": "40050117",
+    "doi": "10.1523/JNEUROSCI.2113-24.2025",
+    "cite": "Cornwell BR, Didier PR, Grogans SE, et al. A Shared Threat-Anticipation Circuit Is Dynamically Engaged at Different Moments by Certain and Uncertain Threat. J Neurosci. 2025;45(16).",
+    "year": 2025
+   },
+   {
+    "kind": "imaging",
+    "claim": "Bed nucleus activity is more sustained than centromedial amygdala activity (7T fMRI)",
+    "finding": "In 28 participants scanned with 7-tesla fMRI, the bed nucleus, but not the centromedial amygdala, responded more to blocks of negative than neutral images, and it also responded when negative pictures were anticipated. This supports a role in anxious anticipation, though predictability did not change either region.",
+    "quote": "We found a larger response to negative vs neutral blocks (sustained threat) than to images (transient) in the BNST, but not the CM.",
+    "pmid": "31820811",
+    "doi": "10.1093/scan/nsz095",
+    "cite": "Pedersen WS, Muftuler LT, Larson CL. A high-resolution fMRI investigation of BNST and centromedial amygdala activity as a function of affective stimulus predictability, anticipation, and duration. Soc Cogn Affect Neurosci. 2019;14(11):1167-1177.",
+    "year": 2019
+   },
+   {
+    "kind": "imaging",
+    "claim": "Bed nucleus metabolism is higher in monkeys with persistent anxious behavior",
+    "finding": "This is animal work. In rhesus monkeys chosen for high or low behavioral inhibition from a pool of 109, FDG-PET showed that the high-inhibition group froze far longer after meeting an unfamiliar human, and that this went with increased metabolism in the bed nucleus of the stria terminalis.",
+    "quote": "this was associated with increased metabolism in the bed nucleus of the stria terminalis, a key component of the central extended amygdala.",
+    "pmid": "27573879",
+    "doi": "10.1038/mp.2016.132",
+    "cite": "Shackman AJ, Fox AS, Oler JA, et al. Heightened extended amygdala metabolism following threat characterizes the early phenotypic risk to develop anxiety-related psychopathology. Mol Psychiatry. 2017;22(5):724-732.",
+    "year": 2017
+   }
+  ],
+  "stimulation": {
+   "method": "deep brain stimulation of the bed nucleus of the stria terminalis area in treatment-refractory OCD (systematic review of 68 patients)",
+   "effect": "Chronic deep brain stimulation of the bed nucleus area reduced Yale-Brown OCD scores by a mean of 45.6 percent across 68 patients in eight studies, and 46 were counted as responders.",
+   "quote": "Overall, 68 patients were included, with a mean age of surgery 41.2 years old. At the last follow-up, the mean reduction of the Yale-Brown Obsessive-Compulsive Scale (YBOCS) compared to baseline was 45.6% with a range across the studies of 38% to 53%. In total, 46 participants were considered responders.",
+   "pmid": "41283993",
+   "doi": "10.1007/s00406-025-02156-z",
+   "cite": "Goulas A, Mavridis I. Bed nucleus of the stria terminalis deep brain stimulation in treatment-refractory obsessive-compulsive disorder: a systematic review. Eur Arch Psychiatry Clin Neurosci. 2026;276(4):1369-1380.",
+   "year": 2026
+  }
+ },
+ {
+  "id": "globus_pallidus_externus",
+  "aliases": [
+   "gpe",
+   "external globus pallidus",
+   "external segment of the globus pallidus",
+   "lateral globus pallidus"
+  ],
+  "hint": "outer, larger wedge of the lentiform nucleus beside the putamen",
+  "summary": "The external globus pallidus is the lateral and larger segment of the pallidum, lying just inside the putamen. It is the relay in the indirect pathway of the basal ganglia. It receives inhibitory input from the striatum and sends inhibitory output to the subthalamic nucleus and the output nuclei. It also sends a feedback projection back to the striatum.",
+  "where": "The external globus pallidus is the outer (lateral) part of the globus pallidus, directly medial to the putamen and separated from the internal segment by the thin medial medullary lamina. Together with the putamen it forms the lentiform nucleus, lateral to the internal capsule. It is easiest to find in a coronal or axial view with the putamen shown.",
+  "does": "The external pallidum regulates the indirect pathway: striatal neurons that carry D2 receptors inhibit it, which releases the subthalamic nucleus, which in turn drives the output nuclei harder. In rodents, one population of its neurons (prototypic) sends output to the subthalamic nucleus and other nuclei, and another (arkypallidal) projects only to the striatum, where it helps cancel actions. Human evidence for these cell types is lacking, so the cell-level picture comes from animals. Its firing is lower than normal in Parkinson's disease and higher in early Huntington's disease.",
+  "connects": "It receives GABAergic input from striatal indirect-pathway neurons and glutamatergic input from the subthalamic nucleus. It sends GABAergic output to the subthalamic nucleus, the internal pallidum and substantia nigra pars reticulata, and the striatum.",
+  "clinical": "In Parkinson's disease, loss of dopamine overactivates the indirect pathway and reduces external pallidal firing. In early Huntington's disease, selective loss of indirect pathway striatal cells releases the external pallidum, which is linked to chorea. Bilateral pallidal lesions from carbon monoxide poisoning or manganese cause parkinsonism and dystonia.",
+  "remember": "External is the outer segment, the middle of the indirect pathway: striatum, then GPe, then subthalamic nucleus.",
+  "facts": [
+   "The external pallidum sits between the striatum and the subthalamic nucleus in the indirect pathway.",
+   "Its neurons are GABAergic and fire spontaneously at high rates.",
+   "Firing in the external pallidum is lower in Parkinson's disease than in early Huntington's disease."
+  ],
+  "quiz": [
+   {
+    "q": "Which pallidal segment lies lateral to the internal segment and inhibits the subthalamic nucleus in the indirect pathway?",
+    "type": "connection"
+   },
+   {
+    "q": "In a patient with early chorea from Huntington's disease, firing in which pallidal segment is higher than in Parkinson's disease?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4,
+   10
+  ],
+  "see_also": [
+   "globus_pallidus_internus",
+   "subthalamic_nucleus",
+   "putamen",
+   "striatum"
+  ],
+  "how_we_know": "In people, the evidence is single-neuron recording during deep brain stimulation surgery, which is correlational and limited to patients with disease. Cell-type work comes from rodents. Lesion cases from poisoning rarely spare neighbouring tissue, so they show what the pallidum as a whole does.",
+  "evidence": [
+   {
+    "kind": "recording",
+    "claim": "External pallidal firing is higher in Huntington's disease than in Parkinson's disease",
+    "finding": "Researchers recorded 24 internal and 9 external pallidal neurons in one awake patient with Huntington's disease and compared them with 132 internal and 50 external pallidal neurons from 14 patients with Parkinson's disease. External pallidal firing was higher in Huntington's disease than in Parkinson's disease, the reverse of the internal segment. This is a single patient but matches the prediction from loss of indirect pathway cells.",
+    "quote": "The mean (+/-SEM) spontaneous discharge rate for HD was 58+/-4 for GPi and 73+/-5 for GPe. This contrasted with discharge rates in PD of 95+/-2 for GPi and 57+/-3 for GPe.",
+    "pmid": "18342309",
+    "data": {
+     "title": "External pallidal firing rate",
+     "unit": "spikes/s",
+     "items": [
+      [
+       "Huntington's disease",
+       73
+      ],
+      [
+       "Parkinson's disease",
+       57
+      ]
+     ]
+    },
+    "doi": "10.1016/j.expneurol.2008.01.023",
+    "cite": "Starr PA, Kang GA, Heath S, et al. Pallidal neuronal discharge in Huntington's disease: support for selective loss of striatal cells originating the indirect pathway. Exp Neurol. 2008;211(1):227-33.",
+    "year": 2008
+   },
+   {
+    "kind": "recording",
+    "claim": "The external pallidum has two cell types, one projecting to the striatum (rat)",
+    "finding": "This is animal work. In parkinsonian rats, prototypic neurons fired in antiphase to subthalamic neurons and projected to other basal ganglia nuclei, while arkypallidal neurons fired in phase with the subthalamic nucleus and innervated only the striatum.",
+    "quote": "A first population of prototypic GABAergic GPe neurons fire antiphase to subthalamic nucleus (STN) neurons, often express parvalbumin, and target downstream basal ganglia nuclei, including STN. In contrast, a second population (arkypallidal neurons) fire in-phase with STN neurons, express preproenkephalin, and only innervate the striatum.",
+    "pmid": "22726837",
+    "doi": "10.1016/j.neuron.2012.04.027",
+    "cite": "Mallet N, Micklem BR, Henny P, et al. Dichotomous organization of the external globus pallidus. Neuron. 2012;74(6):1075-86.",
+    "year": 2012
+   },
+   {
+    "kind": "recording",
+    "claim": "External pallidal neurons synchronize only in rhythms linked to tremor in Parkinson's disease",
+    "finding": "In patients with Parkinson's disease having pallidotomy or subthalamic surgery, pairs of pallidal neurons were recorded together. Without limb tremor none of 15 external pallidal pairs were synchronous, whereas some pairs in tremor patients synchronized at tremor and beta frequencies.",
+    "quote": "In the five pallidotomy patients without limb tremor during the procedure, none of the 73 GPi pairs and 15 GPe pairs displayed synchronous activity. In the three pallidotomy patients with limb tremor, 6 of 21 GPi pairs and 5 of 29 GPe pairs displayed oscillatory synchronization in the frequency range of the ongoing limb tremor (3-6 Hz) or at higher frequencies (15-30 Hz).",
+    "pmid": "11923450",
+    "doi": "10.1523/JNEUROSCI.22-07-02855.2002",
+    "cite": "Levy R, Hutchison WD, Lozano AM, et al. Synchronized neuronal discharge in the basal ganglia of parkinsonian patients is limited to oscillatory activity. J Neurosci. 2002;22(7):2855-61.",
+    "year": 2002
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "globus_pallidus_internus",
+  "aliases": [
+   "gpi",
+   "internal globus pallidus",
+   "internal segment of the globus pallidus",
+   "medial globus pallidus"
+  ],
+  "hint": "inner wedge of the lentiform nucleus, beside the internal capsule",
+  "summary": "The internal globus pallidus is the medial segment of the pallidum and one of the two main output nuclei of the basal ganglia, with the substantia nigra pars reticulata. Its neurons are GABAergic and fire steadily, which holds the thalamus under tonic inhibition. The striatum and subthalamic nucleus control that inhibition, and it projects to the ventral lateral and ventral anterior thalamus. It is a main surgical target for dystonia and for the movement complications of Parkinson's disease.",
+  "where": "The internal globus pallidus is the inner (medial) part of the globus pallidus, next to the posterior limb of the internal capsule and medial to the external segment. It is the most medial part of the lentiform nucleus. It is easiest to see in a coronal or axial view.",
+  "does": "The internal pallidum releases or withholds movement by controlling inhibition of the thalamus. In the direct pathway, striatal neurons inhibit it, which disinhibits the thalamus and allows movement. In the indirect pathway, the subthalamic nucleus excites it, which raises inhibition and suppresses unwanted movement. The same pattern makes it a point of failure in both slow and excessive movement disorders.",
+  "connects": "It receives GABAergic direct pathway input from the striatum, external pallidal input and glutamatergic subthalamic input. It sends GABAergic output through the ansa lenticularis and lenticular fasciculus to the ventral lateral and ventral anterior thalamus and to the brainstem, including the pedunculopontine area. A projection also goes to the lateral habenula.",
+  "clinical": "Deep brain stimulation or lesioning of the internal pallidum (pallidotomy) reduces dyskinesia and rigidity in Parkinson's disease and is first-line surgery for generalized dystonia. It gives motor results similar to subthalamic stimulation in Parkinson's disease, with less worsening of depression. Bilateral damage causes dystonia and parkinsonism.",
+  "remember": "Internal means inner and output: the internal pallidum is the exit door of the basal ganglia, and it keeps the thalamus quiet until the striatum says go.",
+  "facts": [
+   "The internal pallidum and substantia nigra pars reticulata are the two output nuclei of the basal ganglia.",
+   "Its output is GABAergic and tonically active, so the thalamus is inhibited at rest.",
+   "Deep brain stimulation of the internal pallidum is an established treatment for primary generalized dystonia."
+  ],
+  "quiz": [
+   {
+    "q": "Which pallidal segment is an output nucleus of the basal ganglia that tonically inhibits the ventral lateral thalamus?",
+    "type": "connection"
+   },
+   {
+    "q": "Which pallidal segment is the standard deep brain stimulation target for severe primary generalized dystonia?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   4,
+   10
+  ],
+  "see_also": [
+   "globus_pallidus_externus",
+   "substantia_nigra_pars_reticulata",
+   "subthalamic_nucleus",
+   "ventral_lateral_nucleus"
+  ],
+  "how_we_know": "Stimulation trials show cause: switching the stimulator off and on, or comparing it with sham, changes dystonia severity. Single-neuron recordings made during surgery show firing patterns but only in patients with disease and sometimes under anesthesia. Results from recordings have not always agreed across studies, which is why the older firing-rate model of dystonia is now questioned.",
+  "evidence": [
+   {
+    "kind": "clinical trial",
+    "claim": "Internal pallidal stimulation reduces dystonia over a year",
+    "finding": "In 22 patients with primary generalized dystonia, bilateral stimulation of the internal pallidum cut the movement score on the Burke-Fahn-Marsden scale from about 46 before surgery to about 21 at 12 months, and a double-blind check at 3 months showed worse scores with the stimulator off.",
+    "quote": "The dystonia movement score improved from a mean (+/-SD) of 46.3+/-21.3 before surgery to 21.0+/-14.1 at 12 months (P<0.001). The disability score improved from 11.6+/-5.5 before surgery to 6.5+/-4.9 at 12 months (P<0.001).",
+    "pmid": "15689584",
+    "data": {
+     "title": "Dystonia movement score (higher is worse)",
+     "unit": "points",
+     "items": [
+      [
+       "Before surgery",
+       46.3
+      ],
+      [
+       "12 months after",
+       21.0
+      ]
+     ]
+    },
+    "doi": "10.1056/NEJMoa042187",
+    "cite": "Vidailhet M, Vercueil L, Houeto JL, et al. Bilateral deep-brain stimulation of the globus pallidus in primary generalized dystonia. N Engl J Med. 2005;352(5):459-67.",
+    "year": 2005
+   },
+   {
+    "kind": "recording",
+    "claim": "Internal pallidal firing in dystonia is not reduced when patients are awake",
+    "finding": "Microelectrodes recorded neurons in the internal pallidum of 11 dystonia patients and 6 Parkinson's patients. Awake dystonia patients fired at 77 Hz, close to the 74 Hz of Parkinson's patients; only under propofol anesthesia was the rate low, at 31 Hz. This argues against a simple rule that dystonia is underactive pallidal output.",
+    "quote": "In seven patients who underwent surgery under local anesthesia, the mean GPi firing rate was 77 Hz, similar to the 74 Hz observed in the PD patients. However, in three dystonic patients under propofol anesthesia, GPi mean firing rate was much reduced (31 Hz), and the firing pattern was distinguished by long pauses in activity, as reported by others.",
+    "pmid": "12666115",
+    "data": {
+     "title": "Mean firing rate of internal pallidal neurons",
+     "unit": "Hz",
+     "items": [
+      [
+       "Dystonia, awake",
+       77
+      ],
+      [
+       "Parkinson's disease",
+       74
+      ],
+      [
+       "Dystonia, under propofol",
+       31
+      ]
+     ]
+    },
+    "doi": "10.1002/ana.10474",
+    "cite": "Hutchison WD, Lang AE, Dostrovsky JO, et al. Pallidal neuronal activity: implications for models of dystonia. Ann Neurol. 2003;53(4):480-8.",
+    "year": 2003
+   },
+   {
+    "kind": "clinical trial",
+    "claim": "Internal pallidal and subthalamic stimulation give similar motor benefit in Parkinson's disease",
+    "finding": "In a randomized trial at 13 hospitals, 299 patients with Parkinson's disease received stimulation of the internal pallidum (152) or subthalamic nucleus (147). Motor improvement did not differ between targets, but depression worsened after subthalamic stimulation and improved after pallidal stimulation.",
+    "quote": "At seven Veterans Affairs and six university hospitals, we randomly assigned 299 patients with idiopathic Parkinson's disease to undergo either pallidal stimulation (152 patients) or subthalamic stimulation (147 patients).",
+    "pmid": "20519680",
+    "doi": "10.1056/NEJMoa0907083",
+    "cite": "Follett KA, Weaver FM, Stern M, et al. Pallidal versus subthalamic deep-brain stimulation for Parkinson's disease. N Engl J Med. 2010;362(22):2077-91.",
+    "year": 2010
+   }
+  ],
+  "stimulation": {
+   "method": "bilateral deep brain stimulation of the internal pallidum versus sham (40 patients with dystonia)",
+   "effect": "In 40 patients with segmental or generalized dystonia, three months of real stimulation lowered the dystonia movement score by about 16 points, compared with about 1 point with sham stimulation.",
+   "quote": "Three months after randomization, the change from baseline in the mean (+/-SD) movement score was significantly greater in the neurostimulation group (-15.8+/-14.1 points) than in the sham-stimulation group (-1.4+/-3.8 points, P<0.001).",
+   "pmid": "17093249",
+   "doi": "10.1056/NEJMoa063618",
+   "cite": "Kupsch A, Benecke R, Müller J, et al. Pallidal deep-brain stimulation in primary generalized or segmental dystonia. N Engl J Med. 2006;355(19):1978-90.",
+   "year": 2006
+  }
+ },
+ {
+  "id": "cornu_ammonis",
+  "aliases": [
+   "ca fields",
+   "ammons horn",
+   "ammon's horn",
+   "ca1",
+   "ca2",
+   "ca3",
+   "hippocampus proper"
+  ],
+  "hint": "pyramidal cell sheet of the seahorse, tucked inside the dentate",
+  "summary": "The cornu ammonis is the main pyramidal cell part of the hippocampus, divided into fields CA1, CA2 and CA3. It lies between the dentate gyrus and the subiculum in the folded hippocampal formation. It receives input from the dentate gyrus mossy fibers (CA3) and from the entorhinal cortex, and CA3 sends Schaffer collaterals to CA1. CA1 is the main source of hippocampal output toward the subiculum and entorhinal cortex, and the whole sequence supports the formation of episodic memory.",
+  "where": "The cornu ammonis forms the main body of the hippocampus on the medial temporal lobe floor, curled into the dentate gyrus. Its fields run from CA3 next to the dentate gyrus, through CA2, to CA1 next to the subiculum. It is seen in a coronal or sagittal cut with the surrounding hippocampus faded.",
+  "does": "CA3 has strong recurrent connections among its own neurons and is thought to store and complete patterns from partial cues. CA1 compares input from CA3 with direct entorhinal input and sends the result onward. In rodents, cells in these fields fire at specific places. In people, the CA fields are needed for forming new episodic memories, but evidence for the exact job of each field comes mostly from animals and from high-resolution imaging.",
+  "connects": "CA3 receives mossy fibers from the dentate gyrus and perforant path fibers from entorhinal cortex layer II. CA3 sends Schaffer collaterals to CA1, and CA1 projects to the subiculum and to entorhinal cortex layer V.",
+  "clinical": "CA1, the Sommer sector, is the most vulnerable field to ischemia and hypoxia and is the first to show damage in Alzheimer's disease. A lesion limited to CA1 can cause lasting anterograde amnesia, and transient global amnesia often shows small CA1 lesions on diffusion MRI. Hippocampal sclerosis in temporal lobe epilepsy shows neuron loss in CA1 and CA4.",
+  "remember": "CA1 is the weak link: Sommer's sector is the first to die in ischemia, and CA3 to CA1 is the Schaffer collateral step.",
+  "facts": [
+   "CA1 is the most ischemia-sensitive part of the hippocampus.",
+   "CA3 sends Schaffer collaterals to CA1.",
+   "Cornu ammonis means Ammon's horn, named for a ram's horn shape in cross section."
+  ],
+  "quiz": [
+   {
+    "q": "Which hippocampal pyramidal fields receive the Schaffer collaterals, and are most vulnerable to ischemia in the CA1 sector?",
+    "type": "clinical"
+   },
+   {
+    "q": "A patient has lasting anterograde amnesia with a lesion limited to one hippocampal field, found at autopsy. Which field was lost?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   4,
+   11
+  ],
+  "see_also": [
+   "hippocampus",
+   "dentate_gyrus",
+   "subiculum",
+   "entorhinal_cortex"
+  ],
+  "how_we_know": "The strongest causal evidence is from patients with brain damage that was limited to this field, studied in life and at autopsy. High-resolution MRI shows lesions and atrophy in single fields, but is correlational. Direct stimulation of the hippocampus does not target the individual fields.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "A lesion limited to CA1 can cause lasting anterograde amnesia",
+    "finding": "Patient R.B. developed memory loss after an ischemic episode. For five years he had marked anterograde amnesia with little retrograde amnesia and no other cognitive impairment, and autopsy found a circumscribed bilateral lesion of the whole CA1 field.",
+    "quote": "During the 5 years until his death, R.B. exhibited marked anterograde amnesia, little if any retrograde amnesia, and showed no signs of cognitive impairment other than memory. Thorough histological examination revealed a circumscribed bilateral lesion involving the entire CA1 field of the hippocampus.",
+    "pmid": "3760943",
+    "doi": "10.1523/JNEUROSCI.06-10-02950.1986",
+    "cite": "Zola-Morgan S, Squire LR, Amaral DG. Human amnesia and the medial temporal region: enduring memory impairment following a bilateral lesion limited to field CA1 of the hippocampus. J Neurosci. 1986;6(10):2950-67.",
+    "year": 1986
+   },
+   {
+    "kind": "imaging",
+    "claim": "Transient global amnesia produces small lesions in CA1",
+    "finding": "Diffusion MRI of 41 patients with transient global amnesia found 36 hippocampal lesions in 29 of them within 48 hours. Almost all (34 of 36) lay in CA1, and they left no sign of damage at 4 to 6 months.",
+    "quote": "Of these, 29 patients showed 36 DWI lesions with corresponding T(2) lesions in the hippocampus within a time window of 48 h after onset. Almost all lesions (94%; 34/36) were selectively found in the CA-1 sector (Sommer sector) of the hippocampal cornu ammonis.",
+    "pmid": "17003071",
+    "doi": "10.1093/brain/awl248",
+    "cite": "Bartsch T, Alfke K, Stingele R, et al. Selective affection of hippocampal CA-1 neurons in patients with transient global amnesia without long-term sequelae. Brain. 2006;129(Pt 11):2874-84.",
+    "year": 2006
+   },
+   {
+    "kind": "imaging",
+    "claim": "CA1 shrinks as Alzheimer's disease progresses beyond mild cognitive impairment",
+    "finding": "Surface mapping of MRI scans of 31 people with amnestic mild cognitive impairment and 34 with Alzheimer's disease located the main group differences to CA1. The authors say atrophy follows the spread of neurofibrillary tangles.",
+    "quote": "Using an innovative surface-based hippocampal analytic technique we analysed the structural magnetic resonance hippocampal data of 31 amnestic MCI and 34 Alzheimer's disease subjects. Our study suggests that as Alzheimer's disease progresses, subregional hippocampal atrophy spreads in a pattern that follows the known trajectory of neurofibrillary tangle dissemination.",
+    "pmid": "17018552",
+    "doi": "10.1093/brain/awl274",
+    "cite": "Apostolova LG, Dinov ID, Dutton RA, et al. 3D comparison of hippocampal atrophy in amnestic mild cognitive impairment and Alzheimer's disease. Brain. 2006;129(Pt 11):2867-73.",
+    "year": 2006
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "dentate_gyrus",
+  "aliases": [
+   "dg",
+   "fascia dentata",
+   "dentate fascia"
+  ],
+  "hint": "toothed band of granule cells along the hippocampal edge",
+  "summary": "The dentate gyrus is a thin, toothed band of tightly packed granule cells that forms the entry point of the hippocampal circuit. It receives input from entorhinal cortex layer II through the perforant path. Its mossy fibers project to CA3. It is thought to separate similar memories from each other, and it is one of the few places where new neurons may be added in adulthood, a point still debated in humans.",
+  "where": "The dentate gyrus lies on the medial temporal lobe floor, wrapped inside the curve of the cornu ammonis in the hippocampal formation. It has a V-shape in cross section, and the hilus lies in its concavity next to CA3. It is seen best in a coronal cut of the hippocampus.",
+  "does": "The dentate gyrus is proposed to perform pattern separation: giving similar inputs distinct codes so memories do not blur together. High-resolution fMRI in people supports this, finding a bias toward pattern separation in the CA3 and dentate region. Adult neurogenesis in the dentate gyrus is well established in rodents. In people it is disputed: some studies find thousands of immature neurons across adult life and others find almost none after childhood.",
+  "connects": "It receives the perforant path from entorhinal cortex layer II and projects mossy fibers to CA3. Within the hilus, mossy cells link the dentate back to its own granule cells.",
+  "clinical": "Granule cell loss and dispersion are seen in the hippocampal sclerosis of temporal lobe epilepsy, and reduced neurogenesis has been proposed to contribute to memory loss in Alzheimer's disease and to depression. In people with amnestic mild cognitive impairment, high-resolution MRI shows smaller CA3 and dentate volumes along with CA1.",
+  "remember": "Dentate means toothed, and it is the first gate: the entorhinal cortex hands off to dentate granule cells, which hand to CA3.",
+  "facts": [
+   "Dentate granule cells project mossy fibers to CA3.",
+   "The dentate gyrus is a proposed site of pattern separation.",
+   "Whether adults generate new dentate neurons is still debated for humans."
+  ],
+  "quiz": [
+   {
+    "q": "Which hippocampal region gives distinct codes to similar experiences and sends mossy fibers to CA3?",
+    "type": "function"
+   },
+   {
+    "q": "Whether adult humans still generate new neurons is a debated question for which hippocampal subregion?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4,
+   11
+  ],
+  "see_also": [
+   "cornu_ammonis",
+   "hippocampus",
+   "entorhinal_cortex",
+   "subiculum"
+  ],
+  "how_we_know": "Human fMRI at high resolution tests function at the level of the dentate and CA3, but it cannot separate the two and is correlational. The neurogenesis question has been answered by postmortem tissue and by carbon-14 dating of cells, and those methods have produced opposite results. No human stimulation data exist for this subfield. The first human report of new neurons used the thymidine analog BrdU in cancer patients (Eriksson 1998), and later work has both supported and disputed it.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The CA3 and dentate region shows a bias toward pattern separation (human fMRI)",
+    "finding": "High-resolution fMRI (1.5 mm voxels) measured activity during memory encoding. CA1, the subiculum and entorhinal cortices showed a bias toward pattern completion, but only the CA3 and dentate region showed a strong bias toward pattern separation.",
+    "quote": "Although activity consistent with a bias toward pattern completion was observed in CA1, the subiculum, and the entorhinal and parahippocampal cortices, activity consistent with a strong bias toward pattern separation was observed in, and limited to, the CA3/dentate gyrus.",
+    "pmid": "18356518",
+    "doi": "10.1126/science.1152882",
+    "cite": "Bakker A, Kirwan CB, Miller M, et al. Pattern separation in the human hippocampal CA3 and dentate gyrus. Science. 2008;319(5870):1640-2.",
+    "year": 2008
+   },
+   {
+    "kind": "histology",
+    "claim": "Adult humans add new hippocampal neurons throughout life (carbon-14 dating)",
+    "finding": "Measuring nuclear-bomb-test carbon-14 in the DNA of hippocampal cells, researchers estimated that about 700 new neurons are added in each human hippocampus per day, an annual turnover of 1.75 percent of a renewing neuron fraction, with a modest decline with age.",
+    "quote": "In adult humans, 700 new neurons are added in each hippocampus per day, corresponding to an annual turnover of 1.75% of the neurons within the renewing fraction, with a modest decline during aging.",
+    "pmid": "23746839",
+    "doi": "10.1016/j.cell.2013.05.002",
+    "cite": "Spalding KL, Bergmann O, Alkass K, et al. Dynamics of hippocampal neurogenesis in adult humans. Cell. 2013;153(6):1219-1227.",
+    "year": 2013
+   },
+   {
+    "kind": "histology",
+    "claim": "Another study finds no new neurons in adult dentate gyrus (disputed)",
+    "finding": "In postmortem and surgical samples, neurogenesis fell sharply in the first year of life, and no young neurons were found in the dentate gyrus of adults, 17 control samples and 12 epilepsy resections. The authors conclude that adult neurogenesis is absent or very rare. This conflicts with the carbon-14 and other postmortem studies, so the question is open.",
+    "quote": "In adult patients with epilepsy and healthy adults (18-77 years; n = 17 post-mortem samples from controls; n = 12 surgical resection samples from patients with epilepsy), young neurons were not detected in the dentate gyrus. In the monkey (Macaca mulatta) hippocampus, proliferation of neurons in the subgranular zone was found in early postnatal life, but this diminished during juvenile development as neurogenesis decreased.",
+    "pmid": "29513649",
+    "doi": "10.1038/nature25975",
+    "cite": "Sorrells SF, Paredes MF, Cebrian-Silla A, et al. Human hippocampal neurogenesis drops sharply in children to undetectable levels in adults. Nature. 2018;555(7696):377-381.",
+    "year": 2018
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "subiculum",
+  "aliases": [
+   "subicular complex"
+  ],
+  "hint": "output sector of the seahorse next to the parahippocampal gyrus",
+  "summary": "The subiculum is the transition zone between the hippocampus proper (CA1) and the entorhinal cortex, and it is the main output of the hippocampal formation. It lies on the medial temporal lobe floor in the parahippocampal gyrus, beneath the hippocampus. It receives CA1 output and sends axons to the entorhinal cortex, mammillary bodies, anterior thalamus, nucleus accumbens and retrosplenial cortex. It helps carry the hippocampal output to the cortex and the Papez circuit.",
+  "where": "The subiculum lies on the medial surface of the temporal lobe, at the end of the cornu ammonis next to the entorhinal and parahippocampal cortex. It sits ventral to the hippocampus proper, at the medial lip of the hippocampal body. Its borders with CA1 and entorhinal cortex do not match any sulcal landmark and are set by cell architecture, so it is drawn from cytoarchitectonic probability maps.",
+  "does": "The subiculum is the main exit of the hippocampus, and it passes processed spatial and memory information to cortex, thalamus and hypothalamus. Studies in rodents show cells that signal distance to boundaries and cells that fire along a route. In people, high-resolution fMRI finds a bias toward pattern completion in the subiculum, which would fit a role in reading out memories. Its exact role in people is less well tested than that of CA1 and the dentate gyrus.",
+  "connects": "It receives CA1 output and sends axons through the fornix to the mammillary bodies, anterior thalamus and nucleus accumbens, and to entorhinal and retrosplenial cortex.",
+  "clinical": "The subiculum shrinks in Alzheimer's disease in high-resolution MRI, though mild cognitive impairment may not show this yet. It is also involved in the hippocampal circuit damage of temporal lobe epilepsy. Fornix damage cuts its output to the mammillary bodies.",
+  "remember": "Subiculum is Latin for a supporting layer: it is the base under the hippocampus and the exit door to the entorhinal cortex and the mammillary bodies.",
+  "facts": [
+   "The subiculum is the main output of the hippocampal formation.",
+   "It projects through the postcommissural fornix to the mammillary bodies.",
+   "Its borders with the neighbouring cortex cannot be placed from sulci and need cytoarchitecture."
+  ],
+  "quiz": [
+   {
+    "q": "Which part of the hippocampal formation gives the main output via the postcommissural fornix to the mammillary bodies?",
+    "type": "connection"
+   },
+   {
+    "q": "On high-resolution MRI, volumes of the entorhinal cortex, CA1 and which transition region are smaller in Alzheimer's disease?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4,
+   10,
+   11
+  ],
+  "see_also": [
+   "cornu_ammonis",
+   "entorhinal_cortex",
+   "mammillary_bodies",
+   "fornix"
+  ],
+  "how_we_know": "Subfield volumes from high-resolution MRI show which regions shrink in disease, and fMRI shows which subfield is more active during memory, but neither proves cause. The borders themselves come from postmortem cell staining. No stimulation or lesion data for this subfield alone exist in people.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Subiculum volume is reduced in Alzheimer's disease on high-resolution MRI",
+    "finding": "At 4 tesla, subfield volumes were measured in 91 older adults (53 controls, 20 with mild cognitive impairment, 18 with Alzheimer's disease). Alzheimer's patients had smaller entorhinal cortex, subiculum, CA1 and CA1-2 volumes, whereas people with mild cognitive impairment had only smaller CA1-2.",
+    "quote": "Compared to controls, AD had smaller volumes of ERC, subiculum, CA1, CA1-2, and total hippocampal volumes. MCI had smaller CA1-2 volumes.",
+    "pmid": "20839293",
+    "doi": "10.1002/hbm.20934",
+    "cite": "Mueller SG, Schuff N, Yaffe K, et al. Hippocampal atrophy patterns in mild cognitive impairment and Alzheimer's disease. Hum Brain Mapp. 2010;31(9):1339-47.",
+    "year": 2010
+   },
+   {
+    "kind": "imaging",
+    "claim": "The subiculum shows a bias toward pattern completion in human fMRI",
+    "finding": "In high-resolution fMRI during memory encoding, CA1, the subiculum and entorhinal and parahippocampal cortex showed a bias toward pattern completion, in contrast to a bias toward pattern separation in CA3 and the dentate gyrus.",
+    "quote": "Although activity consistent with a bias toward pattern completion was observed in CA1, the subiculum, and the entorhinal and parahippocampal cortices, activity consistent with a strong bias toward pattern separation was observed in, and limited to, the CA3/dentate gyrus.",
+    "pmid": "18356518",
+    "doi": "10.1126/science.1152882",
+    "cite": "Bakker A, Kirwan CB, Miller M, et al. Pattern separation in the human hippocampal CA3 and dentate gyrus. Science. 2008;319(5870):1640-2.",
+    "year": 2008
+   },
+   {
+    "kind": "histology",
+    "claim": "Subiculum borders must be drawn from cell architecture, not sulci",
+    "finding": "Cytoarchitectonic mapping of ten postmortem brains produced probability maps of the hippocampus, amygdala and entorhinal cortex. Borders such as those between subiculum and entorhinal cortex, and between subiculum and cornu ammonis, do not follow sulcal landmarks.",
+    "quote": "Many borders, e.g. between the subiculum and entorhinal cortex, subiculum and Cornu ammonis, and amygdala and hippocampus, do not match sulcal landmarks such as the bottom of a sulcus. Only microscopic observation enables the precise localization of the borders of these brain regions.",
+    "pmid": "16208455",
+    "doi": "10.1007/s00429-005-0025-5",
+    "cite": "Amunts K, Kedo O, Kindler M, et al. Cytoarchitectonic mapping of the human amygdala, hippocampal region and entorhinal cortex: intersubject variability and probability maps. Anat Embryol (Berl). 2005;210(5-6):343-52.",
+    "year": 2005
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "basolateral_amygdala",
+  "aliases": [
+   "laterobasal amygdala",
+   "bla",
+   "laterobasal group",
+   "lateral and basal amygdala",
+   "basolateral complex"
+  ],
+  "hint": "lateral and basal nuclei, the sensory entry of the almond complex",
+  "summary": "The basolateral amygdala is the lateral and basal group of nuclei in the amygdala, the almond-shaped complex in the anterior medial temporal lobe. It resembles cortex, with glutamatergic principal neurons. It receives sensory input from the thalamus and association cortex and projects to the central and medial nuclei, the striatum and the hippocampus. It learns what cues predict, and it strengthens the memory of emotional events.",
+  "where": "The basolateral group forms the large lateral and posterior part of the amygdala, at the anterior tip of the temporal lobe, just in front of the hippocampus and the temporal horn of the lateral ventricle. It lies lateral and deep to the superficial group and the centromedial group. It is best seen in a coronal or axial view with the whole amygdala faded.",
+  "does": "The basolateral group connects sensory cues to emotional meaning, such as in fear conditioning, where a neutral cue acquires threat value. It modulates how well the hippocampus and cortex store emotional events. Projections to the nucleus accumbens support positive associations and projections to the central nucleus support negative ones, results mainly from mice. In people, focal damage to this group removes the effect of emotion on memory.",
+  "connects": "It receives sensory input from the thalamus and from visual, auditory and polymodal association cortex, plus input from the hippocampus and prefrontal cortex. It projects to the central and medial group, the nucleus accumbens, the hippocampus and the prefrontal cortex.",
+  "clinical": "In Urbach-Wiethe disease, calcification can selectively damage the basolateral amygdala, leaving emotional events no better remembered than neutral ones. Overactivity of the amygdala is reported in PTSD and anxiety disorders, but imaging seldom separates the subdivisions.",
+  "remember": "Basolateral means the cortex-like sensory side: input comes in here, then flows to the central nucleus, which acts.",
+  "facts": [
+   "The basolateral complex consists of the lateral, basal and accessory basal nuclei.",
+   "It projects to the central amygdala, nucleus accumbens and hippocampus.",
+   "Urbach-Wiethe disease can damage the basolateral amygdala selectively."
+  ],
+  "quiz": [
+   {
+    "q": "Which amygdala subdivision receives sensory input from thalamus and cortex, and learns which cues predict threat?",
+    "type": "function"
+   },
+   {
+    "q": "Two Urbach-Wiethe patients show no emotional enhancement of memory with damage centered on which amygdala subdivision?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   4,
+   11
+  ],
+  "see_also": [
+   "amygdala",
+   "centromedial_amygdala",
+   "superficial_amygdala",
+   "hippocampus"
+  ],
+  "how_we_know": "Circuit tests with optogenetics in mice give the clearest causal evidence for what basolateral neurons do. Human evidence is rarer: lesion cases such as Urbach-Wiethe disease, and fMRI that cannot always separate subdivisions. Direct electrical stimulation of the human amygdala evokes fear and other emotions but does not target the subdivisions.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Damage centered on the basolateral amygdala removes emotional effects on memory",
+    "finding": "Two patients with Urbach-Wiethe disease and disease centered on the basolateral amygdala showed no emotion-induced changes in the encoding of nearby neutral items, which healthy people show both before and after an emotional item.",
+    "quote": "By studying two rare patients with congenital lipoid proteinosis (Urbach-Wiethe) and a focal disease emphasis on the basolateral amygdala (BLA), we demonstrate that this bidirectional modification of episodic encoding by emotion depends on the integrity of the amygdala, as both retrograde and anterograde modulatory effects are absent.",
+    "pmid": "17027866",
+    "doi": "10.1016/j.neuropsychologia.2006.08.027",
+    "cite": "Hurlemann R, Wagner M, Hawellek B, et al. Amygdala control of emotion-induced forgetting and remembering: evidence from Urbach-Wiethe disease. Neuropsychologia. 2007;45(5):877-84.",
+    "year": 2007
+   },
+   {
+    "kind": "stimulation",
+    "claim": "A basolateral projection to the central amygdala controls anxiety (mouse)",
+    "finding": "This is animal work. In mice, optogenetic stimulation of basolateral terminals in the central nucleus reduced anxiety-like behavior and inhibiting the same projection increased it, but the effects were not seen when basolateral cell bodies were controlled directly.",
+    "quote": "Conversely, selective optogenetic inhibition of the same projection with a third-generation halorhodopsin (eNpHR3.0) increased anxiety-related behaviours. Importantly, these effects were not observed with direct optogenetic control of BLA somata, possibly owing to recruitment of antagonistic downstream structures.",
+    "pmid": "21389985",
+    "doi": "10.1038/nature09820",
+    "cite": "Tye KM, Prakash R, Kim SY, et al. Amygdala circuitry mediating reversible and bidirectional control of anxiety. Nature. 2011;471(7338):358-62.",
+    "year": 2011
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Basolateral neurons split into fear and reward pathways (mouse)",
+    "finding": "This is animal work. In mice, basolateral neurons projecting to the nucleus accumbens supported positive reinforcement when photostimulated, whereas those projecting to the centromedial amygdala mediated negative reinforcement.",
+    "quote": "We find that photostimulation of NAc projectors supports positive reinforcement while photostimulation of CeM projectors mediates negative reinforcement.",
+    "pmid": "25925480",
+    "doi": "10.1038/nature14366",
+    "cite": "Namburi P, Beyeler A, Yorozu S, et al. A circuit mechanism for differentiating positive and negative associations. Nature. 2015;520(7549):675-8.",
+    "year": 2015
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "centromedial_amygdala",
+  "aliases": [
+   "central amygdala",
+   "centromedial group",
+   "cea",
+   "central nucleus of the amygdala",
+   "centromedial complex"
+  ],
+  "hint": "central and medial nuclei, the output side of the almond complex",
+  "summary": "The centromedial amygdala is the group of central and medial nuclei on the dorsomedial side of the amygdala. Its neurons are mostly GABAergic and resemble the striatum rather than cortex. It receives processed input from the basolateral group and from the insula and brainstem. It sends the amygdala's output to the hypothalamus and brainstem, where it triggers freezing, heart rate and stress hormone changes.",
+  "where": "The centromedial group lies on the dorsal and medial side of the amygdala, near the roof and the border with the stria terminalis and the basal forebrain. It is medial to the basolateral group and merges with the bed nucleus of the stria terminalis through the extended amygdala. It is best seen in a coronal view of the amygdala.",
+  "does": "The central nucleus converts amygdala processing into defensive responses. In mice, a lateral subdivision is needed for acquiring conditioned fear and a medial subdivision drives its expression. In human fMRI, the centromedial region responds most strongly to negative emotional stimuli and, together with the bed nucleus of the stria terminalis, shows sustained responses to uncertain threat. The central nucleus is also tied to pain and appetite.",
+  "connects": "Input comes mainly from the basolateral group, the insula, the thalamus and the brainstem. Output goes to the hypothalamus, periaqueductal gray, parabrachial nucleus and autonomic brainstem nuclei, and to the bed nucleus of the stria terminalis.",
+  "clinical": "Hyperreactivity of the amygdala, including its centromedial region, is reported in anxiety disorders and PTSD, though imaging seldom isolates this subdivision. Bilateral amygdala damage can blunt fear, as in patient S.M. The central nucleus is also studied in chronic pain and addiction.",
+  "remember": "Central is the command post: the basolateral side learns, the central side acts.",
+  "facts": [
+   "The centromedial amygdala is the main output of the amygdala to the hypothalamus and brainstem.",
+   "In mice, the lateral part of the central nucleus gates conditioned fear.",
+   "It is continuous with the bed nucleus of the stria terminalis in the extended amygdala."
+  ],
+  "quiz": [
+   {
+    "q": "Which amygdala subdivision sends output to the hypothalamus and periaqueductal gray to produce freezing and autonomic fear responses?",
+    "type": "function"
+   },
+   {
+    "q": "In a high-resolution fMRI study of amygdala subnuclei, which group gave the greatest response to negative emotional stimuli?",
+    "type": "function"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4,
+   11
+  ],
+  "see_also": [
+   "amygdala",
+   "basolateral_amygdala",
+   "extended_amygdala",
+   "hypothalamus"
+  ],
+  "how_we_know": "Causal evidence is from mice, where optogenetics and recordings show how central nucleus circuits gate fear. In people, subregion fMRI and large studies of threat anticipation give correlations. The human amygdala has been stimulated electrically, but not at the level of the centromedial group.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "The centromedial amygdala responds most strongly to negative emotional stimuli (human fMRI)",
+    "finding": "High-resolution fMRI with a tracing protocol for the amygdala subnuclei found the greatest response to negative stimuli in the centromedial group, and the group was more connected to the basal nuclei than to the lateral nucleus, as in animals.",
+    "quote": "The greatest sensitivity to the negative emotional stimuli was observed in the centromedial amygdala, where the hemodynamic response amplitude elicited by the negative emotional stimuli was greater and peaked later than for neutral stimuli.",
+    "pmid": "26926791",
+    "doi": "10.1016/j.neuroimage.2016.02.056",
+    "cite": "Hrybouski S, Aghamohammadi-Sereshki A, Madan CR, et al. Amygdala subnuclei response and connectivity during emotional processing. Neuroimage. 2016;133:98-110.",
+    "year": 2016
+   },
+   {
+    "kind": "imaging",
+    "claim": "The central amygdala shows sustained responses to uncertain threat in humans",
+    "finding": "In 220 adults, the central amygdala and bed nucleus showed sustained responses to uncertain and distal threat and phasic bursts before certain and imminent threat, with statistically indistinguishable dynamics.",
+    "quote": "Both regions exhibited activation dynamics that run counter to popular models, with the Ce (and BST) showing sustained responses to uncertain-and-distal threat and the BST (and Ce) showing phasic responses to certain-and-imminent threat.",
+    "pmid": "40050117",
+    "doi": "10.1523/JNEUROSCI.2113-24.2025",
+    "cite": "Cornwell BR, Didier PR, Grogans SE, et al. A Shared Threat-Anticipation Circuit Is Dynamically Engaged at Different Moments by Certain and Uncertain Threat. J Neurosci. 2025;45(16).",
+    "year": 2025
+   },
+   {
+    "kind": "recording",
+    "claim": "Lateral central nucleus is needed to acquire fear and the medial part drives it (mouse)",
+    "finding": "This is animal work. In mice, recordings, optogenetics and drugs showed that activity in the lateral subdivision of the central nucleus is required for fear acquisition, whereas conditioned fear responses are driven by output neurons in the medial subdivision.",
+    "quote": "Using in vivo electrophysiological, optogenetic and pharmacological approaches in mice, we show that neuronal activity in the lateral subdivision of the central amygdala (CEl) is required for fear acquisition, whereas conditioned fear responses are driven by output neurons in the medial subdivision (CEm).",
+    "pmid": "21068837",
+    "doi": "10.1038/nature09559",
+    "cite": "Ciocchi S, Herry C, Grenier F, et al. Encoding of conditioned fear in central amygdala inhibitory circuits. Nature. 2010;468(7321):277-82.",
+    "year": 2010
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "superficial_amygdala",
+  "aliases": [
+   "cortical amygdala",
+   "superficial group",
+   "corticoamygdaloid nuclei",
+   "cortical nuclei of the amygdala"
+  ],
+  "hint": "cortex-like surface nuclei beside the olfactory input",
+  "summary": "The superficial amygdala is the group of cortex-like nuclei on the medial and ventral surface of the amygdala. It includes the cortical nuclei and the nucleus of the lateral olfactory tract, and it merges with the nearby piriform cortex. It receives olfactory input directly from the olfactory bulb and piriform cortex. It is the olfactory part of the amygdala and has also been linked to social information in human fMRI.",
+  "where": "The superficial group lies on the medial and ventral surface of the amygdala, at the pial surface of the anterior temporal lobe beside the uncus and the piriform cortex. It forms a thin band over the centromedial and basolateral groups. It is best seen from a medial or ventral view with the amygdala shown.",
+  "does": "The superficial group is the main recipient of olfactory input in the amygdala, so it relays smell to the rest of the complex, linking odors to emotion and behavior. In rodents, nearby medial areas also handle pheromone signals, but the human equivalent is weak. In one fMRI study using cytoarchitectonic maps, facial expressions evoked responses in the superficial group, leading to the suggestion that it extracts the social value of sensory input. Evidence for human function is thin and this idea needs replication.",
+  "connects": "It receives direct input from the olfactory bulb and piriform cortex through the lateral olfactory tract, and it connects with the entorhinal cortex, other amygdala nuclei and the hypothalamus.",
+  "clinical": "Early amygdala pathology and loss of smell appear in Alzheimer's disease and Parkinson's disease, though these links are not specific to this group. Seizures with olfactory aura arise from the uncus and amygdala. Few clinical findings separate this subdivision from the rest of the amygdala.",
+  "remember": "Superficial is the surface: the cortex-like skin of the amygdala that gets the sense of smell directly.",
+  "facts": [
+   "The superficial group receives olfactory bulb input without a thalamic relay.",
+   "It is drawn from a probabilistic cytoarchitectonic map in this atlas.",
+   "In one human fMRI study, facial expressions evoked responses in the superficial amygdala."
+  ],
+  "quiz": [
+   {
+    "q": "Which amygdala subdivision receives direct olfactory bulb input without thalamic relay?",
+    "type": "connection"
+   },
+   {
+    "q": "In an fMRI study using cytoarchitectonic probability maps, which amygdala subregion responded to facial expressions?",
+    "type": "function"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4,
+   11
+  ],
+  "see_also": [
+   "amygdala",
+   "piriform_cortex",
+   "centromedial_amygdala",
+   "basolateral_amygdala"
+  ],
+  "how_we_know": "Human data are limited to fMRI that combines functional images with cytoarchitectonic probability maps from postmortem brains, plus whole-amygdala PET studies of smell. The olfactory-input claim itself comes mostly from tract-tracing in animals. No lesion or stimulation data separate this group.",
+  "evidence": [
+   {
+    "kind": "imaging",
+    "claim": "Facial expressions evoke responses in the superficial amygdala (human fMRI)",
+    "finding": "fMRI combined with cytoarchitectonic probability maps found facial-expression-evoked responses in the superficial amygdala on both sides, compared with nonsocial control stimuli. The authors suggest the group extracts the social value of sensory input.",
+    "quote": "We localized facial expression-evoked signal changes bilaterally in the superficial amygdala, which suggests that this subregion selectively extracts the social value of incoming sensory information.",
+    "pmid": "19347877",
+    "doi": "10.1002/hbm.20755",
+    "cite": "Goossens L, Kukolja J, Onur OA, et al. Selective processing of social stimuli in the superficial amygdala. Hum Brain Mapp. 2009;30(10):3332-8.",
+    "year": 2009
+   },
+   {
+    "kind": "histology",
+    "claim": "The amygdala subdivisions are mapped from cell architecture in postmortem brains",
+    "finding": "Cell-stained sections of ten postmortem brains were used to build probability maps of the amygdala and its subdivisions in standard space. The maps are what fMRI studies and this atlas use to place the superficial, basolateral and centromedial groups.",
+    "quote": "Here, for the first time, we present stereotaxic, probabilistic maps of the hippocampus, the amygdala and the entorhinal cortex and some of their subdivisions.",
+    "pmid": "16208455",
+    "doi": "10.1007/s00429-005-0025-5",
+    "cite": "Amunts K, Kedo O, Kindler M, et al. Cytoarchitectonic mapping of the human amygdala, hippocampal region and entorhinal cortex: intersubject variability and probability maps. Anat Embryol (Berl). 2005;210(5-6):343-52.",
+    "year": 2005
+   },
+   {
+    "kind": "imaging",
+    "claim": "Smell activates the human amygdala (whole amygdala, PET)",
+    "finding": "In healthy volunteers, a highly aversive odor raised blood flow in both amygdalae and the left orbitofrontal cortex, and left amygdala activity tracked ratings of aversiveness. PET cannot separate the superficial group from other nuclei.",
+    "quote": "Exposure to a highly aversive odorant produced strong rCBF increases in both amygdalae and in the left orbitofrontal cortex. Exposure to less aversive odorants produced rCBF increases in the orbitofrontal cortex but not in the amygdala.",
+    "pmid": "9108115",
+    "doi": "10.1073/pnas.94.8.4119",
+    "cite": "Zald DH, Pardo JV. Emotion, olfaction, and the human amygdala: amygdala activation during aversive olfactory stimulation. Proc Natl Acad Sci U S A. 1997;94(8):4119-24.",
+    "year": 1997
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "substantia_nigra_pars_compacta",
+  "aliases": [
+   "snc",
+   "pars compacta",
+   "nigral dopamine neurons"
+  ],
+  "hint": "dark pigmented band on the midbrain, source of striatal dopamine",
+  "summary": "The substantia nigra pars compacta is the dopamine-producing part of the substantia nigra, a dark band in the midbrain just above the cerebral peduncles. Its pigmented neurons contain neuromelanin, which gives the nigra its name. They send dopamine through the nigrostriatal pathway to the caudate and putamen. They facilitate voluntary movement, and their progressive loss is the cause of the motor features of Parkinson's disease.",
+  "where": "The pars compacta is the dorsal, densely packed zone of the substantia nigra, in the midbrain between the cerebral peduncle (crus cerebri) and the red nucleus. It lies dorsal to the pars reticulata and ventral to the red nucleus and the subthalamic nucleus. It is seen best in an axial section through the midbrain.",
+  "does": "Dopamine from the pars compacta tunes striatal circuits: it excites direct pathway neurons through D1 receptors and inhibits indirect pathway neurons through D2 receptors, so the net effect favors movement. It also supports motor learning and reinforcement, though the ventral tegmental area carries more of the classic reward prediction signal. The ventral and lateral part of the pars compacta, which projects to the dorsal putamen, is the most vulnerable.",
+  "connects": "The pars compacta projects dopamine mainly to the dorsal striatum through the nigrostriatal pathway. It receives input from the striatum, subthalamic nucleus and pedunculopontine area.",
+  "clinical": "Parkinson's disease is the loss of pars compacta dopamine neurons, starting in the ventrolateral tier, along with Lewy bodies, and gives resting tremor, rigidity, bradykinesia and postural instability. The toxin MPTP selectively damages these cells and produced parkinsonism in drug users. Loss is estimated at about half of nigral cells by symptom onset.",
+  "remember": "Nigra is black: the dark pigment is neuromelanin in dopamine cells, and Parkinson's disease is a loss of the black.",
+  "facts": [
+   "The pars compacta supplies dopamine to the striatum through the nigrostriatal pathway.",
+   "Loss starts in the ventrolateral tier of the pars compacta in Parkinson's disease.",
+   "MPTP selectively destroys pars compacta neurons and causes parkinsonism."
+  ],
+  "quiz": [
+   {
+    "q": "Which midbrain nucleus holds the pigmented dopamine neurons that project to the dorsal striatum and are lost in Parkinson's disease?",
+    "type": "clinical"
+   },
+   {
+    "q": "Which midbrain cell group provides the nigrostriatal dopamine pathway?",
+    "type": "connection"
+   },
+   {
+    "q": "Which part of the substantia nigra lies dorsal to the pars reticulata and contains neuromelanin-rich neurons?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   4,
+   10
+  ],
+  "see_also": [
+   "substantia_nigra_pars_reticulata",
+   "ventral_tegmental_area",
+   "striatum",
+   "substantia_nigra"
+  ],
+  "how_we_know": "The strongest evidence is postmortem counts of pigmented and dopaminergic neurons, which show how much is lost and where. Drug-induced parkinsonism from MPTP shows that selective damage to these cells is sufficient to cause the syndrome. Stimulation does not apply to this dopaminergic nucleus, so the evidence is lesion and histology.",
+  "evidence": [
+   {
+    "kind": "histology",
+    "claim": "Parkinson's disease kills pars compacta neurons first in the ventrolateral tier",
+    "finding": "Counting pigmented neurons in a single section of the caudal nigra, researchers found a 45 percent loss in the first decade of Parkinson's disease, greatest in the lateral ventral tier (91 percent), then the medial ventral tier (71) and the dorsal tier (56). The pattern is the opposite of normal ageing.",
+    "quote": "In 20 Parkinson's disease (PD) cases of varying disease duration there was an exponential loss of pigmented neurons with a 45% loss in the first decade. Regionally, the pattern was opposite to ageing. Loss was greatest in the lateral ventral tier (average loss 91%) followed by the medial ventral tier (71%) and the dorsal tier (56%).",
+    "pmid": "1933245",
+    "data": {
+     "title": "Neuron loss in Parkinson's disease by tier",
+     "unit": "%",
+     "items": [
+      [
+       "Lateral ventral tier",
+       91
+      ],
+      [
+       "Medial ventral tier",
+       71
+      ],
+      [
+       "Dorsal tier",
+       56
+      ]
+     ]
+    },
+    "doi": "10.1093/brain/114.5.2283",
+    "cite": "Fearnley JM, Lees AJ. Ageing and Parkinson's disease: substantia nigra regional selectivity. Brain. 1991;114 ( Pt 5):2283-301.",
+    "year": 1991
+   },
+   {
+    "kind": "histology",
+    "claim": "Most nigral dopamine neurons are lost within a few years of diagnosis",
+    "finding": "Postmortem brains from 28 patients examined 1 to 27 years after diagnosis showed virtually complete loss of dopamine staining in the dorsal putamen by 4 years, and a 50 to 90 percent loss of tyrosine hydroxylase neurons in the pars compacta from the earliest time points.",
+    "quote": "At 4 years post-diagnosis and thereafter, there was virtually complete loss of staining in the dorsal putamen with only an occasional abnormal dopaminergic fibre detected. In the substantia nigra pars compacta, there was a 50-90% loss of tyrosine hydroxylase-positive neurons from the earliest time points studied with only marginal additional loss thereafter.",
+    "pmid": "23884810",
+    "doi": "10.1093/brain/awt192",
+    "cite": "Kordower JH, Olanow CW, Dodiya HB, et al. Disease duration and the integrity of the nigrostriatal system in Parkinson's disease. Brain. 2013;136(Pt 8):2419-31.",
+    "year": 2013
+   },
+   {
+    "kind": "lesion",
+    "claim": "Selective damage to nigral cells by MPTP causes parkinsonism in people",
+    "finding": "Four people developed marked parkinsonism after injecting an illicit drug that contained MPTP. The authors proposed that the chemical selectively damages cells in the substantia nigra, so loss of these neurons is sufficient to cause parkinsonism.",
+    "quote": "Four persons developed marked parkinsonism after using an illicit drug intravenously. On the basis of the striking parkinsonian features observed in our patients, and additional pathological data from one previously reported case, it is proposed that this chemical selectively damages cells in the substantia nigra.",
+    "pmid": "6823561",
+    "doi": "10.1126/science.6823561",
+    "cite": "Langston JW, Ballard P, Tetrud JW, et al. Chronic Parkinsonism in humans due to a product of meperidine-analog synthesis. Science. 1983;219(4587):979-80.",
+    "year": 1983
+   },
+   {
+    "kind": "histology",
+    "claim": "Loss in Parkinson's disease follows a fixed order within the pars compacta",
+    "finding": "Using calbindin staining, researchers found that dopamine cell loss was greatest in a caudal pocket called nigrosome 1 (98 percent) and spread to other nigrosomes and the matrix in a stereotyped order that tracked disease duration.",
+    "quote": "Depletion was maximum (98%) in the main pocket (nigrosome 1), located in the caudal and mediolateral part of the substantia nigra pars compacta.",
+    "pmid": "10430830",
+    "doi": "10.1093/brain/122.8.1437",
+    "cite": "Damier P, Hirsch EC, Agid Y, et al. The substantia nigra of the human brain. II. Patterns of loss of dopamine-containing neurons in Parkinson's disease. Brain. 1999;122 ( Pt 8):1437-48.",
+    "year": 1999
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "substantia_nigra_pars_reticulata",
+  "aliases": [
+   "snr",
+   "pars reticulata",
+   "nigral output"
+  ],
+  "hint": "output band beneath the dark dopamine layer of the midbrain",
+  "summary": "The substantia nigra pars reticulata is the ventral part of the substantia nigra and an output nucleus of the basal ganglia. Its neurons are GABAergic and fire tonically, much like those of the internal pallidum. It receives input from the striatum and the subthalamic nucleus. It sends output to the thalamus, superior colliculus and brainstem, and it controls eye movements and movement initiation.",
+  "where": "The pars reticulata lies ventral to the pars compacta in the midbrain, directly above the cerebral peduncle (crus cerebri). It is lateral to the red nucleus and ventral to the subthalamic nucleus. It is best seen in an axial section through the midbrain, deeper in the substantia nigra than the pars compacta.",
+  "does": "The pars reticulata holds its targets under continuous inhibition and releases them when striatal neurons inhibit it. Its projection to the superior colliculus controls saccades: in monkeys, pars reticulata cells pause before a saccade, which lifts the brake on the colliculus. Its projection to the ventral thalamus gates movement through the direct and indirect pathways. In people, its function is inferred mostly from monkeys and from recordings made during deep brain stimulation surgery.",
+  "connects": "It receives GABAergic direct pathway input from the striatum, GABAergic input from the external pallidum and glutamatergic input from the subthalamic nucleus. It sends GABAergic output to the ventral anterior and ventral lateral thalamus, the superior colliculus and the pedunculopontine area.",
+  "clinical": "In Parkinson's disease, pars reticulata recordings show increased firing rates and beta-band activity, consistent with overactive output. Combined stimulation of the subthalamic nucleus and the pars reticulata has been tried for freezing of gait.",
+  "remember": "Reticulata is the net-like, GABAergic exit; the compacta is the dark dopamine layer, the reticulata is the output twin of the internal pallidum.",
+  "facts": [
+   "The pars reticulata and internal pallidum are the output nuclei of the basal ganglia.",
+   "Its neurons are GABAergic and tonically active.",
+   "It projects to the superior colliculus to control saccades."
+  ],
+  "quiz": [
+   {
+    "q": "Which midbrain nucleus is a GABAergic output of the basal ganglia that inhibits the superior colliculus to control saccades?",
+    "type": "function"
+   },
+   {
+    "q": "Which part of the substantia nigra lies beneath the compacta and is a twin of the internal pallidum?",
+    "type": "location"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4,
+   10
+  ],
+  "see_also": [
+   "substantia_nigra_pars_compacta",
+   "globus_pallidus_internus",
+   "subthalamic_nucleus",
+   "midbrain"
+  ],
+  "how_we_know": "Human data come from recordings made during deep brain stimulation surgery, which only include patients with disease, and from a small stimulation trial. The saccade function was found in monkeys. A 1999 case report (Bejjani and colleagues) described acute depression when stimulation reached the nigra.",
+  "evidence": [
+   {
+    "kind": "recording",
+    "claim": "Pars reticulata firing and beta power are higher in Parkinson's disease than in dystonia",
+    "finding": "Recordings of the pars reticulata were made in 20 Parkinson's patients and 16 dystonia patients during deep brain stimulation surgery. Parkinson's patients had increased alpha and beta power and higher firing rates, and beta power correlated with motor improvement.",
+    "quote": "Intraoperative recordings of the SNr were obtained from 20 PD and 16 DT patients during DBS surgery. Spectral power, neuronal firing rate, beta burst dynamics, and correlation analysis of the SNr signal were analyzed. PD patients exhibited increased alpha and beta power, elevated firing rates, and reduced aperiodic exponent values in SNr compared to DT.",
+    "pmid": "40325060",
+    "doi": "10.1038/s41531-025-00947-8",
+    "cite": "Shi L, Xu Y, Fan S, et al. Comparison of oscillatory activity in substantia nigra pars reticulata between Parkinson's disease and dystonia. NPJ Parkinsons Dis. 2025;11(1):109.",
+    "year": 2025
+   },
+   {
+    "kind": "recording",
+    "claim": "Pars reticulata neurons do not fire in synchrony with each other in Parkinson's disease",
+    "finding": "In patients with Parkinson's disease, pairs of neurons were recorded together from the pallidum and the pars reticulata. No synchronous activity was found in 10 pairs from the pars reticulata, in contrast to oscillatory pairs in the pallidum of tremor patients.",
+    "quote": "Synchronized activity was not observed in the SNr (10 pairs).",
+    "pmid": "11923450",
+    "doi": "10.1523/JNEUROSCI.22-07-02855.2002",
+    "cite": "Levy R, Hutchison WD, Lozano AM, et al. Synchronized neuronal discharge in the basal ganglia of parkinsonian patients is limited to oscillatory activity. J Neurosci. 2002;22(7):2855-61.",
+    "year": 2002
+   }
+  ],
+  "stimulation": {
+   "method": "combined stimulation of the subthalamic nucleus and pars reticulata (12 patients, crossover trial)",
+   "effect": "In 12 Parkinson's patients, adding pars reticulata stimulation to subthalamic stimulation did not improve axial symptoms overall but might improve freezing of gait; balance did not change.",
+   "quote": "For the primary outcome measure no statistically significant improvement was observed for combined subthalamic nucleus and substantia nigra pars reticulata stimulation at the '3-week follow-up'. The secondary endpoints, however, revealed that the combined stimulation of subthalamic nucleus and substantia nigra pars reticulata might specifically improve freezing of gait, whereas balance impairment remained unchanged.",
+   "pmid": "23757762",
+   "doi": "10.1093/brain/awt122",
+   "cite": "Weiss D, Walach M, Meisner C, et al. Nigral stimulation for resistant axial motor impairment in Parkinson's disease? A randomized controlled trial. Brain. 2013;136(Pt 7):2098-108.",
+   "year": 2013
+  }
+ },
+ {
+  "id": "lateral_posterior_nucleus",
+  "aliases": [
+   "lp nucleus",
+   "lp",
+   "lateral posterior thalamic nucleus",
+   "lateral posterior thalamus"
+  ],
+  "hint": "higher-order cell group of the dorsal tier, just ahead of the pulvinar",
+  "summary": "The lateral posterior nucleus is a thalamic nucleus in the posterior part of the lateral group, sitting just in front of the pulvinar. It is a higher-order nucleus, which means it mainly relays signals between cortical areas rather than bringing them in from the senses. It is closely linked to the parietal association cortex and is treated with the pulvinar as the lateral posterior and pulvinar complex. In rodents, the lateral posterior nucleus is the pulvinar homolog and supports visual processing.",
+  "where": "The lateral posterior nucleus lies in the dorsal tier of the lateral thalamic group, dorsal to the ventral posterior nuclei and in front of and above the pulvinar. It sits behind the lateral dorsal nucleus. It is seen best in a sagittal or coronal cut with the thalamic nuclei shown.",
+  "does": "The lateral posterior nucleus sends information between cortical areas, in particular between visual, parietal and other association regions. It integrates signals from the superior colliculus and the cortex. In mice, it signals the mismatch between self-generated and external visual motion, and its subregions drive different visual streams. In people, the lateral posterior nucleus and pulvinar are linked to spatial attention and visual binding, but the nucleus is hard to separate from the pulvinar in human work.",
+  "connects": "It is reciprocally connected with the posterior parietal cortex and with visual association areas, and receives input from the superior colliculus and pretectum.",
+  "clinical": "Damage to the pulvinar region produces contralateral spatial deficits and attention problems, and thalamic hemorrhage in this region can cause neglect-like signs. Because the nucleus lies next to the pulvinar, clinical reports rarely isolate it.",
+  "remember": "Lateral posterior: the thalamic neighbour of the pulvinar, and the rodent version of the pulvinar.",
+  "facts": [
+   "The lateral posterior nucleus is a higher-order thalamic nucleus linked to the parietal association cortex.",
+   "In mice, the lateral posterior nucleus is the pulvinar homolog.",
+   "It receives input from the superior colliculus."
+  ],
+  "quiz": [
+   {
+    "q": "Which dorsal-tier thalamic nucleus lies just ahead of the pulvinar and links with parietal association cortex?",
+    "type": "location"
+   },
+   {
+    "q": "In mice, which thalamic nucleus is the pulvinar homolog and signals mismatch between self-generated and external visual motion?",
+    "type": "function"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   4,
+   6
+  ],
+  "see_also": [
+   "pulvinar",
+   "lateral_geniculate_nucleus",
+   "mediodorsal_nucleus",
+   "thalamus"
+  ],
+  "how_we_know": "Human evidence for this nucleus is sparse and almost always shared with the pulvinar: a rare lesion case, and fMRI maps of the visual pulvinar. Detailed circuit evidence is from mice, where the nucleus is called a pulvinar homolog. No human stimulation data exist for this nucleus.",
+  "evidence": [
+   {
+    "kind": "lesion",
+    "claim": "Damage to the pulvinar region disrupts spatial coding in the contralateral visual field",
+    "finding": "A patient with unilateral damage to the rostral pulvinar could not localize stimuli in the opposite lower visual field and made errors binding shape and color there. The lesion involves the pulvinar, so it applies to the lateral posterior and pulvinar complex rather than to this nucleus alone.",
+    "quote": "We report a patient with unilateral damage to the rostral part of the pulvinar who was impaired in localizing stimuli in the inferior visual field contralateral to the lesion and who made errors in the binding of shape and color in that quadrant.",
+    "pmid": "11780145",
+    "doi": "10.1038/nn794",
+    "cite": "Ward R, Danziger S, Owen V, et al. Deficits in spatial coding and feature binding following damage to spatiotopic maps in the human pulvinar. Nat Neurosci. 2002;5(2):99-100.",
+    "year": 2002
+   },
+   {
+    "kind": "imaging",
+    "claim": "The human visual pulvinar contains visual field maps linked to visual and parietal cortex",
+    "finding": "High-resolution 3-tesla fMRI found two visual field maps in the ventral pulvinar. The ventral pulvinar was most connected with early and extrastriate visual cortex and the dorsal pulvinar with parietal and frontal areas, which is the same pattern seen in monkeys.",
+    "quote": "Using high-resolution functional magnetic resonance imaging at 3 T, we identified two visual field maps within the ventral pulvinar, referred to as vPul1 and vPul2. The dorsal pulvinar was most strongly connected with parietal and frontal areas.",
+    "pmid": "26156987",
+    "doi": "10.1523/JNEUROSCI.1575-14.2015",
+    "cite": "Arcaro MJ, Pinsk MA, Kastner S. The Anatomical and Functional Organization of the Human Visual Pulvinar. J Neurosci. 2015;35(27):9848-71.",
+    "year": 2015
+   },
+   {
+    "kind": "recording",
+    "claim": "The mouse lateral posterior nucleus carries separate streams of visual information",
+    "finding": "This is animal work. In mice, circuit mapping and high-density recordings defined three subregions of the lateral posterior nucleus (the pulvinar homolog), each with its own connectivity, driving inputs and visual space map.",
+    "quote": "We combined large-scale anatomical circuit mapping with high-density electrophysiological recordings to dissect a homolog of the pulvinar in mice, the lateral posterior thalamic nucleus (LP). We define three broad LP subregions based on correspondence between connectivity and functional properties.",
+    "pmid": "30850257",
+    "doi": "10.1016/j.neuron.2019.02.010",
+    "cite": "Bennett C, Gale SD, Garrett ME, et al. Higher-Order Thalamic Circuits Channel Parallel Streams of Visual Information in Mice. Neuron. 2019;102(2):477-492.e5.",
+    "year": 2019
+   }
+  ],
+  "stimulation": null
+ },
+ {
+  "id": "intralaminar_nuclei",
+  "aliases": [
+   "intralaminar nucleus",
+   "centromedian nucleus",
+   "cm nucleus",
+   "centromedian parafascicular complex",
+   "cm-pf"
+  ],
+  "hint": "cell groups embedded in the thalamus's internal medullary lamina",
+  "summary": "The intralaminar nuclei are a set of thalamic nuclei embedded in the internal medullary lamina, the white matter sheet that divides the thalamus. They include a rostral group (central lateral, paracentral, central medial) and a caudal group, the centromedian and parafascicular nuclei. They receive ascending input from the brainstem reticular formation and spinal cord, and the centromedian also receives from the internal pallidum. They project diffusely to the cortex and densely to the striatum, and they support arousal, attention and consciousness.",
+  "where": "The intralaminar nuclei lie inside the Y-shaped internal medullary lamina, within the central part of the thalamus. The centromedian nucleus is the large caudal member, at the back of the lamina and next to the mediodorsal nucleus. They are seen best in a coronal or axial cut at the middle of the thalamus.",
+  "does": "The intralaminar nuclei regulate arousal and wakefulness. Their widespread cortical projection helps keep the cortex in an awake, responsive state, and their projection to the striatum affects movement and attention. Stimulation in anesthetized monkeys restored wake-like cortical activity. The centromedian and parafascicular nuclei also relay nociceptive information and pallidal output to the striatum.",
+  "connects": "Input arrives from the reticular formation, spinothalamic tract, superior colliculus, cerebellum and internal pallidum. Output goes diffusely to the cortex and to the striatum, with the centromedian projecting mainly to the putamen and the parafascicular to the caudate.",
+  "clinical": "Bilateral paramedian thalamic infarcts, as in artery of Percheron occlusion, cause coma or hypersomnia with vertical gaze palsy. Deep brain stimulation of the centromedian nucleus is used for refractory generalized epilepsy and in some cases of Tourette syndrome, and central thalamic stimulation has been tried in the minimally conscious state.",
+  "remember": "Intralaminar means inside the laminae: the arousal nuclei sit inside the white sheet that splits the thalamus, and they wake up the cortex.",
+  "facts": [
+   "The centromedian nucleus is the largest of the intralaminar nuclei.",
+   "Intralaminar nuclei project diffusely to cortex and to the striatum.",
+   "Bilateral paramedian thalamic infarcts, including the intralaminar nuclei, cause coma or hypersomnia."
+  ],
+  "quiz": [
+   {
+    "q": "Which thalamic nuclei lie in the internal medullary lamina, project diffusely to cortex and support arousal?",
+    "type": "function"
+   },
+   {
+    "q": "Deep brain stimulation of which thalamic nucleus is used for refractory generalized epilepsy?",
+    "type": "clinical"
+   }
+  ],
+  "refs": [
+   1,
+   2,
+   3,
+   4,
+   6
+  ],
+  "see_also": [
+   "thalamus",
+   "mediodorsal_nucleus",
+   "globus_pallidus_internus",
+   "striatum"
+  ],
+  "how_we_know": "Human evidence comes from stimulation: a controlled trial of centromedian stimulation in epilepsy and a double-blind crossover study of central thalamic stimulation in a patient in a minimally conscious state. Macaque recordings and stimulation give mechanistic causal data. Lesion evidence is from strokes, which rarely stay within one nucleus.",
+  "evidence": [
+   {
+    "kind": "clinical trial",
+    "claim": "Centromedian stimulation reduces seizures in generalized epilepsy",
+    "finding": "In a single-blind controlled trial of 11 adults with refractory epilepsy, all six patients with generalized epilepsy had more than 50 percent fewer seizures in the blind period, but only one of five patients with frontal lobe epilepsy did.",
+    "quote": "Among the five patients with frontal lobe epilepsy, only one patient had >50% improvement in seizure frequency during the blind period. In the long-term extension phase, two patients with frontal lobe epilepsy had >50% improvement in seizure frequency. All six patients with generalized epilepsy had >50% improvement in seizure frequency during the blind period.",
+    "pmid": "24032641",
+    "doi": "10.1111/epi.12352",
+    "cite": "Valentín A, García Navarrete E, Chelvarajah R, et al. Deep brain stimulation of the centromedian thalamic nucleus for the treatment of generalized and frontal epilepsies. Epilepsia. 2013;54(10):1823-33.",
+    "year": 2013
+   },
+   {
+    "kind": "stimulation",
+    "claim": "Stimulating the central lateral thalamus restores arousal in anesthetized monkeys",
+    "finding": "This is animal work. Recording from the central lateral thalamus and frontoparietal cortex in awake, sleeping and anesthetized macaques showed that thalamic and deep-layer cortical neurons track consciousness, and stimulating the central lateral thalamus restored arousal and wake-like processing, depending on location and frequency.",
+    "quote": "To show causality, we stimulated CL in anesthetized macaques and effectively restored arousal and wake-like neural processing. This effect was location and frequency specific.",
+    "pmid": "32053769",
+    "doi": "10.1016/j.neuron.2020.01.005",
+    "cite": "Redinbaugh MJ, Phillips JM, Kambi NA, et al. Thalamus Modulates Consciousness via Layer-Specific Control of Cortex. Neuron. 2020;106(1):66-75.e12.",
+    "year": 2020
+   }
+  ],
+  "stimulation": {
+   "method": "bilateral deep brain stimulation of the central thalamus (1 patient in a minimally conscious state)",
+   "effect": "In a patient who had remained in a minimally conscious state for six years after traumatic brain injury, bilateral central thalamic stimulation increased responsive behaviors, limb control and oral feeding during stimulation periods compared with off periods.",
+   "quote": "The frequency of specific cognitively mediated behaviours (primary outcome measures) and functional limb control and oral feeding (secondary outcome measures) increased during periods in which DBS was on as compared with periods in which it was off.",
+   "pmid": "17671503",
+   "doi": "10.1038/nature06041",
+   "cite": "Schiff ND, Giacino JT, Kalmar K, et al. Behavioural improvements with thalamic stimulation after severe traumatic brain injury. Nature. 2007;448(7153):600-3.",
+   "year": 2007
+  }
+ }
+]

@@ -1,0 +1,50 @@
+1. Brain Behav. 2023 Apr;13(4):e2964. doi: 10.1002/brb3.2964. Epub 2023 Mar 16.
+
+Long-term follow-up seizure outcomes after corpus callosotomy: A systematic 
+review with meta-analysis.
+
+Wu X(1)(2)(3), Ou S(1)(2)(3), Zhang H(1)(2)(3), Zhen Y(1)(2)(3), Huang 
+Y(1)(2)(3), Wei P(1)(2)(3), Shan Y(1)(2)(3).
+
+Author information:
+(1)Department of Neurosurgery, XuanWu Hospital, Capital Medical University, 
+Beijing, China.
+(2)International Neuroscience Institute (China-INI), Beijing, China.
+(3)Clinical Research Center for Epilepsy, Capital Medical University, Beijing, 
+China.
+
+BACKGROUND: Corpus callosotomy (CC) is appropriate for patients with seizures of 
+a bilateral or diffuse origin, or those with seizures of a unilateral origin 
+with rapid spread to the contralateral cerebral hemisphere. The efficiency of CC 
+in patients with drug-resistant epilepsy is a long-term concern because most 
+articles reporting the surgical results of CC arise from small case series, and 
+the durations of follow-up vary.
+METHODS: PubMed, Embase, Cochrane Library, and Web of Science were searched to 
+identify papers published before November 8, 2021. The systematic review was 
+completed following PRISMA guidelines. Outcomes were analyzed by meta-analysis 
+of the proportions.
+RESULTS: A total of 1644 patients with drug-resistant epilepsy (49 retrospective 
+or prospective case series studies) underwent CC, and the follow-up time of all 
+patients was at least 1 year. The rate of complete seizure freedom (SF) was 
+12.38% (95% confidence interval [CI], 8.17%-17.21%). Meanwhile, the rate of 
+complete SF from drop attacks was 61.86% (95% CI, 51.87%-71.41%). The rates of 
+complete SF after total corpus callosotomy (TCC) and anterior corpus callosotomy 
+(ACC) were 11.41% (95% CI, 5.33%-18.91%) and 6.75% (95% CI, 2.76%-11.85%), 
+respectively. Additionally, the rate of complete SF from drop attacks after TCC 
+was significantly higher than that after ACC (71.52%, 95% CI, 54.22%-86.35% vs. 
+57.11%, 95% CI, 42.17%-71.49%). The quality of evidence for the three outcomes 
+by GRADE assessment was low to moderate.
+CONCLUSION: There was no significant difference in the rate of complete SF 
+between TCC and ACC. TCC had a significantly higher rate of complete SF from 
+drop attacks than did ACC. Furthermore, CC for the treatment of drug-resistant 
+epilepsy remains an important problem for further investigation because there 
+are no universally accepted standardized guidelines for the extent of CC and its 
+benefit to patients. In future research, we will focus on this issue.
+
+© 2023 The Authors. Brain and Behavior published by Wiley Periodicals LLC.
+
+DOI: 10.1002/brb3.2964
+PMCID: PMC10097058
+PMID: 36929636 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

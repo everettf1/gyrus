@@ -1,0 +1,38 @@
+1. Hum Brain Mapp. 2008 Apr;29(4):411-21. doi: 10.1002/hbm.20396.
+
+Localization of human intraparietal areas AIP, CIP, and LIP using surface 
+orientation and saccadic eye movement tasks.
+
+Shikata E(1), McNamara A, Sprenger A, Hamzei F, Glauche V, Büchel C, Binkofski 
+F.
+
+Author information:
+(1)Neuroimage Nord, Department of Systems Neuroscience, University Medical 
+Center Hamburg-Eppendorf, Germany. e.shikhta@uke.uni-hamburg.de
+
+In monkeys, areas in the intraparietal sulcus (IPS) play a crucial role in 
+visuospatial information processing. Despite many human neuroimaging studies, 
+the location of the human functional homologs of some IPS areas is still a 
+matter of debate. The aim of the present functional magnetic resonance imaging 
+(fMRI) study was to identify the distinct locations of specific human IPS areas 
+based on their functional properties using stimuli adapted from nonhuman primate 
+experiments, in particular, surface orientation discrimination and memory guided 
+saccadic eye movements (SEM). Intersubject anatomical variability likely 
+accounts for much of the debate. By applying subject by subject analysis, we can 
+demonstrate that sufficient intersubject anatomical and functional commonalities 
+exist. Both the lateral bank of the anterior part of IPS, the putative human 
+homolog of the area AIP, and the caudal part of the IPS (putative CIP) showed 
+activation related to spatial discrimination of surface orientation. Eye 
+tracking conducted during fMRI data acquisition allowed us to show that both 
+areas were separated by an area related to SEM. This area was located in the 
+middle region of the IPS (most probably including LIP), i.e., similar to the 
+location observed in nonhuman primates. In 10 of 11 subjects our putative CIP 
+activation was located in a medial side branch of the posterior part of the IPS, 
+on the opposite side as described in nonhuman primates, making this landmark a 
+useful anatomical marker for the location of CIP.
+
+(c) 2007 Wiley-Liss, Inc.
+
+DOI: 10.1002/hbm.20396
+PMCID: PMC6870972
+PMID: 17497631 [Indexed for MEDLINE]

@@ -1,0 +1,33 @@
+1. J Cogn Neurosci. 2000 Sep;12(5):711-20. doi: 10.1162/089892900562417.
+
+Brain areas involved in perception of biological motion.
+
+Grossman E(1), Donnelly M, Price R, Pickens D, Morgan V, Neighbor G, Blake R.
+
+Author information:
+(1)Department of Psychology, Vanderbilt University, Nashville, TN 37240, USA. 
+e.grossman@vanderbilt.edu
+
+These experiments use functional magnetic resonance imaging (fMRI) to reveal 
+neural activity uniquely associated with perception of biological motion. We 
+isolated brain areas activated during the viewing of point-light figures, then 
+compared those areas to regions known to be involved in coherent-motion 
+perception and kinetic-boundary perception. Coherent motion activated a region 
+matching previous reports of human MT/MST complex located on the 
+temporo-parieto-occipital junction. Kinetic boundaries activated a region 
+posterior and adjacent to human MT previously identified as the 
+kinetic-occipital (KO) region or the lateral-occipital (LO) complex. The pattern 
+of activation during viewing of biological motion was located within a small 
+region on the ventral bank of the occipital extent of the superior-temporal 
+sulcus (STS). This region is located lateral and anterior to human MT/MST, and 
+anterior to KO. Among our observers, we localized this region more frequently in 
+the right hemisphere than in the left. This was true regardless of whether the 
+point-light figures were presented in the right or left hemifield. A small 
+region in the medial cerebellum was also active when observers viewed 
+biological-motion sequences. Consistent with earlier neuroimaging and 
+single-unit studies, this pattern of results points to the existence of neural 
+mechanisms specialized for analysis of the kinematics defining biological 
+motion.
+
+DOI: 10.1162/089892900562417
+PMID: 11054914 [Indexed for MEDLINE]

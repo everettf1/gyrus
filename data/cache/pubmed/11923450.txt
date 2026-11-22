@@ -1,0 +1,34 @@
+1. J Neurosci. 2002 Apr 1;22(7):2855-61. doi: 10.1523/JNEUROSCI.22-07-02855.2002.
+
+Synchronized neuronal discharge in the basal ganglia of parkinsonian patients is 
+limited to oscillatory activity.
+
+Levy R(1), Hutchison WD, Lozano AM, Dostrovsky JO.
+
+Author information:
+(1)Department of Physiology, Faculty of Medicine, University of Toronto, 
+Toronto, Ontario, Canada M5S 1A8.
+
+It has been proposed that an increase in synchronization between neurons in the 
+basal ganglia contributes to the clinical features of Parkinson's disease (PD). 
+To examine this hypothesis, we looked for correlations in the discharge activity 
+of pairs of neurons in the globus pallidus internus (GPi), globus pallidus 
+externus (GPe), and the substantia nigra pars reticulata (SNr). Recordings were 
+performed in PD patients undergoing functional stereotactic mapping for 
+pallidotomy (eight patients) or subthalamic nucleus deep brain stimulation (four 
+patients). A double-microelectrode setup was used to simultaneously record from 
+neurons separated by distances as small as 250 microm. In the five pallidotomy 
+patients without limb tremor during the procedure, none of the 73 GPi pairs and 
+15 GPe pairs displayed synchronous activity. In the three pallidotomy patients 
+with limb tremor, 6 of 21 GPi pairs and 5 of 29 GPe pairs displayed oscillatory 
+synchronization in the frequency range of the ongoing limb tremor (3-6 Hz) or at 
+higher frequencies (15-30 Hz). Synchronized activity was not observed in the SNr 
+(10 pairs). The findings indicate that oscillatory synchronization between pairs 
+of GPi or GPe neurons is found in patients with limb tremor. These results also 
+suggest that overt neuronal synchronization, which may be attributable to an 
+increase in direct synaptic connections or common collateral afferent inputs, is 
+not present in the basal ganglia of patients with PD.
+
+DOI: 10.1523/JNEUROSCI.22-07-02855.2002
+PMCID: PMC6758317
+PMID: 11923450 [Indexed for MEDLINE]

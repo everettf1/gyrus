@@ -1,0 +1,34 @@
+1. Pain. 2009 Nov;146(1-2):99-104. doi: 10.1016/j.pain.2009.07.014. Epub 2009 Aug
+ 7.
+
+Somatotopic organization of pain responses to direct electrical stimulation of 
+the human insular cortex.
+
+Mazzola L(1), Isnard J, Peyron R, Guénot M, Mauguière F.
+
+Author information:
+(1)INSERM U 879 (Central Integration of Pain), Lyon, St. Etienne, France. 
+lauremazzola@yahoo.fr
+
+The question whether pain encoding in the human insula shows some somatotopic 
+organization is still pending. We studied 142 patients undergoing depth 
+stereotactic EEG (SEEG) exploration of the insular cortex for pre-surgical 
+evaluation of epilepsy. 472 insular electrical stimulations were delivered, of 
+which only 49 (10.5%) elicited a painful sensation in 38 patients (27%). Most 
+sites where low intensity electric stimulation produced pain, without 
+after-discharge or concomitant visually detectable change in EEG activity 
+outside the insula, were located in the posterior two thirds of the insula. Pain 
+was located in a body area restricted to face, upper limb or lower limb for 27 
+stimulations (55%) and affected more than one of these regions for all others. 
+The insular cortex being oriented parallel to the medial sagittal plane we found 
+no significant difference between body segment representations in the 
+medio-lateral axis. Conversely a somatotopic organization of sites where 
+stimulation produced pain was observed along the rostro-caudal and vertical axis 
+of the insula, showing a face representation rostral to those of upper and lower 
+limbs, with an upper limb representation located above that of the lower limb. 
+These data suggest that, in spite of large and often bilateral receptive fields, 
+pain representation shows some degree of somatotopic organization in the human 
+insula.
+
+DOI: 10.1016/j.pain.2009.07.014
+PMID: 19665303 [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+1. Trends Cogn Sci. 2015 Dec;19(12):757-770. doi: 10.1016/j.tics.2015.10.002.
+Epub  2015 Nov 13.
+
+No-Report Paradigms: Extracting the True Neural Correlates of Consciousness.
+
+Tsuchiya N(1), Wilke M(2), Frässle S(3), Lamme VAF(4).
+
+Author information:
+(1)School of Psychological Sciences, Faculty of Biomedical and Psychological 
+Sciences, Monash University, Melbourne, VIC 3800, Australia; Monash Institute of 
+Cognitive and Clinical Neurosciences, Monash University, Melbourne, VIC 3800, 
+Australia. Electronic address: naotsugu.tsuchiya@monash.edu.
+(2)Department of Cognitive Neurology, University Medicine Goettingen, 
+Robert-Koch-Strasse 40, 37075 Goettingen, Germany; German Primate Center, 
+Leibniz Institute for Primate Research, Kellnerweg 4, 37077 Goettingen, Germany; 
+German Research Foundation (DFG) Center for Nanoscale Microscopy and Molecular 
+Physiology of the Brain (CNMPB), Georg-August-Universitaet Goettingen, 37073 
+Goettingen, Germany.
+(3)Laboratory for Multimodal Neuroimaging (LMN), Department of Psychiatry, 
+University of Marburg, 35039 Marburg, Germany.
+(4)Brain and Cognition, Department of Psychology, University of Amsterdam, 
+Amsterdam Brain and Cognition (ABC), The Netherlands.
+
+Comment in
+    Trends Cogn Sci. 2016 Apr;20(4):241-242. doi: 10.1016/j.tics.2016.01.004.
+    Trends Cogn Sci. 2016 Apr;20(4):242-243. doi: 10.1016/j.tics.2016.01.006.
+
+The goal of consciousness research is to reveal the neural basis of phenomenal 
+experience. To study phenomenology, experimenters seem obliged to ask reports 
+from the subjects to ascertain what they experience. However, we argue that the 
+requirement of reports has biased the search for the neural correlates of 
+consciousness over the past decades. More recent studies attempt to dissociate 
+neural activity that gives rise to consciousness from the activity that enables 
+the report; in particular, no-report paradigms have been utilized to study 
+conscious experience in the full absence of any report. We discuss the 
+advantages and disadvantages of report-based and no-report paradigms, and ask 
+how these jointly bring us closer to understanding the true neural basis of 
+consciousness.
+
+Crown Copyright © 2015. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tics.2015.10.002
+PMID: 26585549 [Indexed for MEDLINE]

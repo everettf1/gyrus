@@ -1,0 +1,44 @@
+1. J Neurosci. 2014 Jan 29;34(5):1738-47. doi: 10.1523/JNEUROSCI.4403-13.2014.
+
+Binocular rivalry: frontal activity relates to introspection and action but not 
+to perception.
+
+Frässle S(1), Sommer J, Jansen A, Naber M, Einhäuser W.
+
+Author information:
+(1)Department of Neurophysics, Philipps-University, 35032 Marburg, Germany; 
+Section BrainImaging, Department of Psychiatry and Psychotherapy, 
+Philipps-University, 35037 Marburg, Germany; Vision Sciences Laboratory, Harvard 
+University, Cambridge, Massachusetts 02138; Cognitive Psychology Unit, Leiden 
+University, 2333AK Leiden, The Netherlands; Leiden Institute for Brain and 
+Cognition, Leiden, 2300RC Leiden, The Netherlands and Center for 
+Interdisciplinary Research, 33615 Bielefeld, Germany.
+
+When two dissimilar stimuli are presented to the eyes, perception alternates 
+between multiple interpretations, a phenomenon dubbed binocular rivalry. 
+Numerous recent imaging studies have attempted to unveil neural substrates 
+underlying multistable perception. However, these studies had a conceptual 
+constraint: access to observers' perceptual state relied on their introspection 
+and active report. Here, we investigated to what extent neural correlates of 
+binocular rivalry in healthy humans are confounded by this subjective measure 
+and by action. We used the optokinetic nystagmus and pupil size to objectively 
+and continuously map perceptual alternations for binocular-rivalry stimuli. 
+Combining these two measures with fMRI allowed us to assess the neural 
+correlates of binocular rivalry time locked to the perceptual alternations in 
+the absence of active report. When observers were asked to actively report their 
+percept, our objective measures matched the report. In this active condition, 
+objective measures and subjective reporting revealed that occipital, parietal, 
+and frontal areas underlie the processing of binocular rivalry, replicating 
+earlier findings. Furthermore, objective measures provided additional 
+statistical power due to their continuous nature. Importantly, when observers 
+passively experienced rivalry without reporting perceptual alternations, a 
+different picture emerged: differential neural activity in frontal areas was 
+absent, whereas activation in occipital and parietal regions persisted. Our 
+results question the popular view of a driving role of frontal areas in the 
+initiation of perceptual alternations during binocular rivalry. Instead, we 
+conclude that frontal areas are associated with active report and introspection 
+rather than with rivalry per se.
+
+DOI: 10.1523/JNEUROSCI.4403-13.2014
+PMCID: PMC6827584
+PMID: 24478356 [Indexed for MEDLINE]

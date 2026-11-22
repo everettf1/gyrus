@@ -1,0 +1,33 @@
+1. Scand J Psychol. 2001 Jul;42(3):225-38. doi: 10.1111/1467-9450.00233.
+
+The retrosplenial contribution to human navigation: a review of lesion and 
+neuroimaging findings.
+
+Maguire EA(1).
+
+Author information:
+(1)Wellcome Department of Cognitive Neurology, Institute of Neurology, 
+University College London, UK. e.maguire@fil.ion.ucl.ac.uk
+
+The clinical and neuroimaging literatures are surveyed in order to collate for 
+the first time the available data on retrosplenial involvement in human 
+navigation. Several notable features emerge from consideration of the case 
+reports of relatively pure topographical disorientation in the presence of a 
+retrosplenial lesion. The majority of cases follow damage to the right 
+retrosplenial cortex, with Brodmann's area 30 apparently compromised in most 
+cases. All patients displayed impaired learning of new routes, and defective 
+navigation in familiar environments complaining they could not use preserved 
+landmark recognition to aid orientation. The deficit generally resolved within 
+eight weeks of onset. The majority of functional neuroimaging studies involving 
+navigation or orientation in large-scale space also activate the retrosplenial 
+cortex, usually bilaterally, with good concordance in the locations of the voxel 
+of peak activation across studies, again with Brodmann's area 30 featuring 
+prominently. While there is strong evidence for right medial temporal lobe 
+involvement in navigation, it now seems that the inputs the hippocampus and 
+related structures receive from and convey to right retrosplenial cortex have a 
+similar spatial preference, while the left medial temporal and left 
+retrosplenial cortices seem primarily concerned with more general aspects of 
+episodic memory.
+
+DOI: 10.1111/1467-9450.00233
+PMID: 11501737 [Indexed for MEDLINE]

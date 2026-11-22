@@ -1,0 +1,29 @@
+1. Nature. 1994 Dec 15;372(6507):669-72. doi: 10.1038/372669a0.
+
+Impaired recognition of emotion in facial expressions following bilateral damage 
+to the human amygdala.
+
+Adolphs R(1), Tranel D, Damasio H, Damasio A.
+
+Author information:
+(1)Department of Neurology, University of Iowa College of Medicine, Iowa City 
+52242.
+
+Comment in
+    Nature. 1994 Dec 15;372(6507):613-4. doi: 10.1038/372613a0.
+
+Studies in animals have shown that the amygdala receives highly processed visual 
+input, contains neurons that respond selectively to faces, and that it 
+participates in emotion and social behaviour. Although studies in epileptic 
+patients support its role in emotion, determination of the amygdala's function 
+in humans has been hampered by the rarity of patients with selective amygdala 
+lesions. Here, with the help of one such rare patient, we report findings that 
+suggest the human amygdala may be indispensable to: (1) recognize fear in facial 
+expressions; (2) recognize multiple emotions in a single facial expression; but 
+(3) is not required to recognize personal identity from faces. These results 
+suggest that damage restricted to the amygdala causes very specific recognition 
+impairments, and thus constrains the broad notion that the amygdala is involved 
+in emotion.
+
+DOI: 10.1038/372669a0
+PMID: 7990957 [Indexed for MEDLINE]

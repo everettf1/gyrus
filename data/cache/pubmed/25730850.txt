@@ -1,0 +1,52 @@
+1. Proc Natl Acad Sci U S A. 2015 Mar 3;112(9):2871-5. doi: 
+10.1073/pnas.1414491112. Epub 2015 Feb 17.
+
+Redefining the role of Broca's area in speech.
+
+Flinker A(1), Korzeniewska A(2), Shestyuk AY(3), Franaszczuk PJ(4), Dronkers 
+NF(5), Knight RT(6), Crone NE(2).
+
+Author information:
+(1)Helen Wills Neuroscience Institute, University of California, Berkeley, CA 
+94720; adeen.f@gmail.com.
+(2)Department of Neurology, Cognitive Neurophysiology and Brain-Machine 
+Interface Laboratory, The Johns Hopkins University School of Medicine, 
+Baltimore, MD 21287;
+(3)Helen Wills Neuroscience Institute, University of California, Berkeley, CA 
+94720;
+(4)Department of Neurology, Cognitive Neurophysiology and Brain-Machine 
+Interface Laboratory, The Johns Hopkins University School of Medicine, 
+Baltimore, MD 21287; Human Research and Engineering Directorate, US Army 
+Research Laboratory, Aberdeen Proving Ground, MD 21005;
+(5)Center for Aphasia and Related Disorders, VA Northern California Health Care 
+System, Martinez, CA 94553; Department of Neurology, University of California, 
+Davis, CA 95817; and.
+(6)Helen Wills Neuroscience Institute, University of California, Berkeley, CA 
+94720; Department of Psychology, University of California, Berkeley, CA 94720.
+
+For over a century neuroscientists have debated the dynamics by which human 
+cortical language networks allow words to be spoken. Although it is widely 
+accepted that Broca's area in the left inferior frontal gyrus plays an important 
+role in this process, it was not possible, until recently, to detail the timing 
+of its recruitment relative to other language areas, nor how it interacts with 
+these areas during word production. Using direct cortical surface recordings in 
+neurosurgical patients, we studied the evolution of activity in cortical 
+neuronal populations, as well as the Granger causal interactions between them. 
+We found that, during the cued production of words, a temporal cascade of neural 
+activity proceeds from sensory representations of words in temporal cortex to 
+their corresponding articulatory gestures in motor cortex. Broca's area mediates 
+this cascade through reciprocal interactions with temporal and frontal motor 
+regions. Contrary to classic notions of the role of Broca's area in speech, 
+while motor cortex is activated during spoken responses, Broca's area is 
+surprisingly silent. Moreover, when novel strings of articulatory gestures must 
+be produced in response to nonword stimuli, neural activity is enhanced in 
+Broca's area, but not in motor cortex. These unique data provide evidence that 
+Broca's area coordinates the transformation of information across large-scale 
+cortical networks involved in spoken word production. In this role, Broca's area 
+formulates an appropriate articulatory code to be implemented by motor cortex.
+
+DOI: 10.1073/pnas.1414491112
+PMCID: PMC4352780
+PMID: 25730850 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

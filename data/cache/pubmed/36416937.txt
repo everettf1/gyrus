@@ -1,0 +1,57 @@
+1. Clin Neuroradiol. 2023 Jun;33(2):435-444. doi: 10.1007/s00062-022-01225-3.
+Epub  2022 Nov 22.
+
+Topographic Mapping of Isolated Thalamic Infarcts Using Vascular and Novel 
+Probabilistic Functional Thalamic Landmarks.
+
+Rauch M(1), Schüre JR(2), Lieschke F(3), Keil F(2), Steidl E(2), You SJ(2), 
+Foerch C(3), Hattingen E(2), Weidauer S(2), Schaller-Paule MA(3)(4).
+
+Author information:
+(1)Institute for Neuroradiology, University Hospital, Johann Wolfgang 
+Goethe-University, Theodor Stern Kai 7, 60590, Frankfurt am Main, Germany. 
+maximilian.rauch@kgu.de.
+(2)Institute for Neuroradiology, University Hospital, Johann Wolfgang 
+Goethe-University, Theodor Stern Kai 7, 60590, Frankfurt am Main, Germany.
+(3)Department of Neurology, University Hospital, Johann Wolfgang 
+Goethe-University, Theodor Stern Kai 7, 60590, Frankfurt am Main, Germany.
+(4)Department of Psychiatry and Psychotherapy, University Medical Center of the 
+Johannes Gutenberg-University, Untere Zahlbacher Str. 8, 55131, Mainz, Germany.
+
+PURPOSE: We aimed to re-evaluate the relationship between thalamic infarct (TI) 
+localization and clinical symptoms using a vascular (VTM) and a novel functional 
+territorial thalamic map (FTM).
+METHODS: Magnetic resonance imaging (MRI) and clinical data of 65 patients with 
+isolated TI were evaluated (female n = 23, male n = 42, right n = 23, left 
+n = 42). A VTM depicted the known seven thalamic vascular territories (VT: 
+inferolateral, anterolateral, inferomedial, posterior, central, anteromedian, 
+posterolateral). An FTM was generated from a probabilistic thalamic nuclei atlas 
+to determine six functionally defined territories (FT: anterior: 
+memory/emotions; ventral: motor/somatosensory/language; medial: 
+behavior/emotions/nociception, oculomotor; intralaminar: arousal/pain; lateral: 
+visuospatial/somatosensory/conceptual and analytic thinking; posterior: 
+audiovisual/somatosensory). Four neuroradiologists independently assigned 
+diffusion-weighted imaging (DWI) lesions to the territories mapped by the VTM 
+and FTM. Findings were correlated with clinical features.
+RESULTS: The most frequent symptom was a hemisensory syndrome (58%), which was 
+not specific for any territory. A co-occurrence of hemisensory syndrome and 
+hemiparesis had positive predictive values (PPV) of 76% and 82% for the 
+involvement of the inferolateral VT and ventral FT, respectively. Thalamic 
+aphasia had a PPV of 63% each for involvement of the anterolateral VT and 
+ventral FT. Neglect was associated with involvement of the inferolateral 
+VT/ventral FT. Interrater reliability for the assignment of DWI lesions to the 
+VTM was fair (κ = 0.36), but good (κ = 0.73) for the FTM.
+CONCLUSION: The FTM revealed a greater reproducibility for the topographical 
+assignment of TI than the VTM. Sensorimotor hemiparesis and neglect are 
+predictive for a TI in the inferolateral VT/ventral FT. The hemisensory syndrome 
+alone does not allow any topographical assignment.
+
+© 2022. The Author(s).
+
+DOI: 10.1007/s00062-022-01225-3
+PMCID: PMC10219894
+PMID: 36416937 [Indexed for MEDLINE]
+
+Conflict of interest statement: M. Rauch, J.-R. Schüre, F. Lieschke, F. Keil, 
+E. Steidl, S.-j. You, C. Foerch, E. Hattingen, S. Weidauer and 
+M.A. Schaller-Paule declare that they have no competing interests.

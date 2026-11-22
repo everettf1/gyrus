@@ -1,0 +1,15 @@
+1. Science. 1984 Jun 15;224(4654):1260-2. doi: 10.1126/science.6539501.
+
+Illusory contours and cortical neuron responses.
+
+von der Heydt R, Peterhans E, Baumgartner G.
+
+Figures in which human observers perceive "illusory contours" were found to 
+evoke responses in cells of area 18 in the visual cortex of alert monkeys. The 
+cells responded as if the contours were formed by real lines or edges. 
+Modifications that weakened the perception of contours also reduced the neuronal 
+responses. In contrast, cells in area 17 were apparently unable to "see" these 
+contours.
+
+DOI: 10.1126/science.6539501
+PMID: 6539501 [Indexed for MEDLINE]

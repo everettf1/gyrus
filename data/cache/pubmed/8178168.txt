@@ -1,0 +1,28 @@
+1. Science. 1994 May 20;264(5162):1102-5. doi: 10.1126/science.8178168.
+
+The return of Phineas Gage: clues about the brain from the skull of a famous 
+patient.
+
+Damasio H(1), Grabowski T, Frank R, Galaburda AM, Damasio AR.
+
+Author information:
+(1)Department of Neurology, University of Iowa Hospitals & Clinics, Iowa City 
+52242.
+
+Erratum in
+    Science 1994 Aug 26;265(5176):1159.
+
+When the landmark patient Phineas Gage died in 1861, no autopsy was performed, 
+but his skull was later recovered. The brain lesion that caused the profound 
+personality changes for which his case became famous has been presumed to have 
+involved the left frontal region, but questions have been raised about the 
+involvement of other regions and about the exact placement of the lesion within 
+the vast frontal territory. Measurements from Gage's skull and modern 
+neuroimaging techniques were used to reconstitute the accident and determine the 
+probable location of the lesion. The damage involved both left and right 
+prefrontal cortices in a pattern that, as confirmed by Gage's modern 
+counterparts, causes a defect in rational decision making and the processing of 
+emotion.
+
+DOI: 10.1126/science.8178168
+PMID: 8178168 [Indexed for MEDLINE]

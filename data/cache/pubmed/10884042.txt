@@ -1,0 +1,27 @@
+1. Neuroreport. 2000 Jun 26;11(9):1907-13. doi: 10.1097/00001756-200006260-00021.
+
+Location of the human frontal eye field as defined by electrical cortical 
+stimulation: anatomical, functional and electrophysiological characteristics.
+
+Blanke O(1), Spinelli L, Thut G, Michel CM, Perrig S, Landis T, Seeck M.
+
+Author information:
+(1)Laboratory of Presurgical Epilepsy Evaluation, and Human Brain Mapping 
+Laboratory, University Hospital, Geneva, Switzerland.
+
+Electrical cortical stimulation of the human frontal gyri and the precentral 
+gyrus has been shown to induce eye movements and it has classically been assumed 
+that these stimulation-induced eye movements result from electrical interference 
+with the human homologue of the monkey frontal eye field (FEF). However, 
+amplitude of electrical current and induced type of eye movement, which are 
+essential for the determination of eye fields in the monkey, have not been 
+investigated systematically in man. We applied electrical cortical stimulation 
+in the lateral frontal cortex in six epileptic patients. Sites whose stimulation 
+resulted in eye movements were determined with respect to gyral and sulcal 
+patterns, Talairach coordinates and neighboring functions as found by electrical 
+cortical stimulation. Based on this approach, a restricted location of the 
+electrically defined FEF is proposed within a larger oculomotor region on the 
+posterior part of the middle frontal gyrus.
+
+DOI: 10.1097/00001756-200006260-00021
+PMID: 10884042 [Indexed for MEDLINE]

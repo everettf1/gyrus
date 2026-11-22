@@ -1,0 +1,49 @@
+1. Stroke. 2019 May;50(5):1116-1123. doi: 10.1161/STROKEAHA.118.023750.
+
+Somatosensory Deficits After Ischemic Stroke.
+
+Kessner SS(1), Schlemm E(1), Cheng B(1), Bingel U(2), Fiehler J(3), Gerloff 
+C(1), Thomalla G(1).
+
+Author information:
+(1)From the Department of Neurology (S.S.K., E.S., B.C., C.G., G.T.), University 
+Medical Center Hamburg-Eppendorf, Germany.
+(2)Department of Neurology, University Hospital Essen, University of 
+Duisburg-Essen, Germany (U.B.).
+(3)Department of Diagnostic and Interventional Neuroradiology (J.F.), University 
+Medical Center Hamburg-Eppendorf, Germany.
+
+Background and Purpose- About 50% to 80% of stroke survivors present with 
+somatosensory deficits. Somatosensory deficits because of an ischemic stroke are 
+determined by the infarct location. However, a detailed understanding of the 
+long-term effect of lesions on somatosensory performance is lacking. Methods- 
+This prospective observational study enrolled 101 ischemic stroke patients. For 
+voxel-based lesion-symptom mapping, magnetic resonance imaging fluid-attenuated 
+inversion recovery imaging infarct lesions were segmented within 5 days after 
+stroke. Standardized tests such as the National Institutes of Health Stroke 
+Scale and the Rivermead Assessment of Somatosensory Performance were performed 
+during acute stage, after 3 and 12 months. This included bilateral testing for 
+multiple tactile and proprioceptive somatosensory modalities (pressure, light 
+touch, sharp-dull discrimination, temperature discrimination, sensory 
+extinction, 2-point discrimination, and joint position and movement sense). We 
+further study the association of acute somatosensory deficit with functional 
+outcome 12 months after stroke assessed by the modified Rankin Scale using 
+univariate and multiple linear regression analysis also including acute motor 
+deficit assessed by the arm research action test. Results- Sixty patients 
+(59.4%) showed impairment in at least one somatosensory modality. Light touch 
+was most frequently affected (38.7%), whereas temperature was least frequently 
+affected (21.8%). After 3 months, significant recovery was observed in all 
+somatosensory modalities, with only minor additional improvements after 12 
+months. Voxel-based lesion-symptom mapping revealed significant associations of 
+lesions in the primary and secondary somatosensory and insular cortex with 
+somatosensory deficits. Acute somatosensory deficit was associated with 
+functional outcome at 12 months. However, including the acute motor deficit, 
+somatosensory deficit was no longer an independent predictor of functional 
+outcome. Conclusions- Our study confirms that somatosensory deficits are 
+frequent in acute ischemic stroke but largely recover over time. Infarct lesions 
+in the primary and secondary somatosensory cortex and insula show a robust 
+association with somatosensory impairment. Long-term disability is influenced by 
+somatosensory deficits but driven by motor symptoms.
+
+DOI: 10.1161/STROKEAHA.118.023750
+PMID: 30943883 [Indexed for MEDLINE]

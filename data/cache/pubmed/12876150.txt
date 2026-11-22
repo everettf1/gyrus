@@ -1,0 +1,40 @@
+1. Brain. 2003 Nov;126(Pt 11):2381-95. doi: 10.1093/brain/awg241. Epub 2003 Jul
+22.
+
+A network of occipito-temporal face-sensitive areas besides the right middle 
+fusiform gyrus is necessary for normal face processing.
+
+Rossion B(1), Caldara R, Seghier M, Schuller AM, Lazeyras F, Mayer E.
+
+Author information:
+(1)Unité de Neurosciences Cognitives et Laboratoire de Neurophysiologie, 
+Université Catholique de Louvain, Louvain-la-Neuve, Belgium. 
+bruno.rossion@psp.ucl.ac.be
+
+Neuroimaging studies have identified at least two bilateral areas of the visual 
+extrastriate cortex that respond more to pictures of faces than objects in 
+normal human subjects in the middle fusiform gyrus [the 'fusiform face area' 
+(FFA)] and, more posteriorly, in the inferior occipital cortex ['occipital face 
+area' (OFA)], with a right hemisphere dominance. However, it is not yet clear 
+how these regions interact which each other and whether they are all necessary 
+for normal face perception. It has been proposed that the right hemisphere FFA 
+acts as an isolated ('modular') processing system for faces or that this region 
+receives its face-sensitive inputs from the OFA in a feedforward hierarchical 
+model of face processing. To test these proposals, we report a detailed 
+neuropsychological investigation combined with a neuroimaging study of a patient 
+presenting a deficit restricted to face perception, consecutive to bilateral 
+occipito-temporal lesions. Due to the asymmetry of the lesions, the left middle 
+fusiform gyrus and the right inferior occipital cortex were damaged but the 
+right middle fusiform gyrus was structurally intact. Using functional MRI, we 
+disclosed a normal activation of the right FFA in response to faces in the 
+patient despite the absence of any feedforward inputs from the right OFA, 
+located in a damaged area of cortex. Together, these findings show that the 
+integrity of the right OFA is necessary for normal face perception and suggest 
+that the face-sensitive responses observed at this level in normal subjects may 
+arise from feedback connections from the right FFA. In agreement with the 
+current literature on the anatomical basis of prosopagnosia, it is suggested 
+that the FFA and OFA in the right hemisphere and their re-entrant integration 
+are necessary for normal face processing.
+
+DOI: 10.1093/brain/awg241
+PMID: 12876150 [Indexed for MEDLINE]
