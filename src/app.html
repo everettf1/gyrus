@@ -188,14 +188,18 @@ input[type=range]::-moz-range-thumb{width:24px;height:24px;border-radius:0;backg
 #sub{min-height:1.4em;margin:8px auto 0;font:400 .92rem/1.42 var(--sans);color:var(--ink-2);max-width:34rem}
 #sub.bad{color:var(--red)}
 #ptabs,.res,#keys{position:relative;z-index:3}
-#kb{margin:14px auto 0;width:min(34rem,100%);display:grid;gap:3px;user-select:none}
+#kb{margin:12px auto 0;width:min(36rem,100%);display:grid;gap:3px;padding:5px;background:#c8cbcf;border-radius:6px;user-select:none}
+#play.noprev #prev{display:none}
 #kb .row{display:grid;grid-template-columns:repeat(60,1fr);gap:3px}
-#kb .k{height:22px;border-radius:4px;font:500 .6rem/22px var(--sans);color:var(--ink-2);text-align:center;background:var(--f,#e3e5e8);text-transform:lowercase;transition:background .12s,color .12s;overflow:hidden;white-space:nowrap}
-#kb .k.blank{background:transparent}
-#kb .k.home{text-decoration:underline;text-underline-offset:2px}
-#kb .k.next{background:var(--gold);color:#fff}
-#kb .k.next.bs{background:var(--red)}
-#kb .k.hit{filter:brightness(.86)}
+#kb .k{position:relative;height:24px;border-radius:3px;font:500 .62rem/23px var(--sans);color:#33373c;text-align:center;background:#f8f9fa;box-shadow:0 1px 0 #979ba1;text-transform:uppercase;transition:background .08s,color .08s;overflow:hidden;white-space:nowrap}
+#kb .k.mod{background:#e3e5e8;box-shadow:0 1px 0 #979ba1;color:#666b72;font-size:.55rem;font-weight:400;text-transform:lowercase;text-align:left;padding-left:6px}
+#kb .k.blank{background:transparent;box-shadow:none}
+#kb .k.home::after{content:'';position:absolute;left:50%;bottom:3px;width:8px;height:1px;margin-left:-4px;background:#6f747a}
+#kb .k.next,#kb .k.mod.next{background:var(--gold);color:#fff;box-shadow:0 1px 0 #1d4497}
+#kb .k.next.home::after{background:#fff}
+#kb .k.next.bs{background:var(--red);box-shadow:0 1px 0 #8f1c1c}
+#kb .k.hit{transform:translateY(1px);box-shadow:none;background:#d7dade}
+#kb .k.next.hit{background:var(--gold)}
 #play.showres #kb,#play.showres #prev,body.m-find #kb,body.m-quiz #kb,body.nokb #kb{display:none}
 @media (max-height:800px),(max-width:1000px){#kb{display:none}}
 @media (min-width:1001px) and (max-width:1439px){#play{left:calc((100vw - 256px)/2);width:min(54rem,calc(100vw - 352px))}}
@@ -478,7 +482,66 @@ body.nogl #fail{display:block}
   #ptabs .stats{flex-wrap:wrap;gap:6px 14px}
 }
 
+/* small phones: long quiz clues keep the word above the on-screen keyboard */
+@media (max-width:1000px){
+  body.m-quiz.kbd #stage{height:21vh!important;min-height:120px!important}
+  body.m-quiz.kbd #play{padding-top:12px}
+  body.m-quiz.kbd #clue{font-size:.88rem;line-height:1.3;margin-bottom:6px}
+  body.m-quiz.kbd #clue small{margin-bottom:2px}
+  body.m-quiz.kbd #word{font-size:1.45rem}
+}
 .touchonly{display:none}
+/* 1v1 */
+#vsbar{display:grid;gap:6px;width:min(32rem,100%);margin:0 auto 14px;text-align:left}
+#vsbar[hidden]{display:none}
+.vsrow{display:grid;grid-template-columns:minmax(58px,7rem) minmax(0,1fr) 3.4rem;gap:10px;align-items:center;font:400 .78rem/1.2 var(--sans);color:var(--ink-2)}
+.vsrow b{font-weight:500;color:var(--ink);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.vst{display:block;height:8px;background:#dcdee1;border-radius:2px;overflow:hidden}
+.vst i{display:block;height:100%;background:var(--fill)}
+.vsrow.me .vst i{background:var(--gold)}
+.vsc{text-align:right;font-variant-numeric:tabular-nums}
+#play.vslob #keys,#play.vslob #stats,#play.vslob #focushint{display:none}
+#play.vslob #typer{pointer-events:none}
+.vs{font:400 .9rem/1.4 var(--sans);color:var(--ink);text-align:left;width:min(42rem,100%);margin:0 auto}
+.vs h4{margin:0 0 4px;font:600 .95rem/1.25 var(--sans);color:var(--ink)}
+.vs p{margin:0 0 12px;font-size:.8rem;line-height:1.4;color:var(--ink-2)}
+.vs .vsmsg{padding:8px 10px;background:#f3dedb;border-radius:8px;color:var(--ink)}
+.vshead{display:flex;align-items:center;justify-content:space-between;gap:8px 18px;flex-wrap:wrap;margin-bottom:12px;font-size:.8rem;color:var(--ink-2)}
+.vshead label{display:inline-flex;align-items:center;gap:8px;white-space:nowrap}
+.vshead input{width:9.5rem}
+.vsopts{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.vsopt{display:flex;flex-direction:column;background:var(--white);border-radius:8px;padding:14px}
+.vsopt p{flex:1}
+.vsl{display:flex;gap:6px;margin-top:8px}
+.vs input{min-width:0;flex:1;height:40px;padding:0 10px;font:400 .9rem/1 var(--sans);color:var(--ink);background:var(--white);border:1px solid #bfc2c6;border-radius:8px}
+.vs input:focus{outline:2px solid var(--gold);outline-offset:0;border-color:transparent}
+.vs input:disabled{background:#eceef0}
+.vs button,.vscopy button{font:500 .85rem/1 var(--sans);min-height:40px;padding:0 16px;border-radius:48px;background:var(--pill);color:var(--ink);white-space:nowrap}
+.vs button:hover,.vscopy button:hover{background:var(--pill-h)}
+.vs button.pri{background:var(--pill-on);color:var(--white)}
+.vs button.pri:hover{background:#3a3a3a}
+.vs button:disabled{opacity:.5;cursor:default}
+.vs .acts{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;margin-top:14px}
+.vscode{display:flex;align-items:center;justify-content:center;gap:14px;margin-bottom:8px}
+.vscode b{font:500 2.2rem/1 var(--mono);letter-spacing:.14em;color:var(--ink)}
+.vscenter{text-align:center}
+.vsplayers{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:0 0 10px}
+.vsplayers div{background:var(--white);border-radius:8px;padding:10px 12px;min-width:0}
+.vsplayers b{display:block;font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.vsplayers span{font-size:.76rem;color:var(--mute)}
+.vsplayers .on span{color:var(--gold);font-weight:500}
+.res .best.vswin{font:600 1.15rem/1.3 var(--sans);color:var(--ink);margin-top:4px}
+.res .vsnote{margin:2px 0 0;font-size:.74rem;color:var(--mute)}
+.vscopy{display:flex;gap:6px;width:min(30rem,100%);margin:12px auto 0}
+.vscopy input{flex:1;min-width:0;height:40px;padding:0 10px;font:400 .78rem/1 var(--mono);color:var(--ink);background:var(--white);border:1px solid #bfc2c6;border-radius:8px}
+@media (max-width:1000px){
+  #play #vsbar{order:0}
+  .vsopts,.vsplayers{grid-template-columns:1fr}
+  .vs input,.vscopy input{font-size:16px}
+  .vshead input{flex:1;width:auto}
+  .vshead label{width:100%}
+  .vscode b{font-size:1.8rem}
+}
 </style>
 </head>
 <body class="m-explore">
@@ -527,6 +590,7 @@ body.nogl #fail{display:block}
 <section id="play" class="off" aria-live="polite">
   <div id="focushint">click or press any key</div>
   <div id="ptabs"></div>
+  <div id="vsbar" hidden aria-live="off"></div>
   <div id="clue"></div>
   <div id="word"></div><span id="rise"></span>
   <div id="sub"></div>
@@ -600,7 +664,7 @@ let P={};
 try{P=JSON.parse(localStorage.getItem(PKEY)||'{}')||{}}catch(e){P={}}
 const savePrefs=()=>{try{localStorage.setItem(PKEY,JSON.stringify(P))}catch(e){}};
 const isKnown=id=>{const p=P[id];return !!p&&p[0]>=3&&p[0]>p[1]};
-function record(id,ok){const p=P[id]||(P[id]=[0,0]);p[ok?0:1]++;savePrefs();renderProg()}
+function record(id,ok){if(window.__qaNoRecord)return;const p=P[id]||(P[id]=[0,0]);p[ok?0:1]++;savePrefs();renderProg()}
 function renderProg(){const k=REG.filter(r=>isKnown(r.id)).length;$('#prog').innerHTML=`<b>${k}</b> / ${REG.length} known`}
 
 /* ------------------------------------------------------------------ state */
@@ -1560,6 +1624,7 @@ function renderDecks(){
 $('#decks').addEventListener('click',e=>{const b=e.target.closest('[data-deck]');if(b)setDeck(b.dataset.deck)});
 function setDeck(d,keepSel,silent){
   if(!byDeck[d])return;
+  if(S.vs&&!VS.apply&&vsDeckLocked()){toast(VS_ACTIVE.includes(VS.phase)?'Finish the match to change the deck.':VS.kind==='ghost'?'A challenge keeps its deck. Go back to change it.':'The player who created the match picks the deck.',2400);return}
   S.deck=d;renderDecks();rebuildOwners();SL.key='';
   if(!keepSel&&S.sel&&S.sel.deck!==d)S.sel=null;
   S.hover=null;
@@ -1576,6 +1641,8 @@ function renderNav(){
 $('#nav').addEventListener('click',e=>{const b=e.target.closest('[data-mode]');if(b)setMode(b.dataset.mode)});
 function setMode(m){
   if(!MODES.includes(m))return;
+  if(m==='type'&&S.mode==='type'&&S.vs&&VS_ACTIVE.includes(VS.phase)){toast('A match is running. Pick another tab to leave it.',2200);return}
+  if(S.vs&&m!=='type')vsExit();
   S.zk=1;S.frameD=0;
   if(S.prob){S.prob=null;PV=null;PVOX=null}       // the Julich variability map does not follow into another mode
   clearTimers();try{typer.blur()}catch(e){}
@@ -1669,9 +1736,8 @@ const KBR=[
  [['caps',7,'lp'],['a',4,'lp'],['s',4,'lr'],['d',4,'lm'],['f',4,'li'],['g',4,'li'],['h',4,'ri'],['j',4,'ri'],['k',4,'rm'],['l',4,'rr'],[';',4,'rp'],["'",4,'rp'],['enter',9,'rp']],
  [['shift',9,'lp'],['z',4,'lp'],['x',4,'lr'],['c',4,'lm'],['v',4,'li'],['b',4,'li'],['n',4,'ri'],['m',4,'ri'],[',',4,'rm'],['.',4,'rr'],['/',4,'rp'],['shift',11,'rp']],
  [['',17,''],['space',26,'th'],['',17,'']]];
-const FING={lp:'#d5dce7',lr:'#dce2d2',lm:'#e5dcd7',li:'#d2e2de',ri:'#d2e2de',rm:'#e5dcd7',rr:'#dce2d2',rp:'#d5dce7',th:'#dfd8e5'};
 function buildKB(){
-  $('#kb').innerHTML=KBR.map(row=>`<div class="row">${row.map(([k,w,f])=>`<span class="k${k?'':' blank'}${k==='f'||k==='j'?' home':''}" data-k="${k==='space'?' ':esc(k)}" style="grid-column:span ${w};${f?'--f:'+FING[f]:''}">${k==='space'?'':esc(k)}</span>`).join('')}</div>`).join('');
+  $('#kb').innerHTML=KBR.map(row=>`<div class="row">${row.map(([k,w,f])=>`<span class="k${k?'':' blank'}${k.length>1&&k!=='space'?' mod':''}${k==='f'||k==='j'?' home':''}" data-k="${k==='space'?' ':esc(k)}" style="grid-column:span ${w}">${k==='space'?'':esc(k)}</span>`).join('')}</div>`).join('');
 }
 function updateKB(){
   document.body.classList.toggle('nokb',!S.kb);
@@ -1719,11 +1785,14 @@ function testHistory(){try{return JSON.parse(localStorage.getItem(TKEY)||'[]')||
 function saveTest(x){try{const h=testHistory();h.push(x);localStorage.setItem(TKEY,JSON.stringify(h.slice(-60)))}catch(e){}}
 const typer=$('#typer');
 function startMode(){
-  clearTimers();hideCard();S.target=null;S.wrong=null;S.sel=null;S.review=null;paused=false;T=null;Qz=null;Fd=null;TEST=null;RUSH=null;RUN=null;RES=null;setPrev(null);$('#play').classList.remove('showres');
+  if(S.vs&&(S.mode!=='type'||S.sub!=='test'||S.daily||pendingTest))vsExit();
+  if(S.vs&&VS_ACTIVE.includes(VS.phase)){toast('A match is running. Pick another tab to leave it.',2200);return}
+  clearTimers();hideCard();S.target=null;S.wrong=null;S.sel=null;S.review=null;paused=false;T=null;Qz=null;Fd=null;TEST=null;RUSH=null;RUN=null;RES=null;setPrev(null);$('#play').classList.remove('showres','vslob');
   Q.queue=[];Q.last=null;Q.count=0;spd={chars:0,ms:0,keys:0,typos:0};sess={right:0,miss:0,missed:[],seen:[]};S.reviewing=false;
   const pt=pendingTest;pendingTest=null;
   if(!deckList(S.deck).length&&!pt){$('#word').textContent='';return}
   $('#play').classList.remove('off');$('#word').classList.remove('results');
+  if(S.mode==='type'&&S.vs){vsEnter();return}
   if(S.mode==='type'&&S.sub==='rush')resetRush();
   if(S.mode==='type'&&S.sub==='test'&&S.daily&&!pt){
     const key=todayKey()+':'+S.deck,dl=deckList(S.deck);
@@ -1743,14 +1812,15 @@ function startMode(){
   }
   renderTabs();nextItem();
 }
-function setSub(s){if(s==='daily'){S.sub='test';S.daily=true}else{S.sub=s;S.daily=false}if(S.mode==='type')startMode()}
+function setSub(s){if(s==='1v1'){if(!S.vs){vsReset();S.sub='test';S.daily=false;S.vs=true}}else{if(S.vs)vsExit();if(s==='daily'){S.sub='test';S.daily=true}else{S.sub=s;S.daily=false}}if(S.mode==='type')startMode()}
 function renderTabs(){
+  $('#play').classList.toggle('noprev',S.mode==='type'&&S.sub==='practice');
   const t=$('#ptabs');
   if(S.mode==='type'){
-    const lens=S.sub==='test'&&!S.daily&&!(TEST&&TEST.custom)?`<span class="lens">${['10','25','all'].map(x=>`<button type="button" data-len="${x}" aria-pressed="${String(S.testLen)===x}">${x==='all'?'All':x}</button>`).join('')}</span>`
+    const lens=S.vs?(vsLensOK()?`<span class="lens">${['10','25'].map(x=>`<button type="button" data-len="${x}" aria-pressed="${String(vsLen())===x}">${x}</button>`).join('')}</span>`:''):S.sub==='test'&&!S.daily&&!(TEST&&TEST.custom)?`<span class="lens">${['10','25','all'].map(x=>`<button type="button" data-len="${x}" aria-pressed="${String(S.testLen)===x}">${x==='all'?'All':x}</button>`).join('')}</span>`
       :(S.sub==='practice'||S.sub==='recall')?`<span class="lens">${[['endless','Endless'],['60','60s'],['10','10']].map(([v,l])=>`<button type="button" data-plen="${v}" aria-pressed="${S.plen===v}">${l}</button>`).join('')}</span>`:'';
-    const on=x=>x==='daily'?(S.sub==='test'&&S.daily):x==='test'?(S.sub==='test'&&!S.daily):S.sub===x;
-    t.innerHTML=`<div class="tabs">${['practice','recall','rush','test','daily'].map(x=>`<button type="button" data-sub="${x}" aria-pressed="${on(x)}">${x}</button>`).join('')}${lens}</div><div class="stats" id="stats"></div>`;
+    const on=x=>x==='1v1'?!!S.vs:S.vs?false:x==='daily'?(S.sub==='test'&&S.daily):x==='test'?(S.sub==='test'&&!S.daily):S.sub===x;
+    t.innerHTML=`<div class="tabs">${['practice','recall','rush','test','daily','1v1'].map(x=>`<button type="button" data-sub="${x}" aria-pressed="${on(x)}">${x}</button>`).join('')}${lens}</div><div class="stats" id="stats"></div>`;
   }else{
     t.innerHTML=`<div class="tabs"><span>${S.mode}</span></div><div class="stats" id="stats"></div>`;
   }
@@ -1759,7 +1829,7 @@ function renderTabs(){
 $('#ptabs').addEventListener('click',e=>{if(e.target.closest('[data-review]')){endlessReview();return}const pl=e.target.closest('[data-plen]');if(pl){S.plen=pl.dataset.plen;saveSettings();startMode();return}const l=e.target.closest('[data-len]');if(l){S.testLen=l.dataset.len;saveSettings();startMode();return}const b=e.target.closest('[data-sub]');if(b)setSub(b.dataset.sub)});
 function renderKeys(){
   const k=(S.mode==='find')?['Click the region on the brain','Shift + Enter to skip','Esc to pause']:['Enter to check','Shift + Enter to skip','? for a letter','Tab + Enter to restart','Esc to pause'];
-  const touch=isPhone()?(S.mode==='find'?`<span>Tap the region on the brain</span><button type="button" data-k="skip">Skip</button>`:`<button type="button" class="pri" data-k="check">Check</button><button type="button" data-k="skip">Skip</button>${S.mode==='type'&&S.sub==='practice'?'':'<button type="button" data-k="hint">Hint</button>'}<button type="button" data-k="restart">Restart</button>`):'';
+  const touch=isPhone()?(S.mode==='find'?`<span>Tap the region on the brain</span><button type="button" data-k="skip">Skip</button>`:`<button type="button" class="pri" data-k="check">Check</button><button type="button" data-k="skip">Skip</button>${S.mode==='type'&&S.sub==='practice'?'':'<button type="button" data-k="hint">Hint</button>'}${S.vs?'':'<button type="button" data-k="restart">Restart</button>'}`):'';
   $('#keys').innerHTML=(isPhone()?touch:k.map(x=>`<span>${esc(x)}</span>`).join(''))+(S.mode!=='type'?'':`<button type="button" data-review id="revlink" hidden>Review so far</button>`+(!isPhone()&&innerHeight>800?`<button type="button" data-kb>Keyboard ${S.kb?'on':'off'}</button>`:''));
   renderStats();
 }
@@ -1993,6 +2063,7 @@ function flashDecay(){
   requestAnimationFrame(step);
 }
 function pause(on){
+  if(on&&TEST&&TEST.vs&&!TEST.over)return;   // the clock does not stop in a match
   paused=on;
   if(RUSH&&RUSH.running)RUSH.paused=on;
   if(on){typer.blur()}else if(S.mode==='type'||S.mode==='quiz')typer.focus({preventScroll:true});
@@ -2039,6 +2110,7 @@ function endlessReview(){
 }
 function testEnd(){
   TEST.over=true;TEST.ms=TEST.t0?performance.now()-TEST.t0:0;clearInterval(rushIv);rushIv=null;
+  if(TEST.vs){vsFinished();return}
   const n=TEST.res.length,ok=TEST.res.filter(x=>x.ok).length,acc=n?Math.round(ok/n*100):0;
   const missed=TEST.res.filter(x=>!x.ok).map(x=>x.r);
   const avg=n?TEST.res.reduce((a,x)=>a+x.ms,0)/n/1000:0;
@@ -2128,7 +2200,299 @@ typer.addEventListener('keydown',e=>{
 typer.addEventListener('focus',()=>$('#play').classList.remove('blurred'));
 typer.addEventListener('focus',()=>{if(isPhone())setTimeout(()=>{const y=$('#stage').getBoundingClientRect().top,w=$('#word').getBoundingClientRect().bottom;if(y<-8||y>8)scrollTo({top:Math.max(0,scrollY+y),behavior:'auto'})},90)});   // phone: brain to the top so the word stays above the keyboard
 typer.addEventListener('blur',()=>{if(S.mode==='type'||S.mode==='quiz')$('#play').classList.add('blurred')});
-$('#play').addEventListener('pointerdown',e=>{if(e.target.closest('button'))return;if(paused){pause(false)}else if(S.mode==='type'||S.mode==='quiz')typer.focus({preventScroll:true})});
+$('#play').addEventListener('pointerdown',e=>{if(e.target.closest('button')||(e.target.closest('input')&&e.target!==typer))return;if(S.vs&&!['race','count'].includes(VS.phase))return;if(paused){pause(false)}else if(S.mode==='type'||S.mode==='quiz')typer.focus({preventScroll:true})});
+
+/* ------------------------------------------------------------------ 1v1 */
+const VS_PEN=5000,VS_ACTIVE=['count','race','wait'];
+const VS={phase:'lobby',kind:null,role:'',code:'',room:null,off:[],seed:'',deck:'',n:10,round:0,want:1,ready:false,fin:null,marks:[],oppPeer:null,oppName:'',oppLeft:false,ghost:null,challenge:null,list:null,mine:null,avail:null,msg:'',cd:0,findT:0,goneT:0,apply:false,bs:'',rs:'',lastI:-1,tick:0,noOp:false,name:'',net:new Map(),hb:0,noEmit:false,slow:false};
+const vsClean=s=>String(s==null?'':s).replace(/[\p{Cc}\p{Cf}\p{Zl}\p{Zp}]/gu,'').replace(/\s+/g,' ').trim().slice(0,16);
+function vsName(){try{return vsClean(localStorage.getItem('gyrus-vs-name'))||VS.name||'Player'}catch(e){return VS.name||'Player'}}
+function vsSetName(v){VS.name=vsClean(v);try{localStorage.setItem('gyrus-vs-name',VS.name)}catch(e){}if(VS.room)vsSend()}
+const vsMs=ms=>{const t=Math.max(0,Math.round(ms/100)),m=Math.floor(t/600),s=Math.floor(t/10)%60;return m+':'+String(s).padStart(2,'0')+'.'+(t%10)};
+const vsDeckName=d=>d==='brainstem'?'brain stem':d;
+const vsLen=()=>String(S.testLen)==='25'?25:10;
+const vsPool=d=>deckList(d).slice().sort((a,b)=>a.id<b.id?-1:a.id>b.id?1:0);
+const vsCount=(d,n)=>Math.min(n,vsPool(d).length);
+const vsList=(d,seed,n)=>seededShuffle(vsPool(d),String(seed)).slice(0,vsCount(d,n));
+const vsDeckOK=d=>DECKS.includes(d)&&byDeck[d].length>0;
+function vsHash(d){let h=2166136261;for(const r of vsPool(d)){const s=String(r.id);for(let i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619)}}return(h>>>0).toString(36)}
+function vsRand(n){const a='abcdefghjkmnpqrstuvwxyz23456789',u=new Uint32Array(n);crypto.getRandomValues(u);return[...u].map(x=>a[x%a.length]).join('')}
+const vsDeckLocked=()=>VS_ACTIVE.includes(VS.phase)||VS.kind==='ghost'||(VS.kind==='live'&&VS.role==='g');
+const vsLensOK=()=>VS.phase==='lobby'||(VS.phase==='room'&&VS.role==='h');
+function vsEnc(o){const b=new TextEncoder().encode(JSON.stringify(o));let s='';b.forEach(c=>{s+=String.fromCharCode(c)});return'gyrus1.'+btoa(s).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,'')}
+function vsDec(raw){
+  const bad={err:'That is not a Gyrus challenge code.'},s=String(raw||'').replace(/\s+/g,'');
+  if(!s.startsWith('gyrus1.')||s.length>1500)return bad;
+  let o;try{const b=atob(s.slice(7).replace(/-/g,'+').replace(/_/g,'/'));o=JSON.parse(new TextDecoder().decode(Uint8Array.from(b,c=>c.charCodeAt(0))))}catch(e){return bad}
+  if(!o||typeof o!=='object'||!vsDeckOK(o.d)||!Number.isInteger(o.n)||o.n<1||o.n>25||o.n>vsPool(o.d).length)return bad;
+  if(!/^[a-z0-9]{4,12}$/.test(String(o.s))||!Number.isInteger(o.t)||o.t<0||o.t>3600000)return bad;
+  if(!Array.isArray(o.k)||o.k.length!==o.n||o.k.some(x=>!Number.isInteger(x)||x<0||x>36000))return bad;
+  if(typeof o.m!=='string'||o.m.length!==o.n||!/^[01]+$/.test(o.m))return bad;
+  if(o.h!==vsHash(o.d))return{err:'That code is from an older version of Gyrus.'};
+  return{d:o.d,s:String(o.s),n:o.n,a:vsClean(o.a)||'Opponent',t:o.t,k:o.k,ok:[...o.m].filter(c=>c==='1').length};
+}
+let vsApiP=null;
+function vsApi(){
+  if(vsApiP)return vsApiP;
+  const c=window.claude;
+  if(!c||typeof c.use!=='function'){VS.avail=false;vsAvail();return Promise.resolve(null)}
+  vsApiP=Promise.resolve().then(()=>c.use('room')).catch(()=>null).then(api=>{
+    VS.avail=!!api;
+    if(api){try{api.onConnection(()=>{},e=>{if(e&&e.code!=='upstream_error'){VS.avail=false;vsAvail()}})}catch(e){}}
+    vsAvail();return api});
+  return vsApiP;
+}
+function vsCloseRoom(){VS.off.forEach(f=>{try{f()}catch(e){}});VS.off=[];clearInterval(VS.hb);VS.hb=0;if(VS.room){const r=VS.room,bye={v:1,bye:1,role:VS.role};VS.room=null;Promise.resolve().then(()=>r.emit('vs',bye)).catch(()=>{}).then(()=>r.leave()).catch(()=>{})}VS.net=new Map();clearTimeout(VS.findT);clearTimeout(VS.goneT);clearTimeout(VS.cd);VS.goneT=0}
+function vsReset(){vsCloseRoom();Object.assign(VS,{phase:'lobby',kind:null,role:'',code:'',seed:'',deck:'',round:0,want:1,ready:false,fin:null,marks:[],oppPeer:null,oppName:'',oppLeft:false,ghost:null,challenge:null,list:null,mine:null,msg:'',bs:'',rs:'',lastI:-1,noOp:false,noEmit:false,slow:false})}
+function vsExit(){vsReset();S.vs=false;$('#play').classList.remove('vslob');vsBar()}
+function vsApplyDeck(d){if(S.deck!==d){VS.apply=true;setDeck(d,false,true);VS.apply=false}}
+function vsFail(msg){const was=S.vs;vsReset();VS.msg=msg;if(was&&S.mode==='type')startMode()}
+function vsEnter(){
+  if(VS.phase==='done'){if(VS.kind==='live'){VS.phase='room';VS.want=VS.round+1;VS.ready=false;vsSend()}else{VS.phase='lobby';VS.kind=null;VS.ghost=null;VS.challenge=null}}
+  if(VS.kind==='live'&&VS.role==='h'&&(VS.deck!==S.deck||VS.n!==vsCount(S.deck,vsLen()))){VS.deck=S.deck;VS.n=vsCount(S.deck,vsLen());VS.seed=vsRand(8);VS.ready=false;vsSend()}
+  $('#play').classList.add('showres','vslob');VS.rs='';
+  renderTabs();homeView(500);vsApi();vsRender();refresh();vsTop();
+}
+const vsTop=()=>{if(isPhone())scrollTo({top:0,behavior:'auto'})};
+function vsShow(h){const w=$('#word');w.className='results';w.innerHTML='<div class="vs">'+h+'</div>';$('#clue').innerHTML='';renderSub('')}
+function vsRender(){
+  if(!S.vs||S.mode!=='type')return;
+  vsBar();
+  if(VS.phase==='lobby')vsLobbyUI();else if(VS.phase==='room')vsRoomUI();else if(VS.phase==='ghost')vsGhostUI();
+}
+function vsLiveHTML(){
+  if(VS.avail===false)return'<h4>Live match</h4><p>Live play needs a signed-in Claude account with access to this page. A challenge works for anyone.</p>';
+  const off=VS.avail?'':' disabled';
+  return`<h4>Live match</h4><p>Race at the same time. One of you creates a match and sends the code.</p><button type="button" class="pri" data-vs="create"${off}>Create match</button><div class="vsl"><input id="vscode" maxlength="5" placeholder="Enter a code" aria-label="Match code" autocomplete="off" autocapitalize="characters" spellcheck="false"${off}><button type="button" data-vs="join"${off}>Join</button></div>`;
+}
+function vsAvail(){const el=$('#vslive');if(!el)return;const c=$('#vscode'),v=c?c.value:'';el.innerHTML=vsLiveHTML();const n=$('#vscode');if(n)n.value=v}
+function vsLobbyUI(){
+  const n=vsCount(S.deck,vsLen());
+  vsShow(`<div class="vshead"><label>Playing as <input id="vsname" maxlength="16" value="${esc(vsName()==='Player'?'':vsName())}" placeholder="Your name" autocomplete="off" spellcheck="false"></label><span>${n} regions from ${esc(cap(vsDeckName(S.deck)))}, the same for both. Fastest wins, and each miss adds 5 s.</span></div>${VS.msg?`<p class="vsmsg">${esc(VS.msg)}</p>`:''}<div class="vsopts"><div class="vsopt" id="vslive">${vsLiveHTML()}</div><div class="vsopt"><h4>Challenge</h4><p>Set a time and send the code. They race your ghost, whenever they want.</p><button type="button" class="pri" data-vs="solo">Set a time</button><div class="vsl"><input id="vspaste" placeholder="Paste a code" aria-label="Challenge code" autocomplete="off" autocapitalize="off" spellcheck="false"><button type="button" data-vs="paste">Race</button></div></div></div>`);
+}
+function vsRoomUI(){
+  const o=vsOppPeer(),oR=!!(o&&o.presence.rdy===true&&o.presence.rd===VS.want),name=o?(VS.oppName||'Opponent'):'',found=VS.role==='h'||!!VS.seed;
+  const sig=[VS.code,name,oR,VS.ready,VS.deck,VS.n,found,VS.role,VS.slow,VS.noEmit].join('|');if(sig===VS.rs&&$('#word .vs'))return;VS.rs=sig;
+  const msg=VS.noEmit&&!o?'Your access to this page may not allow live play. A challenge code works for anyone.':!found?(VS.slow?'Still looking. Check the code, and keep Gyrus open on the other device.':'Looking for that match.'):!o?(VS.role==='h'?'Send this code to your opponent. They open 1v1 and enter it.':'Waiting for the host.'):VS.ready&&!oR?`Waiting for ${esc(name)}.`:oR&&!VS.ready?`${esc(name)} is ready.`:'Press Ready when you are set.';
+  vsShow(`<div class="vscenter"><div class="vscode"><b>${esc(VS.code.toUpperCase())}</b><button type="button" data-vs="copy-code">Copy</button></div><p>${msg}</p></div><div class="vsplayers"><div class="${VS.ready?'on':''}"><b>You</b><span>${VS.ready?'Ready':'Not ready'}</span></div><div class="${oR?'on':''}"><b>${o?esc(name):'No one yet'}</b><span>${o?(oR?'Ready':'Not ready'):'Waiting to join'}</span></div></div><p class="vscenter">${found?`${vsCount(VS.deck||S.deck,VS.n)} regions from ${esc(cap(vsDeckName(VS.deck||S.deck)))}. Fastest wins, and each miss adds 5 s.`:''}</p><div class="acts"><button type="button" class="pri" data-vs="ready"${o&&found?'':' disabled'}>${VS.ready?'Not ready':'Ready'}</button><button type="button" data-vs="leave">Leave</button></div>`);
+}
+function vsGhostUI(){
+  const g=VS.ghost;
+  vsShow(`<div class="vscenter"><h4>${esc(g.a)} set ${vsMs(g.t+(g.n-g.ok)*VS_PEN)}</h4><p>${g.ok} of ${g.n} right on ${esc(vsDeckName(g.d))}. You get the same regions and race their ghost.</p></div><div class="acts"><button type="button" class="pri" data-vs="start">Start</button><button type="button" data-vs="leave">Back</button></div>`);
+}
+async function vsCreate(){
+  VS.msg='';const api=await vsApi();if(!api){VS.avail=false;vsRender();return}
+  vsCloseRoom();const code=vsRand(5);
+  Object.assign(VS,{kind:'live',role:'h',code,seed:vsRand(8),deck:S.deck,n:vsCount(S.deck,vsLen()),round:0,want:1,ready:false,fin:null,oppPeer:null,oppName:'',oppLeft:false,phase:'room',rs:''});
+  renderTabs();vsRender();vsTop();
+  try{vsAttach(await api.join('vs-'+code),code)}catch(e){vsFail('Could not open a match. Try again.')}
+}
+async function vsJoin(){
+  const inp=$('#vscode'),code=(inp?inp.value:'').toLowerCase().replace(/[^a-z0-9]/g,'');
+  if(code.length!==5){VS.msg='Enter the 5-letter code.';vsRender();return}
+  VS.msg='';const api=await vsApi();if(!api){VS.avail=false;vsRender();return}
+  vsCloseRoom();
+  Object.assign(VS,{kind:'live',role:'g',code,seed:'',deck:S.deck,n:vsLen(),round:0,want:1,ready:false,fin:null,oppPeer:null,oppName:'',oppLeft:false,phase:'room',rs:''});
+  renderTabs();vsRender();vsTop();
+  try{vsAttach(await api.join('vs-'+code),code)}catch(e){vsFail('Could not join that match. Try again.');return}
+  clearTimeout(VS.findT);VS.findT=setTimeout(()=>{if(VS.kind==='live'&&VS.role==='g'&&!VS.seed&&VS.phase==='room'){VS.slow=true;vsRoomUI()}},9000);
+}
+const VS_STALE=9000;
+function vsAttach(rm,code){
+  if(!S.vs||VS.code!==code){Promise.resolve().then(()=>rm.leave()).catch(()=>{});return}
+  VS.room=rm;VS.net=new Map();VS.noEmit=false;
+  const lost=()=>{if(!VS_ACTIVE.includes(VS.phase))vsFail('The connection to the match dropped.')};
+  VS.off=[rm.onPeers(vsPeers,lost),rm.on('vs',vsHear,lost)];
+  clearInterval(VS.hb);VS.hb=setInterval(vsBeat,1200);vsSend();
+}
+function vsState(){
+  const live=TEST&&TEST.vs,p={v:1,role:VS.role,nick:vsName(),rd:VS.want,rdy:VS.ready,at:{r:VS.round,i:live?TEST.res.length:0,ok:live?TEST.res.filter(x=>x.ok).length:0},fin:VS.fin};
+  if(VS.role==='h'){p.deck=VS.deck;p.n=VS.n;p.seed=VS.seed;p.opp=VS.oppPeer}
+  return p;
+}
+function vsEmit(p){
+  const rm=VS.room;if(!rm)return;
+  Promise.resolve().then(()=>rm.emit('vs',p)).catch(e=>{if(e&&e.code==='not_permitted'&&!VS.noEmit){VS.noEmit=true;if(VS.phase==='room')vsRoomUI()}});
+}
+function vsSend(){
+  const rm=VS.room;if(!rm)return;
+  const p=vsState();Promise.resolve().then(()=>rm.presence(p)).catch(()=>{});vsEmit(p);
+}
+function vsBeat(){if(!VS.room)return;if(!VS.noEmit)vsEmit(vsState());vsPeers()}
+function vsHear(m){
+  if(!VS.room||!m||m.sameTab||m.kind!=='viewer')return;
+  const d=m.data;if(!d||typeof d!=='object'||d.v!==1)return;
+  if(d.bye){
+    VS.net.delete(m.peer);
+    const mine=VS.role==='h'?m.peer===VS.oppPeer:d.role==='h';
+    if(mine&&VS.role==='g'&&VS.phase==='room'){vsFail('The other player left the match.');return}
+    if(mine&&VS_ACTIVE.includes(VS.phase)){VS.oppLeft=true;if(VS.phase==='wait'){vsResult();return}toast((VS.oppName||'Your opponent')+' left the match. Finish to see your time.',3200)}
+    vsPeers();return;
+  }
+  const isNew=!VS.net.has(m.peer);
+  VS.net.set(m.peer,{peer:m.peer,presence:d,sameTab:false,isMe:false,kind:'viewer',seen:Date.now()});
+  if(isNew&&!VS.noEmit)vsEmit(vsState());
+  vsPeers();
+}
+function vsAll(){
+  const base=VS.room?VS.room.peers():[],now=Date.now();
+  for(const[id,x]of VS.net)if(now-x.seen>VS_STALE)VS.net.delete(id);
+  return base.filter(p=>!VS.net.has(p.peer)).concat([...VS.net.values()]);
+}
+function vsOppPeer(){
+  const ps=vsAll();
+  if(VS.role==='h')return VS.oppPeer?ps.find(p=>p.peer===VS.oppPeer&&p.presence&&p.presence.v===1)||null:null;
+  return ps.find(p=>!p.sameTab&&p.presence&&p.presence.v===1&&p.presence.role==='h')||null;
+}
+const vsFinOK=f=>!!f&&f.r===VS.round&&Number.isFinite(f.ms)&&Number.isFinite(f.adj)&&f.ms>=0&&f.adj>=f.ms&&Number.isInteger(f.ok)&&Number.isInteger(f.n);
+function vsPeers(){
+  if(!VS.room||!S.vs)return;
+  const ps=vsAll(),me=ps.find(p=>p.sameTab);
+  if(VS.role==='h'){
+    const cur=ps.find(p=>p.peer===VS.oppPeer&&p.presence&&p.presence.role==='g');
+    if(!cur&&(VS.phase==='room'||VS.phase==='done')){
+      const g=ps.find(p=>!p.sameTab&&p.presence&&p.presence.v===1&&p.presence.role==='g'),id=g?g.peer:null;
+      if(id!==VS.oppPeer){VS.oppPeer=id;if(VS.phase==='room')VS.ready=false;vsSend()}
+    }
+  }else{
+    const h=ps.find(p=>!p.sameTab&&p.presence&&p.presence.v===1&&p.presence.role==='h');
+    if(h){
+      const q=h.presence;
+      if(q.opp&&me&&q.opp!==me.peer){vsFail('That match is full.');return}
+      const d=String(q.deck),n=+q.n,s=String(q.seed||'');
+      if(vsDeckOK(d)&&Number.isInteger(n)&&n>=1&&n<=25&&/^[a-z0-9]{4,12}$/.test(s)&&(d!==VS.deck||n!==VS.n||s!==VS.seed)&&!VS_ACTIVE.includes(VS.phase)){
+        const first=!VS.seed;VS.deck=d;VS.n=n;VS.seed=s;if(!first)VS.ready=false;vsApplyDeck(d);if(first)vsSend();
+      }
+      if(Number.isInteger(q.rd)&&q.rd>VS.want&&!VS_ACTIVE.includes(VS.phase)&&q.rd>VS.round){VS.want=q.rd;VS.ready=false;vsSend()}
+    }
+  }
+  const o=vsOppPeer();
+  if(o){VS.oppName=vsClean(o.presence.nick)||'Opponent';VS.oppLeft=false;clearTimeout(VS.goneT);VS.goneT=0}
+  else if(VS_ACTIVE.includes(VS.phase)&&!VS.goneT){
+    VS.goneT=setTimeout(()=>{VS.goneT=0;if(vsOppPeer())return;VS.oppLeft=true;if(VS.phase==='wait')vsResult();else if(VS.phase==='race')toast((VS.oppName||'Your opponent')+' left the match. Finish to see your time.',3200)},10000);
+  }
+  if(VS.phase==='wait'&&o&&vsFinOK(o.presence.fin)){vsResult();return}
+  if(VS.phase==='done'&&VS.noOp&&o&&vsFinOK(o.presence.fin)&&!(VS.ready&&VS.want>VS.round)){vsResult();return}
+  if(o&&VS.ready&&VS.seed&&o.presence.rdy===true&&o.presence.rd===VS.want&&VS.want>VS.round&&(VS.phase==='room'||VS.phase==='done')){vsCountdown();return}
+  if(VS.phase==='done'&&o&&o.presence.rdy===true&&o.presence.rd>VS.round&&!(VS.ready&&VS.want>VS.round))renderSub(VS.oppName+' wants a rematch.');
+  if(VS.phase==='room')vsRoomUI();
+  if(VS_ACTIVE.includes(VS.phase))vsBar();
+}
+function vsCountdown(){
+  clearTimers();clearTimeout(VS.cd);
+  let list;
+  if(VS.kind==='live'){VS.round=VS.want;VS.fin=null;vsApplyDeck(VS.deck);list=vsList(VS.deck,VS.seed+':'+VS.round,VS.n)}
+  else{const c=VS.challenge;VS.round=1;VS.fin=null;vsApplyDeck(c.d);list=vsList(c.d,c.s,c.n)}
+  VS.list=list;VS.marks=[];VS.lastI=-1;VS.bs='';VS.noOp=false;VS.phase='count';
+  RES=null;T=null;TEST=null;S.review=null;S.target=null;S.wrong=null;S.flash=null;setPrev(null);
+  $('#play').classList.remove('showres');$('#play').classList.add('vslob');renderTabs();homeView(500);refresh();vsBar();vsSend();
+  const w=$('#word');let n=3;
+  const step=()=>{if(VS.phase!=='count')return;if(n===0){vsGo();return}w.className='big';w.textContent=n;renderSub('Get ready');n--;VS.cd=setTimeout(step,800)};
+  step();
+}
+function vsGo(){
+  clearTimers();hideCard();S.target=null;S.wrong=null;S.sel=null;S.review=null;paused=false;T=null;Qz=null;Fd=null;RUSH=null;RUN=null;RES=null;setPrev(null);
+  $('#play').classList.remove('showres','vslob');$('#word').className='';
+  Q.queue=[];Q.last=null;Q.count=0;spd={chars:0,ms:0,keys:0,typos:0};sess={right:0,miss:0,missed:[],seen:[]};S.reviewing=false;
+  TEST={list:VS.list.slice(),i:0,res:[],t0:performance.now(),over:false,custom:true,vs:true};
+  VS.phase='race';VS.lastI=-1;VS.tick=0;
+  rushIv=setInterval(vsTick,100);renderTabs();vsBar();nextItem();
+}
+function vsTick(){
+  if(!TEST||!TEST.vs||TEST.over)return;
+  const i=TEST.res.length,e=performance.now()-TEST.t0;
+  if(i!==VS.lastI){while(VS.marks.length<i)VS.marks.push(Math.round(e));VS.lastI=i;vsSend()}
+  if(++VS.tick%3===0)renderStats();
+  vsBar();
+}
+function vsBar(){
+  const el=$('#vsbar');if(!el)return;
+  if(!S.vs||S.mode!=='type'||!VS_ACTIVE.includes(VS.phase)){if(!el.hidden){el.hidden=true;el.innerHTML=''}VS.bs='';return}
+  const n=VS.list?VS.list.length:0,mine=TEST&&TEST.vs?TEST.res.length:0,rows=[['You',mine,true]];
+  if(VS.kind==='live'){const o=vsOppPeer(),q=o&&o.presence,a=q&&q.at;rows.push([VS.oppName||'Opponent',q&&vsFinOK(q.fin)?n:(a&&a.r===VS.round?clamp(Math.round(+a.i)||0,0,n):0),false])}
+  else if(VS.kind==='ghost'&&VS.ghost){const e=TEST&&TEST.vs?(TEST.over?TEST.ms:performance.now()-TEST.t0):0;rows.push([VS.ghost.a,VS.ghost.k.filter(x=>x*100<=e).length,false])}
+  const sig=rows.map(r=>r[0]+':'+r[1]).join('/')+n;if(sig===VS.bs)return;VS.bs=sig;el.hidden=false;
+  el.innerHTML=rows.map(([nm,i,me])=>`<div class="vsrow${me?' me':''}"><b>${esc(nm)}</b><span class="vst"><i style="width:${n?Math.round(i/n*100):0}%"></i></span><span class="vsc">${i} / ${n}</span></div>`).join('');
+}
+function vsFinished(){
+  const res=TEST.res,n=res.length,ok=res.filter(x=>x.ok).length,ms=Math.round(TEST.ms);
+  while(VS.marks.length<n)VS.marks.push(ms);VS.marks=VS.marks.slice(0,n);
+  VS.fin={r:VS.round,ms,ok,n,adj:ms+(n-ok)*VS_PEN,wpm:wpm()};
+  VS.mine={missed:res.filter(x=>!x.ok).map(x=>x.r),all:TEST.list.slice(),flags:res.map(x=>x.ok?'1':'0').join('')};
+  renderStats();
+  if(VS.kind!=='live'){vsResult();return}
+  vsSend();VS.phase='wait';vsBar();
+  const o=vsOppPeer();
+  if(VS.oppLeft||(o&&vsFinOK(o.presence.fin))){vsResult();return}
+  $('#play').classList.add('showres','vslob');T=null;S.target=null;refresh();
+  vsShow(`<div class="vscenter"><h4>You finished in ${vsMs(VS.fin.adj)}</h4><p>Waiting for ${esc(VS.oppName||'your opponent')} to finish.</p><div class="acts"><button type="button" data-vs="stop">Stop waiting</button></div></div>`);
+}
+function vsCodeOf(){const c=VS.challenge;return vsEnc({d:c.d,s:c.s,n:c.n,h:vsHash(c.d),a:vsName(),t:VS.fin.ms,k:VS.marks.map(x=>clamp(Math.round(x/100),0,36000)),m:VS.mine.flags})}
+function vsResult(){
+  clearTimeout(VS.goneT);VS.goneT=0;VS.phase='done';vsBar();
+  const me=VS.fin,name=VS.kind==='ghost'?VS.ghost.a:(VS.oppName||'Opponent');let op=null;
+  if(VS.kind==='live'){const o=vsOppPeer();if(o&&vsFinOK(o.presence.fin))op=o.presence.fin}
+  else if(VS.kind==='ghost'){const g=VS.ghost;op={ms:g.t,ok:g.ok,n:g.n,adj:g.t+(g.n-g.ok)*VS_PEN}}
+  VS.noOp=VS.kind==='live'&&!op;
+  let head;
+  if(VS.kind==='solo')head='Your time is set. Send this code.';
+  else if(!op)head=name+' did not finish. You win.';
+  else{const a=Math.round(me.adj/100),b=Math.round(op.adj/100);head=a<b?`You win by ${((b-a)/10).toFixed(1)} s`:a>b?`${name} wins by ${((a-b)/10).toFixed(1)} s`:'It is a tie'}
+  const stats=[[vsMs(me.adj),VS.kind==='solo'?'your time':'you']];
+  if(VS.kind!=='solo')stats.push([op?vsMs(op.adj):'DNF',esc(name)]);
+  stats.push([me.ok+' / '+me.n,'you named'],[me.wpm,'wpm']);
+  showResults(stats,VS.mine.missed,VS.mine.all,VS.kind==='live'?'Rematch':VS.kind==='ghost'?'Race again':'New challenge',head,vsRematch);
+  $('#play').classList.add('vslob');vsTop();
+  const box=$('#word .res'),best=box&&box.querySelector('.best');if(!box)return;
+  if(best){best.classList.add('vswin');
+    let x='<p class="vsnote">Score is time plus 5 s for each miss.</p>';
+    if(VS.kind!=='live')x+=`<div class="vscopy"><input id="vsout" readonly aria-label="Your challenge code" value="${esc(vsCodeOf())}"><button type="button" data-vs="copy">Copy</button></div>`;
+    best.insertAdjacentHTML('afterend',x)}
+  const acts=box.querySelector('.acts');
+  if(acts){acts.querySelectorAll('button').forEach(b=>b.classList.toggle('pri',b.dataset.act==='again'));acts.insertAdjacentHTML('beforeend',`<button type="button" data-vs="leave">${VS.kind==='live'?'Leave match':'Back to 1v1'}</button>`)}
+}
+function vsRematch(){
+  if(VS.phase!=='done')return;
+  if(VS.kind==='ghost'){vsCountdown();return}
+  if(VS.kind==='solo'){vsSolo();return}
+  if(!vsOppPeer()){toast((VS.oppName||'Your opponent')+' left the match.',2400);return}
+  if(VS.ready&&VS.want>VS.round)return;
+  VS.want=VS.round+1;VS.ready=true;vsSend();
+  const b=$('#word [data-act=again]');if(b){b.textContent='Waiting for '+(VS.oppName||'opponent');b.disabled=true}
+  renderSub('');vsPeers();
+}
+function vsSolo(){
+  const d=S.deck;Object.assign(VS,{kind:'solo',role:'',ghost:null,challenge:{d,s:vsRand(8),n:vsCount(d,vsLen())},msg:''});
+  typer.focus({preventScroll:true});vsCountdown();
+}
+function vsPaste(){
+  const i=$('#vspaste'),g=vsDec(i?i.value:'');
+  if(g.err){VS.msg=g.err;vsRender();return}
+  vsApplyDeck(g.d);Object.assign(VS,{kind:'ghost',role:'',ghost:g,challenge:{d:g.d,s:g.s,n:g.n},phase:'ghost',msg:''});renderTabs();vsRender();vsTop();
+}
+function vsClip(text,inp){
+  const done=()=>toast('Copied',1400),manual=()=>{if(inp){inp.focus();inp.select()}toast('Press copy on the selected code',2200)};
+  try{if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(text).then(done,manual);return}}catch(e){}
+  manual();
+}
+function vsAct(a){
+  if(a==='create')vsCreate();else if(a==='join')vsJoin();else if(a==='solo')vsSolo();else if(a==='paste')vsPaste();
+  else if(a==='start'){typer.focus({preventScroll:true});vsCountdown()}
+  else if(a==='leave'){vsReset();startMode()}
+  else if(a==='copy')vsClip($('#vsout').value,$('#vsout'));
+  else if(a==='copy-code')vsClip(VS.code.toUpperCase());
+  else if(a==='stop'){if(VS.phase==='wait')vsResult()}
+  else if(a==='ready'){
+    const o=vsOppPeer();if(!o)return;
+    VS.ready=!VS.ready;VS.want=Math.max(VS.want,VS.round+1);vsSend();
+    if(VS.ready&&o.presence.rdy===true&&o.presence.rd===VS.want)typer.focus({preventScroll:true});
+    VS.rs='';vsRoomUI();vsPeers();
+  }
+}
+$('#word').addEventListener('click',e=>{const b=e.target.closest('[data-vs]');if(!b||b.disabled)return;ensureAudio();vsAct(b.dataset.vs)});
+$('#word').addEventListener('keydown',e=>{if(e.key!=='Enter')return;if(e.target.id==='vscode'){e.preventDefault();vsJoin()}else if(e.target.id==='vspaste'){e.preventDefault();vsPaste()}});
+addEventListener('pagehide',()=>{if(VS.room)Promise.resolve().then(()=>VS.room.emit('vs',{v:1,bye:1,role:VS.role})).catch(()=>{})});
+$('#word').addEventListener('input',e=>{if(e.target.id==='vsname')vsSetName(e.target.value);else if(e.target.id==='vscode')e.target.value=e.target.value.toUpperCase()});
 
 /* ------------------------------------------------------------------ find mode clicks */
 function findClick(hit){
@@ -2278,6 +2642,7 @@ document.addEventListener('keydown',e=>{
   const t=e.target;
   if(t===typer)return;
   if(t&&(t.tagName==='INPUT'&&t.type!=='range'))return;
+  if(S.vs&&S.mode==='type'&&['lobby','room','ghost','wait'].includes(VS.phase))return;
   if(PQ&&S.mode==='paths'&&PT){pqKey(e);return}
   const typing=(S.mode==='type'||S.mode==='quiz')&&!paused;
   if(S.mode==='type'||S.mode==='quiz'){
@@ -3192,7 +3557,7 @@ function boot(){
   requestAnimationFrame(frame);
   loadExtras().catch(err=>console.warn('extras',err));
   {const _rp=renderPanel;renderPanel=function(){const r=_rp.apply(this,arguments);pqPlace();return r}}
-  window.gyrus={get pqin(){return pqin},get TOPICS(){return TOPICS},startPathTest,get PQ(){return PQ},setChem,get EX(){return EX},startFn,startPath,pathGo,setTerr,setProb,get PT(){return PT},frameInfo:r=>frameInfo(r),S,select:id=>select(R.get(id),true),setMode,setDeck,setView,R,REG,CX,DM,camera:()=>camera,setSub,pickAt,get T(){return T},get Fd(){return Fd},typer,learnAdvance,refresh,updateSlice,
+  window.gyrus={get VS(){return VS},vsEnc,vsDec,get pqin(){return pqin},get TOPICS(){return TOPICS},startPathTest,get PQ(){return PQ},setChem,get EX(){return EX},startFn,startPath,pathGo,setTerr,setProb,get PT(){return PT},frameInfo:r=>frameInfo(r),S,select:id=>select(R.get(id),true),setMode,setDeck,setView,R,REG,CX,DM,camera:()=>camera,setSub,pickAt,get T(){return T},get Fd(){return Fd},typer,learnAdvance,refresh,updateSlice,
     set(k,v){S[k]=v;updateOuts();updateSlice();refresh()}};
 }
 boot();
