@@ -162,9 +162,9 @@ input[type=range]::-moz-range-thumb{width:24px;height:24px;border-radius:0;backg
 .rgap{height:4px}
 
 /* typing area: one card at the bottom centre */
-#play{position:fixed;z-index:4;left:50%;bottom:32px;transform:translateX(-50%);width:min(54rem,calc(100vw - 64px));text-align:center;padding:22px 32px 20px;background:var(--card);border-radius:8px}
+#play{position:fixed;z-index:4;left:50%;bottom:32px;transform:translateX(-50%);width:min(58rem,calc(100vw - 64px));text-align:center;padding:22px 32px 20px;background:var(--card);border-radius:8px}
 #ptabs{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:18px;min-height:34px}
-#ptabs .tabs{display:flex;gap:6px;align-items:center}
+#ptabs .tabs{display:flex;gap:5px;align-items:center}
 #ptabs .tabs button{font:400 .82rem/1 var(--sans);color:var(--ink);background:var(--pill);border-radius:48px;padding:10px 14px;text-transform:capitalize}
 #ptabs .tabs button:hover{background:var(--pill-h)}
 #ptabs .tabs button[aria-pressed=true]{background:var(--pill-on);color:var(--white)}
@@ -202,7 +202,7 @@ input[type=range]::-moz-range-thumb{width:24px;height:24px;border-radius:0;backg
 #kb .k.next.hit{background:var(--gold)}
 #play.showres #kb,#play.showres #prev,body.m-find #kb,body.m-quiz #kb,body.nokb #kb{display:none}
 @media (max-height:800px),(max-width:1000px){#kb{display:none}}
-@media (min-width:1001px) and (max-width:1439px){#play{left:calc((100vw - 256px)/2);width:min(54rem,calc(100vw - 352px))}}
+@media (min-width:1001px) and (max-width:1439px){#play{left:calc((100vw - 256px)/2);width:min(58rem,calc(100vw - 352px))}}
 #prev{min-height:1.3em;margin:6px auto 0;font:400 .8rem/1.4 var(--sans);color:var(--mute);max-width:40rem}
 #prev b{color:var(--ink-2);font-weight:600}
 #keys button{font:inherit;color:var(--ink-2);text-decoration:underline;text-underline-offset:3px}
@@ -355,7 +355,8 @@ input[type=range]::-moz-range-thumb{width:24px;height:24px;border-radius:0;backg
 #ptabs .lens button{background:transparent;color:var(--ink-2);padding:8px 10px;min-width:34px;font-size:.78rem}
 #ptabs .lens button:hover{background:#e2e2e1}
 #ptabs .lens button[aria-pressed=true]{background:var(--pill);color:var(--ink)}
-#ptabs .stats{display:flex;gap:14px;align-items:baseline;white-space:nowrap}
+#ptabs .stats{display:flex;gap:4px 11px;align-items:baseline;white-space:nowrap;flex-wrap:wrap;justify-content:flex-end;margin-left:auto;min-width:0}
+#ptabs{flex-wrap:wrap;row-gap:10px}   /* 2026-11-26: long stats (100% regions, rush combo) wrap instead of running past the panel */
 #ptabs .revbtn{font:500 .78rem/1 var(--sans);color:#fff;background:var(--pill-on);border-radius:48px;padding:8px 12px;align-self:center}
 #ptabs .revbtn:hover{background:#3a3f46}
 #word.results{display:block;white-space:normal;min-height:0;letter-spacing:0}
@@ -541,6 +542,24 @@ body.nogl #fail{display:block}
   .vshead input{flex:1;width:auto}
   .vshead label{width:100%}
   .vscode b{font-size:1.8rem}
+}
+
+/* stats scoreboard (2026-11-26): under 1280px each Type stat is a number over its label, so the stats stay on the tab line
+   on small desktops and fill one even row on phones */
+@media (max-width:1279px){
+  #ptabs .stats{gap:2px 12px;flex-wrap:nowrap;align-items:center}
+  #ptabs .stats>span{display:inline-flex;flex-direction:column;align-items:center;font-size:.68rem;line-height:1.2;color:var(--ink-2);text-transform:lowercase}
+  #ptabs .stats>span b{order:-1;font-size:.9rem;line-height:1.15;font-weight:600;color:var(--ink)}
+  #ptabs .stats>span.timer{font-size:1.15rem;line-height:1;margin-right:2px;color:var(--ink)}
+  #ptabs .stats>span.timer.low{color:var(--red)}
+}
+@media (min-width:1001px) and (max-width:1279px){
+  #ptabs .tabs button{padding:9px 11px}
+  #ptabs .lens{margin-left:6px;padding-left:8px}
+  #ptabs .lens button{padding:8px 7px}
+}
+@media (max-width:1000px){
+  #ptabs .stats{width:100%;flex-wrap:nowrap;justify-content:space-around;gap:2px 8px;margin:2px 0 0}
 }
 </style>
 </head>
