@@ -14,7 +14,7 @@ data, evidence fields, figure files, tours and receptor maps are checked (`tools
 | DOIs not found | 0 |
 | DOIs that could not be checked tonight | 0 |
 | Other data findings | 7 |
-| Run time | 1.3 min |
+| Run time | 1.4 min |
 
 ## Findings
 - **evidence: claim over 110 chars** (2): default_mode_network.ev2 (114); superior_longitudinal_fasciculus.ev4 (111)
